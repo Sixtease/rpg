@@ -1,0 +1,16 @@
+ST 10
+DX 12 #40
+IQ 10
+HT 12 #20
+
+HP 14 12
+will 10
+perc 10
+FP 12
+basic speed 6
+dodge: 9
+basic move 6
+
+bow 12 #2
+
+bow dmg 1d-2x2

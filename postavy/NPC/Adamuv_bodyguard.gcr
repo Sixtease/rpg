@@ -1,0 +1,16 @@
+ST 13 #30
+DX 15 #100
+IQ 13 #60
+HT 11 #10
+
+HP 13
+will 13
+perc 13
+FP 11
+basic lift 17kg
+basic speed 6.5
+dodge 9
+basic move 6
+dmg 1d/2d-1
+
+thrusting bastard sword 17 dmg 1d+2x2/2dx1.5

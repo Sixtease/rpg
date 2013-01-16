@@ -1,0 +1,27 @@
+ST 13 #30
+DX 11 #20
+IQ 10
+HT 12 #20
+
+HP 13
+will 10
+perc 10
+FP 12
+basic lift 14kg
+basic speed 5.75
+dodge: 8
+basic move 5
+
+area knowledge 12
+brawling 10
+knife 11 #1
+spear 10 #1
+bow 12 #4
+stealth 11
+shadowing 12
+(naturalist 10)
+(camouflage 10)
+(traps 10)
+
+knife cut dmg 1d+1x1.5 thr dmg 1dx2
+spear thr dmg 1d+3x2 (2handed)

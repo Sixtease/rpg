@@ -1,0 +1,19 @@
+ST 20
+DX 8
+IQ 5
+HT 13
+
+HP 20 17
+will 5
+perc 5
+FP 13
+basic speed 5.25
+dodge: 8
+basic move 5
+
+parry: 8
+
+brawling 10
+mace 10
+
+unarmed dmg 2d-1

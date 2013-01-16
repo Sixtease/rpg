@@ -1,0 +1,15 @@
+ST 11
+DX 10
+IQ 11
+HT 8
+
+HP 11
+will 11
+perc 11
+FP 8
+basic speed 4.5
+dodge 7
+basic move 4
+
+whip 12 dmg 1d-1
+long bow 12 1d+1x2

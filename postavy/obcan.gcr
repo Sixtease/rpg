@@ -1,0 +1,15 @@
+ST 10
+DX 10
+IQ 10
+HT 10
+
+HP 10
+will 10
+perc 10
+FP 10
+basic speed 5
+dodge: 8
+basic move 5
+
+brawl default: 6
+unarmed dmg 1d-3

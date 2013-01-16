@@ -1,0 +1,69 @@
+Dhana / Dan
+
+ Attr:
+ST: 10
+DX: 14 #80
+IQ: 12 #40
+HT: 12 #20
+
+HP: 11
+FP: 12
+will: 12
+perc: 12
+basic lift: 12kg
+basic speed: 6.25
+basic move: 6m/s
+dodge: 9
+
+ Adv:
+impulsiveness #-10
+
+ Skills:
+bow (DX/A): 14/0 #2
+climbing (DX/A): 13/-1 #1
+dagger-melee (DX/E) 14/0 #1
+dagger-thrown (DX/E) 14/0 #1
+disguise (IQ/A): 11/-1 #1
+escape artist (DX/H): 12/-2 #1
+jumping (DX/E): 14/0 #1
+lockpicking (IQ/A): 11/-1 #1
+stealth (DX/A): 13/-1 #1
+survival (IQ/A): 11/-1 #1
+filch (DX/A): 13/-1 #1
+pick pocket (DX/H): 12/-2 #1
+first aid (IQ/E): 12/0 #1
+
+bow dmg 1d-2x2
+
+Back story:
+Dhanu vychovával otec. O matce moc nemluvil. Vůbec ne o tom, proč není s ním
+a s Dhanou. Dhana si na ni nepamatuje. S otcem putovali od města k městu a
+nikde se dlouho nezdrželi. Před smrtí otec Dhaně prozradil, že matka byla
+druidka a druidy opustila kvůli Dhanině otci. Krátce po jejím narození matka
+zmizela. Otec se naděl, že jí něco udělala kvůli jejímu druidskému původu
+Církev. Nechtěl dceru ponechat v podobném nebezpečí, proto opustili dům a
+začali žít život poutníků. Dal též Dhaně na smrtelném loži několik věcí po
+matce, především druidskou knihu, které ovšem Dhana nerozumí, neboť s otcem
+vyrůstala v Dyhamotu a achijsky umí lámaně, a jen mluvit (matka byla Achijka,
+otec Dyhamot).  Tak začíná její samostatná pouť životem, kde se snaží nalézt
+pravdu o zmizení svojí matky a vypátrat ji nebo její hrob.
+Na cestách se často převléká za muže a používá jméno Dan.
+
+ body:
+start #-120
+1.d intro #-7
+2.d vyslech orka #-1
+3.d ujcinska sypka #-4
+4.d sabotaz 1. lagru #-5
+zapisy #-2.6
+restr #-4
+
+Prachy: 1016$
+
+Inventory:
+5x léčivý lektvar,
+luk,
+šípy (kolik),
+dýka (3x),
+šperháky,
+kožená zbroj,

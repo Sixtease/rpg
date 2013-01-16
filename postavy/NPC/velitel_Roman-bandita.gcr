@@ -1,0 +1,31 @@
+ST 12
+DX 11
+IQ 13
+HT 10
+
+HP 12
+will 13
+perc 13
+FP 10
+basic lift 14kg
+basic speed 5.25
+dodge 8
+basic move 5
+dmg 1d-1/1d+1
+
+area knowledge 14
+camouflage 10
+brawling 13
+knife 11
+mace 16
+bow 12
+leadership 15
+tactics 12
+lying 14
+stealth 13
+shadowing 11
+
+long bow dmg 1d+1x2 acc 3 rng 180/240
+unarmed dmg 1d-2
+knife dmg 1d-1x2/1d-1x1.5
+mace dmg 1d+4

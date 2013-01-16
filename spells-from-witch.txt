@@ -1,0 +1,28 @@
+debility
+touch
+climbing
+shapeshift *
+itch *
+hair growth
+ignite fire *
+test food
+simple illusion *
+find direction
+detect magic *
+light
+keen <sense>
+dull <sense>
+
+mental stun?
+disorient
+fascinate
+forgetfulness *
+weaken will
+strengthen will *
+mass daze
+mass sleep
+haste
+apportation *
+
+sound
+seek water

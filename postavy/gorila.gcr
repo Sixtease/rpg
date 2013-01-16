@@ -1,0 +1,16 @@
+ST 15
+DX 10
+IQ 8
+HT 10
+
+HP 15
+will 8
+perc 10
+FP 10
+basic lift 22kg
+basic speed 5
+dodge 8
+basic move 5
+dmg 1d+1/2d+1
+
+glaive 9 dmg 1d+4x2/2d+4x1.5

@@ -1,0 +1,57 @@
+Valkier
+
+ atributy:
+
+ST: 8 #-20
+DX: 11 #20
+IQ: 15 #100
+HT: 10
+
+ sekundární atributy:
+
+HP: 8
+FP: 12 #6
+will: 15
+perc: 15
+basic speed: 5.25
+dodge: 8
+basic move: 5
+
+
+ výhody/nevýhody:
+
+very fat #-5
+magery 1 #15
+pacifism #-10
+charisma 1 #5
+
+
+ dovednosti:
+
+diplomacie (diplomacy; IQ/H): -2/13 #1
+vůdcovství (leadership; IQ/A): -1/14 #1
+plížení (stealth; DX/A): -1/10 #1
+sugesce (suggest; will/H): -2/13 #1
+krátký meč (short sword; DX/A): +0/11 #2
+štít (shield; DX/A): +1/12 #4
+
+
+ kouzla:
+
+foolishness: 14 #1
+sleep: 14 #1
+daze: 14 #1
+dull sense (sight): 14 #1
+forgetfulness: 14 #1
+mental stun: 14 #1
+
+ pool:
+body #-138
+restr #-4
+
+prachy 1116$
+
+Inventory:
+kožená zbroj,
+velký štít,
+krátký meč,

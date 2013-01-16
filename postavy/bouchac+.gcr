@@ -1,0 +1,18 @@
+ST 13 #30
+DX 13 #60
+IQ 11 #20
+HT 12 #20
+
+HP 13
+will 11
+perc 11
+FP 12
+basic lift 19kg
+basic speed 6.25
+dodge 9
+basic move 6
+
+kuše 14 dmg 1d+4x2/-
+short sword 14 dmg 1dx2/2d-1x1.5
+stealth 14
+interrogate 12

@@ -1,0 +1,5 @@
+animal suggestion
+- jako suggestion
+- stojí 2
+- je alternativní prerekvizitou vůči emotion control pro suggestion
+- prereq: sooth beast

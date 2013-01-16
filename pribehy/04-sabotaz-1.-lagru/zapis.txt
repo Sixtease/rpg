@@ -1,0 +1,35 @@
+Zrádce bantitů
+
+S pohledem upřeným na chlápka, co seděl v hospodě a odpovídá na popis zrádce Kohouta, se partička dala do úvah, jak s ním naložit. Dhana navrhla, aby Rebeka (naše jediná postava s neskrytým ženským šarmem) se s ním dala do flirtu a sama se pak pokusí mu vzít tašku a podívat se, jsou-li tam hledané dokumenty. Valkier souhlasil s flirtem, ale místo kradení navrhoval, aby se zjistilo, zda se jedná o Kohouta, a teprv pak se pustilo do akce.
+
+Flirt každopádně vyšel na jedničku. Kohoutovi se opíchání rebeky stalo během minuty aktuálním cílem číslo jedna, představil se jí svým jménem a začal jí sahat do výstřihu. Jak Valkier zaslechl jeho jméno, uspal ho kouzlem. Rebeka za něho zaplatila a odnesli ho na vzduch, "že přebral". Odnesli ho do lesa, přivázali ke stromu, probudili a jali se vyslýchat.
+
+Kohout jim bez odporu potvrdil, že jde nahlásit bandity vrchnosti. Pravil, že je na straně zákona, že nemohl už snést život mezi svoločí, že Roman je ztracený člověk a že v jeho (Kohoutových) žilách koluje urozená krev, což mu banditi tajili. Také zpochybnil morálnost činů naší party.
+
+Musel jsem hráčům říct, že jsem se pokusil zahrát namyšleného blbce, protože jsem to zahrál nepřesvědčivě. Začali se dohadovat, zda mu vyříznout jazyk, zabít ho, nebo ho dát živého banditům nebo pustit. V rozporu výhodnosti, pacifismu a morálky zvítězila pilátovská varianta -- humánně ho odevzdat Romanovi a nad jeho dalším osudem si umýt ruce. Nevím, jestli bych takhle zahraný pacifismus neměl trestat. (RFC)
+
+Zwischenzeit
+
+Roman byl velice spokojen a hrdinům za odměnu poskytl čtyřdenní intenzivní tréning v různých dovednostech (každému 4 body do vymezených dovedností). K tomu informace -- kde se dají sehnat magické lektvary a naučit se kouzlům. Obojí u babky kořenářky, druhé pak též ve vzdáleném klášteře Zádubí.
+
+Tak se vydali za babkou kořenářkou. Ta jim prodala předražený uspávací jed do foukačky a přelevněný léčivý lektvar. Valkiera poslala pryč, že ho kouzlům bude učit až za úplňku. Vydali se tedy hledat klášter, nevědouce, jak dlouhá a strastiplná cesta to je.
+
+Lágr
+
+Na cestě je potkala zrzka jménem Šárka. Prosila je o pomoc. Prý ji a půl vesnice unesli muži v černých kloboucích a orkové a teď musejí pracovat v lágru. Na to slyšeli hrnidové okamžitě. Tábor si nejdřív nechali popsat. Prý tam je dvacet lidí -- bez Šárky už jen devatenáct -- jí se podařilo večer utéct. Krom nich dva orkové a dva strážní. Lidé jsou tam nucení kácet stromy a řezat je na špalky a nakládat na vozy. Jednou za pár dní přijedou prázdné vozy a plné odjedou. Tábor je ohrazen plotem z tlustých lan přpevněných ke kůlům v zemi. Stany jsou čtyři: velký stan s pracanty, menší stany jeden pro strážné, jeden pro orky a jeden sklad.
+
+Hrdinové si na toto troufli a vydali se směrem ku kempu. Před půlnocí se připlížili a spatřili orka u ohniště před branou. Valkier ho uspal a počkali půl hodinky, než se jednak z kouzlení zotaví, a jednak než přijde střídání. Druhého orka, který šel střídat, uspal ještě po cestě. Vyskočili, aby orky svázali. Bohužel při svazování druhého někdo z nich zakopl, zlomil větev a vzbudil půl tébora -- specificky jednoho ze strážných a asi pět zajatců. Strážný se šel ospale podívat, co se venku děje. Dostal šíp a jednovatou šipku z foukačky. S vřeštěním vpadl zpátky do stanu a jed ho poslal do říše snů. Druhý strážný se teď vzbudil taky, zmateně vystrčil hlavu ze dveří a čekal ho podobný osud, včetně kouzla "daze".
+
+Zatímco dívky svazovaly stráže a prohledávaly tábor, Valkier šel oznámit lidem, že jsou volní. Jeden z nich se rychle ujal velení, nechal zabít orky, zlynčovat strážné a spálit tábor. Hrdinové jim v druhých dvou bodech zabránili. V táboře našli třicet zlatých, nějaké jidlo a certifikát pověřující "osoby tím pověřené, hodnosti aspoň poddůstojnické k vedení pracovního lágru číslo jedenadvacet" s armádní pečetí.
+
+Lidé naložili užitečnými věcmi jeden vůz, nechali si vysvětlit cestu do Ujčína, dostali každý jednu zlatku (takže hrdinům zbylo deset), a tlačíce vůz vyrazili na cestu. Svázaní strážní byli přidáni na vůz a hrdinové šli s osvobozenými lidmi do Ujčína. Strážní se probudili až za dobrých osm hodin, poblití a posraní. Vyklopili, že se jedná o armádní operaci, které velí armádní generál Záviš. Dřevo je zpracováváno na dřevěné uhlí, a to pak hromaděno v opevnění blízko hlavního města. Na co je využíváno, je tajné a strážní to nevědí. Kde sídlí hlavní velící štáb operace věděli, ale dokázali neprozradit.
+
+***********************
+
+Moc toho vyřešil Valkier se svým sleepem a přesvědčením, že jako vyjednavač musí všechno vyjednat sám. Měl bych jim dát víc bojů proti početní převaze, tam se blýskne Rebeka a akrobatické úkoly a otevírání zámků, tam se blýskne Dhana.
+
+Bodů/char: 137 + 4 omezené
+prachů:
+Valkier: 1116
+Rebeka: 866
+Dhana: 1016
