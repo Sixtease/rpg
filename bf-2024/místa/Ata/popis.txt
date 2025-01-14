@@ -1,0 +1,51 @@
+Město Ata
+
+Popis: Ata je malé, ale významné město ležící na břehu řeky východně od Branky. Slouží jako klíčová zastávka na obchodní trase a spojnice mezi stepními nomády a městskou civilizací. Město je unikátní svou kombinací městské infrastruktury a prvků kočovnické kultury. Má přibližně 5 000 obyvatel, z nichž většina je přímo nebo nepřímo spjata s nomádským způsobem života.
+Rozvržení města:
+
+    Centrální trh (Sajdan):
+        Srdce města, kde se schází nomádi, obchodníci a řemeslníci.
+        Trh je otevřený prostor plný stanů, přenosných dřevěných stánků a ohnišť, kde se prodávají zboží ze stepi (kůže, maso, koně, šperky) i luxusní zboží z Branky (hedvábí, koření, nástroje).
+        Symbolické místo, kde se každou úplňkovou noc pořádají nomádské rituály.
+
+    Opevněný přístav:
+        Malý přístav na řece, chráněný dřevěnou palisádou. Slouží k nakládání zboží na lodě mířící do Branky.
+        Přístavní doky jsou centrem obchodních dohod, často vedených u ohniště s místním vínem z kozího mléka.
+
+    Chánova pevnost (Korgan):
+        Dominanta města, kde sídlí tatarský chán a jeho družina. Pevnost je nízká, ale rozlehlá, postavená z kamene a dřeva. V okolí pevnosti je prostor pro tábořiště, kde se mohou dočasně ubytovat kočovníci při své návštěvě města.
+        Chán funguje jako autorita pro nomády i městské obyvatele, jeho soudy jsou veřejné a často zakončené hostinou.
+
+    Řemeslnická čtvrť (Usta Mahalle):
+        Malé kamenné dílny mísící tradiční nomádské techniky (zpracování kůží, výroba luků) s vlivy z městské kultury (kovotepectví, keramika).
+        Oblíbený artikl: jemně zdobené luky a kožené postroje.
+
+    Tábořiště (Jurtan):
+        Rozlehlý prostor na okraji města vyhrazený pro nomády, kteří přijíždějí se svými stády a potřebují místo k odpočinku. Plno jurty a stánků.
+        V noci je tu rušno díky zpěvu a vyprávění příběhů, občasným zápasům nebo dostihům.
+
+    Chrám stepních bohů:
+        Malý chrám, zasvěcený bohům stepi, slunci a větru. Postavený z kamene, ale zdobený koňskými žíněmi, kůžemi a vlajkami.
+        Šaman kmene zde vede rituály na počest přírody, často v doprovodu bubnů a zpěvu.
+
+Charakteristiky města:
+
+    Obyvatelé:
+        Směs nomádů, obchodníků a řemeslníků. Obyvatelé jsou přátelští, ale podezřívaví vůči cizincům, kteří nevědí nic o stepní kultuře.
+        Nomádi se zde necítí „doma“, ale je to pro ně klíčové místo pro obchod a kontakt s civilizací.
+
+    Kultura:
+        V Atě se mísí volnost stepi s pravidly městského života. Velký důraz je kladen na pohostinnost, ale také na čest a odvahu.
+        Každoroční festival dostihů, během kterého se rozhoduje o nejlepším jezdci stepi.
+
+    Obchod:
+        Ata je známá jako „Brána stepi“. Obchodníci z Branky sem přivážejí luxusní zboží, zatímco nomádi přivážejí koňské maso, kůže, vlnu a zbraně.
+
+    Zvláštní detaily:
+        Město má „tichý zákon“ – v noci se nesmí uvnitř města střílet z luků, aby se nepřitahovali duchové stepi.
+        Říká se, že chán má osobní ochranku složenou z přízračných válečníků, kteří se objeví, když je město v ohrožení.
+
+Možnosti pro dobrodružství:
+
+    Ztracený karavan:
+        Karavan směřující do Branky zmizel kdesi ve stepi. Družina je požádána o jeho nalezení.

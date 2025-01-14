@@ -1,0 +1,129 @@
+1. Městečko: Elevtery
+
+    Popis:
+        Malé horské dřevěné městečko. Elevtery jsou známé svou hospodou U Eléva, která slouží jako centrum všeho dění.
+        Na kraji městečka je malé tržiště, kde obchodníci prodávají základní zboží, a stará kovárna.
+        Městečko má přátelské, ale nedůvěřivé obyvatele. Ti už slyšeli o odměně za dopadení nebezpečných "zločinců", což vzbuzuje určitou nervozitu.
+
+2. Lovec odměn a rváči
+
+    Lovec odměn:
+        Jméno: Goran Ciferník
+        Popis: Drsný muž ve středním věku, s jizvou přes levé oko. Je odhodlaný získat odměnu za Vojenovo dopadení a nemá žádné morální zábrany.
+        Statistiky:
+            Třída zbroje (AC): 14 (kůže)
+            Životy (HP): 16
+            Útok: +4 (meč 1d8+2), +3 (kuše 1d6+1)
+            Zvláštní schopnosti: Má výhodu na hod na stopování (Perception/Survival).
+
+    Banda rváčů:
+        Počet: 4 místní rváči (statistiky jako obyčejní bandité, AC 12, HP 8, útok +2, 1d6+1 zranění).
+        Motivace: Jsou to místní, kteří chtějí rychlé peníze a mají respekt před Goranem.
+
+3. Střetnutí
+
+    Místo střetnutí:
+        Hospodský dvůr za hospodou U Eléva. Dvůr je obklopen plotem a starými sudy. Na jedné straně je kurník a hromada dřeva, na druhé vůz se senem.
+        Možnosti prostředí:
+            Hráči mohou použít sudy nebo vůz se senem k ukrytí nebo improvizované obraně.
+            Rváči mohou používat okolní nástroje (např. vidle nebo sekery).
+
+    Průběh střetnutí:
+        Překvapení: Goran s rváči se pokusí družinu překvapit. Lovec odměn nejprve nabídne, aby mu Vojena dobrovolně předali. Pokud odmítnou, rváči zaútočí.
+        Taktika:
+            Goran zůstane vzadu a útočí kuší, dokud družina neoslabí rváče.
+            Rváči se zaměří na nejslabší členy družiny (pravděpodobně Ninu).
+
+4. NPC a možnosti interakce
+
+    Hospodský (Jeroným Hromádka):
+        Velký, hlučný muž s hlubokým hlasem. Nechce problémy v hospodě a pokusí se družinu varovat, že je v městečku "horká půda".
+        Pokud se mu družina zavděčí, může jim poskytnout útočiště na půdě hospody.
+
+    Kovář (Stáňa Řezník):
+        Tichý, pracovitý muž, který nemá rád rváče a Gorana. Pokud hráči získají jeho důvěru, nabídne jim jednoduché vybavení nebo provizorní zbraně (např. kovové hroty na kopí).
+
+    Léčitelka (Vanda Záhořová):
+        Starší žena, která provozuje malý bylinkový krámek. Pokud družina zachrání městečko od rváčů, nabídne léčivé byliny nebo lektvary za sníženou cenu.
+
+5. Výsledky střetnutí
+
+    Úspěch:
+        Pokud družina porazí Gorana a rváče, obyvatelé městečka jim začnou důvěřovat a nabídnou skrytou cestu ven z městečka, aby se vyhnuli dalšímu pronásledování.
+        Mohou také najít nějaké cennosti u Gorana:
+            100 stříbrných mincí.
+            Mapa skrytých cest Temnohvozdem.
+
+    Selhání:
+        Pokud družina prohraje, Gorana zajímá pouze Vojen, ostatní nechá naživu. Hrdinové budou muset Vojena zachránit zpět z jeho zajetí.
+
+
+
+
+
+# ALTERNATIVA
+
+    Popis:
+        Horská vesnice Elevtery je malá, s domy z kamene a dřeva. Nachází se na úpatí velehor a slouží jako zastávka pro poutníky a obchodníky na cestě horským průsmykem.
+        Hlavní centrum dění je hospoda U Eléva, pojmenovaná po starém hornickém výrazu pro nováčka.
+
+    Zajímavá místa:
+        Horská kaple: Malá svatyně zasvěcená božstvu rovnováhy, kde mohou hrdinové získat požehnání nebo léčivé byliny.
+        Horský trh: Malé tržiště, kde se prodávají kožešiny, léčivé byliny a jednoduché zbraně, jako jsou lovecké nože nebo sekery.
+        Strážní věž: Malá kamenná věž, která slouží místním obyvatelům k hlídání průsmyku.
+
+2. Nová banda a Goran Ciferník
+
+    Goran Ciferník:
+        Popis: Horský lovec a stopař, který hledá Vojena kvůli odměně. Goran je známý svou přesností (přezdívka Ciferník) a drsným vystupováním.
+        Statistiky:
+            Třída zbroje (AC): 13 (kůže)
+            Životy (HP): 12
+            Útok: +3 (luk 1d6+1), +2 (lovecký nůž 1d4+1).
+            Zvláštní schopnosti: Dokáže stopovat a má výhodu na hod na Perception (všímavost).
+
+    Místní rváči:
+        Počet: 3 rváči.
+        Popis: Jednoduší místní muži, kteří se přidali k Goranovi za příslib odměny.
+        Statistiky:
+            Třída zbroje (AC): 12 (žádná zbroj).
+            Životy (HP): 6.
+            Útok: +2 (dřevěné hole nebo pěstní souboj 1d4).
+
+3. Střetnutí
+
+    Místo střetnutí:
+        Dvůr hospody U Eléva: Otevřené místo s několika sudy, lavicemi a kupou sena.
+        Možnosti prostředí:
+            Kupka sena: Může být zapálena nebo použita jako kryt.
+            Lavičky: Mohou být převrženy pro improvizovanou barikádu.
+            Vysoký plot: Hrdinové se mohou pokusit uniknout přelezením.
+
+    Průběh střetnutí:
+        Začátek: Goran se nejprve pokusí družinu zastrašit, nabídne jim, aby Vojena vydali. Pokud odmítnou, zaútočí.
+        Taktika:
+            Goran se drží vzadu a útočí lukem.
+            Rváči útočí zblízka a snaží se Vojena zajmout, ostatní ignorují.
+
+4. NPC a interakce
+
+    Hospodský (Vilem Drábek):
+        Drsný, ale spravedlivý muž. Pokud ho družina varuje, že jsou ve vesnici nebezpeční rváči, může zavřít hospodu a poskytnout jim úkryt.
+
+    Léčitel (Stařík Vávra):
+        Nabídne byliny nebo základní léčení, pokud družina pomůže vyřešit problém s rváči.
+
+    Horský lovec (Kristýna Zubová):
+        Zkušená stopařka, která Gorana zná. Pokud ji družina přesvědčí (hod na Charisma), může jim poradit, jak Gorana obelstít.
+
+5. Výsledky střetnutí
+
+    Úspěch:
+        Pokud družina zvítězí, najdou u Gorana:
+            25 stříbrných.
+            Jednoduchý luk a šípy (10 ks).
+            Mapa horského průsmyku.
+        Obyvatelé Elevter jim nabídnou dočasný úkryt nebo pomoc s další cestou.
+
+    Selhání:
+        Pokud družina prohraje, Goran zajme Vojena a hrdinové budou muset zorganizovat jeho záchranu.

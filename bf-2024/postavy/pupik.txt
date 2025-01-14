@@ -1,0 +1,35 @@
+Pupík Tichošlap půlčík zloděj
+level 4
+5580 / 10000 zk
+
+síla: 9
+inteligence: 6 -1
+moudrost: 15 +2
+obratnost: 18 +3
+odolnost: 15 +2
+charisma: 6 -1
+
+AC: 16 (18)
+26 životů (26)
+
+473 stříbrných
+
+batoh
+kotva
+50" hedvábné lano
+krátký luk
+50 šípů
+20 injekčních šípů
+směrová lucerna
+2 flašky oleje
+zlodějské náčiní
+křesadlo
+náušnice
+plášť +2 skrývání
+lektvar neviditelnosti
+šplhací rukavice
+zásoby na 7 dní
+měch na vodu
+3x léčivý lektvar 2d4+2
+totem větru
+elfí šperky v hodnotě 500ag

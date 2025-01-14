@@ -1,0 +1,182 @@
+1. Jižní brány
+
+    Vstup do města od Kamenice a stepi Tatarů, první zastávka pro cestovatele.
+
+    Charakter: Jižní brány jsou hlavním vstupním bodem do města. Předměstí za hradbami je rušné, plné obchodníků, cestovatelů a povozů mířících do města nebo ven.
+    Význam: Zde začíná a končí většina cestovních dobrodružství. Je to strategický bod pro kontrolu obchodu a vstupu do města.
+    Questy:
+
+      Odhalit pašerácký gang, který tajně přepravuje nelegální zboží.
+      Pomoc místním obchodníkům vyřešit spor s agresivními cestujícími.
+
+    Lokace: Hostince (např. "U Zájezdní brány"), strážnice, koňské stáje, karavanseráje.
+
+2. Hlavní tržiště
+
+    Rušné srdce obchodu ve městě, místo setkávání různorodých postav.
+
+    Charakter: Rušné srdce města, kde se prodává vše od exotického koření po magické artefakty. Uličky jsou úzké a často přeplněné.
+    Význam: Centrum obchodu a místem, kde se prolínají různé vrstvy společnosti.
+    Questy:
+
+        Pomoc obchodníkovi vypátrat, kdo krade jeho zásoby.
+        Vyjednávání s cizími kupci o důležitém zboží pro město.
+
+    Lokace: Stánky, obchody, malé svatyně božstev obchodníků, městská šatlava poblíž pro zloděje chycené při činu.
+
+3. Zámek a šlechtická čtvrť
+
+    Sídlo městské aristokracie a správní centrum.
+    Rytířská aréna: Propojená se zámkem, slouží pro turnaje a slavnosti.
+
+    Charakter: Luxusní oblast na vyvýšeném místě města. Zde žije aristokracie a vládnoucí elita. Zámek je impozantní pevnost, která slouží jako sídlo městského vedení.
+    Význam: Politické centrum města a zdroj možných intrik.
+    Questy:
+
+        Pomoc šlechtici odhalit zrádce v jeho službách.
+        Infiltrace zámku kvůli tajnému úkolu.
+
+    Lokace: Zámek, sídla šlechticů, městská knihovna, zahrady.
+
+    Turnajové pole (Rytířská aréna)
+
+    Charakter: Velké otevřené prostranství s tribunou pro diváky. Slouží pro rytířské turnaje, střelecké soutěže a veřejné hry.
+    Význam: Kulturní centrum pro slavnosti a sportovní soutěže.
+    Questy:
+        Vyhrát turnaj a získat šlechtický titul.
+        Ochrana šlechtice před atentátem během turnaje.
+    Lokace: Turnajová pole, tribuny, stánky s občerstvením, stáj pro koně rytířů.
+    Poloha: Na okraji města blízko rekreační čtvrti.
+
+4. Čistý přístav
+
+    Hlavní přístaviště pro obchodní a osobní lodě.
+
+    Charakter: Řádná oblast určená pro oficiální obchod. Lodě kotví u pečlivě udržovaných doků.
+    Význam: Hlavní přístup k námořnímu obchodu a cestování.
+    Questy:
+
+        Ochrana obchodní lodi před piráty.
+        Vyřešení sporu mezi kapitány o náklad.
+
+    Lokace: Dlouhá mola, sklady, maják, cech námořníků.
+
+5. Špinavý přístav a chudinská čtvrť
+
+    Plné pašeráků, černých trhů a improvizovaných obydlí.
+    Chudinská čtvrť přiléhá k přístavu, kde obyvatelé žijí v bídě a nepořádku.
+
+    Charakter: Část přístavu známá pro černý trh, hazard a pašování.
+    Význam: Místo pro získání nelegálních předmětů a informací.
+    Questy:
+
+        Odhalení pašeráků pracujících pod ochranou městského strážce.
+        Získání nelegálního zboží pro zoufalého klienta.
+
+    Lokace: Krčmy, sklady, tajné doupě podvodníků.
+
+    Charakter: Hustě obydlená oblast chudých obyvatel. Známá pro své problémy s kriminalitou a nepořádkem.
+    Význam: Centrum nízké třídy s potenciálem pro temnější zápletky.
+    Questy:
+
+        Pátrání po ztraceném dítěti.
+        Zastavení šíření jedovatých lektvarů.
+
+    Lokace: Malé domky, nebezpečné uličky, černý trh.
+
+6. Trpasličí čtvrť
+
+    Průmyslové centrum města, na západě kvůli dovozu surovin z velehor.
+
+    Charakter: Průmyslové centrum města, plné hluku, kouře a těžké práce. Převážně obývaná trpaslíky a dělníky.
+    Význam: Klíčová pro městskou ekonomiku díky výrobě a zpracování surovin.
+    Questy:
+
+        Pomoc při ochraně karavany s důležitými materiály.
+        Vyřešení konfliktu mezi horníky a městskými úředníky.
+
+    Lokace: Slévárny, tavírny, kovárny, hostince pro dělníky.
+
+7. Rekreační čtvrť
+
+    Lovecký lesopark a pláž na koupání.
+
+    Charakter: Klidná a dobře udržovaná oblast s loveckým parkem, řekou vhodnou na koupání a lázněmi.
+    Význam: Oblíbené místo pro odpočinek a relaxaci.
+    Questy:
+
+        Hledání ztraceného šlechtického dítěte v loveckém parku.
+        Odhalení magického narušení v termálních lázních.
+
+    Lokace: Lovecký park, lázně, pláž.
+
+8. Univerzitní čtvrť
+
+    Vzdělávací a magické centrum města.
+
+    Charakter: Domov vzdělanců, mágů a filozofů. Tvoří ji velké budovy univerzity, laboratoře a studentské ubytovny.
+    Význam: Zdroj vědomostí a magie, místo, kde lze získat učitele nebo přístup k zakázaným knihám.
+    Questy:
+        Najít ztracený grimoár v univerzitní knihovně.
+        Vyřešit konflikt mezi studenty a místními obyvateli.
+    Lokace: Univerzitní budovy, knihovna, alchymistické laboratoře, astronomická observatoř.
+    Poloha: Blízko zámku a horní čtvrti.
+
+9. Cechovní čtvrť
+
+    Domov řemeslnických cechů a dílen.
+
+    Charakter: Sídlo různých cechů a dílen. Každý cech má svou budovu, která slouží jako administrativní centrum a místo setkávání.
+    Význam: Klíčové pro ekonomiku města, zdroj pracovních míst a kontaktů.
+    Questy:
+        Pomoc cechu alchymistů s nebezpečným experimentem.
+        Vyjednat mír mezi znepřátelenými cechy.
+    Lokace: Cechovní domy, dílny, skladiště.
+    Poloha: Blízko tržiště.
+
+10. Lazaret a chrámová čtvrť
+
+    Náboženské centrum propojené s léčitelským lazaretem. Duchovní a fyzická péče na jednom místě.
+
+    Charakter: Oddělená oblast, kde se léčí nemocní, zranění a trpící epidemiemi. Vede ji cech léčitelů a alchymistů. Prostor je přísně regulovaný a vstup je omezen.
+    Význam: Důležité místo během epidemií nebo krizí (např. zlomeniny během období dešťů).
+    Questy:
+
+        Přinést vzácné byliny pro léčbu smrtelné nemoci.
+        Vypátrat sabotéra, který otrávil zásoby léčiv.
+
+    Lokace: Hlavní budova lazaretu, laboratoře, zahrady pro pěstování léčivých rostlin, karanténní zóna.
+    Poloha: Na klidném místě blízko rekreační čtvrti.
+
+    Chrámová čtvrť
+
+    Charakter: Náboženské centrum města, kde stojí chrámy různých božstev. Je to klidné a respektované místo.
+    Význam: Zdroj duchovní pomoci a požehnání, klíčové pro zápletky spojené s božstvy.
+    Questy:
+        Pomoc s exorcismem v opuštěném domě.
+        Pátrání po ztraceném relikviáři.
+    Lokace: Velké chrámy, malé svatyně, ubytování kněží.
+    Poloha: V blízkosti horní čtvrti.
+
+11. Kasárna a vojenská čtvrť
+
+    Charakter: Oblast určená pro výcvik, ubytování a plánování městské obrany. Nachází se zde výcvikové plochy, sklady zbraní a důstojnické rezidence.
+    Význam: Důležité místo pro zápletky spojené s vojenstvím nebo konflikty mezi městskými a venkovskými jednotkami.
+    Questy:
+        Pomoc s výcvikem nových rekrutů.
+        Zastavení sabotéra, který chce narušit obranu města.
+    Lokace: Velká kasárna, střelnice, jízdárna, sklady, kanceláře vojenských velitelů.
+    Poloha: U hradeb poblíž jižních bran.
+
+    Charakter: Velká pevnost s přísnou ostrahou. Slouží pro dlouhodobé věznění nejtěžších zločinců, politických vězňů a pro provádění výslechů.
+    Význam: Klíčové místo pro politické a kriminální zápletky.
+    Questy:
+        Infiltrujte věznici a vysvoboďte nespravedlivě odsouzeného.
+        Najděte ztracený artefakt skrytý v podzemí věznice.
+    Lokace: Cely, výslechové místnosti, podzemní kobky, strážní věže.
+    Poloha: V blízkosti zámku a kasáren pro snadnou kontrolu.
+
+Další prvky města:
+
+    Kanalizace: Podzemní síť, která je občas využívána jako skrýš zločinců.
+    Městské hradby: Strategický bod obrany města s hlídkami.

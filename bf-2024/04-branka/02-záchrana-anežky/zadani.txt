@@ -1,0 +1,103 @@
+Záchrana Anežky z rukou zločinecké bandy
+Úvodní situace
+
+    Lokace: Nový přístav v Brance, rušné místo, kde Anežka pod nátlakem bandy láká naivní cestující.
+    Událost: Hrdinové zahlédnou Anežku, jak se baví s cizincem z lodi. Chvíli na to přichází dva členové bandy, kteří ji začnou hrubě odvádět pryč.
+
+1. Sledování a zjištění úkrytu
+
+    Hrdinové sledují dvojici i Anežku, která je zjevně ve stresu, ale nedělá scénu.
+    Výzvy během sledování:
+        Dav: Úzké uličky přístavu jsou přeplněné a zločinci se snaží ztratit. Hrdinové musí úspěšně hodit na obratnost nebo postřeh, aby je neztratili.
+        Překážka: Na cestě jsou nosiči se sudy nebo povoz blokující uličku, což zpomalí hrdiny.
+
+2. Úkryt bandy
+
+    Lokace: Malé skladiště na kraji přístavu, v opuštěné části, kde je několik rozbitých beden a starých sítí.
+    Situace: Kápo bandy a tři členové uvnitř diskutují o tom, jak naložit s Anežkou. Dva další hlídají venku.
+    Zločinci (6):
+        Kápo, přezdívaný "Borák": Malý, ostrý chlapík s krutým výrazem, který všechny ovládá strachem.
+        Dalších 5 členů: Mladí lidé, kteří jsou v bandě spíše ze strachu nebo kvůli přežití.
+        Pět sirotků: Děti ve věku 8–12 let, které pro bandu pracují pod hrozbou násilí.
+
+3. Plánování záchrany
+
+Hrdinové mají několik možností:
+
+    Diplomacie: Pokusit se Boráka přesvědčit, aby Anežku pustil. To bude obtížné, ale pokud použijí zastrašování, může ustoupit.
+    Přepad: Zlikvidovat stráže venku a poté proniknout do úkrytu.
+    Odlákání: Vytvořit rozptýlení, například Pupík hodí kámen, aby vyvolal poplach, a stráže se jdou podívat.
+
+4. Konfrontace uvnitř
+
+    Interiér: Malý prostor plný beden a rybářských sítí. Anežka sedí spoutaná na zemi, zatímco Borák a jeho kumpáni debatují. Sirotci jsou v koutě a snaží se neupoutat pozornost.
+    Průběh:
+        Borák se pokusí vyjednávat, pokud situace nevypadá beznadějně, ale rychle zavelí k útoku, pokud ucítí nebezpečí.
+        Boj: Borák a jeho tři muži budou bojovat. Sirotci se schovají, pokud nebudou v přímém ohrožení.
+
+5. Únik
+
+    Jakmile je Anežka osvobozená:
+        Pokud Borák a jeho kumpáni prohrají, mohou být zajati nebo vyhnáni.
+        Sirotci, pokud se hrdinové projeví jako důvěryhodní, mohou požádat o pomoc, nebo se rozutečou.
+
+Zvláštní poznámky
+
+    Interakce s Anežkou: Anežka je vděčná, ale obává se, co bude dál. Pro hrdiny by mohla být motivací dostat ji a případně i další děti do bezpečí.
+    Možné následky: Pokud Borák unikne, může být hrozbou i v budoucnu.
+    Zvláštní předměty: Ve skladišti je několik drobných cenností (např. stříbrný prsten a měšec s 20 stříbrnými), které mohou sloužit jako odměna.
+
+Statistiky nepřátel
+
+    Borák:
+        Životy: 14 HP
+        Útok: 1k8 + 1 (krátký meč)
+        Zbroj: 14
+        Schopnost: Vyděšeným pohledem může zastrašit jednoho protivníka (hod na moudrost DC 12).
+
+    Členové bandy (3):
+        Životy: 10 HP
+        Útok: 1k6 + 1 (dýka)
+        Zbroj: 12
+
+    Stráže venku (2):
+        Životy: 8 HP
+        Útok: 1k6 (obušek)
+        Zbroj: 11
+
+Kořist v doupěti
+
+    Hotovost:
+        Měšec s 60–80 stříbrnými, což představuje jejich zisky z posledních týdnů.
+        Několik drobných měděných mincí poházených po místnosti (celkem 20–30 měďáků).
+
+    Předměty z okradených obětí:
+        Stříbrný náhrdelník s jednoduchým přívěskem (hodnota 25 stříbrných).
+        Zlatý prsten s malým ametystem (hodnota 75 stříbrných).
+        Kvalitní opasek z kožené práce, původně vlastněný obchodníkem (hodnota 15 stříbrných).
+        Malá dýka s rytinami, spíše dekorativní (hodnota 10 stříbrných).
+
+    Potřeby bandy:
+        Zásoba jídla: tvrdý chleba, sušené maso, trochu sýra (hodnota 5 stříbrných).
+        Bedna s nekvalitním vínem (5 lahví, hodnota každé 2 stříbrné).
+        Nářadí pro otevírání zámků (hodnota 10 stříbrných).
+
+Kořist u členů bandy
+
+    Borák (kápo):
+        Měšec s 15 stříbrnými a 1 zlatou mincí.
+        Zlatý zub, pokud ho hrdinové budou chtít vytrhnout (hodnota 20 stříbrných).
+        Krátký meč (běžná hodnota 7 stříbrných, ale vzhledem k dobrému stavu může mít hodnotu až 10 stříbrných).
+
+    Každý člen bandy:
+        5–10 stříbrných u každého.
+        Jednoduchá dýka (hodnota 1 stříbrný za kus).
+        Jeden člen může mít na krku amuletek ze skla (hodnota 2 stříbrné, ale může být považován za magický a mít vyšší cenu u sběratelů).
+
+    Stráže venku:
+        3–5 stříbrných u každého.
+        Obušek (hodnota 1 stříbrný za kus).
+
+Další prvky kořisti
+
+    Ukrytý balíček: Ve staré bedně v koutě doupěte je ukrytý malý balíček s podezřelým obsahem – sáček s jemným bílým práškem (hodnota 20 stříbrných, ale může mít zvláštní účinky, pokud by byl identifikován šamanem nebo alchymistou).

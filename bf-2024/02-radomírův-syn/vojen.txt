@@ -1,0 +1,65 @@
+Vojen Černohorský
+
+    Rasa: Elf
+    Povolání: Kouzelník
+    Úroveň: 3
+    Zarovnání: Neutrální dobro
+    Věk: 25 let
+    Vzhled: Štíhlý mladý elf s dlouhými, rovnými světlými vlasy, pronikavými zelenými oči a odhodlaným výrazem.
+
+Statistiky:
+
+    Síla: 8
+    Obratnost: 12
+    Odolnost: 10
+    Inteligence: 17 (+2 k dovednostem spojeným s magií)
+    Moudrost: 13
+    Charisma: 14
+
+Životy: 9 (1d4 na úroveň, průměrná hodnota)
+
+    Vojen má nižší fyzickou výdrž, ale spoléhá na svou magii a intelekt.
+
+Třída zbroje: 10
+
+    Bez zbroje (kouzelníci nemohou nosit zbroj). Má však ochranné kouzlo „Shield“.
+
+Záchranné hody:
+
+    Smrt: 13
+    Kouzla: 14
+    Hůlky: 13
+    Dech: 16
+    Tyče/Stocky: 15
+
+Magická výbava:
+
+    Hůl stínů:
+        Poskytuje bonus +1 k hodům na obranu proti kouzlům.
+        Má jednorázové kouzlo „Darkness“ (použití na den).
+
+    Prsten ochrany:
+        +1 k Třídě zbroje (AC) a záchranným hodům.
+
+    Pytlík s komponentami:
+        Obsahuje materiály pro kouzlení.
+
+Známá kouzla (3. úroveň):
+Kouzla 1. úrovně: 2 za den
+
+    Magic Missile: Okamžitý magický útok na jednoho nepřítele, zranění 1d4+1.
+    Shield: Poskytuje bonus +4 k AC na 1 kolo.
+
+Kouzla 2. úrovně: 1 za den
+
+    Mirror Image: Vytvoří iluze, které ztěžují zasažení Vojena.
+
+Osobnost a motivace:
+
+    Statečný a idealistický: Věří v mírové řešení konfliktů, ale chápe, že někdy je boj nutný.
+    Moudrý, ale nezkušený: Přestože je Vojen velmi inteligentní, nemá tolik zkušeností jako jeho otec Radomír.
+
+Dovednosti:
+
+    Znalost magie: Schopen identifikovat základní magické předměty nebo odhalit magické účinky.
+    Znalost přírody: Díky výchově v Temnohvozdu má základní znalosti o lese a jeho obyvatelích.

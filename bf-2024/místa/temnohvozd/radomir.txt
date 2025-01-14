@@ -1,0 +1,61 @@
+Radomír Černohorský (Rádhómirnë Thérannor)
+
+    Rasa: Elf
+    Povolání: Kouzelník
+    Úroveň: 8
+    Hit Dice (HD): 8d4 (26 HP)
+    Armor Class (AC): 15 (Magická ochrana)
+    Pohyb: 30 stop
+
+Atributy:
+
+    Síla: 8 (-1)
+    Inteligence: 18 (+3)
+    Moudrost: 14 (+1)
+    Obratnost: 12 (+0)
+    Odolnost: 10 (+0)
+    Charisma: 15 (+1)
+
+Útoky:
+
+    Magický úder:
+        Hod na útok: +6
+        Zranění: 1d8 + 3 (energie, např. ohnivý paprsek).
+
+    Hůl moudrosti:
+        Hod na útok: +4
+        Zranění: 1d6 (fyzické), navíc magický bonus +1.
+
+Kouzelné schopnosti:
+
+Radomír má široký repertoár kouzel. Zde jsou některá z jeho nejsilnějších kouzel:
+
+    Denní kouzla (Může seslat 4. úroveň kouzel):
+        Fireball (Ohnivá koule): Zranění 8d6 v oblasti.
+        Dispel Magic (Zrušení magie): Neutralizuje magické efekty.
+        Wall of Force (Síťová zeď): Tvoří neviditelnou bariéru.
+        Polymorph (Přeměna): Promění cíl na jinou bytost.
+
+    Podpůrná kouzla:
+        Magic Missile: Automaticky zasáhne cíl.
+        Shield: Zvýší AC o +5.
+        Detect Magic: Odhalí magii v oblasti.
+
+Speciální vybavení:
+
+    Hůl moudrosti: Poskytuje +1 k hodům na kouzla a umožňuje seslat „Detect Magic“ jednou denně zdarma.
+    Prsten ochrany: Poskytuje +2 AC a bonus +1 k záchranným hodům.
+    Amulet lesa: Umožňuje komunikaci s přírodními bytostmi a rostlinami.
+
+Záchranné hody:
+
+    Death/Poison: 10
+    Wands: 11
+    Paralysis/Petrification: 12
+    Breath Attack: 13
+    Spell: 11
+
+Osobnost a taktika:
+
+    Osobnost: Rádhómirnë je moudrý a klidný, ale tvrdý vůči těm, kdo ohrožují Temnohvozd. Respektuje přírodu a nemá rád destruktivní jednání.
+    Taktika v boji: Radomír preferuje kontrolu nad situací. Používá kouzla, která zpomalí nepřátele (např. „Sleep“ nebo „Entangle“), a poté sesílá ničivá kouzla, jako je „Fireball“.

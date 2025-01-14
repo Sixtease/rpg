@@ -1,0 +1,31 @@
+Seznam přítomných příšer a kořisti v podzemní chodbě
+Příšery
+
+    Hlavní chodba – První střet:
+        2 obří krysy (HP: 3 každá, Útok: kousnutí 1d4).
+            Krysy se skrývají ve stínech a za starým nábytkem. Útočí, když hráči projdou kolem.
+        Kořist: U mrtvé krysy hráči najdou drobný váček s 5 zlatými mincemi (možná ztracený dřívějším uprchlíkem).
+
+    Postranní místnost – Past s krysami:
+        3 obří krysy (HP: 3 každá, Útok: kousnutí 1d4).
+            Tato skupina chrání starou nádobu s drobným pokladem.
+        Kořist: Skrytý měšec obsahuje 10 stříbrných mincí a lektvar léčení (1d8 HP).
+
+    Hlavní komnata – Kostlivci:
+        2 kostlivci (HP: 5 každý, Útok: meč 1d6).
+            Kostlivci střeží místnost s pokladem. Ožívají, když se hráči přiblíží ke skrytému truhlu.
+        Kořist: Vybavení kostlivců zahrnuje:
+            1 rezavý krátký meč (použitelný, ale nehodí se na prodej).
+            1 stříbrný prsten (hodnota: 10 stříbrných mincí).
+
+    Pokladová místnost – Strážce:
+        1 malý přízrak (HP: 8, Útok: dotek 1d6, rezistence na nemagické zbraně).
+            Přízrak se zjeví jako iluze, kterou lze rozehnat úspěšným hodem na Moudrost (DC 12). Pokud neuspějí, přízrak na ně zaútočí.
+        Kořist: Truhla obsahuje:
+            60 stříbrných.
+            1 kouzelný amulet (Amulet ochrany: +1 k záchranným hodům, pasivní schopnost).
+
+Past
+
+    Chodba před místností s kostlivci:
+        Propadlo: Hráč, který neuspěje v hodu na Vnímání (DC 13), aktivuje propadlo a spadne do malé jámy (1d6 zranění). Ostatní hráči mohou pomoci oběti ven.

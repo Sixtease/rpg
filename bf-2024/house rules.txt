@@ -1,0 +1,131 @@
+Postupový žebříček bojovníka
+
+    Úroveň 1:
+        Kritický zásah (2x damage) při hodu 20.
+
+    Úroveň 2:
+        Bonus k hodu na útok: +1
+        Výhoda v boji: Jednou za den může přehodit neúspěšný hod na zásah.
+
+    Úroveň 3:
+        Specializace na zbraň: Vyber si jednu zbraň (např. dlouhý meč). S touto zbraní získáváš +1 k hodu na útok a poškození.
+
+    Úroveň 4:
+        Zlepšení AC: Pokud nosíš zbroj, získáváš +1 k Armor Class (AC).
+
+    Úroveň 5:
+        Druhé útoky: Jednou za kolo můžeš zaútočit dvakrát místo jednou.
+
+    Úroveň 6:
+        Bonus k poškození: Přidáš +1 k hodům na poškození všemi zbraněmi.
+
+    Úroveň 7:
+        Výhoda proti konkrétním protivníkům: Zvol si jeden druh protivníků (např. nemrtvé, orky nebo zvířata). Získáváš proti nim +2 k hodům na útok.
+
+    Úroveň 8:
+        Obratný bojovník: Ignoruješ penalizace za boj ve ztížených podmínkách (kluzký povrch, tma apod.).
+
+    Úroveň 9:
+        Zlepšení kritického zásahu: Kritický zásah nastane už při hodu 19-20.
+
+    Úroveň 10:
+        Obrana proti střelám: Máš 25% šanci vyhnout se zásahu střelnou zbraní (např. šípem).
+
+    Úroveň 11:
+        Další specializace na zbraň: Vyber si druhou zbraň, se kterou získáváš +1 k útoku a poškození.
+
+    Úroveň 12:
+        Zlepšení AC: Další bonus +1 k AC.
+
+    Úroveň 13:
+        Odvaha v boji: Imunita proti strachu a zastrašování.
+
+    Úroveň 14:
+        Zvýšený útok: Další bonus +1 k hodu na útok (celkem +2 od 2. úrovně).
+
+    Úroveň 15:
+        Mistr zbraně: S vybranými zbraněmi můžeš zaútočit 3krát za kolo.
+
+    Úroveň 16:
+        Zlepšení kritického zásahu: Kritický zásah nastane při hodu 18-20.
+
+    Úroveň 17:
+        Výhoda na útok: Jednou za den můžeš zaútočit s výhodou (házej dvakrát a vyber lepší hod).
+
+    Úroveň 18:
+        Výhoda proti druhému druhu protivníků: Vyber si druhý druh protivníků (např. obry, draky). Získáváš proti nim +2 k hodům na útok.
+
+    Úroveň 19:
+        Dokonalá obrana: Imunita proti kritickým zásahům.
+
+    Úroveň 20:
+        Legenda bojiště: Všichni spojenci v tvé blízkosti (do 6 metrů) získávají +1 k hodům na útok a poškození.
+
+
+Postupový žebříček zloděje: každou sudou úroveň jedna z následujících schopností:
+
+    Pomalý pád: Pokud zloděj padá z výšky, hodí na Obratnost (DC 15). Při úspěchu utrpí jen poloviční poškození.
+    Dýkou k poškození bonus za obratnost místo síly.
+    Při útoku ze zálohy kritický zásah na (21-level)+.
+    Ostrý jazyk: Zloděj získává bonus +1 k testům sociálních interakcí (Přesvědčování, Obelhávání, Intimidace).
+    Tichý krok: Zloděj ignoruje penalizace při plížení na hlučných površích, jako je štěrk nebo staré dřevo.
+    Skrytá kapsa: Zloděj může bezpečně ukrýt malý předmět (např. dýku, minci, klíč) i při tělesné prohlídce.
+    Rychlá ruka: Zloděj může jako bonusovou akci na svém tahu provést "Kradmý útok" nebo "Okradení" (test na Kradení).
+    Znalec lidí: Zloděj získává bonus +2 k hodům na vnímání záměrů postav v sociálních situacích.
+    Pochopení zámků: Zloděj umí při rozbití pasti minimalizovat riziko poškození – past ho zasáhne jen polovičním efektem.
+    Nepolapitelný: Bonus +1 k hodům na únik.
+
+
+Klerikovy schopnosti
+
+Aury - mechanika:
+    Schopnost od 4. úrovně.
+    Aktivace Aury:
+        Klerik může mít aktivní vždy jen jednu auru.
+        Aktivace aury vyžaduje akci (od 8. úrovně bonusovou akci).
+        Každá aura zůstává aktivní až do změny nebo dokud ji klerik deaktivuje (např. před odpočinkem).
+
+Postupový žebříček
+
+2. úroveň:
+    Opevněný štít: Bonus +1 k AC při použití štítu.
+
+3. úroveň:
+    Plná defenzíva: Klerik se může rozhodnout zaujmout plně defenzivní postoj. Získá bonus +5 k AC, ale v tomto stavu nemůže útočit ani kouzlit. (Vydrží maximálně 3 kola.)
+
+4. úroveň:
+    Jediná aura za den, dosah 3m.
+    Aura světla: Spojenci v dosahu získávají bonus +1 k hodům na záchranu proti efektům, které ovlivňují mysl nebo způsobují strach.
+    Aura odplaty: Nepřátelé, kteří zasáhnou klerika nebo spojence v dosahu aury, utrpí 1k4 radiant damage.
+
+5. úroveň:
+    1 změna aury denně.
+
+6. úroveň:
+    Aura ochrany: Spojenci v dosahu získávají bonus +1 k AC.
+    Aura regenerace: Spojenci na začátku svého tahu obnoví 1 život, pokud mají méně než polovinu svého maximálního počtu životů.
+
+7. úroveň:
+    2 změny aury denně, dosah 4m.
+
+8. úroveň:
+    Aura svaté síly: Spojenci v dosahu mají bonus +1 k hodům na útok.
+    Aura odporu: Spojenci získávají výhodu na hody na záchranu proti jedovému, nekrotickému a psychickému poškození.
+
+9. úroveň
+    3 změny aury denně.
+
+10. úroveň:
+    Dosah aury 5m.
+    Aura slabosti: Nepřátelé v dosahu mají nevýhodu na hod na útok proti spojencům.
+    Aura rychlosti: Spojenci v dosahu mají bonus +3 metry k pohybu.
+
+11. úroveň:
+    4 změny aury denně.
+
+12. úroveň:
+    Aura iniciativy: Spojenci v dosahu mohou provést 1 dodatečný útok během svého kola.
+
+
+kouzelník přičítá bonus za inteligenci k efektům kouzel a odčítá ho od save vs spell u protivníků
+totéž pro klerika za moudrost

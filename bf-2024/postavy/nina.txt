@@ -1,0 +1,48 @@
+Nina Elf kouzelník
+3. level
+7600 / 10000 zk
+
+síla: 5 -2
+inteligence: 18 +3
+moudrost: 13 +1
+obratnost: 7 -1
+odolnost: 9
+charisma: 16 +2
+
+AC: 13
+9 životů (8)
+
+295 stříbrných
+
+hůl (-1 / 1k6-2); magic missile 1x denně
+dýka (-1 / 1k4-2)
+Černý dýkový tesák (magická zbraň +1, tichý zásah) (0, 1k4)
+batoh
+pero + inkoust
+kniha kouzel
+měch na vodu
+síť
+0x elixír neviditelnosti
+0x léčivý lektvar
+páčidlo
+prsten zmizení předmětů
+elfí róba AC 14
+zásoby na 7 dní
+elfí šperkyu v hodnotě 700ag
+náramek ochrany proti duchům (bonus +2 na záchranné hody, útok a AC proti nehmotným bytostem.)
+
+kouzla:
+L1:
+čtení magie
+uspání *
+štít
+okouzlení *
+magická střela
+L2:
+levitace *
+neviditelnost
+zrcadlový obraz
+pavučina
+locate object
+
+veverka - Mlska

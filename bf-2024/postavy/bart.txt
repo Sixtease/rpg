@@ -1,0 +1,32 @@
+Bárt, elf bojovník level 3
+5210 / 8000 zk
+
+síla: 18 +3
+inteligence: 12
+moudrost: 5 -2
+obratnost: 16 +2
+odolnost: 10
+charisma: 9
+AC 20
+20 životů (20)
+
+36 stříbrných
+
+batoh
+měch na vodu
+
+dlouhý meč +1 (+5 / 1k8+3)
+dlouhý luk (+3 / 1k6+2)
+dýka (+4 / 1k4+3)
+50 šípů
+vlněný plášť
+zásoby na 7 dní i pro vlka
+stan pro 10 lidí
+2x lektvar rychlosti
+2x léčivý lektvar
+
+štít
+plátová zbroj
+zásoby
+
+vlk Rychlík

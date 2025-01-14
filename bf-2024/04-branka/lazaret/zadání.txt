@@ -1,0 +1,53 @@
+Dobrodružství: Lazaret pod deštěm
+Základní situace:
+
+    Branka je v období těžkých jarních dešťů, což způsobilo problémy s vlhkostí a nečistotami v městských ulicích. Lidé trpí zvýšenou nemocností, například horečkami, dýchacími problémy nebo kožními infekcemi.
+    Městský lazaret je přeplněný a zdravotníci zoufale potřebují místo pro skutečně nemocné. Nicméně velkou část kapacity zabírá hypochondrický šlechtic Arnošt Drobek z Kapálovic, který odmítá opustit své pohodlné lůžko.
+
+Zapojené postavy:
+
+    Arnošt Drobek z Kapálovic:
+        Osobnost: Sebestředný a zhýčkaný šlechtic, který je posedlý obavou o své zdraví. Nechává se ošetřovat kvůli smyšleným chorobám a odůvodňuje svou přítomnost tím, že "svým statusem zvyšuje prestiž lazaretu."
+        Motivace: Zůstat v bezpečí a pohodlí lazaretu.
+        Citát: „Co když mám vzácný druh kapálové horečky? Já tady prostě MUSÍM zůstat! Pro dobro lazaretu, samozřejmě.“
+
+    Vrchní léčitel Jakub z Trnkovic:
+        Osobnost: Trpělivý, ale už zoufalý muž, který má jasno v tom, že Arnošt je hypochondr, ale bojí se ho vyhodit kvůli jeho postavení.
+        Motivace: Zajistit, aby lazaret mohl sloužit skutečně potřebným, aniž by riskoval kariéru nebo finanční stabilitu.
+        Citát: „Jestli nepustíme sem ty skutečně nemocné, můžeme je rovnou pohřbívat za lazaretem.“
+
+    Ostatní pacienti a zaměstnanci:
+        Pacienti: Zdravotníci musí některé pacienty odmítat, protože nemají místo. Může mezi nimi být matka s dítětem nebo těžce zraněný řemeslník, což zvýší emocionální náboj.
+        Zaměstnanci: Přepracovaní léčitelé a ošetřovatelé, kteří doufají, že někdo vyřeší situaci.
+
+Herní fáze a interakce:
+
+    První kontakt:
+        Hrdinové dorazí do lazaretu za bouřlivého deště a okamžitě si všimnou chaosu. Vrchní léčitel Jakub je požádá o pomoc s uvolněním místa. Upozorní je na problém s Arnoštem a naznačí, že šlechtic využívá svého vlivu k manipulaci personálu.
+
+    Interakce s Arnoštem:
+        Diplomacie: Hrdinové mohou zkusit Arnošta přesvědčit, aby odešel (Charisma check, DC 14). Pokud použijí logické argumenty o veřejném blahu, DC klesne na 10.
+        Manipulace: Pokud mají hrdinové magii nebo předměty, mohou použít kouzlo jako Sleep nebo ho odlákat falešnou zprávou o nové "elitní klinice".
+        Konflikt: Pokud Arnošt odmítne a bude dělat scény, může dojít k menší konfrontaci s jeho osobním strážcem.
+
+    Odhalení tajemství:
+        Hrdinové mohou během interakce s Arnoštem odhalit, že jeho "symptomy" vycházejí z psychologického problému nebo jeho strachu z bouřek a vlhkosti. Mohou ho například přesvědčit, že v lazaretu je větší riziko nákazy (Inteligence check, DC 12).
+
+    Vedlejší komplikace:
+        Při řešení problému s Arnoštem mohou hrdinové zjistit, že do lazaretu proudí vlhkost a na stěnách se tvoří plíseň, což zhoršuje zdraví pacientů. Oprava vyžaduje jejich zásah (např. zaklínadlo, manuální práci nebo přivedení místního řemeslníka).
+
+Odměna:
+
+    Materiální:
+        Jakub z Trnkovic nabídne léčivé lektvary, zásoby bylin nebo přístup k dalším léčitelům v Brance.
+
+    Společenská:
+        Hrdinové si zlepší reputaci v Brance, což jim může otevřít nové příležitosti.
+
+    Bonus:
+        Pokud situaci vyřeší bez konfliktu, získají jako bonus Arnoštovu "vděčnost" (v budoucnu může nabídnout něco cenného, až hrdinové narazí na něj nebo jeho rodinu).
+
+Doplňky:
+
+    Humor: Arnošt může mít přehnané výlevy o svém zdraví, například: „Mám svědění na levém ušním lalůčku! To určitě značí začátek konce!“
+    Závěr: Jakub může s úlevou říct: „Svatí ochránci, jste zázrak! Teď už jenom vyléčit těch dalších padesát lidí...“

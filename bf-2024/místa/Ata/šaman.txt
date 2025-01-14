@@ -1,0 +1,52 @@
+Služby šamana
+
+    Věštění a duchovní poradenství
+        Cena: 15 stříbrných za krátké věštby (např. z kostí nebo kouře)
+        50 stříbrných za detailní vizi budoucnosti (trvá několik hodin).
+
+    Posvěcení zbraní nebo vybavení
+        Cena: 25 stříbrných (dočasný bonus +1 na zásah na jeden den).
+
+    Ochranný rituál pro karavany nebo jednotlivce
+        Cena: 40 stříbrných.
+        Vytvoří ochranu proti přírodním hrozbám (např. duchům vlků nebo silnému větru).
+
+    Výuka kouzelníka
+        Šaman nabízí naučení specifických kouzel:
+            Levitation: 75 stříbrných
+            Fog Cloud: 50 stříbrných
+            Locate Object: 100 stříbrných
+
+Kouzelnické svitky
+
+    Wind's Whistle (Levitation): 60 stříbrných
+    Stepní mlha (Fog Cloud): 50 stříbrných
+    Volání stepi (Locate Object): 80 stříbrných
+    Ochrana před zlými duchy (Protection from Evil): 75 stříbrných
+
+Lektvary
+
+    Lektvar rychlosti (Potion of Speed): 150 stříbrných
+        Zvýší rychlost pohybu na dvojnásobek na 10 minut.
+    Lektvar uzdravení (Potion of Healing): 50 stříbrných
+        Obnoví 2d4 + 2 HP.
+    Lektvar štěstí (Potion of Luck): 100 stříbrných
+        +1 ke všem hodům na útoky, záchrany a dovednosti po dobu 1 hodiny.
+    Lektvar splynutí se stepí (Potion of Camouflage): 75 stříbrných
+        Zvyšuje šanci na nepozorované pohyby a skrytí o +2 na 1 hodinu.
+    Lektvar ochrany před chladem (Potion of Cold Resistance): 70 stříbrných
+        Poloviční zranění z chladu po dobu 1 hodiny.
+
+Speciální magické předměty
+
+    Totem stepního větru
+        Cena: 300 stříbrných
+        Umožňuje jednou denně seslat kouzlo Gust of Wind.
+
+    Amulet stepi
+        Cena: 250 stříbrných
+        Bonus +1 k odolání proti magii a schopnost najít cestu i při silné mlze.
+
+    Náramek ochrany proti duchům
+        Cena: 200 stříbrných
+        Poskytuje bonus +2 na záchranné hody proti nehmotným bytostem.

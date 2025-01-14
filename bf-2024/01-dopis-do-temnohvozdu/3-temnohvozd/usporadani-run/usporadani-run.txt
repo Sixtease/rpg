@@ -1,0 +1,46 @@
+Zde je návrh vedlejšího úkolu od Ellarian Vítrunes, který zahrnuje magii, záhady a zapojení hráčů do prostředí Temnohvozdu:
+Vedlejší úkol: "Runy Temného pramene"
+Zadání úkolu:
+
+Ellarian vysvětluje, že magická rovnováha Temnohvozdu byla nedávno narušena v oblasti zvané Temný pramen – malá, odlehlá tůň v hlubinách lesa, kde se sbíhají prastaré magické proudy. Něco způsobilo, že magická energie z tohoto místa uniká a negativně ovlivňuje okolní les.
+
+Ellarian podezřívá, že někdo poškodil ochranné runy kolem pramene, což narušilo jeho rovnováhu. Hrdiny požádá, aby runy znovu aktivovali, než škody způsobí větší chaos.
+Cíl úkolu:
+
+    Najít Temný pramen – místo je vzdálené asi hodinu cesty od Srdce Temnohvozdu.
+    Opravit runy – obnovit ochrannou magii tím, že správně uspořádají magické symboly vyryté do kamenů kolem pramene.
+    Vypořádat se s hrozbou – na místě se objevila bytost zrozená z narušené magie, která pramen střeží.
+
+Detaily úkolu:
+Cesta k Temnému prameni:
+
+    Popis terénu: Hustý les plný magie. Cestu mohou hráči najít pomocí svých dovedností nebo stopovat slabý magický proud.
+    Drobný střet: Na cestě mohou narazit na vlky nebo magicky ovlivněné zvíře (např. jelena se zářícíma očima), které je vyruší.
+
+Temný pramen:
+
+    Popis: Malá tůň s temnou, klidnou vodou, obklopená prastarými kameny pokrytými runami. Kameny jsou poškozené nebo převrácené, což narušilo magickou energii.
+
+    Runová hádanka:
+        Na kamenech jsou vyryté symboly, které musí hráči správně uspořádat (např. seřadit podle cyklu přírody: zrození, růst, smrt, obnova).
+        Hráči mohou házet na Inteligenci nebo Moudrost, aby získali nápovědu, nebo se pokusit runy opravit logickým uvažováním.
+
+Magická bytost:
+
+    Popis: Stínová entita zrozená z narušené magie pramene.
+        HP: 12
+        AC: 13
+        Útok: +3, zranění 1d6 (magický dotek).
+        Zvláštní schopnost: Jednou za boj může oslabit hráče (snížit hod na útok o -1 na jedno kolo).
+
+    Bytost se snaží hráče zahnat, ale pokud bude poražena, zmizí v oblaku magického prachu.
+
+Odměna za splnění úkolu:
+
+    Ellarianina vděčnost:
+        Jedna identifikace předmětu zdarma.
+        Svitky kouzel s 25% slevou.
+    Magický předmět z pramene:
+        Prsten klidu: Nositel může jednou denně seslat „Calm Emotions“ na jednu cílovou bytost.
+
+

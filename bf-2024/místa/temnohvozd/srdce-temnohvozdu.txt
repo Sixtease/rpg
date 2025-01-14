@@ -1,0 +1,123 @@
+    Popis: Město v korunách stromů, s visutými mosty, magickými lucernami a tichou harmonií přírody a obyvatel. Hlavní dominanta je Radomírova věž.
+    Strážci: Elfská garda – klidní, ale ostražití vůči cizincům.
+    Klíčová místa:
+        Radomírova věž: Cíl výpravy, sídlo mocného čaroděje.
+        Lesní tržiště: Místo, kde mohou postavy nakoupit léčivé byliny, magické svitky nebo přírodní artefakty.
+        Svatyně Přírodního božstva: Posvátné místo elfů, které chrání kněžka Elrína.
+
+Tady je návrh metropole Srdce Temnohvozdu s podrobným popisem míst a klíčových postav, které hráčům poskytnou možnosti pro obchod, získávání kouzel, identifikaci předmětů a další interakce:
+Srdce Temnohvozdu – Popis
+
+    Architektura: Město se rozprostírá na více úrovních v korunách prastarých stromů, propojené visutými mosty, lanovými cestami a spirálovitými schodišti. Na zemi pod stromy jsou magické zahrady, tržiště a tichá jezírka.
+    Atmosféra: Místo je klidné, plné jemného světla, vůní bylin a zpěvu ptáků. Magie je cítit ve vzduchu, ale obyvatelé jsou uzavření vůči cizincům, dokud nezískají jejich důvěru.
+
+Klíčová místa ve městě
+1. Radomírova věž
+
+    Popis: Nejvyšší věž ve městě, postavená přímo ve středu obrovského stromu. Ozdobená runami a magickým světlem, viditelným zdaleka.
+    Role: Cíl výpravy – doručení dopisu Radomírovi Černohorskému.
+    Radomír Černohorský: Mocný, ale odtažitý elfský čaroděj. Je moudrý, ale přímý a neochotný řešit záležitosti cizinců, pokud nemají význam pro Temnohvozd.
+
+2. Síň u Křišťálové koruny (pro Ninu)
+
+    Popis: Magické sídlo v korunách stromů, kde se elfové učí a uchovávají kouzla. Místo je plné magických knih, svitků a runových artefaktů.
+    Postava: Ellarian Vítrunes
+        Role: Učitelka magie, mistryně iluzí a ochranných kouzel.
+        Osobnost: Klidná, ale přísná. Ráda testuje trpělivost a důvtip.
+        Služby:
+            Učí nová kouzla (Nina zde může získat další kouzla, např. „Magic Missile“ nebo „Shield“).
+            Identifikuje magické předměty za poplatek nebo za příslib služby pro Temnohvozd.
+
+3. Tržiště Mlžné stezky (obchod a interakce)
+
+    Popis: Tržiště na zemi pod stromy, rozprostírající se mezi jezírky a křišťálovými stezkami. Zde obchodují elfové, půlčíci a další obyvatelé Temnohvozdu.
+    Klíčové postavy:
+
+        Sylas Zelený šíp
+            Role: Prodejce zbraní a zbrojí.
+            Zboží: Luky, šípy, lehká zbroj, přírodní amulety (např. +1 na Obratnost).
+            Osobnost: Přátelský, ale trochu obchodně mazaný.
+
+        Myra Listokvět
+            Role: Bylinkářka a alchymistka.
+            Zboží: Léčivé lektvary, jedy, rostlinné extrakty.
+            Osobnost: Velmi ochotná, pokud cítí, že kupující respektuje přírodu.
+
+        Thalion Jasnozrný
+            Role: Obchodník s informacemi.
+            Zboží: Informace o lesních cestách, banditech, nebo o minulosti Temnohvozdu.
+            Osobnost: Tajemný, rád mluví v hádankách a vyžaduje platbu buď ve zlatě, nebo ve formě příběhů či magických předmětů.
+
+4. Svatyně Dvou lun (duchovní centrum)
+
+    Popis: Lesní chrám věnovaný božstvům přírody, zdobený rostlinami, runami a magickými světly.
+    Postava: Kněžka Elrína
+        Role: Duchovní vůdkyně města a strážkyně lesní rovnováhy.
+        Osobnost: Moudrá a klidná, ale neústupná v otázkách ochrany přírody.
+        Služby: Léčení, duchovní rady, požehnání pro ochranu.
+
+5. Strážní stanice Temného hvozdu
+
+    Popis: Základna elfských strážců, kteří chrání město i jeho hranice.
+    Postava: Velitelka Faerith Stříbrná hlídka
+        Role: Velitelka stráže, silná elfka s pragmatickým přístupem.
+        Osobnost: Tvrdá, ale spravedlivá. Má důvěru obyvatel i svých mužů.
+        Interakce: Může hrdinům poskytnout základní úkoly nebo informace o hrozbách v lese.
+
+Shrnutí: Možné interakce
+
+    Ellarian Vítrunes: Učení kouzel a identifikace předmětů.
+    Tržiště Mlžné stezky: Nákup zbraní, lektvarů, amuletů a informací.
+    Kněžka Elrína: Léčení a duchovní podpora.
+    Strážní stanice: Informace o bezpečnosti a politice Temnohvozdu.
+
+Zde jsou inventáře a ceny pro Ellarian, Miru a Sylase v Srdci Temnohvozdu. Ceny jsou přizpůsobeny tak, aby odpovídaly nízkým úrovním postav a prostředí fantasy světa:
+1. Ellarian Vítrunes (Magické svitky a služby)
+
+    Svitky:
+        Magic Missile: 50 zl.
+        Shield: 40 zl.
+        Detect Magic: 25 zl.
+        Invisibility: 100 zl.
+        Sleep: 50 zl.
+    Knihy kouzel:
+        Základní kouzelnická kniha s 2 základními kouzly: 200 zl.
+    Identifikace předmětů:
+        Cena za identifikaci jednoho předmětu: 25 zl.
+        Pokud hráči splní vedlejší úkol pro Ellarian, může jim identifikovat jeden předmět zdarma.
+
+2. Myra Listokvět (Bylinky, lektvary a jedy)
+
+    Léčivé předměty:
+        Léčivý lektvar (2d8 HP): 50 zl.
+        Protijed: 40 zl.
+        Základní bylinky (k vaření vlastních lektvarů): 10 zl za svazek.
+    Speciální předměty:
+        Esence noční růže: Zvyšuje obranné schopnosti o +1 AC na 1 hodinu (jednorázově): 60 zl.
+        Prášek z flóreskujících hub: Umožní nositeli vidět ve tmě po dobu 1 hodiny: 30 zl.
+        Vílí kapky: Slabý jed způsobující ospalost (vyžaduje záchranný hod vs. jed DC 13): 25 zl.
+    Služby:
+        Myra může vytvořit lektvar na zakázku, pokud hráči dodají ingredience. Cena se pohybuje mezi 30–100 zl podle složitosti.
+
+3. Sylas Zelený šíp (Zbraně, šípy a zbroje)
+
+    Zbraně:
+        Krátký luk: 25 zl.
+        Dlouhý luk: 50 zl.
+        Šípy (svazek 20): 5 zl.
+        Krátký meč: 15 zl.
+        Elfský nůž (lehká zbraň, bonus +1 k útoku): 50 zl.
+    Zbroje:
+        Lehká kožená zbroj: 20 zl.
+        Elfská kožená zbroj (+1 AC): 75 zl.
+    Speciální předměty:
+        Amulet přirozené obratnosti (+1 k Obratnosti na 24 hodin, jednorázové použití): 40 zl.
+        Lovecký roh: Umožňuje přivolat pomoc blízkých zvířat v lese: 60 zl.
+    Služby:
+        Sylas může upravit zbroj nebo zbraň hráčů za 10–30 zl (záleží na úpravě).
+
+Poznámka: Slevy a výhody
+
+    Ellarian: Může dát slevu za splnění úkolu pro Temnohvozd nebo za cenné informace.
+    Myra: Ráda obchoduje s ingrediencemi, pokud hráči přinesou vzácné bylinky nebo houby.
+    Sylas: Nabídne lepší cenu, pokud hráči prokážou své dovednosti v lovu nebo ochrání tržiště před hrozbou.

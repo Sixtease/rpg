@@ -1,0 +1,42 @@
+Statistiky vlka Rychlíka
+
+Rychlík je věrný a bystrý společník s přirozenými schopnostmi, které jsou ideální pro cestování, boj i průzkum. Jeho statistiky odpovídají vlkovi v základních pravidlech, s menšími úpravami pro příběhovou hodnotu.
+
+Základní statistiky:
+
+    HP (Hit Points): 10
+    AC (Armor Class): 13 (přirozené krytí)
+    Útok: +2 k Útoku, 1d6+1 (kousnutí)
+    Rychlost: 40 stop (rychlejší než většina postav)
+
+Schopnosti:
+
+    Kousnutí:
+        Útok zblízka: +2 k Útoku
+        Zranění: 1d6+1 bodů drtivého zranění
+        Zvláštní efekt: Pokud cíl neuspěje v hodu na Sílu (DC 11), je sražen na zem.
+
+    Pachová stopa:
+        Schopnost vystopovat nepřátele nebo najít předměty na základě pachu (hod na Perception s výhodou).
+
+    Skok:
+        Schopnost skočit na vzdálenost až 15 stop horizontálně nebo 10 stop vertikálně.
+
+    Týmová spolupráce:
+        Pokud je Bárt poblíž (do 5 stop), Rychlík získává výhodu při hodu na Útok (pouze kousnutí).
+
+    Věrnost:
+        Rychlík nikdy neopustí Bárta, pokud není vážně zraněn nebo vyděšen.
+
+Osobnostní rysy:
+
+    Povaha: Rychlý a inteligentní, s občas hravou, ale velmi loajální povahou.
+    Slabost: Má strach z ohně a nerad vstupuje do oblastí, kde cítí kouř.
+
+Rychlík jako společník v boji:
+
+    Rychlík je skvělý pro zastrašení slabších protivníků a překvapivé útoky. Díky své rychlosti může obíhat nepřátele a vytvářet taktické výhody.
+    Může být použit k narušení formací nepřátel tím, že zaútočí na jejich zadní linie.
+
+vybavení: obojek predátora
+    Umožňuje zvířeti provést jeden "zastrašující útok" za den, který donutí protivníky v okruhu 5 metrů uspět v záchranném hodu proti strachu (jinak ustoupí nebo budou mít postih -2 na všechny akce proti zvířeti na 2 kola).

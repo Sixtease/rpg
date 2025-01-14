@@ -1,0 +1,56 @@
+Igor Klerik
+level 3
+zk: 4970
+
+síla: 9
+inteligence: 7 -1
+moudrost: 16 +2
+obratnost: 13 +1
+odolnost: 18 +3
+charisma: 4 -2
+armor class: 20
+životů: 24 (24)
+
+ještěří plátová zbroj
+štít +1
+warhammer +1 (+3 / 1k6 (2k6 proti nemrtvým))
+prak
+10 kamenů
+elfí šperky za 1000ag
+
+cure light wounds
+protection from evil
+
+100 stříbrných
+
+
+# ZABAVENO:
+
+661 stříbrných
+
+kroužková zbroj
+štít
+warhammer +1 / 1k6
+prak +2
+  47x kulka 1k4
+  0x kámen 1k3
+batoh
+ledvinka
+1x flakonek (voda na kuráž)
+monstrance
+10x hřebíky
+50" lano
+měch (léčivá voda)
+píšťalka
+magická hůl
+9x ozdobný prsten
+2x náhrdelník
+amulet +1 saving throws
+svitek (mlha)
+flakon s jedem na vodu
+flakon s jedem na radomíra
+flakon s jedem na vraždu
+elixír obratnosti
+magnetická návnada
+plášť +2 skrývání
+dýka

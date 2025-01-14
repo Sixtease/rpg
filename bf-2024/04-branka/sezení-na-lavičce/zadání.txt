@@ -1,0 +1,106 @@
+Základní scénář: Velkoměsto Branka
+Úvod do situace:
+
+Čtvrť Dřevní je jednou z rušných částí Branky, vedená starostou Pěvcem, který dostal své jméno kvůli skládání špatných veršů, nikoli kvůli vůdčím schopnostem. Pěvec je známý jako váhavý a nerozhodný, takže praktickou moc v čtvrti převzal biřic Váša Hrom, který špatně pochopil celoměstské nařízení o uvolňování míst a vymáhá ho s přehnanou horlivostí.
+Zapojené postavy:
+
+    Starosta Pěvec:
+        Osobnost: Mírně zbabělý, nechce se dostat do konfliktu, takže Vášu nechává jednat podle jeho vůle. Rád mluví v metaforách a básních, což někdy zmate ostatní.
+        Role: Pasivní NPC, kterého hrdinové mohou přesvědčit, aby intervenoval. (Charisma check, DC 12, pokud použijí diplomatické argumenty, nebo DC 8, pokud ho pochválí za jeho poezii.)
+
+    Biřic Váša Hrom:
+        Osobnost: Agresivní a autoritativní, s hrdostí prosazuje pravidlo, i když mu úplně nerozumí. Je přesvědčen, že jeho přístup je nejlepší pro čtvrť.
+        Role: Hlavní problémový NPC, který pravidlo vymáhá, a potenciální protivník v konfliktu.
+
+    Obyvatelé čtvrti:
+        Pekařka Ilka: Vyčerpaná matka, která zoufale potřebuje místo k odpočinku.
+        Stařík Lorin: Nespravedlivě potrestaný za to, že si dovolil sednout.
+        Pouliční umělec Kája: Má klíčové informace o původu problému, ale chce pomoc s návratem ke svému obvyklému místu vystupování.
+
+    Rada města:
+        Členové rady jsou stále dostupní, ale jejich pomoc je omezená, protože jsou zahlceni jinými problémy. Pokud se k nim hrdinové dostanou, mohou vydat nový rozkaz.
+
+Herní fáze a interakce:
+
+    Setkání s obyvateli:
+    Hrdinové přicházejí do čtvrti a okamžitě si všimnou prázdných lavic a přetížených ulic. Pekařka Ilka jim vysvětlí situaci a zmíní, že biřic Váša každého od lavic odhání.
+
+    Setkání s Váša Hromem:
+    Váša patroluje na hlavním náměstí a na první pohled působí zastrašujícím dojmem.
+        Přesvědčování: Hrdinové se mohou pokusit Vášu přesvědčit, že pravidlo pochopil špatně. (Charisma check, DC 15.)
+        Konflikt: Pokud přesvědčování selže, může dojít k fyzickému střetu (viz statistiky níže).
+        Sabotáž: Pupík nebo Nina by mohli Vášu lstivě odlákat, například tím, že vytvoří falešný rozruch jinde.
+
+    Audience u Pěvce:
+    Pokud se hrdinové rozhodnou jít přímo ke starostovi Pěvci, mohou ho přesvědčit, aby zasáhl proti Váša Hromovi. Pěvec bude váhat, ale pokud ho přesvědčí diplomatickými nebo lichotivými slovy, souhlasí s vydáním nového rozkazu.
+
+    Rada města:
+    Pokud hrdinové neuspějí u Pěvce nebo se rozhodnou jít přímo na městskou radu, mohou získat autoritativní příkaz ke zrušení Vášiho pravidla.
+
+Mechanika boje:
+
+Pokud dojde k fyzickému střetu s Váša Hromem:
+
+    Statistiky Váši:
+        AC: 14 (kožená zbroj)
+        HP: 18
+        Útok: +3, obušek 1d6+1
+        Doprovod: 2 pochybní pomocníci (AC: 12, HP: 10, 1d6+1).
+
+Odměna:
+
+    Materiální:
+        Pekařka Ilka daruje hrdinům čerstvé pečivo a koláče.
+        Starosta Pěvec může poskytnout 15 stříbrných jako symbolickou odměnu.
+
+    Sociální:
+        Hrdinové získají pověst ochránců spravedlnosti v čtvrti Dřevní.
+
+    Bonus:
+        Pouliční umělec Kája jim může darovat mapu nebo jiné užitečné informace.
+
+Doplňky:
+
+    Pěvcovy básně mohou přinést humor a oživení příběhu. Například při podepisování nového rozkazu může říct:
+    „Pravidla změnit musíme hned,
+    lavice prázdné nemají smysl, to svět!
+    Vášo, ty blázne, jdi raději pást,
+    než si tě město za hlupáka najde a smázne!“
+
+Tato verze lépe zapojuje postavy a čtvrt Dřevní v rámci městského prostředí Branky. 😊
+
+
+Další zapojení: Obchodník a jeho lavička
+
+    Postava: Obchodník Kryštof Záda
+        Role: Obchodník s drobným zbožím (byliny, sušené ovoce, drobné nástroje), jehož hlavní "výloha" je jeho lavička na náměstí.
+        Osobnost: Pragmatický a mrzutý muž, který nechápe, proč Váša zakázal sezení na jeho lavičce, kterou si sám koupil a udržuje. Kryštof na lavičce nechává své klienty čekat, než na ně přijde řada.
+        Motivace: Chce vyřešit situaci, protože zákazníci odcházejí naštvaní, což mu kazí obchod.
+        Citát: „Lavička je moje. Jestli se někdo na ni nesmí posadit, tak jen podle mýho rozkazu!“
+
+    Scéna: Absurdní situace na lavičce
+        Hrdinové přijdou k obchodu Kryštofa, který jim nabídne zboží a vybídne je, aby si „sedli a počkali, až budou na řadě“. Pokud to udělají, okamžitě se objeví biřic Váša, aby je pokáral za porušení pravidel.
+        Interakce s Váša Hromem:
+            Hrdinové mohou upozornit, že lavička je Kryštofova a že si na ni sedli na jeho pokyn.
+            Váša odpoví, že pravidla platí i na soukromý majetek na veřejném místě (absurdní výklad, ale Váša je v tom neústupný).
+
+    Zapojení Kryštofa:
+        Kryštof se stane dalším spojencem hrdinů, který je podpoří v argumentaci u starosty Pěvce nebo u rady města.
+        Může jim také poskytnout drobnou odměnu, například balíček bylin nebo sušené ovoce, pokud situaci vyřeší.
+
+Doplněk k odměnám:
+
+    Materiální od Kryštofa:
+        Balíček bylin (např. pro přípravu léčivého lektvaru).
+        Sušené ovoce (2 dny potravin).
+        Malý měšec se 5 stříbrnými jako poděkování.
+
+    Sociální:
+        Kryštof bude ochotný pomoci hrdinům i v budoucnu, například jim poskytne slevu na své zboží.
+
+Rozšíření pro humor:
+
+    Pokud hrdinové sedí na lavičce a Váša začne vykládat své "pravidlo", Kryštof ho může přerušit:
+    „Vášo, radši hlídej, aby někdo neukradl městské sudy, a nech mý zákazníky sedět! Já snad musím začít prodávat na střeše!“
+    Váša na to může reagovat autoritativně:
+    „Pravidla jsou pravidla, Kryštofe! A lavička je na náměstí, takže podle zákona… moje!“

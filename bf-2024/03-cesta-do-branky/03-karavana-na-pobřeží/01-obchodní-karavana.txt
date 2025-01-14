@@ -1,0 +1,45 @@
+Setkání s karavanou
+Popis karavany:
+
+Karavana je složená ze tří velkých vozů, tažených mohutnými koňmi. Karavanu doprovází asi deset lidí, včetně vozka, několika strážců a hlavního obchodníka.
+
+    Hlavní obchodník: Martin Dráp – zkušený a pragmatický obchodník, který sice není zcela loajální Kamenici, ale ví, jak se pohybovat ve světě obchodu.
+    Strážci: Tři zbrojnoši ozbrojení meči a krátkými luky.
+    Doprovod: Dva vozkové a kuchař.
+
+Scéna setkání:
+
+Družina narazí na karavanu večer, když se připravuje k noclehu na travnaté ploše poblíž cesty. Z voňavého kotlíku nad ohněm stoupá pára a lidé karavany vypadají unaveně, ale přátelsky. Martin Dráp hned nabídne obchodní rozhovor, pokud družina projeví zájem.
+Informace od karavany
+
+    Obchod Kamenice-Branka:
+        Karavana veze luxusní zboží: hedvábí, víno, drahé kovy a umělecké předměty.
+        V Brance mají dlouhodobé obchodní vazby na šlechtu a významné městské cechy.
+        Hlavním cílem Kamenice je rozšíření vlivu v Brance, kde má za sebou několik bohatých kupců, kteří preferují levné kamenické zboží před tradičními dodavateli z Temnohvozdu.
+
+    Ztracená karavana:
+        Před měsícem vyrazila menší karavana se speciální zásilkou, pravděpodobně artefakty a drahými kovy, které měly být dány jako dar purkmistrovi Branky.
+        Byla naposledy spatřena na stezce vedoucí na jih od Atay, poté zmizela. Místní lidé mluví o duchách stepi nebo tatranských lupičích, ale pravdu nikdo neví.
+        Martin Dráp nabídne družině odměnu (200 stříbrných a 10% hodnoty nalezeného zboží), pokud se jim podaří zásilku najít a přivézt do Branky.
+
+    Pověsti o Atě:
+        Martin zmiňuje, že v Atě je napjatá situace mezi tatarskými klany a že obchodníci jako on raději město obcházejí, aby se vyhnuli problémům.
+
+Možné interakce:
+
+    Obchod:
+        Hrdinové mohou koupit zásoby nebo základní vybavení. Martin má například olejové lampy, koření nebo hedvábí na oděvy.
+
+    Vyjednávání:
+        Pokud hrdinové projeví zájem o hledání ztracené karavany, mohou smlouvat o vyšší odměně.
+
+    Střet:
+        Jednou z možností je, že během rozhovoru karavanu přepadnou tatranské bandity, což může být první ukázka napětí v regionu.
+
+Zboží v karavaně:
+
+Pro aktuální karavanu bych navrhl toto složení:
+
+    Jeden vůz s látkami (lněné a vlněné látky, šátky).
+    Jeden vůz s vínem (červené víno a švestková pálenka).
+    Jeden vůz se sudy sušeného ovoce, koření a ozdobnými truhlami (směs z Kamenice i dovoz z jihu).

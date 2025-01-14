@@ -1,0 +1,71 @@
+Inventář a ceny v druidském chrámu v Srdci Temnohvozdu
+
+Druidský chrám je zaměřen na přírodu, léčbu, ochranu a rovnováhu. Inventář je orientovaný na přírodní magii, léčivé byliny a magické předměty s přímým spojením s lesem. Ceny jsou často nastavené s ohledem na barterový systém, ale níže je uveden přepočet na zlato.
+Léčivé byliny a přípravky
+
+    Lektvar léčby
+        Léčí 1d8 HP.
+        Cena: 50 zl.
+
+    Lektvar odolnosti proti jedům
+        Poskytuje výhodu na záchranné hody proti jedům na 1 hodinu.
+        Cena: 40 zl.
+
+    Balíček sušených bylin
+        Složení: Heřmánek, třezalka, máta. Použitelné k léčbě drobných zranění.
+        Cena: 10 zl.
+
+    Esence lesa
+        Kouzelný extrakt, který zvyšuje odolnost (dočasný bonus +1 k Constitution na 1 hodinu).
+        Cena: 60 zl.
+
+Přírodní magické předměty
+
+    Náramek z lián
+        Poskytuje bonus +1 k Nature a Survival.
+        Cena: 150 zl.
+
+    Semeno rovnováhy
+        Jednorázové použití. Při zasazení vyvolá kouzlo „Plant Growth“ na 30 stop kolem místa použití.
+        Cena: 100 zl.
+
+    Kámen přírodního spojení
+        Magický kámen umožňující komunikaci s přírodními duchy v okolí (jedno použití, efekt kouzla „Commune with Nature“).
+        Cena: 200 zl.
+
+    Plášť z listí
+        Poskytuje bonus +2 k Stealth v lese.
+        Cena: 300 zl.
+
+    Amulet věčné vody
+        Jednorázový předmět, který vytvoří 10 galonů čisté vody.
+        Cena: 50 zl.
+
+Služby
+
+    Léčení zranění nebo nemocí
+        Cena: 20 zl. za menší zranění, 50 zl. za těžké zranění nebo odstranění nemoci.
+
+    Rituální očista
+        Cena: 30 zl.
+
+    Požehnání druidů
+        Dočasně zvyšuje jednu schopnost (např. Strength, Dexterity) o +1 na 1 hodinu.
+        Cena: 50 zl.
+
+    Vytvoření magického amuletu
+        Druid vytvoří amulet s efektem podle požadavků, vyžaduje čas (1–2 týdny) a cenu dle složitosti (150–500 zl.).
+
+    Výuka přírodní magie
+        Naučí jedno přírodní kouzlo nebo rituál (např. „Goodberry“, „Speak with Animals“).
+        Cena: 100 zl.
+
+Unikátní možnosti směny
+
+    Chrám upřednostňuje barter a je ochotný přijmout:
+        Vzácné byliny nebo semena.
+        Zvířecí kožešiny.
+        Pomoc s obranou lesa nebo rituály.
+        Informace o pohybu nepřátel Temnohvozdu.
+
+Pokud je potřeba podrobnější popis jednotlivých položek nebo přidat další nabídky, dej vědět! 😊

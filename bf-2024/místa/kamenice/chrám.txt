@@ -1,0 +1,72 @@
+Služby chrámu:
+1. Léčivé rituály:
+
+    Léčení lehkých zranění (Cure Light Wounds):
+        Cena: 20 zl. za osobu.
+        Obnoví 1d8 HP.
+    Léčení vážných zranění (Cure Serious Wounds):
+        Cena: 75 zl. za osobu.
+        Obnoví 2d8 HP.
+    Odstranění nemoci (Remove Disease):
+        Cena: 100 zl.
+        Vyléčí nemoci, včetně těch způsobených magií.
+    Neutralizace jedu (Neutralize Poison):
+        Cena: 150 zl.
+        Zbaví postiženého jedu.
+
+2. Duchovní ochrana:
+
+    Požehnání (Bless):
+        Cena: 15 zl. za osobu.
+        Poskytuje bonus +1 k hodům na útok a záchranným hodům na 1 hodinu.
+    Odvrácení nemrtvých (Turn Undead):
+        Cena: 50 zl. (rituál na ochranu místa).
+        Ochrání oblast před nemrtvými na 24 hodin.
+    Očistný rituál (Atonement):
+        Cena: 200 zl.
+        Očistí hříchy a obnoví božskou přízeň (vyžaduje GM rozhodnutí).
+
+3. Věštění:
+
+    Jasnovidectví (Divination):
+        Cena: 75 zl.
+        Poskytne hrdinům rady nebo vodítka o jejich aktuální situaci.
+    Odpovědi na otázky (Augury):
+        Cena: 50 zl. za otázku.
+        Kněz vyvolá božstvo, aby odpovědělo, zda určitý čin přinese dobré nebo špatné následky.
+
+Inventář:
+1. Lektvary:
+
+    Lektvar léčení:
+        Cena: 50 zl.
+        Obnoví 2d8 HP.
+    Protijed:
+        Cena: 40 zl.
+        Neutralizuje běžné jedy.
+    Elixír rovnováhy:
+        Cena: 75 zl.
+        Umožňuje na 1 hodinu získat bonus +1 k hodům na Charisma a Moudrost.
+
+2. Magické předměty:
+
+    Amulet harmonie:
+        Cena: 150 zl.
+        Poskytuje bonus +1 k záchranným hodům proti kouzlům.
+    Prsten rovnováhy:
+        Cena: 250 zl.
+        Nositel je chráněn proti kouzlům ovlivňujícím mysl (např. „Charm Person“ nebo „Fear“).
+    Svatý symbol rovnováhy:
+        Cena: 50 zl.
+        Nutný pro rituály kněží božstva Si.
+
+3. Speciální nabídka:
+
+    Segret harmonie (mystický svitek):
+        Cena: 100 zl.
+        Obsahuje rituál, který na 1 den obnoví rovnováhu přírodního prostředí (např. odstraní kontaminaci vody).
+
+Další poznámky:
+
+    Vyjednávání: Hrdinové mohou zkusit snížit ceny vyjednáváním, pokud přesvědčí kněze o své věrnosti božstvu rovnováhy.
+    Vedlejší úkoly: Kněz může nabídnout slevu nebo speciální odměnu, pokud hrdinové splní úkol, např. najdou ztracený svatý symbol nebo pomohou ochránit místní poutníky.

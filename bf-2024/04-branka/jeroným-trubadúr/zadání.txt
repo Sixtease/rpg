@@ -1,0 +1,187 @@
+Příběhový základ
+
+Postavy:
+
+    Jeroným Trubadúr: Charismatický bard, známý svými dobrodružnými historkami, které mísí pravdu s fantazií. Zemřel v souboji, když urazil manžela jedné ženy.
+    Dlužník - Norbert Vydra: Místní boháč s pověstí opilce a hazardního hráče. Tvrdí, že dluh Jeronýmovi splatil, ale pravda je, že peníze nechal v truhle. Chce se dluhu zbavit jakýmkoliv způsobem.
+    Nájemný vrah - Vlk: Tichý a smrtící zabiják, kterého Norbert najme, aby se zbavil Pupíka.
+    Hospodský - Janek: Majitel hostince "U Zlatého rohu," který Jeronýmovu smrt využil ke zvýšení návštěvnosti svého podniku. Pokoj zakonzervoval a nechal ho otevřený jako atrakci.
+
+Struktura dobrodružství
+
+    Úvodní expozice:
+        Pupík a Igor (nebo jiná postava) uslyší Jeronýmovy příběhy od hostů v hospodě.
+        Hospodský Janek může přihodit historku o dlužní hůlce a pokoji, který nyní slouží jako atrakce. Zmiňuje, že pokoj je v noci zamčený, protože „lidé jsou různí.“
+
+    Infiltrace pokoje:
+        Pupík musí najít způsob, jak se v noci dostat do pokoje.
+        Dveře do pokoje jsou zamčené (Hod na otevření zámku DC 15).
+        Truhla obsahuje past:
+            Past: Ohnivý šíp (Hod na odhalení pasti DC 14, Hod na zneškodnění DC 16).
+            Obsah: Dlužní hůlka a 20 stříbrných mincí.
+
+    Vymáhání dluhu:
+        Pupík navštíví Norberta a tvrdí, že mu Jeroným hůlku daroval před smrtí.
+        Norbert, rozčilený, odmítne zaplatit ihned, ale slíbí splacení další den. Mezitím vyšle Vlka, aby Pupíka umlčel.
+
+    Střet s nájemným vrahem:
+        Vlk sleduje Pupíka a zaútočí, když bude sám (nebo ve slabé pozici).
+        Boj s Vlkem (Statistiky níže).
+        Po porážce Vlk prozradí, že ho najal Norbert.
+
+    Konfrontace s Norbertem:
+        Pupík a Igor mohou Norberta konfrontovat za účasti městské stráže nebo mu pohrozit veřejným odhalením.
+        Norbert, zatlačen do kouta, zaplatí dluh v plné výši (300 stříbrných) a přislíbí, že hůlku spálí, aby už neexistovaly důkazy.
+
+Statistiky klíčových postav
+
+Vlk (Nájemný vrah):
+
+    HP: 18
+    AC: 14 (kožená zbroj)
+    Útoky:
+        Dýka: +4 k zásahu, 1k6+2 poškození.
+        Kradmé zasáhnutí (při překvapení): +6 k zásahu, 2k6+2 poškození.
+    Schopnosti:
+        Skrývání (Stealth): +6
+        Přebití iniciativy (Surprise Attack): V prvním kole boje má Vlk výhodu na všechny hody na útok.
+    Motivace: Vykonat práci a přežít. Pokud je poražen, snaží se vyjednávat.
+
+Norbert Vydra:
+
+    HP: 10
+    AC: 12 (žádná zbroj, spoléhá na stráže).
+    Schopnosti:
+        Obelhávání (Deception): +5
+        Obchod (Persuasion): +3
+    Motivace: Zbavit se dluhu bez ztráty pověsti.
+
+Alternativní větve příběhu
+
+    Přiznání hospodského:
+        Pokud hrdinové chtějí obejít Norberta, mohou hospodského přesvědčit, aby jim pomohl veřejně odhalit pravdu o truhle.
+
+    Norbertova past:
+        Norbert může místo nájemného vraha nastražit past (např. jed nebo léčku se svými kumpány), aby se zbavil Pupíka.
+
+    Veřejné odhalení:
+        Hrdinové mohou inscenovat veřejné odhalení v hostinci, kde předloží dlužní hůlku jako důkaz a získají podporu přítomných svědků.
+
+Kořist
+
+    Dlužní hůlka: 600 stříbrných.
+    Vlk: Kradený prsten (15 stříbrných), jed na dýku.
+    Norbertovo sídlo (pokud je prohledáno): Drahé víno (50 stříbrných), zlacená číše (25 stříbrných), 75 stříbrných v hotovosti.
+
+Hospoda "U Zlatého rohu"
+
+    Popis:
+        Výrazná dřevěná budova s bronzovou sochou berana nad vchodem, odtud název. Socha je místní kuriozitou.
+        Interiér je útulný, s velkým otevřeným krbem, dlouhými lavicemi a několika oddělenými boxy pro hosty, kteří chtějí soukromí.
+        Stěny jsou ozdobeny loveckými trofejemi a několika starými mapami Branky.
+        Vývěsní štít hostince slibuje "nejlepší jelení guláš ve městě."
+
+    Atraktivita pokoje:
+        Pokoj Jeronýma je na druhém patře, na konci chodby.
+        Dveře jsou otevřené během dne, ale přes noc se zamykají (zámek DC 15 na vypáčení).
+        Na dveřích visí dřevěná cedule s nápisem: „Pokoj slavného Jeronýma Trubadúra – vstup na vlastní nebezpečí!“
+        Pokoj je v perfektním pořádku, jako by Jeroným právě odešel: jeho oděv visí na věšáku, na stole je rozevřená mapa a pohár s vyschlým vínem, meč a loutna jsou vystaveny na stojanech.
+        Truhla je v rohu pokoje, zajištěná složitou pastí (viz níže).
+
+Dlužník - Norbert Vydra
+
+    Popis:
+        Norbert je bohatý, ale morálně pochybný obchodník kolem 40 let. Má mastné vlasy, buclatý obličej a nosí luxusní, avšak ne úplně čisté oblečení.
+        Známý svou zálibou v hazardu a drahém vínu, které často pije nad míru.
+        Když se mluví o jeho prohře s Jeronýmem, vždy se snaží téma stočit jinam nebo vtipkovat, aby odvedl pozornost.
+
+    Zvyky:
+        Ráno tráví na tržišti, kde obchoduje s látkami.
+        Obědvá v luxusní hospodě "U Tří korbelů."
+        Odpoledne obvykle tráví doma nebo u obchodních partnerů.
+        Večer navštěvuje herny nebo popíjí ve Starém přístavu.
+
+Scéna přepadení Pupíka
+
+    Čas a místo:
+        Přepadení se odehraje kolem půlnoci v opuštěné části Tržní čtvrti, kde už je jen pár osvětlených lamp a slyšet jsou vzdálené kroky strážných.
+
+    Útočník:
+        Vlk (nájemný vrah):
+            Pohybuje se tiše a útočí ze stínu.
+            Používá dýku potřenou jedem (1k6 poškození + DC 12 na záchranu proti jedu, jinak 1k4 poškození za další 2 kola).
+
+    Popis útoku:
+        Vlk sleduje Pupíka z hospody a čeká, až se vzdálí od přátel.
+        První útok se pokusí provést ze zálohy (Stealth DC 16).
+        Pokud Pupík přežije první útok a nezačne boj, Vlk se bude pokoušet ho zastrašit: „Dlužní hůlku buď dáš, nebo tě už nikdy nenajdou!“
+        Při boji se snaží zůstat na úzkých místech, kde má výhodu v boji jeden na jednoho.
+
+    Vyšetřování:
+        Pokud Pupík Vlka přemůže, může ho vyslýchat. Vlk prozradí, že ho najal Norbert, pokud se mu slíbí milost.
+        U Vlka lze najít útržek papíru s Norbertovým podpisem jako důkaz o najmutí.
+
+Past v truhle
+
+    Typ pasti:
+        Ohnivý šíp: Při otevření truhly bez deaktivace pasti vyšlehne ohnivý šíp, který způsobí 2k6 poškození všem v dosahu 3 metrů.
+    Mechanika:
+        Hod na odhalení pasti (DC 14).
+        Hod na deaktivaci pasti (DC 16).
+    Obsah truhly:
+        Dlužní hůlka.
+        Několik Jeronýmových osobních věcí (např. jeho pečetidlo a starý dopis od milenky).
+        Váček s 20 stříbrnými mincemi.
+
+Původní příběh Jeronýma
+
+„Kdysi jsem utíkal z dračího hnízda a musel jsem přeběhnout úzké lano mezi skalami, oslepený kouzelnou mlhou! A jakoby to nestačilo, draci na mě posílali své létající ještěry! Musel jsem je odrážet mečem, zatímco jsem se držel rovnováhy – a samozřejmě jsem přežil, protože jsem Jeroným Trubadúr!“
+Norbertova reakce a sázka
+
+Norbert, místní boháč a velký skeptik, se zasmál:
+„Tohle ti nesežere ani děcko, Jeronýme! Ani střízlivý bys nedokázal přejít po zábradlí, natož slepý a se zbraní! Vsadím se o pěknou sumičku, že to nepředvedeš!“
+
+    Sázka: Norbert nabídl Jeronýmovi částku 500 stříbrných nebo odpovídající hodnotu. Na místě se dohodli, že Jeroným dostane dlužní hůlku jako doklad.
+    Dav: Hospodští štamgasti, kteří byli svědky, nadšeně přihlíželi, protože takovou podívanou nikdo nechtěl zmeškat.
+
+Jeronýmův výkon
+
+Jeroným, s očividnou radostí z pozornosti, si nechal zavázat oči a vylezl na zábradlí poblíž přístavu.
+
+    První část: Ukázal svou rovnováhu a přejel špičkami bot po hraně zábradlí.
+    Druhá část: Vzal si dřevěný meč a vyzval Norberta: „Představ si, že jsi ještěr, a zkus mě srazit dolů!“
+    Souboj: I s páskou přes oči Jeroným odrážel Norbertovy pokusy o úder. Nakonec Norberta „zasáhl“ do boku a triumfálně seskočil zpět na zem.
+
+Výsledek sázky
+
+    Publikum: Dav ho oslavoval a smál se Norbertovu ponížení.
+    Norbert: Se zaťatými zuby předal dlužní hůlku Jeronýmovi a slíbil splatit svůj dluh.
+    Jeroným: Uložil hůlku do své truhly s pastí a pokračoval v oslavách, což se později ukázalo jako jeho poslední triumf.
+
+Osoba, která zdolala Jeronýma v souboji:
+
+    Jméno: Bohdan Železník
+    Povolání: Kovář a bývalý voják
+    Vzhled: Urostlý muž ve středních letech, s mohutnými rameny, jizvou na tváři a ošlehanou kůží od práce u výhně.
+    Pověst: Bohdan je známý pro svou čestnost a silnou povahu, ale také pro to, že bývá dost prchlivý, zejména pokud se někdo otře o jeho rodinu.
+
+Jeho žena:
+
+    Jméno: Helena Železníková
+    Vzhled: Krásná žena s dlouhými světlými vlasy a jemným úsměvem. Nosí jednoduché, ale dobře udržované šaty, často zdobené jemnou výšivkou, kterou sama dělá.
+    Pověst: Helena je laskavá a oblíbená mezi sousedy. Pomáhá s různými drobnými pracemi a je známa svou klidnou povahou.
+
+Co Jeroným řekl Heleně:
+
+Jeroným se během večera ve společnosti několikrát pokusil na Helenu zapůsobit svými historkami. Když si všiml, že ho spíš ignoruje, oslovil ji přímo slovy:
+"Ach, Heleno, krásko s očima jako hvězdné nebe! Nechápu, jak může někdo jako ty být spoután s prostým kovářem, když bys měla zářit po boku někoho, jako jsem já. Jen jediné slovo a celý svět ti leží u nohou."
+
+Magdaléna se prý jen zdvořile usmála a odpověděla:
+"Můj svět je již dokonalý, pane Jeronýme. Ale děkuji za vaši nabídku."
+
+Bohdan si to celé vyslechl, zatímco seděl opodál, a vztek v něm začal narůstat. Když Jeroným v opilosti pokračoval ve svých lichotkách a začal být drzý, Bohdan vstal a důrazně ho vyzval:
+"Ukaž, co umíš, slavný Trubadúre, a pak se omluv mé ženě, nebo tě naučím pokoře!"
+
+Samotný souboj:
+
+V souboji Jeroným sice prokázal šermířské schopnosti, ale Bohdan, zkušený válečník, si zachoval klidnou hlavu. Použil svou sílu a přesnost, aby Jeronýma vyřadil několika rychlými údery. Jeroným upadl po zásahu plochou stranou meče, a zlomil si vaz.

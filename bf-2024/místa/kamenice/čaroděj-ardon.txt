@@ -1,0 +1,100 @@
+Kouzelník v Kamenici
+
+    Jméno: Ardon z Kamenice
+    Povolání: Kouzelník
+    Osobnost: Ardon je pragmatický a trochu podezíravý. Sám je na straně kamenické rady, ale je ochoten obchodovat, pokud to zlepší jeho vlastní postavení.
+
+Inventář a ceny:
+1. Svitky kouzel:
+
+    Magic Missile – 50 zl.
+    Detect Magic – 25 zl.
+    Shield – 40 zl.
+    Sleep – 75 zl.
+    Fireball – 150 zl. (omezeno na 1 kus).
+    Invisibility – 100 zl.
+
+2. Magické předměty:
+
+    Amulet proti ohni – 75 zl.
+    Poskytuje odolnost proti ohnivým kouzlům (sníží zranění ohněm o polovinu).
+    Prsten ochrany – 100 zl.
+    Přidává +1 k AC a záchranným hodům.
+    Hůl magické energie – 200 zl.
+    Umožňuje seslat „Magic Missile“ jednou denně zdarma.
+    Kniha kouzel (základní) – 250 zl.
+    Obsahuje 5 základních kouzel 1. úrovně.
+
+3. Lektvary a speciální předměty:
+
+    Léčivý lektvar – 50 zl.
+    Obnovuje 2d8 HP.
+    Protijed – 40 zl.
+    Elixír neviditelnosti – 100 zl.
+    Způsobí, že uživatel zmizí na 1 hodinu.
+    Světelný krystal – 20 zl.
+    Vydává světlo jako pochodeň po dobu 8 hodin.
+    Prášek iluze – 60 zl.
+    Umožňuje vytvořit malý iluzorní obraz (velikost zvířete nebo osoby) na 1 hodinu.
+
+4. Služby:
+
+    Identifikace předmětu: 25 zl. za předmět.
+    Pronájem kouzla:
+        Dispel Magic – 50 zl.
+        Teleport (krátká vzdálenost): 150 zl.
+    Oprava kouzelnického vybavení: 10–50 zl. podle složitosti.
+
+Zvláštní nabídka:
+
+Ardon může hráčům nabídnout speciální předmět nebo svitek, pokud pro něj splní drobný úkol, například:
+
+    Donést vzácnou bylinu z lesa.
+    Najít ztracený magický předmět v Kamenici.
+
+Pokud chceš něco přidat nebo rozvést Ardonovu osobnost, dej vědět! 😊
+
+
+
+Kouzla k naučení od Ardona z Kamenice
+
+Ardon je člověk s pragmatickým pohledem na magii. I když je schopen naučit kouzla, jeho ceny pro Ninu, jako elfku, budou vyšší, protože si drží odstup a nedůvěřuje Temnohvozdu. Zde je nabídka kouzel, která může poskytnout:
+Kouzla 1. úrovně (Cena: 75 zlatých za kouzlo)
+
+    Magic Missile (Magická střela): Automaticky zasáhne cíl a způsobí 1d4+1 zranění.
+    Detect Magic (Detekce magie): Umožňuje odhalit magii v oblasti.
+    Shield (Štít): Zvýší AC o +4 na jedno kolo.
+    Charm Person (Okouzlení osoby): Ovlivní humanoida a změní jeho chování vůči kouzelníkovi.
+    Sleep (Spánek): Uspí nepřátele v oblasti (ideální pro skupiny slabších nepřátel).
+
+Kouzla 2. úrovně (Cena: 150 zlatých za kouzlo)
+
+    Invisibility (Neviditelnost): Cíl se stane neviditelným, dokud neprovede akci.
+    Mirror Image (Zrcadlový obraz): Vytvoří iluzorní kopie kouzelníka, které znesnadňují zásah.
+    Web (Pavučina): Zakryje oblast lepkavou pavučinou, která zpomaluje nebo znehybňuje nepřátele.
+    Levitate (Levitace): Umožní zvednout se nebo manipulovat s předměty vertikálně.
+    Darkness (Temnota): Vytvoří oblast absolutní tmy, ve které nelze vidět.
+
+Kouzla 3. úrovně (Cena: 300 zlatých za kouzlo)
+
+    Fireball (Ohnivá koule): Výbuch způsobující 8d6 zranění v oblasti.
+    Dispel Magic (Zrušení magie): Neutralizuje magické efekty v oblasti.
+    Fly (Let): Umožňuje cíli létat po omezenou dobu.
+    Counterspell (Protikouzlo): Zruší kouzlo seslané jiným kouzelníkem.
+    Lightning Bolt (Bleskový výboj): Zasáhne cíl elektrickým útokem za 8d6 zranění.
+
+Podmínky a poznámky:
+
+    Naučení kouzla:
+        Nina musí mít dostatečně vysokou inteligenci na naučení kouzla.
+        Musí mít místo v kouzelnické knize.
+
+    Cena za učení:
+        Ardon počítá za každé kouzlo extra poplatek +25 zlatých, protože je k Nině podezíravý.
+        Například kouzlo 1. úrovně by stálo 75 zl., ale pro Ninu 100 zl.
+
+    Složitá kouzla:
+        Kouzla vyšších úrovní může Ardon odmítnout, pokud si myslí, že by byla zneužita proti Kamenici.
+
+    Vyjednávání:
+        Pokud Nina hodí vysoké charisma (např. hod na d20 + bonus za charisma > 15), může cenu snížit o 10–20 %.

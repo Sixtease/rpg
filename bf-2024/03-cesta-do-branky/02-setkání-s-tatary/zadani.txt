@@ -1,0 +1,72 @@
+Dobrodružství: Zkouška ve stepi
+Úvodní situace: Ztraceni ve stepi
+
+Družina po několikadenní cestě z Temnohvozdu zjišťuje, že zabloudila ve stepi. Táboří v noci, ale následující události je uvádějí do kritické situace:
+
+    Zásoby mizí:
+    Duchové vlků (představují místní přírodní síly) začnou v noci krást zásoby. Každou noc, kdy družina nemá ochranu nebo se nepokouší duchy usmířit, přichází o část jídla a vody.
+
+    Noc plná zvuků:
+    Vítr přináší vytí vlků a tiché šepoty. Postavy mohou mít pocit, že jsou sledovány, ale nic nevidí. Pokud se pokusí vlky sledovat, stopy zmizí.
+
+    Ztracená cesta:
+    Družina brzy zjistí, že kroky, které činí ve stepi, je vracejí zpět na místo, kde tábořili.
+
+    Mechanika: Hráči mohou házet na orientaci (např. Wisdom nebo Survival check, DC 15). Selžou-li, vracejí se zpět.
+
+Setkání s Tatary:
+
+Tataři najdou družinu poté, co jsou viditelně vyčerpaní a ztracení. Skupina kočovníků (4 válečníci, 2 ženy a šaman) přivede hrdiny do svého tábora.
+
+    Tatarský tábor:
+    Kruhová uskupení jurty, uvnitř pasou se koně a ovce. Ve středu tábora je oltář zasvěcený duchům stepi.
+
+    Tatarský vůdce:
+    Bajtar, zkušený starší muž, který družinu vyslechne a navrhne zkoušku. Věří, že pokud jsou hrdinové hodni pomoci, musí prokázat svou odvahu a dovednosti.
+        Bajtar jim řekne: "Step vás zkouší, protože jste jejími hosty. Dokažte, že ji respektujete, a duchové vás přijmou."
+
+Zkoušky od Tatary
+
+    Hádanka od šamana Orgon:
+    Orgon jim položí mystickou hádanku: „Jsem ticho a hluk, neviditelný i všudypřítomný. Ztrácím se v klidu, ale nikdy nejsem poražen. Co jsem?“
+    (Odpověď: Vítr.)
+
+    Mechanika:
+        Hádanku může odpovědět kdokoli z družiny.
+        Pokud odpověď nedají napoprvé, mohou se poradit (např. házet na Intelligence check, DC 12, aby získali nápovědu).
+
+    Soutěž v lukostřelbě:
+    Tatarský lučištník Kurdan vyzve jednoho z družiny k soutěži. Cílem je zasáhnout tři cíle v různých vzdálenostech.
+        Pravidla: Každý dostane 3 šípy a musí hodit d20 + Dexterity + Proficiency na zasáhnutí (DC 12, 15, 18).
+        Pokud hrdina neuspěje, Kurdan je sice pokoří, ale nepoškodí to výsledek zkoušky.
+
+    Zkrocení divokého koně:
+    Hrdina (ideálně Bárt) má za úkol zkrotit divokého hřebce.
+    Mechanika:
+        Hráč hází 3x Strength nebo Dexterity check (DC 15).
+        Pokud uspěje aspoň 2x, hřebec se podvolí.
+
+Výsledek zkoušek
+
+    Úspěch ve všech zkouškách:
+        Družina získá koně jako dar od kmene.
+        Šaman Orgon provede rituál, který usmíří duchy vlků, takže družina může bezpečně projíždět stepí.
+        Bajtar naučí družinu základní střelecké techniky (malý bonus +1 k útoku lukem na 1 měsíc).
+
+    Částečný úspěch:
+        Družina může získat buď koně, nebo usmíření duchů.
+        Stepní kmen jim poskytne základní zásoby (jídlo a vodu na 3 dny).
+
+    Selhání:
+        Bajtar a kmen se rozhodnou nepomoci přímo, ale dají jim směr na cestu do Branky.
+        Družina je ale ponechána v nehostinné stepi, což je bude stát polovinu jejich životů (přirozené vyčerpání).
+
+Důležité NPC
+
+    Bajtar: Tatarský vůdce, moudrý a přísný. Respektuje sílu a odvahu.
+    Orgon: Šaman, mystický průvodce.
+    Kurdan: Mladý a arogantní lukostřelec, který si chce na družině něco dokazovat.
+
+Závěr
+
+Po úspěšném splnění zkoušek nebo po neúspěchu družina pokračuje do Branky, ale už s vědomím, že stepní kmen hraje důležitou roli v tomto regionu. Mohou se k nim v budoucnu vrátit jako spojenci nebo dokonce požádat o vojenskou podporu proti Kamenici.

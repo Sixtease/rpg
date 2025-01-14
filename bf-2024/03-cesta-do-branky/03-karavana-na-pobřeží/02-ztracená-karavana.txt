@@ -1,0 +1,141 @@
+Dobrodružství: Hledání ztracené karavany
+1. Stopování karavany
+
+    Prostředí: Step s vysokou trávou, sem tam skály a nízké keře.
+    Výzva: Hrdinové sledují stopy rozbitých vozů, rozházeného zboží a stop tažných zvířat.
+        Mechanika: Úspěšný hod na moudrost nebo obratnost (např. Pupíkova schopnost sledování stop). Neúspěch znamená, že hrdinové ztratí čas a riskují setkání s vlčími duchy.
+    Nápověda: Vzdálené vytí vlků a zvláštní mlžné jevy naznačují, že se blíží k místu incidentu.
+
+2. Setkání s vlčími duchy
+
+    Prostředí: Táhlé údolí zahalené mlhou, kde vládne zvláštní ticho.
+    Vlčí duchové (6):
+        Snaží se hrdiny odradit od další cesty.
+        Mechanika: Vlci se pohybují rychle a nepředvídatelně. Mohou použít schopnost strach (hod na moudrost, jinak má postava nevýhodu při akcích na jedno kolo).
+        Řešení: Duchy lze uklidnit (kouzlo, oběť potravy) nebo zahnat (souboj nebo hrdinové projeví odvahu). Po úspěchu duchové zmizí.
+
+3. Karavana pod útokem
+
+    Prostředí: Rozbořený tábor ztracené karavany. Převrácené vozy, rozházené zboží, mrtvá zvířata. Lupiči právě rabují, sbírají víno, látky a nástroje.
+    Tatarská lupičská banda:
+        Počet: 6 běžných bojovníků (1. úroveň, šavle a luky) a vůdce Kuragan (3. úroveň, šavle +1, lehká zbroj).
+        Chování: Roztroušeni po táboře. Někteří prohledávají vozy, jiní dohlížejí na okolí, další balí ukořistěné zboží.
+        Taktika: Lupiči reagují na přítomnost hrdinů:
+            Pokud jsou zastiženi nenápadně, může se Pupík pokusit sabotovat jejich činnost nebo odlákat část bandy.
+            Přímá konfrontace povede k otevřenému boji.
+    Řešení:
+        Diplomacie: Lupiči mohou být zastrašeni (vysoké charisma nebo magická podpora).
+        Souboj: Lupiči mají výhodu otevřeného prostoru a lukostřelby, ale jsou překvapeni, takže hrdinové získají bonus na první akci.
+
+4. Záchrana karavany
+
+    Možnosti:
+        Pokud hrdinové vyhrají, mohou získat část zboží zpět (např. 2 sudy vína, 2 truhly s látkami, 1 bednu s hudebními nástroji).
+        Najdou také zraněného člena karavany, který jim poděkuje a může poskytnout informace o dalších karavanách nebo dění v Kamenici.
+
+5. Následky a odměna
+
+    Hrdinové se mohou rozhodnout, co s ukořistěným zbožím:
+        Vrátit ho kamenické karavaně za slíbenou odměnu.
+        Prodat ho v Brance, čímž riskují konflikt s Kamenicí.
+    Hrdinové získají cenné zkušenosti a respekt karavanistů i Tatarů, pokud prokážou odvahu a sílu.
+
+NPC a detaily:
+
+    Kuragan (tatarský vůdce):
+        Úroveň: 3
+        Výbava: Šavle +1, lehká zbroj, charisma vůdce.
+        Osobnost: Pragmatický a sobecký, respektuje sílu.
+        Motivace: Zisk zboží a potvrzení své pozice mezi Tatarstvem.
+
+    Přeživší karavanista (Karel):
+        Osobnost: Zděšený, ale vděčný. Nabídne informace o obchodu mezi Kamenicí a Brankou.
+
+    Vlčí duchové:
+        Chování: Testují odhodlání a čistotu úmyslů.
+        Cíl: Ochránit stepi před bezohlednými vetřelci.
+
+
+
+Seznam zboží karavany
+
+    Víno (10 sudů):
+        Jemné červené víno z kamenických vinic, určené pro šlechtické hostiny v Brance.
+        Několik sudů je označeno jako "rezervováno pro purkmistra Branky."
+
+    Látky (5 truhel):
+        Hedvábné šátky, sametové a brokátové látky na oděvy pro branská vyšší společenská vrstva.
+        Levnější vlněné a lněné látky pro širší městskou populaci.
+
+    Hudební nástroje (2 bedny):
+        Vyřezávané dřevěné flétny, loutny a cimbály z ovocného dřeva.
+        V každé bedně je přiloženo pár jemných ladicích klíčů a strun.
+
+    Keramika (4 bedny):
+        Jemné kamenické nádoby a ozdobné džbány, pečlivě zabalené do lněných plátků.
+        Několik kusů jsou ručně malované talíře s motivy kamenické kultury.
+
+    Koření (3 vaky):
+        Skořice, hřebíček a muškátový oříšek, přivezené z jihu a prodávané přes Kamenici.
+        Vaky jsou zapečetěné a označené jako "Luxusní zboží."
+
+    Sůl (6 vaků):
+        Hrubozrnná sůl z kamenických dolů, ceněná pro svou čistotu a kvalitu.
+        Vaky jsou označeny znakem kamenického cechu těžařů.
+
+    Řemeslné nástroje (2 bedny):
+        Kvalitní kladiva, dláta a pily pro branské stavitele a truhláře.
+        Některé jsou zdobené a určeny jako dárky pro bohatší klienty.
+
+    Šperky a drobné cennosti (1 truhla):
+        Stříbrné přezky, náramky a jemně ryté prsteny, vytvořené kamenickými řemeslníky.
+        Truhla je uzamčená a opatřená pečetí kamenického šlechtice.
+
+    Exotické zboží (2 bedny):
+        Barevné papoušky v klecích, drobné ozdobné figurky a malby na pergamenu z jižních zemí.
+        Přidané k přilákání bohatých kupců v Brance.
+
+    Obecné zásoby:
+        Sušené maso, tvrdé sušenky a sladká medovina pro karavanisty.
+        Pytle s obilím pro tažná zvířata.
+
+Detaily o nákladu:
+
+    Hodnota:
+        Celkově má karavana zboží v hodnotě kolem 3000–3500 stříbrných.
+        Nejhodnotnějšími položkami jsou šperky, hudební nástroje a koření.
+    Rozložení:
+        Každý vůz nese kombinaci těžších (sůl, keramika) a lehčích (látky, šperky) komodit, aby byla zajištěna rovnováha.
+        Cennější předměty jsou uloženy v uzamčených a pečetěných bednách.
+
+Cenné předměty pro purkmistra:
+
+    Sud s vínem:
+        Jeden ze sudů vína je označen zlatou pečetí purkmistra.
+        Je uložen ve voze s ostatními sudy, ale zapečetěný a navíc pokrytý plátnem s emblémem kamenické šlechty.
+
+    Šperky:
+        Několik kusů z truhly se šperky je vyhrazeno jako dar pro purkmistra.
+        Truhla je uzamčena a opatřena dalším ochranným kouzlem proti neotevření (např. svitek kouzla Alarm).
+        Nachází se ve voze, kde je také truhla s kořením, aby cenné předměty nebyly nápadné.
+
+    Hudební nástroje:
+        Jedna z louten je výjimečně zdobená stříbrnými filigrány a perletí.
+        Uložena v samostatném pouzdře v jedné z beden s hudebními nástroji.
+
+    Speciální keramika:
+        Ručně malovaný džbán s motivy kamenické historie, určený jako dar pro purkmistra.
+        Pečlivě zabalený v lněných látkách v jedné z beden s keramikou.
+
+    Koření:
+        Malý ozdobný váček s prémiovým kořením jako symbolický dar.
+        Schovaný v truhle s ostatními kořeními.
+
+Zabezpečení a umístění:
+
+    Rozmístění:
+        Cenné předměty jsou rozděleny mezi vozy, aby nebyly koncentrovány na jednom místě.
+        Jsou pečlivě označené a chráněné proti snadnému přístupu.
+    Stráž:
+        Karavana má speciálně určeného strážce, který je obeznámen s těmito položkami.
+        Tento strážce je neustále poblíž nákladu a je vybaven zbraní a signálním rohem, aby mohl přivolat pomoc.

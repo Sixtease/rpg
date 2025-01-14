@@ -1,0 +1,52 @@
+Za pár dní se zase přidá do hry Ivo. Potřebuju dostat Igora do Branky. Určitě chci, aby před tím šel pomoct pozůstalým v Dřívkově (to už jsme připravili). Napadlo mě, že by ho přeživší muž z Dřívkova požádal, aby zašel do vísky na východním konci skalního masivu, kde žije jeho nevěsta, a vyřídil jí, aby se za ním vydala, že spolu zkusí Dřívkov obnovit. Igor by se tak dostal do blízkosti obchodní cesty z Kamenice do Branky, kde by mohl nasednout na nějakou karavanu a dojet do Branky právě v momentě, kde zbytek družiny teď zrovna je. Jen řeším, jakou by mohl ve vesničce u východního konce skalního masivu dostat motivaci jet co nejrychleji do Branky. Napadá tě něco?
+
+
+1. Vzkaz pro otce nevěsty
+Základní situace:
+
+Nevěsta je ochotná přestěhovat se do Dřívkova a začít nový život se svým snoubencem. Požádá však Igora, aby jejímu otci v Brance vyřídil pozvání na svatbu. Otec je tradiční a autoritativní postava, která chce být u toho, když jeho dcera začíná nový život. Současně mu nevěsta slíbí, že za tuto službu se mu otec odmění. Igor je navíc ujištěn, že účast otce na svatbě by byla pro ženichovu rodinu velkou podporou.
+Detaily:
+
+    Otec nevěsty:
+        Jméno: Václav Hromek
+        Profese: Obchodník s tkalcovskými potřebami (plátna, nitě, nářadí pro tkalce)
+        Povaha: Přísný, ale spravedlivý. Jeho povaha se mění podle toho, zda k němu přistupují s úctou a důstojností. Pokud by se Igor choval neomaleně, Václav by mohl odmítnout žádost.
+        Lokalizace: Nachází se v Tržní čtvrti, kde má svůj stánek na místním tržišti.
+        Odměna: Václav by mohl Igorovi nabídnout finanční odměnu (20 stříbrných) nebo užitečný předmět (např. kvalitní batoh nebo cestovní plášť).
+
+2. Snížené zisky z prodeje bylin
+Základní situace:
+
+Vesnice žije z prodeje vzácných léčivých bylin (např. šanta, kopretina věncová, vlčí jazyk). Tyto byliny jsou sklízeny v okolí masivu a prodávány prostřednictvím karavan do Branky. Poslední dobou si však vesničané všimli, že jejich podíl z výnosů klesá. Obchodníci tvrdí, že poptávka v Brance klesla, což však vesničané považují za podezřelé. Požádají Igora, aby zjistil, co se skutečně děje.
+Detaily:
+
+    Situace v Brance:
+        Na trhu v Tržní čtvrti Igor zjistí, že cena těchto bylin v Brance naopak stoupá, což naznačuje, že karavany okrádají vesničany.
+        Jeden z obchodníků, Hanuš Drobil, si zisk nechává pro sebe a šíří falešné informace o nízké poptávce.
+    Možnosti řešení:
+        Igor může konfrontovat Hanuše a pohrozit mu, že ho nahlásí purkmistrovi nebo radním.
+        Může jednat s jinými obchodníky a nabídnout jim přímou spolupráci s vesnicí, čímž by Hanuše obešel.
+        Může se obrátit přímo na purkmistra nebo na zástupce cechu obchodníků.
+    Odměna: Pokud Igor uspěje, vesničané mu nabídnou část vyššího zisku. (Např. 15 stříbrných týdně po dobu 2 měsíců, což odpovídá 120 stříbrným.)
+
+3. Rodák z Dřívkova
+Základní situace:
+
+Jeden z obyvatel Dřívkova, Hynek Drápek, odjel před časem do Branky za výdělkem, když v Dřívkově nebyla práce. Vesničané ho považují za dobrého a pracovitě založeného člověka, který by mohl přispět k obnově Dřívkova, pokud by byl informován o situaci.
+Detaily:
+
+    Hynek Drápek:
+        Profese: Nádeník v Novém přístavu.
+        Povaha: Přátelský a loajální. Hynek by rád pomohl Dřívkovu, ale je vázán pracovním závazkem. Pracuje u jednoho z obchodníků, který na něj vyvíjí tlak a zadržuje mu výplatu, aby nemohl odejít.
+    Konflikt:
+        Hynek nemůže odejít, dokud mu obchodník nevyplatí dlužnou mzdu. Igor může:
+            Pomoci Hynkovi peníze získat (např. přesvědčit obchodníka nebo mu pohrozit).
+            Nabídnout Hynkovi zaplacení cesty a nového začátku z vlastních peněz.
+            Najít způsob, jak Hynka tajně dostat z Branky a dlužnou mzdu nechat být.
+    Odměna: Hynek nabídne Igorovi pomoc při obnově Dřívkova nebo přenechá drobný magický předmět, který v Brance získal.
+
+Propojení motivací
+
+    Setkání s Václavem a Hynkem: Václav by mohl být zákazníkem Hanuše Drobila, což by Igora navedlo na stopu podvodného obchodníka.
+    Časový tlak: Hynek by mohl naznačit, že vesničané mají jen omezený čas, než bude trh s bylinami v Brance zcela monopolizován.
+    Spojení zájmů: Pokud Igor úspěšně vyřeší všechny úkoly, vytvoří v Brance silnější síť pro Dřívkov, což bude pro jeho obnovu klíčové.

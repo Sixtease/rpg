@@ -1,0 +1,60 @@
+Setkání s klukem
+
+Jméno: Štěpán (přezdívka: Šídlo)
+Věk: 10 let
+Vzhled: Hubený, otrhané oblečení, bosé nohy, rozcuchané vlasy.
+Charakter: Odvážný, ale nejistý. Dělá, co musí, aby přežil. Má ale v sobě jiskru dobra a touhu dostat se z této situace.
+
+Štěpán přistoupí k hrdinům, jakmile vstoupí do města. Je přátelský, obratně mluví a nabízí pomoc:
+
+    Štěpán: "Hej, pane! Vypadáte, že jste tu poprvé! Víte, Branka je velká a plná nebezpečí. Za dvě stříbrné vám ukážu, kam jít, kde najít jídlo, ubytování nebo cokoli potřebujete!"
+
+Pokud hrdinové odmítnou, bude je z dálky sledovat a nakonec je zavede k gangsterům nenápadně. Pokud přijmou, provede je částí města, ale bude neustále nervózní, zřejmě něco skrývá.
+Gangsterská past
+
+Štěpán zavede hrdiny do úzké uličky, kde na ně čekají čtyři gangsteři. Jeden z nich, Dráp, je vůdce skupiny.
+
+    Dráp: "No vida, Šídlo. Dneska sis přivedl pěkné ptáčky. Hoďte sem své měšce a nikomu se nic nestane!"
+
+V tento moment se Štěpán postaví na stranu hrdinů a pokusí se jim pomoci:
+
+    Štěpán: "Nechte je být! Už máte dost, proč je pořád okrádáte?"
+
+Konflikt:
+
+    Boj: Hrdinové se mohou postavit gangsterům. Štěpán pomůže, i když jen symbolicky.
+    Vyjednávání: Hrdinové se mohou pokusit přesvědčit gangstery, aby ustoupili (těžké, protože gangsteři jsou nemilosrdní).
+
+Následky konfliktu
+
+    Pokud hrdinové zvítězí: Dráp a jeho kumpáni utečou, ale předtím pohrozí Štěpánovi:
+        Dráp: "Šídlo, ty malej zrádče! Anežka zaplatí za tvoje drzosti!"
+
+    Pokud gangsteři vyhrají nebo utečou hrdinové: Gangsteři seberou většinu majetku hrdinů a Štěpán zůstane zoufalý:
+        Štěpán: "To je moje vina, ale... Anežka... prosím, pomozte jí! Nemůžu to udělat sám."
+
+Dilema hrdinů
+
+Štěpán vysvětlí, že Anežka je jeho kamarádka, která pracuje jako pradlena pro gangstery, aby přežila. Dráp teď nejspíš půjde za ní, aby ji potrestal za Štěpánovu zradu. Hrdinové mají možnost:
+
+    Pomoci Anežce: Postavit se gangsterům v jejich skrýši.
+    Ignorovat problém: Odejít a nechat situaci být.
+
+Gangsteři a jejich skrýš
+
+Místo: Starý sklad ve špinavém přístavu, plný sudů, beden a provizorního vybavení.
+Gangsteři:
+
+    Dráp (vůdce): Zkušený rváč, silný, ale arogantní. AC: 13, HP: 16, Útok: 1d6+2 (kyj).
+    Kumpáni (3): Obyčejní rváči. AC: 12, HP: 8, Útok: 1d6 (kyj).
+
+Bitva:
+
+    Skrýš má spoustu překážek, které mohou hrdinové využít (sudy, lana, rozbitý nábytek).
+    Anežka je svázaná v rohu místnosti a hrdinové ji musí chránit, pokud se do boje zapojí gangsteři.
+
+Následky po záchraně
+
+    Hrdinové zachrání Anežku: Štěpán a Anežka jsou vděční a nabízejí, že jim pomohou najít ubytování a vyhnout se problémům v Brance.
+    Gangsteři uniknou: Pokud nechají gangstery uniknout, mohou se později vrátit s posilami.
+    Hrdinové situaci ignorují: Štěpán a Anežka mohou zmizet z příběhu nebo se později objevit v horší situaci.
