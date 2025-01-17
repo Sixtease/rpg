@@ -39,14 +39,6 @@ Lektvary
 
 Speciální magické předměty
 
-    Totem stepního větru
-        Cena: 300 stříbrných
-        Umožňuje jednou denně seslat kouzlo Gust of Wind.
-
     Amulet stepi
         Cena: 250 stříbrných
         Bonus +1 k odolání proti magii a schopnost najít cestu i při silné mlze.
-
-    Náramek ochrany proti duchům
-        Cena: 200 stříbrných
-        Poskytuje bonus +2 na záchranné hody proti nehmotným bytostem.

@@ -1,6 +1,6 @@
 Nina Elf kouzelník
 3. level
-7600 / 10000 zk
+8350 / 10000 zk
 
 síla: 5 -2
 inteligence: 18 +3
@@ -10,9 +10,9 @@ odolnost: 9
 charisma: 16 +2
 
 AC: 13
-9 životů (8)
+9 životů (1)
 
-295 stříbrných
+305 stříbrných
 
 hůl (-1 / 1k6-2); magic missile 1x denně
 dýka (-1 / 1k4-2)
@@ -39,8 +39,8 @@ uspání *
 okouzlení *
 magická střela
 L2:
-levitace *
-neviditelnost
+levitace
+neviditelnost *
 zrcadlový obraz
 pavučina
 locate object
