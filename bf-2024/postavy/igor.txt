@@ -1,6 +1,6 @@
 Igor Klerik
 level 4
-zk: 6770 / 12000
+zk: 7570 / 12000
 
 síla: 9
 inteligence: 7 -1
@@ -9,18 +9,24 @@ obratnost: 13 +1
 odolnost: 18 +3
 charisma: 4 -2
 armor class: 21
-životů: 24 (24)
+životů: 31 (31)
 
 ještěří plátová zbroj
 štít +1
 warhammer +1 (+3 / 1k6 (2k6 proti nemrtvým))
+batoh nekonečného prostoru
+lampa denního světla proti nemrtvým
 prak
 10 kamenů
+měch na vodu
 
+1:
 cure light wounds
-detect magic
+remove fear
+2:
+speak with animals
 
-1159 stříbrných
+249 stříbrných
 
 dovednosti:
     Opevněný štít: Bonus +1 k AC při použití štítu.
@@ -30,36 +36,3 @@ dovednosti:
 aury:
     Aura světla: Spojenci v dosahu získávají bonus +1 k hodům na záchranu proti efektům, které ovlivňují mysl nebo způsobují strach.
     Aura odplaty: Nepřátelé, kteří zasáhnou klerika nebo spojence v dosahu aury, utrpí 1k4 radiant damage.
-
-
-
-# ZABAVENO:
-
-661 stříbrných
-
-kroužková zbroj
-štít
-warhammer +1 / 1k6
-prak +2
-  47x kulka 1k4
-  0x kámen 1k3
-batoh
-ledvinka
-1x flakonek (voda na kuráž)
-monstrance
-10x hřebíky
-50" lano
-měch (léčivá voda)
-píšťalka
-magická hůl
-9x ozdobný prsten
-2x náhrdelník
-amulet +1 saving throws
-svitek (mlha)
-flakon s jedem na vodu
-flakon s jedem na radomíra
-flakon s jedem na vraždu
-elixír obratnosti
-magnetická návnada
-plášť +2 skrývání
-dýka

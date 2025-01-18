@@ -1,0 +1,40 @@
+Základní příběh: Otevření podzemního distribučního kanálu
+Trpasličí skupina:
+
+    Ragnor Tříska: Vedoucí skupiny, starší, zkušený kovář a charismatický vůdce. Odhodlaný najít cestu, jak surovinu přinést do čtvrti legálně nelegálními prostředky.
+    Berta Plamenná: Alchymistka, která míchá přísadu na spalování uhlí. Zná přesné vlastnosti suroviny a má plán, jak ji skladovat.
+    Darin Šťoura: Mladý, zručný inženýr. Má na starosti mapování a otvírání zapečetěných částí kanalizace.
+    Vigrid Klíček: Specialista na zámky a pasti. Odpovídá za bezpečné otevírání průchodů a deaktivaci nástrah.
+
+Plán trpaslíků:
+
+    Vytvoření tajné cesty:
+    Kanalizace je stará a některé části jsou zapečetěné. Trpaslíci chtějí vytvořit skrytou trasu z přístavu do trpasličí čtvrti, která obejde daňové kontroly.
+    Rozdělení úkolů:
+        Igor: Má za úkol vyčistit zapečetěnou část kanalizace, která je obsazena nemrtvými a jinými hrozbami. Bezpečné průchody zajistí, že trasu bude možné použít.
+        Ragnor a Darin: Budou pracovat na propojení se stávající kanalizací v přístavu.
+        Berta: Připraví skladovací zařízení na konci cesty v trpasličí čtvrti.
+        Vigrid: Deaktivuje pasti na trase.
+
+Kanalizace a překážky:
+
+    Zapečetěný vstup: Trpaslíci dovedou Igora ke vchodu do zapečetěné části kanalizace. Tam je starý runový zámek, který zapečetil oblast kvůli epidemii před stovkami let. Po otevření se uvolní zlověstná energie a začnou vylézat první nemrtví (3 zombíci).
+
+    Úzké chodby s nečistotami: Kanalizace je zčásti zasypaná sutí a bahnem. Igor se musí prodírat úzkými chodbami a narazí na první nástrahu: vodní past. Voda z nádrže se uvolní, pokud spustí skrytou páku. Igor si může všimnout mechanismu (hod na Vnímání, DC 14) a zablokovat ho.
+
+    Hnízdo nemrtvých: V další části kanalizace narazí Igor na skupinu nemrtvých krys (4 krysy zombie) a jednoho ghúla, kteří hlídají zásobárnu starých kostí.
+        Klíčová scéna: Ghúl se pokusí překvapit Igora zezadu. Pokud se Igorovi podaří ghúla zničit, rozpadnou se i krysy, protože ghúl je ovládá.
+
+    Magická bariéra: Na jedné z křižovatek najde Igor magickou bariéru, která blokuje cestu dál. Na zdi je starý nápis: „Jen ten, kdo čistí duše, projde.“ Igor musí použít schopnost Turn Undead, aby bariéru zrušil.
+
+    Poslední hrozba: Strážce stoky: V nejhlubší části stoky narazí Igor na hrozivého zombifikovaného ogra, který stráží klíčový průchod. Souboj s ogrem je výzvou a bude potřebovat všechny Igorovy schopnosti, včetně využití jeho nové aury (pokud ji má dostupnou).
+
+Odměny a následky:
+
+    Úspěšné otevření trasy: Trpaslíci poděkují Igorovi za jeho odvahu a odmění ho jedním z následujících předmětů (dle volby hráče):
+        Trpasličí amulet ochrany (+1 k AC).
+        Hák na lezení s magickou pevností (umožňuje lézt po stěnách bez nutnosti hodu).
+        Rukavice posvátného úderu (+1 k hodům na útok proti nemrtvým).
+
+    Možnost rozšíření:
+        Igor by mohl později řešit další problémy spojené s pašováním suroviny, jako třeba zradu jednoho z trpaslíků nebo útok místních gangů, kteří chtějí získat kontrolu nad trasou.
