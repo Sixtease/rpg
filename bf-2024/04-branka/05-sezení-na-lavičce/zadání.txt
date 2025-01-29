@@ -1,7 +1,7 @@
 Základní scénář: Velkoměsto Branka
 Úvod do situace:
 
-Čtvrť Dřevní je jednou z rušných částí Branky, vedená starostou Pěvcem, který dostal své jméno kvůli skládání špatných veršů, nikoli kvůli vůdčím schopnostem. Pěvec je známý jako váhavý a nerozhodný, takže praktickou moc v čtvrti převzal biřic Váša Hrom, který špatně pochopil celoměstské nařízení o uvolňování míst a vymáhá ho s přehnanou horlivostí.
+Trh, vedený starostou Pěvcem, který dostal své jméno kvůli skládání špatných veršů, nikoli kvůli vůdčím schopnostem. Pěvec je známý jako váhavý a nerozhodný, takže praktickou moc v čtvrti převzal biřic Váša Hrom, který špatně pochopil celoměstské nařízení o uvolňování míst a vymáhá ho s přehnanou horlivostí.
 Zapojené postavy:
 
     Starosta Pěvec:

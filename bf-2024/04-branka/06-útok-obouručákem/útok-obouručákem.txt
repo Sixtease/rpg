@@ -1,0 +1,52 @@
+1. Kde by útok dával největší smysl?
+
+    Lokace: Slavnostní trh nebo veřejná akce na náměstí. Ideální je Tržní náměstí v blízkosti městského chrámu a radnice.
+        Charakter místa: Tržní náměstí přitahuje širokou škálu lidí, od místní smetánky (která se může procházet nebo kupovat luxusní zboží) po obyčejné obyvatele (kteří nakupují denní potřeby). Elfové se zde budou vyskytovat minimálně, což zvýrazní kontrast mezi útočníkem a davem.
+        Důvod: Náměstí je symbolem lidské prosperity. Útok na takovém místě má velký symbolický význam – zasáhnout srdce lidské společnosti.
+
+2. Vodítko zanechané útočníkem
+
+    Co zanechá: Pamflet s heslem "Elfondor!", který je zároveň výzvou k odporu proti lidské nadvládě. Na druhé straně pamfletu jsou instrukce k tajné schůzce nebo propagandistický text.
+    Text pamfletu:
+        "Elfondor! Povstaňte, bratři a sestry! Lidé nám vzali naši půdu, naši čest i naše místo pod sluncem. Nastal čas si to vzít zpět! Připojte se k nám, buďte hrdí na to, kým jste. Schůzka pro všechny odvážné je [datum, místo]. Společně dokážeme změnit svět!"
+    Proč ho má u sebe:
+        Je to forma propagandy a náboru – útočník očekává, že pokud ho zabijí, pamflet bude nalezen a bude šířit jeho poselství.
+        Útočník měl za úkol pamflety distribuovat mezi elfy, ale rozhodl se použít jeden jako výzvu k boji.
+
+3. Statistika a vzhled útočníka
+
+    Jméno: Renar Stříbrný list
+    Vzhled:
+        Vysoký elf s dlouhými, rozcuchanými vlasy barvy stříbra.
+        Obličej má tvrdé rysy, jizvu přes levé lícní kosti.
+        Oblečený v tmavě zelené tunice a černém plášti, symbolizující odtržení od tradičních elfských barev míru.
+        Nosí na krku jednoduchý přívěsek ve tvaru dubového listu – symbol elfského hnutí odporu.
+    Statistiky:
+        Úroveň: 4
+        HP: 38
+        AC: 16 (magický štít dodává +2 k AC, je aktivní 2 kola během boje)
+        Útok:
+            Obouruční meč: +5 k zásahu, 2d6+3 (magický meč způsobuje 1d4 navíc nekrotického poškození).
+            Kouzlo: Zrcadlový obraz (Mirror Image): Aktivuje na začátku boje, vytváří tři iluzorní kopie. Každý útok má šanci zasáhnout iluzi namísto skutečného Renara.
+    Dovednosti:
+        Plížení +4
+        Atletika +3
+        Zastrašování +3
+    Vybavení:
+        Magický obouruční meč ("Tíha Zkázy"): Přidává nekrotické poškození (1d4).
+        Kouzelný štít ("Stříbrná Záře"): Aktivní 2 kola, poskytuje +2 AC.
+        3x Pamflet "Elfondor".
+        Lahvička léčivého lektvaru (2d4+2 HP).
+
+Průběh útoku
+
+    Renar začne křičet heslo "Elfondor!" a vrhne se na první skupinu davu, cílí primárně na nóbl lidi a důstojně vypadající muže.
+    Boj je rychlý, protože Renar spoléhá na rychlý úder a následný chaos.
+    Pokud hrdinové zasáhnou, Renar aktivuje Zrcadlový obraz, aby ztížil svůj zásah. Po 3 kolech boje (nebo při těžkém zranění) se pokusí utéct do postranní uličky.
+    Pokud Renar padne, zanechá pamflet (a případně přívěsek s dubovým listem, který může vést k dalším stopám). Pokud uteče, na místě zanechá pouze pamflet.
+
+Možné následky útoku
+
+    Chaos na náměstí a strach mezi lidmi.
+    Zvýšená kontrola elfů ve městě (politická atmosféra se zostří).
+    Vodítko k agitátorům (pamflet, přívěsek) nasměruje hrdiny na další část příběhu.

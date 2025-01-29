@@ -1,0 +1,85 @@
+Laeros Súrion – Elfí Agitátor Elfondoru
+
+(Charismatický, ale ne příliš odolný ideolog a manipulátor, slabý v boji.)
+
+    Rasa: Elf
+    Povolání: Fanatický agitátor (Mechanicky: Zloděj 2. úrovně)
+    Úroveň: 2
+    Životy: 6
+    Zbroj: Kožená zbroj (AC 13)
+    Útoky:
+        Dýka +2 na útok (1d4+1)
+        Kuše (skrytá v bytě, nenosí ji běžně) +2 na útok (1d6)
+    Hodnoty atributů:
+        Síla: 9
+        Inteligence: 12
+        Moudrost: 11
+        Obratnost: 14
+        Odolnost: 10
+        Charisma: 16
+
+Schopnosti:
+
+    Podněcování davu: Pokud má alespoň 5 elfích posluchačů, jeho slova způsobí, že budou jednat impulzivně (hod proti zastrašení s nevýhodou).
+    Rychlý jazyk: Získává +2 bonus k přesvědčování a klamání.
+    Plíživý únik: Při pokusu o útěk získává +2 k hodu na obratnost proti chytání.
+    Povzbuzující slova: Jednou denně může inspirovat spojence v boji – dostane +1 k útoku a poškození na 3 kola.
+
+Caladan – Stínový Koordinátor Elfondoru
+
+(Více než bojovník je strategický myslitel, ale není bez obrany.)
+
+    Rasa: Elf
+    Povolání: Bývalý hraničář, nyní vůdce jedné z frakcí Elfondoru (Mechanicky: Bojovník 4. úrovně)
+    Úroveň: 4
+    Životy: 24
+    Zbroj: Kroužková zbroj (AC 15)
+    Útoky:
+        Obouruční meč +4 na útok (2d6+2)
+        Dýka +4 na útok (1d4+2), skrytá
+    Hodnoty atributů:
+        Síla: 15
+        Inteligence: 13
+        Moudrost: 12
+        Obratnost: 14
+        Odolnost: 12
+        Charisma: 14
+
+Schopnosti:
+
+    Dvojitý úskok: Pokud mu zbude pohyb, může po útoku ustoupit o 1,5 m bez vyvolání útoku příležitosti.
+    Odolná mysl: +2 k hodům proti strachu a očarování.
+    Překvapivý výpad: Pokud jeho cíl už tento boj útočil, získává +1d6 poškození k prvnímu zásahu.
+    Temné pouto: Má amulet, který mu umožňuje mentální komunikaci s jiným vůdcem Elfondoru.
+
+Osobní stráž – Elfí Militanti Elfondoru (2 členové)
+
+(Trénovaní, ale ne elita. Bojují disciplinovaně, ale nejsou fanatici.)
+
+    Rasa: Elfové
+    Povolání: Žoldnéři/hardcore členové hnutí (Mechanicky: Bojovník 3. úrovně)
+    Úroveň: 3
+    Životy: 18
+    Zbroj: Kroužková zbroj (AC 15)
+    Útoky:
+        Dlouhý meč +3 na útok (1d8+2)
+        Krátký luk +4 na útok (1d6)
+    Hodnoty atributů:
+        Síla: 14
+        Inteligence: 10
+        Moudrost: 11
+        Obratnost: 15
+        Odolnost: 12
+        Charisma: 10
+
+Schopnosti:
+
+    Koordinovaný útok: Pokud oba zaútočí na stejný cíl, druhý útočník má výhodu na hod.
+    Krycí střelba: Jeden z nich může místo útoku použít akci na poskytnutí krytí (+1 AC spojenci).
+    Elfí hbitost: Mohou jednou za boj provést bezplatnou akci "překulení" (ústup o 3m bez příležitostného útoku).
+
+Shrnutí konfrontace:
+
+    Laeros je hlavně rétor, nebude se bránit fyzicky. Pokusí se utéct.
+    Caladan je nebezpečný v boji, ale pokud bude konfrontován s přesvědčivými důkazy, mohl by se nechat zviklat a poskytnout hrdinům nějaké informace.
+    Stráž je výkonná složka – pokud bude boj, postaví se mezi Caladana a hrdiny.

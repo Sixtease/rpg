@@ -1,0 +1,45 @@
+Loď „Stříbrný měsíc“
+
+    Typ: Obchodní loď, původně určená pro dálkový obchod, nyní slouží jako skrytá základna Elfondoru.
+    Délka: 30 metrů
+    Šířka: 8 metrů
+    Posádka: 12 námořníků (zčásti loajálních Elfondoru, zčásti běžní najatí námořníci)
+    Kotví v: Hlavním přístavu v Brance, obvykle na stejném místě, ale někdy se přesune k jinému molu, aby nevzbudila podezření.
+    Vlajka: Neutrální obchodní barvy, žádné jasné identifikační znaky.
+
+Rozvržení lodi:
+
+    Hlavní paluba
+        Standardní námořní vybavení: stožáry, lana, sudy se zásobami, schodiště vedoucí pod palubu.
+        Dva kryté poklopy do podpalubí – jeden standardní pro posádku, druhý ukrytý pod proviantem vede do Caladanovy tajné místnosti.
+        Strážní stanoviště – v noci zde vždy hlídkuje alespoň jeden muž, někdy dva.
+
+    Podpalubí
+        Posádková kajuta: Houpací sítě, osobní bedny námořníků.
+        Sklad: Sudy s vodou, zásoby jídla, náhradní lana, bedny se zbožím (někdy prázdné, aby vypadaly obchodně).
+        Kajuta pro hosty: Formálně pro obchodní partnery, ale skutečně slouží jako čekárna pro členy Elfondoru.
+        Zasedací místnost: Skryté zadní prostory podpalubí, kam se dostane jen přes tajnou chodbu. Zde se setkávají velitelé Elfondoru, plánují operace a ukládají dokumenty.
+        Tajná úniková cesta: Úzký tunel pod podlahou zasedací místnosti vede ke komoře s malou loďkou, která je spuštěná pod hladinu a připravená k nouzovému úniku.
+
+    Kapitánská kajuta (Caladanova skrýš)
+        Nachází se v zádi lodi, větší než běžné kajuty, pohodlně vybavená.
+        Luxusní trpasličí křeslo, stůl se svícny, mapa Branky s označenými cíli Elfondoru.
+        Zamčená truhla s dokumenty, šperky a několika magickými předměty.
+        Magický zvon zavěšený nad dveřmi, který při pokusu o násilné otevření varuje Caladana.
+        Tajný poklop v podlaze vedoucí do vody – slouží k rychlému úniku.
+
+Bezpečnostní opatření na lodi:
+
+    Stráže: Dva až čtyři ozbrojenci vždy hlídkují na palubě. Večer se počet zdvojnásobuje.
+    Magický zvon v kapitánské kajutě: Jakmile někdo bez klíče otevře dveře, zvon zazvoní u Caladanova společníka ve městě.
+    Falešný kapitán: Když loď kotví, Caladan sám se vydává za obchodníka nebo se ukrývá pod falešným jménem. Navenek má loď oficiálního kapitána, který předstírá běžný obchod.
+    Tajný východ: Pokud dojde k útoku, hlavní členové Elfondoru mohou zmizet tajným poklopem v podlaze a přeplavat k pobřeží.
+    Vězeňská cela: Na lodi je jedna malá místnost pro případné zajatce nebo členy, kteří ztratili důvěru.
+
+Jak se hrdinové mohou dostat k Caladanovi?
+
+    Vydávání se za obchodníky: Mohli by předstírat, že jsou zájemci o koupi zboží, a nechat se pozvat na loď.
+    Infiltrace posádky: Najmout se jako námořníci, což by jim umožnilo přístup do podpalubí.
+    Skrytý vstup v noci: Připlížit se na loď v temnotě a vniknout přes tajný poklop.
+    Využití informátora: Někdo z posádky by mohl být podplacen nebo donucen ke spolupráci.
+    Magie: Mohli by využít neviditelnosti, kouzla na oklamání mysli nebo jiného triku.

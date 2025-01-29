@@ -32,7 +32,7 @@ Důležité NPC
             HP: 40, AC: 15
             Výbava: Elfský meč, dýka s jedem, kouřové bomby.
 
-    Purkmistr Branky: Jakub Starý
+    Purkmistr Branky: Evron Vrbka
         Role: Hlavní představitel města, příznivec Felariona.
         Charakter: Pragmatický, avšak loajální k tradicím.
         Motivace: Udržet stabilitu a obchodní prosperitu města.

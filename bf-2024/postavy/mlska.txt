@@ -17,10 +17,10 @@ Statistické hodnoty
 
 Atributy
 
-    Síla (STR): 2 (-2)
+    Síla (STR): 2 (-4)
     Obratnost (DEX): 16 (+2)
     Odolnost (CON): 8 (-1)
-    Inteligence (INT): 6 (-2)
+    Inteligence (INT): 6 (-1)
     Moudrost (WIS): 12 (+0)
     Charisma (CHA): 10 (+0)
 

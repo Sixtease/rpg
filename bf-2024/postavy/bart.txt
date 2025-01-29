@@ -1,5 +1,5 @@
 Bárt, elf bojovník level 3
-5960 / 8000 zk
+7260 / 8000 zk
 
 síla: 18 +3
 inteligence: 12
@@ -15,18 +15,23 @@ AC 20
 batoh
 měch na vodu
 
-dlouhý meč +1 (+5 / 1k8+3)
-dlouhý luk (+3 / 1k6+2)
-dýka (+4 / 1k4+3)
-50 šípů
 vlněný plášť
 zásoby na 7 dní i pro vlka
 stan pro 10 lidí
+náramek léčení 1k4 jednou denně
 2x lektvar rychlosti
 2x léčivý lektvar
 
 štít
 plátová zbroj
-zásoby
+
+dlouhý meč +1 (+6 / 1k8+3)
+dlouhý luk (+4)
+50 šípů (1k6+2)
+dýka (+5 / 1k4+3)
+pěst (+6 / 1k3+4)
+kop (+4 / 1k4+4)
+
+specializace na boj beze zbraně
 
 vlk Rychlík

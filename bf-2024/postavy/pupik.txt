@@ -1,6 +1,6 @@
 Pupík Tichošlap půlčík zloděj
 level 4
-7130 / 10000 zk
+8430 / 10000 zk
 
 síla: 9
 inteligence: 6 -1
@@ -12,7 +12,7 @@ charisma: 6 -1
 AC: 16 (18)
 26 životů (26)
 
-691 stříbrných
+689 stříbrných
 
 dýka +1 jedová (th +4 dmg 1k4+4)
 krátký luk TH +5
@@ -35,6 +35,7 @@ měch na vodu
 2x léčivý lektvar 2d4+2
 totem větru
 elfí šperky v hodnotě 500ag
+telefonní naušnice
 
 dovednosti:
     Dýkou k poškození bonus za obratnost místo síly.

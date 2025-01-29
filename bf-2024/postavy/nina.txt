@@ -1,6 +1,6 @@
 Nina Elf kouzelník
 3. level
-8350 / 10000 zk
+9650 / 10000 zk
 
 síla: 5 -2
 inteligence: 18 +3
@@ -12,7 +12,7 @@ charisma: 16 +2
 AC: 13
 9 životů (1)
 
-305 stříbrných
+530 stříbrných
 
 hůl (-1 / 1k6-2); magic missile 1x denně
 dýka (-1 / 1k4-2)
@@ -23,13 +23,14 @@ kniha kouzel
 měch na vodu
 síť
 0x elixír neviditelnosti
-0x léčivý lektvar
+1x léčivý lektvar
 páčidlo
 prsten zmizení předmětů
 elfí róba AC 14
 zásoby na 7 dní
-elfí šperkyu v hodnotě 700ag
+elfí šperky v hodnotě 500ag
 náramek ochrany proti duchům (bonus +2 na záchranné hody, útok a AC proti nehmotným bytostem.)
+telefonní naušnice
 
 kouzla:
 L1:

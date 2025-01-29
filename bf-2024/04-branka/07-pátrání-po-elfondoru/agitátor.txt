@@ -1,0 +1,56 @@
+Agitátor na setkání teroristické skupiny Elfondor by měl být středně významnou postavou s přímým, ale nevrcholným napojením na vedení skupiny. Zde je jeho profil:
+Jméno a základní informace:
+
+    Jméno: Laeros Stínovlád
+    Rasa: Elf
+    Věk: 185 let (střední věk pro elfa)
+    Povolání: Bývalý diplomat a řečník, nyní radikální agitátor
+    Napojení na vedení:
+        Laeros má přímý kontakt s jedním z velitelů skupiny Elfondor, jménem Caladan Čepel, který je jedním z nejbližších poradců tajemného vůdce skupiny. Caladan mu zadává konkrétní úkoly a poskytuje instrukce, jak šířit ideologii Elfondoru.
+        Není součástí nejvyššího kruhu vedení, ale má dostatek důvěry, aby organizoval setkání a podněcoval další členy k činnosti. Má pravomoc rozhodovat o menších operacích (např. organizace veřejných protestů, menší sabotáže).
+
+Charakter a motivace:
+
+    Charakter:
+        Charismatický řečník, který dokáže strhnout dav svými slovy.
+        Velmi rozhořčený vůči lidem, obviňuje je z ponížení a ztráty elfské identity.
+        Inteligentní, ale spíše radikální než promyšlený. Jeho hlavní síla spočívá v manipulaci a rétorice.
+        V jádru je věřící ve spravedlnost, ale jeho radikalismus překračuje hranice. Je přesvědčený, že účel světí prostředky.
+
+    Motivace:
+        Pochází z vážené elfí rodiny, která měla historicky vysoké postavení v Brance, ale kvůli úpadku elfských práv jeho rodina přišla o majetek a vliv. Laeros toto vnímá jako zradu lidí vůči elfům.
+        Chce "navrátit elfům jejich čest", ačkoliv nebere ohledy na to, kolik obětí to může stát. Věří, že násilí je jedinou cestou k dosažení tohoto cíle.
+        Sám sebe vidí jako „hlásnou troubu“ vedení Elfondoru a věří, že jeho slova inspirují ostatní k činu.
+
+Role na setkání Elfondor:
+
+    Laeros vede agitaci, během níž:
+        Oslovuje dav s výbušnou rétorikou, například:
+            „Lidé nám vzali naši čest a důstojnost. Jejich město roste na našich kořenech, ale my jsme ti, kdo zapustili první semena!“
+            „Elfondor není jen hnutí. Elfondor je síla, která roznítí oheň v našich srdcích!“
+        Povzbuzuje k přímé akci: „Kdo z vás je připraven obětovat vše pro elfskou hrdost?“
+        Předává účastníkům pamflety a tajná hesla.
+
+    Zajímavost:
+        Na setkání by mohl přítomným ukázat zrcadlový amulet, o kterém tvrdí, že „přinese odvahu každému, kdo se odváží ho nosit do boje.“ (Ve skutečnosti by mohl být symbolem Elfondoru a nástrojem pro identifikaci členů.)
+
+Co ví o vedení:
+
+    Laeros je pouze pěšák, pokud jde o strategické rozhodování. Nezná identitu hlavního vůdce, ale má kontakt s Caladanem Čepelí, který mu zadává úkoly a informuje ho o dalších krocích.
+    Ví, že Caladan operuje z Branky a udržuje kontakty s několika bohatými elfskými rodinami, které skupinu financují, ačkoliv neví, kteří přesně.
+    Zná několik „bezpečných domů“ a míst, kde se teroristé mohou scházet.
+
+Statistiky (pro Basic Fantasy RPG):
+
+    Úroveň: 3 (Thief)
+    Životy: 14
+    Obrana: AC 15 (lehká zbroj, obratnost)
+    Útoky:
+        Dýka +2 (1d6+1)
+        Lehký kuš +3 (1d6)
+    Schopnosti:
+        +15 % k Přesvědčování díky jeho výmluvnosti.
+        Umí používat nenápadné signály a kódová gesta k identifikaci členů Elfondoru.
+    Magický předmět: Zrcadlový amulet (ochrana před magickým vystopováním).
+
+Tento agitátor může být klíčovým bodem pro odhalení širší sítě Elfondoru, protože jeho vazby na Caladana Čepel nejsou příliš skryté a mohou posloužit jako stopa pro další vyšetřování.

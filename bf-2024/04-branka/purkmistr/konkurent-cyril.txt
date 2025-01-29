@@ -7,7 +7,7 @@ Název: Hra o čestné místo
 
 Základní děj: Purkmistr Branky, Evron Spravedlivý, podporuje zachování čestného místa pro temnohvozdského radního Felariona, což se stalo bodem sporu s jeho ambiciózním oponentem, Cyrilem Šídlem, vlivným obchodníkem a majitelem rozsáhlých vinic a mramorových lomů na jihu města. Cyril je schopný rétor a intrikán, který využije každou příležitost k oslabení purkmistrovy pozice. Hrdinové mají za úkol zabránit Cyrilovi, aby na zasedání městské rady uspěl ve svých záměrech.
 Postavy
-Evron Spravedlivý (Purkmistr)
+Evron Vrbka (Purkmistr)
 
     Osobnost: Klidný, pragmatický a důstojný. Upřednostňuje diplomacii před násilím, ale je ochoten použít okliky, pokud to znamená ochranu stability města.
     Motivace: Zachování čestného místa temnohvozdského radního a upevnění své pozice purkmistra.
