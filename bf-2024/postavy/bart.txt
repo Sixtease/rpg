@@ -1,5 +1,5 @@
 Bárt, elf bojovník level 3
-7260 / 8000 zk
+7760 / 8000 zk
 
 síla: 18 +3
 inteligence: 12
@@ -10,7 +10,7 @@ charisma: 9
 AC 20
 20 životů (20)
 
-46 stříbrných
+996 stříbrných
 
 batoh
 měch na vodu
@@ -20,7 +20,8 @@ zásoby na 7 dní i pro vlka
 stan pro 10 lidí
 náramek léčení 1k4 jednou denně
 2x lektvar rychlosti
-2x léčivý lektvar
+3x léčivý lektvar
+telefonní naušnice
 
 štít
 plátová zbroj

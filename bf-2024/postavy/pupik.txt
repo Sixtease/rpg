@@ -10,7 +10,7 @@ odolnost: 15 +2
 charisma: 6 -1
 
 AC: 16 (18)
-26 životů (26)
+26 životů (9)
 
 689 stříbrných
 

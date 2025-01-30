@@ -1,0 +1,65 @@
+📜 Statistiky NPC pro misi „Ochrana hospody“ 📜
+💀 Gruber Černý – Mafiánský boss
+
+(Mazaný stratég a brutální rváč, ovládá podsvětí Cechovní čtvrti)
+
+    Typ: Člověk, Střední postava
+    Třída zbroje (AC): 14 (kožená zbroj + štít)
+    Životy (HP): 40 (5k8+10)
+    Rychlost: 9 m
+    Síla: 16 (+3)
+    Obratnost: 12 (+1)
+    Odolnost: 15 (+2)
+    Inteligence: 13 (+1)
+    Moudrost: 10 (+0)
+    Charisma: 14 (+2)
+
+Schopnosti a výhody
+
+✅ Zkušený rváč: Má výhodu na útoky beze zbraně (pěstní boj, úchopy).
+✅ Šéf podsvětí: Když je v přítomnosti alespoň 2 podřízených, získává bonus +2 k AC.
+✅ Neústupný: Když by měl poprvé klesnout na 0 HP, zůstane na 1 HP (1x za boj).
+✅ Zastrašující přítomnost: Každé kolo může jako akci zastrašit jednoho nepřítele (Hod na Charisma DC 13 – při neúspěchu má cíl nevýhodu na útoky proti němu).
+Útoky
+
+🔪 Sekáček na maso – +5 k útoku, 1k8+3 řezné zranění.
+👊 Rvačka – +5 k útoku, 1k6+3 drtivé zranění, při zásahu protivník hodí na Odolnost DC 12, jinak je sražen k zemi.
+💀 Špinavý trik (1x za souboj) – Sype protivníkovi písek do očí, ten musí uspět v hodu na Obratnost DC 14, jinak má nevýhodu na útoky na 2 kola.
+🔪 Ruda Špína – Vymahač a Rváč
+
+(Největší silák mafie, ale hloupý a přímočarý)
+
+    Třída zbroje (AC): 12 (kožená zbroj)
+    Životy (HP): 25 (3k8+6)
+    Síla: 17 (+3)
+    Obratnost: 10 (+0)
+    Odolnost: 14 (+2)
+    Inteligence: 8 (-1)
+    Moudrost: 9 (-1)
+    Charisma: 11 (+0)
+
+Útoky
+
+👊 Obouručná rána pěstí – +5 k útoku, 1k8+3 drtivé zranění.
+💀 Chytni a prašť – Pokud zasáhne, může cíl zkusit uchopit (Síla DC 14). Pokud uspěje, hodí ho o zem za další 1k6 zranění.
+💀 Řadoví mafiáni (4x ochránci Grubera, 5x útočníci na hospodu)
+
+(Tuctoví zločinci, ale dobře sehraní)
+
+    Třída zbroje (AC): 12 (lehká zbroj)
+    Životy (HP): 15 (2k8+4)
+    Síla: 14 (+2)
+    Obratnost: 13 (+1)
+    Odolnost: 12 (+1)
+    Inteligence: 10 (+0)
+    Moudrost: 10 (+0)
+    Charisma: 10 (+0)
+
+Útoky
+
+🔪 Dýka – +4 k útoku, 1k6+2 bodné zranění.
+⚔️ Obušek – +4 k útoku, 1k6+2 drtivé zranění.
+
+Takhle by měli být dobře vybalancovaní – Gruber je silný boss, ale ne nezranitelný. Ruda je velký bijec, ale tupý a snadno ho lze přelstít. Řadoví mafiáni jsou spíš banda rváčů než opravdoví bojovníci.
+
+Hodí se ti to takto, nebo chceš něco doladit? 😊

@@ -12,7 +12,7 @@ charisma: 16 +2
 AC: 13
 9 životů (1)
 
-530 stříbrných
+536 stříbrných
 
 hůl (-1 / 1k6-2); magic missile 1x denně
 dýka (-1 / 1k4-2)
