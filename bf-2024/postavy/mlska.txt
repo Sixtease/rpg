@@ -13,7 +13,7 @@ Statistické hodnoty
     Armor Class (AC): 13 (obratnost).
     Hit Points (HP): 4 (1d4).
     Speed: 30 ft., climb 30 ft.
-    Délka skoku: 50 + 50xL
+    Délka skoku: 50 + 50xL = 250m
 
 Atributy
 

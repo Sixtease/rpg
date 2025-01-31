@@ -1,6 +1,6 @@
 Igor Klerik
 level 4
-zk: 7570 / 12000
+zk: 8570 / 12000
 
 síla: 9
 inteligence: 7 -1
@@ -19,14 +19,15 @@ lampa denního světla proti nemrtvým
 prak
 10 kamenů
 měch na vodu
+telefonní náušnice
 
 1:
 cure light wounds
-remove fear
+cure light wounds
 2:
-speak with animals
+hold person
 
-249 stříbrných
+605 stříbrných
 
 dovednosti:
     Opevněný štít: Bonus +1 k AC při použití štítu.
