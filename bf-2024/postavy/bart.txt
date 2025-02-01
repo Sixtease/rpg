@@ -1,5 +1,5 @@
-Bárt, elf bojovník level 3
-7960 / 8000 zk
+Bárt, elf bojovník level 4
+9460 / 16000 zk
 
 síla: 18 +3
 inteligence: 12
@@ -7,10 +7,10 @@ moudrost: 5 -2
 obratnost: 16 +2
 odolnost: 10
 charisma: 9
-AC 20
-20 životů (20)
+AC 21
+23 životů (23)
 
-1582 stříbrných
+1571 stříbrných
 
 batoh
 měch na vodu

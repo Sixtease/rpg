@@ -1,6 +1,6 @@
 Igor Klerik
 level 4
-zk: 8570 / 12000
+zk: 10070 / 12000
 
 síla: 9
 inteligence: 7 -1
@@ -11,13 +11,16 @@ charisma: 4 -2
 armor class: 21
 životů: 31 (31)
 
+554 stříbrných
+
 ještěří plátová zbroj
 štít +1
 warhammer +1 (+3 / 1k6 (2k6 proti nemrtvým))
 batoh nekonečného prostoru
 lampa denního světla proti nemrtvým
-prak
-10 kamenů
+prak +3 (+4 / 1k4+3)
+50x kulka +2 (+6 / 1k4+5)
+10 kamenů (1k3)
 měch na vodu
 telefonní náušnice
 
@@ -26,8 +29,6 @@ cure light wounds
 cure light wounds
 2:
 hold person
-
-605 stříbrných
 
 dovednosti:
     Opevněný štít: Bonus +1 k AC při použití štítu.
