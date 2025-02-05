@@ -1,3 +1,7 @@
+všechny ceny, které pravidla uvádějí ve zlatých, udáváme ve stříbrných. Dlouhý meč tedy stojí například 10 stříbrných, naučení kouzla 1. úrovně 75 stříbrných. Toto jsem upravil proto, že zlaté mince by podle mě měly mít mnohem větší hodnotu, než jakou jim připisují pravidla. Aby zásoby jídla na týden stály 10 zlatých je podle mě hloupost, zato 10 stříbrných už je realističtější. Všechny transakce tedy udáváme ve stříbrných a používáme ceny věcí z pravidel, jen v jiných jednotkách. Cenu tažných zvířat jsem zpětinásobil oproti pravidlům.
+
+Aby se nějak projevil bonus za inteligenci u kouzelníka a za moudrost u klerika, odečítám bonus za ně, když protivníci odolávají seslaným kouzlům. Má-li tedy protivník save vs. spell 16, pak pro odolání kouzlu od Niny, která má inteligenci 18+3 potřebuje hodit 19. Stejně tak tento bonus přičítám ke kvantitativním efektům kouzel, takže Igor s moudrostí 16+2 vyléčí ne 1k6, ale 1k6+2 životů; magická střela od Niny s inteligencí 18+3 nepůsobí 1k6+1, ale 1k6+4 poškození.
+
 Postupový žebříček bojovníka
 
     Úroveň 1:

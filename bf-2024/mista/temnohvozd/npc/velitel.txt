@@ -1,0 +1,53 @@
+Jméno: Thalóran Stínolist
+
+    Rasa: Elf
+    Povolání: Hraničář / válečník
+    Věk: 230 let (na elfa střední věk)
+    Role: Vrchní velitel ozbrojených sil Temnohvozdu, zodpovědný za koordinaci obrany lesa a strategické plánování.
+
+Popis:
+
+    Vzhled:
+        Středně vysoký elf s atletickou postavou. Má stříbrné vlasy splývající do copu, jizvu přes levé obočí a oči zelené jako hluboký les.
+        Nosí lehkou, ale pevnou zbroj vyrobenou z posíleného magického dřeva, zdobenou jemnými runami. Přes zbroj má plášť splývající do odstínů hnědé a zelené, aby splynul s lesem.
+
+    Osobnost:
+        Rozvážný a neústupný. Thalóran je mistr taktiky a strategického boje, ale klade důraz na minimalizaci ztrát.
+        Má silný smysl pro povinnost a neochvějnou loajalitu k Temnohvozdu. Jeho autorita je respektována, i když někdy působí chladně.
+
+Statistiky (Basic Fantasy RPG):
+
+    Úroveň: 6 (Hraničář/Válečník)
+
+    Hit Dice (HD): 6d8 (34 HP)
+
+    Armor Class (AC): 16 (magická zbroj + obratnost)
+
+    Útoky:
+        Dlouhý luk: +8 k útoku, zranění 1d8+2.
+        Dlouhý meč: +6 k útoku, zranění 1d8+3 (magický meč).
+
+    Atributy:
+        Síla: 14 (+1)
+        Inteligence: 13 (+1)
+        Moudrost: 16 (+2)
+        Obratnost: 18 (+3)
+        Odolnost: 12 (+0)
+        Charisma: 12 (+0)
+
+    Schopnosti:
+        Mistr lukostřelby: Získává bonus +2 k zásahu na dálku.
+        Znalec terénu: Nikdy nezabloudí v lese, snadno čte stopy.
+        Lesní léčka: Jednou za boj může připravit past (např. skrytý bodák nebo nasměrování nepřátel do pasti).
+
+Zbraně a vybavení:
+
+    Magický dlouhý luk Stínový tichoun: Umožňuje tichý výstřel, který nelze zaslechnout (perfektní pro přepady).
+    Meč Listovrh: Meč s runami, který dokáže jednou za den vytvořit nápor větru na odhození nepřátel.
+    Plášť Splynutí: Poskytuje bonus +2 k ukrytí a znesnadňuje odhalení v lese.
+
+Role ve hře:
+
+    Velitel: Hráči se s Thalóranem setkají při plánování obrany lesa. Může je pověřit konkrétní misí, např. průzkumem nebo sabotáží kamenických operací.
+    Mentor: Je ochotný poskytnout hráčům rady, taktiku nebo cvičení v boji, pokud si získají jeho respekt.
+    Spojenec: Pokud hráči prokážou loajalitu a schopnosti, Thalóran jim může věnovat některý ze svých magických předmětů nebo jim zajistit podporu dalších bojovníků.

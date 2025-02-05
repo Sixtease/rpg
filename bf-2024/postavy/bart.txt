@@ -1,5 +1,5 @@
 Bárt, elf bojovník level 4
-9460 / 16000 zk
+10160 / 16000 zk
 
 síla: 18 +3
 inteligence: 12
@@ -7,10 +7,10 @@ moudrost: 5 -2
 obratnost: 16 +2
 odolnost: 10
 charisma: 9
-AC 21
+AC 20
 23 životů (23)
 
-1571 stříbrných
+1607 stříbrných
 
 batoh
 měch na vodu
@@ -23,17 +23,18 @@ náramek léčení 1k4 jednou denně
 3x léčivý lektvar
 telefonní naušnice
 amulet imunity proti kouzlům L1
+Vílí houbový prášek (40 stříbrných, 5 použití)
+    Když se rozsype do vzduchu, vyzařuje slabé světlo, které odhalí neviditelné tvory nebo magické aury v okolí 5 metrů po dobu 1 minuty.
+    Má ale výraznou vůni a přitahuje lesní tvory.
 
-štít
 plátová zbroj
 
-dlouhý meč +1 (+6 / 1k8+3)
 dlouhý luk (+4)
 50 šípů (1k6+2)
 dýka (+5 / 1k4+3)
 pěst (+6 / 1k3+4)
 kop (+4 / 1k4+4)
-obouruční meč +3
+obouruční meč +3 (+7 / 1k10+6)
 
 specializace na boj beze zbraně
 

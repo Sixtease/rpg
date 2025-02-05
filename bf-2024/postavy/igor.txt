@@ -1,6 +1,6 @@
 Igor Klerik
 level 4
-zk: 10070 / 12000
+zk: 10770 / 12000
 
 síla: 9
 inteligence: 7 -1
@@ -19,16 +19,20 @@ warhammer +1 (+3 / 1k6 (2k6 proti nemrtvým))
 batoh nekonečného prostoru
 lampa denního světla proti nemrtvým
 prak +3 (+4 / 1k4+3)
+duchovní kladivo (+1 / 1k6+1)
 50x kulka +2 (+6 / 1k4+5)
 10 kamenů (1k3)
 měch na vodu
 telefonní náušnice
+Vílí houbový prášek (40 stříbrných, 5 použití)
+    Když se rozsype do vzduchu, vyzařuje slabé světlo, které odhalí neviditelné tvory nebo magické aury v okolí 5 metrů po dobu 1 minuty.
+    Má ale výraznou vůni a přitahuje lesní tvory.
 
 1:
 cure light wounds
-cure light wounds
+protection from evil
 2:
-hold person
+spiritual hammer
 
 dovednosti:
     Opevněný štít: Bonus +1 k AC při použití štítu.

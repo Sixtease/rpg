@@ -48,7 +48,7 @@
     Lokace: Turnajová pole, tribuny, stánky s občerstvením, stáj pro koně rytířů.
     Poloha: Na okraji města blízko rekreační čtvrti.
 
-4. Čistý přístav
+4. Hlavní přístav
 
     Hlavní přístaviště pro obchodní a osobní lodě.
 
@@ -61,7 +61,7 @@
 
     Lokace: Dlouhá mola, sklady, maják, cech námořníků.
 
-5. Špinavý přístav a chudinská čtvrť
+5. Starý přístav a chudinská čtvrť
 
     Plné pašeráků, černých trhů a improvizovaných obydlí.
     Chudinská čtvrť přiléhá k přístavu, kde obyvatelé žijí v bídě a nepořádku.
@@ -180,3 +180,31 @@ Další prvky města:
 
     Kanalizace: Podzemní síť, která je občas využívána jako skrýš zločinců.
     Městské hradby: Strategický bod obrany města s hlídkami.
+
+
+populace:
+    Staré město (s tržištěm, šlechtickou čtvrtí, čistým přístavem):
+        10 000 obyvatel (šlechta, bohatí obchodníci, řemeslníci a služebnictvo).
+
+    Cechovní čtvrť:
+        5 000 obyvatel (řemeslníci, obchodníci, jejich rodiny a tovaryši).
+
+    Univerzitní čtvrť:
+        2 000 obyvatel (učenci, studenti, knihovníci, řemeslníci spjatí s univerzitou).
+
+    Kasárna a vojenské zázemí:
+        1 000 obyvatel (vojáci, jejich rodiny, zázemí).
+
+    Trpasličí čtvrť:
+        6 000 obyvatel (trpaslíci i lidé spjatí s těžkým průmyslem, hornictvím a kovářstvím).
+
+    Chudinská čtvrť u starého přístavu:
+        7 000 obyvatel (dělníci, nádeníci, zloději, prostitutky).
+
+    Lazaret a okolí chrámu:
+        3 000 obyvatel (kněží, mniši, pacienti, obyvatelé starající se o nemocné a potřebné).
+
+    Relaxační čtvrť (jen šlechta a bohatí):
+        1 000 obyvatel (služebnictvo a správa čtvrti, šlechtici mají většinu rezidencí neobývanou většinu roku).
+
+Celkem: 35 000 obyvatel je realistický odhad pro město velikosti Branky. Tento počet zahrnuje nejen trvalé obyvatele, ale také cestující obchodníky, námořníky, studenty a dočasné pracovníky.
