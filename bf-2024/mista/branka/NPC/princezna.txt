@@ -41,3 +41,56 @@ Možné způsoby, jak s ní mohou hrdinové interagovat:
     Může se pokusit uniknout z manželství, pokud jí hrdinové pomohou najít způsob, jak Eldricha politicky zničit.
     Může pomoci odhalit pravdu o starých smlouvách mezi elfy a lidmi – její rodina zná legendy a má přístup k archivům.
     Pokud se jí podaří veřejně promluvit na rytířském turnaji, může tím otevřeně zpochybnit Eldrichovu kontrolu.
+
+
+📜 Princezna Alari – Statistiky a schopnosti
+
+(Silná NPC bez přesně definovaného hráčského povolání, ale s unikátními schopnostmi reflektujícími její roli.)
+📜 Základní charakteristika
+
+    Jméno: Princezna Alari
+    Rasa: Elf
+    Věk: 25–30 let
+    Původ: Pochází z významné šlechtické rodiny, byla donucena ke svatbě s Veberem, ale hrdinové ji osvobodili.
+    Postavení: Oficiálně stále Veberova manželka, ale ve skutečnosti je proti němu a stojí na straně hrdinů.
+    Vliv: Má silné kontakty mezi branskými elfy a některými nižšími šlechtici.
+
+📜 Statistiky (přibližné, bez konkrétního povolání)
+
+    Životy (HP): 22 (4d8+4) – odolnější než běžný člověk, ale stále není bojovník.
+    AC: 13 (kožený kabátec a instinktivní obrana)
+    Síla: 10 (průměrná, ale ne slabá)
+    Obratnost: 14 (rychlá a ladná)
+    Odolnost: 12 (naučila se přežít)
+    Inteligence: 16 (vzdělaná a strategická)
+    Moudrost: 14 (instinktivně vnímavá)
+    Charisma: 18 (velmi přesvědčivá, vůdčí osobnost)
+
+📜 Schopnosti a dovednosti
+🗡 1. Základy sebeobrany
+
+✔ Není žádná bojovnice, ale není bezbranná.
+✔ Umí bojovat dýkou (1d4+2) a používat kuši (1d6+2).
+✔ Má základní výcvik v uniku – pokud by byla přepadena, může jednou za souboj hodit na Obratnost DC 15 a uniknout sevření.
+🗣 2. Vliv a charismatická dominance
+
+✔ Přesvědčivost +6 – má výjimečné charisma a dokáže přimět druhé k jednání.
+✔ Znalost etikety a dvorních intrik – ví, jak mluvit s mocnými lidmi.
+✔ Dokáže odhadnout charakter protivníka – po krátkém rozhovoru může GM tajně hodit na Moudrost DC 14, aby zjistila motivace NPC.
+🧠 3. Strategická mysl
+
+✔ Plánování záchranných misí – umí organizovat operace, najít slabiny nepřátel.
+✔ Čtení emocí a úmyslů – pokud někdo lže, může GM hodit na Moudrost DC 13, aby to odhalila.
+✔ Taktická improvizace – pokud se situace zvrtne, může jednou za střet dát spojenci výhodu na únik či přepadení.
+🦊 4. Skrytá síla jejího náramku
+
+(Po získání zpět svého náramku začala „zářit silou“, což může mít nějaké ne zcela pochopené účinky.)
+✔ Pasivní aura respektu – nepřátelé, kteří ji podcení, mají postih -1 k hodům na odolávání jejímu charismatu.
+✔ Neznámý magický potenciál – její přítomnost může rušit určité slabší kouzla a iluze (GM může rozhodnout, že magický náramek náhodně ovlivní situaci).
+✔ Když se opravdu soustředí, může jednou za den spustit krátkodobý efekt neznámé síly (září, ovlivní lidi okolo ní, přiměje někoho váhat atd.).
+📜 Shrnutí: Co ji činí výjimečnou?
+
+1️⃣ Není bojovnice, ale umí se bránit a pohybovat ve stínu intrik.
+2️⃣ Má silný vliv a charismatickou dominanci.
+3️⃣ Myslí strategicky a umí improvizovat v nebezpečných situacích.
+4️⃣ Její náramek skrývá neprobádané magické schopnosti, které mohou ovlivnit okolí.

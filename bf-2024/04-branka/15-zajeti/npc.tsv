@@ -1,0 +1,31 @@
+Jméno	Role	Speciální schopnosti
+Gruber	Hlavní organizátor akce	Osobně chce vidět utrpení hrdinů.
+Veber	Politický stratég, neúčastní se fyzicky	Sleduje vše zpovzdálí, chce si být jistý, že nebude odhalen.
+Tvrďák Miksa	Hlavní vymahač a osobní strážce Grubera	Výborný bojovník, neúprosný výslechář.
+Šeptař Arno	Alchymista a specialista na mučení	Má zásobu jedů, uspávacích látek a mučících nástrojů.
+Stráž 1 a 2	Pouze dva elitní strážci	Jeden s kuší, druhý se zbraní na boj zblízka.
+
+Jméno	Role	Životy (HP)	AC	Útok	Schopnosti	Slabiny
+Gruber	Hlavní boss podsvětí	50 (6d10+12)	15	Jednoruční meč +6 (1d8+4), skrytá dýka +5 (1d4+3)	Výhoda na zastrašování, protiútok zdarma jednou za boj	Arrogantní, podceňuje protivníky, spoléhá na své muže
+Veber	Politický stratég	30 (4d8+8)	13	Otrávený prsten (DC 15 Odolnost, paralyzuje na 1 min)	Mistr manipulace (+5 Přesvědčování a Klamání), síť kontaktů	Slabý v boji, panikaří při ztrátě kontroly
+Tvrďák Miksa	Hlavní vymahač	45 (5d10+10)	16	Obouruční palcát +7 (2d6+5), chvat (DC 14 Síla, sražení)	Berserk mód (výhoda při ztrátě HP), imunní k zastrašování	Pomalý, ztrácí výhodu v obklíčení
+Šeptař Arno	Alchymista a mučitel	35 (5d8+10)	12	Lahvička s jedem +5 (DC 14 Odolnost, 1d6 jed 3 kola)	Nenápadný, může způsobit halucinace (zmatení 1 min)	Slabý na fyzické poškození, rychle panikaří
+Strážný 1 (Ardan)	Hlídá vstup	25 (3d10+6)	14	Kuše +5 (1d8), tesák +4 (1d6+2)	Bystrý pozorovatel, může jednou za boj vyrazit zbraň	Není loajální na 100 %, může utéct
+Strážný 2 (Vrek)	Hlídá vězeňské dveře	28 (3d10+9)	15	Obušek +4 (1d6+2), vrhací dýka +4 (1d4+2)	Výhoda na boj ve stísněných prostorech, umí stabilizovat padlé	Fanatik mafie, ale ztratí odvahu, pokud Gruber padne
+
+Jméno	Věk	Původ	Dovednosti	Schopnosti	Slabiny	Možná role v záchraně
+Štěpán	10 let	Syn přístavních dělníků, vyrůstal v drsném prostředí.	Výborná znalost města, rychlý běh, obratný kapsář.	Nenápadný pohyb (+5 na plížení), vynikající paměť na uličky a skrýše, umí improvizovat v krizových situacích.	Impulzivní, nedůvěřivý k autoritám, bojí se vody (kvůli smrti rodičů).	Dovede princezninu skupinu skrytými cestami, pomůže odlákat stráže, může ukrást klíč nebo zbraň.
+Anežka	11 let	Pochází z bohaté rodiny, umí číst a zná dvorní způsoby.	Vysoce inteligentní, umí jednat s lidmi, rychle se učí.	Přesvědčování (+5 na manipulaci), umí číst a psát (může padělat zprávy), dobře se pohybuje mezi vyššími vrstvami.	Méně fyzicky zdatná, pokud ji něco vyděsí, na chvíli ztuhne.	Může podplatit nebo obelstít stráž, doručit tajnou zprávu, získat falešné dokumenty k infiltraci.
+
+Jméno	Životy (HP)	AC	Útok	Schopnosti v boji	Slabiny v boji
+Štěpán	18 (3d8+3)	12	Dýka +4 (1d4+2), prak +5 (1d6)	Rychlý únik (může jednou za boj provést Disengage zdarma), Krádež v chaosu (výhoda na kapsářství v boji)	Slabý v přímém střetu, spoléhá na únik a lstivost.
+Anežka	14 (2d8+2)	11	Skrytá dýka +3 (1d4+1), improvizované zbraně (např. horký vosk, písek do očí, DC 12 na Oslepení)	Lest a klam (výhoda na obelstění protivníka), Manipulace (může jednou za boj přesvědčit nepřítele k váhání)	Nízká výdrž, pokud je zahnána do rohu, může na chvíli ztuhnout.
+
+Jméno	Role	Věk	Původ	Dovednosti	Schopnosti	Bojové schopnosti	Možná role v příběhu
+Elza Sternová	Kamenická agentka, nenápadná asistentka	28 let	Dlouholetá osobní asistentka branského obchodníka, slouží jako nenápadný informátor.	Mistryně v naslouchání, rychlá analýza informací, přetvářka a špionáž.	Nenápadnost (+6) – umí se ztratit v davu, Čtení řeči těla (+5) – odhalí lži, Dvojitá loajalita – může přeběhnout, pokud dostane lepší nabídku.	HP: 22 (4d8+4), AC: 13 (kožená zbroj pod oblečením), Útok: Dýka +5 (1d4+2), skrytý paralyzující jed (DC 13, ochromení 1 min), Překvapivý úder (výhoda na první útok), Smrtící přesnost (dvojnásobné poškození neozbrojeným cílům).	Podceněná postava při výsleších, klíč k odhalení plánů Kamenice, potenciální budoucí špión.
+
+🔹 2️⃣ Asistentka u významného obchodníka (např. v Cechovní čtvrti)
+
+    Pracuje pro někoho, kdo má styky s podsvětím i politikou.
+    Přes obchodní cesty a smlouvy sleduje zásobování Branky, dodávky zbraní, potravin nebo magických surovin.
+    Je při mnoha důležitých setkáních, ale málokdo si ji všímá.

@@ -1,6 +1,6 @@
 Pupík Tichošlap půlčík zloděj
 level 5
-11130 / 20000 zk
+11830 / 20000 zk
 
 síla: 9
 inteligence: 6 -1
@@ -12,7 +12,8 @@ charisma: 6 -1
 AC: 16 (18)
 31 životů (31)
 
-1274 stříbrných
+2487 stříbrných
+šperky v hodnotě 666
 
 dýka +1 jedová (th +4 dmg 1k4+4)
 krátký luk TH +5

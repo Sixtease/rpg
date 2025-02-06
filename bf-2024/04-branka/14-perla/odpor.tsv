@@ -1,0 +1,10 @@
+Jméno	Typ	Životy (HP)	AC	Útok	Schopnosti	Mechanika překonání
+Obchodník s magickými rybami	Lidský pašerák	15 (2d8+6)	12	Dýka +3 (1d6+1), vrhací síť (DC 13 na Obratnost)	Znalost přístavu (+2 na ukrytí ve městě), Kradení informací (výhoda na klamání a vyjednávání)	Podplacení, přelstění, nebo boj. Může být zatčen, pokud družina získá důkaz o nelegálním obchodu.
+Magický krystalický krab	Velký korýš, mutovaný magií perly	30 (4d10+8)	16	Drápy +5 (2d6+3 rozdrcení)	Odolnost proti nemagickým zbraním, Světelný odraz (DC 14 na Odolnost, oslepení na 1 kolo)	Slabina na kloubech krunýře (útok na konkrétní místo obchází odolnost), nebo nalákání na magickou návnadu.
+Duch mrtvého lovce perel	Nemrtvý přízrak	40 (6d8+12)	14	Dotek zoufalství +6 (2d6 nekrotické poškození, DC 15 na Moudrost, jinak strach z perly)	Pronikání skrz pevné objekty, Iluzorní šeptání (cíl slyší falešné zvuky, nevýhoda na vnímání)	Slabý vůči svěcené vodě a silné vůli (DC 17 na Moudrost k přesvědčení, aby se vzdal posedlosti).
+
+
+Jméno	Typ	Kdy útočí?	Mechanika zachycení	Co se stane při neúspěchu?	Jak se osvobodit?	Jak je přeseknout / obejít?
+Bičovité korály	Živá rostlina ovlivněná magií perly	Jakmile se někdo přiblíží k perle na 3 metry nebo do nich narazí.	Hod proti DC 14 na Obratnost (Dex)	Cíl je spoután, rychlost 0, nemůže se hýbat.	Každé kolo hod proti DC 14 na Sílu (Str) nebo Obratnost (Dex)	AC 12, HP 10, odolné proti bodným útokům (poloviční dmg), zranitelné vůči sečným (dvojnásobné dmg).
+Lapavé korály	Pastivý korál s mechanismem sevření	Jakmile někdo položí nohu nebo ruku na jejich povrch.	Hod proti DC 13 na Obratnost (Dex)	Cíl je chycen a každé kolo utrpí 1d4 drtivého poškození.	Každé kolo hod proti DC 13 na Sílu (Str)	AC 10, HP 15, zranitelné vůči drtivým útokům (dvojnásobné poškození).
+Iluzorní korály	Optická past vytvářející falešné cesty	Jakmile se někdo pokusí projít skrz „volnou“ oblast, která neexistuje.	Hod proti DC 15 na Moudrost (Wis)	Cíl se ztratí, dokud ho někdo nenajde nebo nezačne nový orientační hod.	Lze odhalit pomocí kouzla Detect Magic nebo vedením jiného člena družiny.	Nelze zničit fyzicky, ale lze je rozbít světlem nebo rušit magií (Dispel Magic).
