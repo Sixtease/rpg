@@ -1,5 +1,5 @@
 Bárt, elf bojovník level 4
-10860 / 16000 zk
+13260 / 16000 zk
 
 síla: 18 +3
 inteligence: 12
@@ -10,7 +10,7 @@ charisma: 9
 AC 20
 23 životů (23)
 
-2539 stříbrných
+2267 stříbrných
 šperky v hodnotě 666
 
 batoh
@@ -29,6 +29,8 @@ Vílí houbový prášek (40 stříbrných, 5 použití)
     Když se rozsype do vzduchu, vyzařuje slabé světlo, které odhalí neviditelné tvory nebo magické aury v okolí 5 metrů po dobu 1 minuty.
     Má ale výraznou vůni a přitahuje lesní tvory.
 maso
+rybářský prut
+11 kouřových bomb
 
 plátová zbroj
 

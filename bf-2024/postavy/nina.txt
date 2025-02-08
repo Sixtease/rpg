@@ -1,6 +1,6 @@
 Nina Elf kouzelník
 4. level
-14350 / 20000 zk
+16750 / 20000 zk
 
 síla: 5 -2
 inteligence: 18 +3
@@ -12,7 +12,7 @@ charisma: 16 +2
 AC: 13
 11 životů (11)
 
-1606 stříbrných
+1675 stříbrných
 šperky v hodnotě 666
 
 batoh
@@ -28,8 +28,9 @@ pero + inkoust
 hamaka
 páčidlo
 3x lektvar síly
-2x léčivý lektvar
-3x lektvar dýchání pod vodou
+3x léčivý lektvar
+3.8x lektvar dýchání pod vodou
+10x kouřová bomba
 
 hůl blesk 1/den magická zbraň (-1 / 1k6-2)
 dýka (-1 / 1k4-2)
@@ -37,10 +38,10 @@ dýka (-1 / 1k4-2)
 kouzla:
 L1:
 čtení magie
-uspání
-štít *
+uspání **
+štít
 okouzlení
-magická střela *
+magická střela
 L2:
 levitace *
 neviditelnost

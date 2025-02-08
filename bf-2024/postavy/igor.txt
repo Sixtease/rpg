@@ -1,6 +1,6 @@
 Igor Klerik
-level 4
-zk: 10770 / 12000
+level 5
+zk: 13170 / 24000
 
 síla: 9
 inteligence: 7 -1
@@ -9,7 +9,7 @@ obratnost: 13 +1
 odolnost: 18 +3
 charisma: 4 -2
 armor class: 21
-životů: 31 (31)
+životů: 35 (30)
 
 554 stříbrných
 
@@ -30,8 +30,8 @@ Vílí houbový prášek (40 stříbrných, 5 použití)
 
 1:
 cure light wounds
-protection from evil
 2:
+vytělesnění
 spiritual hammer
 
 dovednosti:
