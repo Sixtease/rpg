@@ -1,0 +1,42 @@
+📜 Jakou vlastnost budou mít magické zbraně a zbroje od mága?
+
+Tyto zbraně a zbroje by měly být dost silné na to, aby orkové byli motivováni je používat, ale zároveň v sobě skrývaly prokletí, které slouží mágovi.
+
+🔹 Zbraně by měly posilovat bojovou efektivitu, ale zároveň postupně oslabovat jejich nositele.
+🔹 Zbroje by měly chránit, ale způsobovat závislost na magii mága.
+🔹 Orkové nevědí, že se tím připravují o svou životní sílu.
+💡 Možnosti efektů zbraní a zbrojí
+
+1️⃣ Zbraně (meče, sekery, palcáty, oštěpy, luky):
+✔ „Hladové zbraně“ – Čím víc s nimi ork bojuje, tím víc síly mu dávají.
+✔ Každý úspěšný zásah v boji přidává bonus k poškození (+1, max +5).
+✔ Po každém boji musí nositel uspět v záchranném hodu, jinak trvale ztrácí 1 bod odolnosti.
+✔ Zbraň nelze zahodit – kdo se jí zbaví, dostane okamžitě -2 k Síle na týden.
+✔ Mág absorbuje ztracenou vitalitu nositele a postupně ji využívá k vlastnímu nesmrtelnému rituálu.
+
+🔹 Příklad zbraně: „Píseň krve“
+
+    Sekera, která při každém úspěšném útoku vibruje jako vzdálený válečný chorál.
+    Každý zásah přidává bonus k poškození, ale zároveň vysává nositelovu energii.
+    Orkové si myslí, že je to „cena síly“, ale netuší, že jejich životní energie putuje přímo k mágovi.
+
+2️⃣ Zbroje (pláty, kroužkové brnění, kožené vesty):
+✔ „Druhá kůže“ – Nositel získává +2 k AC, ale brnění ho postupně svazuje s mágovou magií.
+✔ Brnění se adaptuje na tělo – čím déle ho nosí, tím víc se k němu přimkne.
+✔ Nositel po týdnu nošení nedokáže brnění sundat, pokud neuspěje v záchranném hodu na Moudrost.
+✔ Po třech týdnech začne absorbovat jeho vitalitu a ztrácí 1 život za týden.
+✔ Mág je může kdykoliv aktivovat na dálku, aby nositele oslabily nebo ochromily.
+
+🔹 Příklad zbroje: „Krví kované brnění“
+
+    Zbroj, která se propojila s magickou rudou, sama se opravuje, ale zároveň se stává vězením pro svého nositele.
+    Orkové ji nosí, protože dává obrovskou výdrž v boji, ale postupně je vysává.
+    Mág tak může „vypnout“ celou armádu naráz, až bude připraven.
+
+📜 Jak to ovlivní příběh?
+
+✔ Orkové věří, že tyto zbraně a zbroje z nich dělají elitní válečníky.
+✔ Skutečnost je, že je pomalu oslabují, zatímco mág z nich čerpá životní sílu.
+✔ Hrdinové mohou najít první oběti – starší orky, kteří náhle začali umírat, ale nikdo neví proč.
+✔ Orkové nemusí vědět, že je mág zrazuje – někteří si myslí, že jde o „oběť za sílu“.
+✔ Pokud se to odhalí, může to vést k rozštěpení mezi orky – část jich může bojovat proti mágovi, část ho dál uctívat jako spasitele.
