@@ -10,7 +10,7 @@ charisma: 9
 AC 20
 23 životů (23)
 
-2267 stříbrných
+2127 stříbrných
 šperky v hodnotě 666
 
 batoh
@@ -30,7 +30,7 @@ Vílí houbový prášek (40 stříbrných, 5 použití)
     Má ale výraznou vůni a přitahuje lesní tvory.
 maso
 rybářský prut
-11 kouřových bomb
+15 kouřových bomb
 
 plátová zbroj
 

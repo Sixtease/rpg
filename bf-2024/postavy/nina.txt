@@ -1,6 +1,6 @@
 Nina Elf kouzelník
 4. level
-16750 / 20000 zk
+17250 / 20000 zk
 
 síla: 5 -2
 inteligence: 18 +3
@@ -38,14 +38,14 @@ dýka (-1 / 1k4-2)
 kouzla:
 L1:
 čtení magie
-uspání **
+uspání
 štít
-okouzlení
+okouzlení *
 magická střela
 L2:
-levitace *
+levitace
 neviditelnost
-zrcadlový obraz *·
+zrcadlový obraz *
 pavučina
 locate object
 
