@@ -1,5 +1,5 @@
 Bárt, elf bojovník level 4
-13260 / 16000 zk
+13860 / 16000 zk
 
 síla: 18 +3
 inteligence: 12
@@ -10,7 +10,7 @@ charisma: 9
 AC 20
 23 životů (23)
 
-2127 stříbrných
+2174 stříbrných
 šperky v hodnotě 666
 
 batoh
@@ -36,7 +36,7 @@ plátová zbroj
 
 dlouhý luk (+4)
 50 šípů (1k6+2)
-dýka (+5 / 1k4+3)
+vystřelovací dýka (+5 / 1k4+3)
 pěst (+6 / 1k3+4)
 kop (+4 / 1k4+4)
 obouruční meč +3 (+7 / 1k10+6)

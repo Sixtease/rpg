@@ -1,6 +1,6 @@
 Nina Elf kouzelník
 4. level
-17250 / 20000 zk
+17850 / 20000 zk
 
 síla: 5 -2
 inteligence: 18 +3
@@ -12,7 +12,7 @@ charisma: 16 +2
 AC: 13
 11 životů (11)
 
-1675 stříbrných
+1092 stříbrných
 šperky v hodnotě 666
 
 batoh
@@ -20,6 +20,7 @@ měch na vodu
 kniha kouzel
 elfí róba AC 14
 prsten zmizení předmětů
+prsten rozptylu: 1× denně umožní seslat Dispel Magic na kouzlo 2. úrovně.
 náramek ochrany proti duchům (bonus +2 na záchranné hody, útok a AC proti nehmotným bytostem.)
 telefonní naušnice
 amulet detect magic 1x denně
@@ -38,16 +39,19 @@ dýka (-1 / 1k4-2)
 kouzla:
 L1:
 čtení magie
-uspání
+uspání **
 štít
-okouzlení *
+okouzlení
 magická střela
+plovoucí disk
 L2:
 levitace
 neviditelnost
 zrcadlový obraz *
 pavučina
-locate object
+nalezení předmětu
+čtení mysli
+přelud *
 
 veverka - Mlska
 

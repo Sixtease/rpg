@@ -1,6 +1,6 @@
 Igor Klerik
 level 5
-zk: 13170 / 24000
+zk: 13770 / 24000
 
 síla: 9
 inteligence: 7 -1
@@ -11,7 +11,7 @@ charisma: 4 -2
 armor class: 21
 životů: 35 (30)
 
-554 stříbrných
+652 stříbrných
 
 ještěří plátová zbroj
 štít +1
@@ -29,9 +29,10 @@ Vílí houbový prášek (40 stříbrných, 5 použití)
     Má ale výraznou vůni a přitahuje lesní tvory.
 
 1:
-cure light wounds
+cure light wounds·
+protection from evil
 2:
-vytělesnění
+bless
 spiritual hammer
 
 dovednosti:
