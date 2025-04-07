@@ -1,6 +1,6 @@
 Nina elf kouzelník
 4. level
-17850 / 20000 zk
+19350 / 20000 zk
 narozena 20.12., věk 18 let
 
 síla: 5 -2
@@ -13,7 +13,7 @@ charisma: 16 +2
 AC: 13
 11 životů (11)
 
-1092 stříbrných
+2342 stříbrných
 šperky v hodnotě 666
 
 batoh
@@ -33,6 +33,8 @@ páčidlo
 3x léčivý lektvar
 3.8x lektvar dýchání pod vodou
 10x kouřová bomba
+prut magické střely (2x denně)
+prut dispell magic (2x denně)
 
 hůl blesk 1/den magická zbraň (-1 / 1k6-2)
 dýka (-1 / 1k4-2)
@@ -40,15 +42,15 @@ dýka (-1 / 1k4-2)
 kouzla:
 L1:
 čtení magie
-uspání **
+uspání *
 štít
 okouzlení
 magická střela
 plovoucí disk
 L2:
 levitace
-neviditelnost
-zrcadlový obraz *
+neviditelnost *
+zrcadlový obraz
 pavučina
 nalezení předmětu
 čtení mysli

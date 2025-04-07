@@ -1,0 +1,206 @@
+Jméno: Aldur Velkar
+Rasa: Člověk (nebo volitelně napůl démon, pokud chceš temnější tón)
+Věk: Těžko určitelný – vypadá na 40–50, ale jeho skutečný věk může být mnohem vyšší díky magickému prodlužování života
+Povolání: Černokněžník (Warlock) nebo čaroděj (Wizard) zaměřený na nekromantii a magie krve
+Motivace: Touha po nesmrtelnosti, prodlužování života kanálem životní síly od druhých
+Zvláštnost: Kanál životní síly propojený s jeho orčími zbrojemi a zbraněmi
+VZHLED
+
+    Vysoký, hubený, kostnatý muž v tmavých, rozpraskaných rouchách s kovovými výšivkami
+
+    Kůže má voskově našedlou barvu, oči mu žhnou slabě karmínovým světlem
+
+    Vlasy bílé, rozcuchané a suché, vous rozčepýřený jako u askety
+
+    Hovoří pomalu, klidně a přitom nesnesitelně povýšeně
+
+STATISTIKY (pro 5. úroveň dobrodružství)
+
+    Úroveň: 8 (v případě souboje na dálku velmi nebezpečný)
+
+    Životy: 64 (8k8 + 24)
+
+    Zbroj: 15 (magická ochrana)
+
+    Síla: 10
+
+    Obratnost: 14
+
+    Odolnost: 16
+
+    Inteligence: 18
+
+    Moudrost: 12
+
+    Charisma: 14
+
+VYBAVENÍ
+
+    Hůl z rudého skla: Slouží jako fokus a zároveň jako Staff of Withering (při zásahu může vysávat život)
+
+    Prsten kanálu síly: Kanál napojený na orčí vybavení – pasivně získává 1 životní bod za každého orka, který pomocí jeho magického vybavení způsobí zranění
+
+    Kniha krve: Zakázaná grimoárová kniha s rituály prodlužování života, schovává ji v chráněné kryptě nebo síni
+
+    Amulet proti identifikaci: Znesnadňuje automatické zjištění vlastností jeho magie běžnými kouzly (Identify hází s nevýhodou)
+
+KOUZLA (DC 15)
+Triky:
+
+    Eldritch Blast
+
+    Mage Hand
+
+    Prestidigitation
+
+1. stupeň (4 sloty):
+
+    Shield
+
+    Mage Armor
+
+    Hex
+
+2. stupeň (3 sloty):
+
+    Mirror Image
+
+    Misty Step
+
+3. stupeň (3 sloty):
+
+    Counterspell
+
+    Vampiric Touch
+
+4. stupeň (2 sloty):
+
+    Greater Invisibility
+
+    Phantasmal Killer
+
+KOUZLA NA SOBĚ (běžně aktivní):
+
+    Mage Armor (AC 15) – téměř permanentně
+
+    Hex nebo Hunter’s Mark přenesený přes amulet na orky – sleduje výkony zbraní
+
+    Scrying (čas od času) – kontroluje, zda někdo nesleduje jeho pohyb
+
+KANÁL ŽIVOTNÍ SÍLY – MECHANIKA
+
+    Každý zásah orka magickou zbraní +1 (od mága) → Aldur získá 1 HP (ne víc než 1 za kolo)
+
+    Pokud ork někoho zabije, Aldur získá 1d6 HP navíc
+
+    Jestliže ork zemře s jeho zbrojí, Aldur pocítí ztrátu – dočasné snížení vlastního max. HP o 1 (kumulativní do 5)
+
+CHOVÁNÍ PŘI SETKÁNÍ
+
+    Neútočí hned – je ochoten vyjednávat, pokud necítí převahu
+
+    Představuje se jako "konzultant z hor", bagatelizuje své vazby na orky
+
+    Mluví v metaforách ("Vše, co roste, se jednou vrátí k zemi – já jen pomáhám urychlit cyklus")
+
+Chceš ho vidět i vizuálně (portrét nebo scéna v jeho sídle)? Nebo máme rozpracovat jeho kryptu, kde sídlí?
+You said:
+ano, prosím obrázek jeho v jeho sídle
+ChatGPT said:
+Generated image
+Generated imageGenerated image
+Generated imageGenerated image
+Rate this image
+You said:
+Krása, děkuju. Teď potřebuju detaily jeho sídla: Jak se k němu dostanou z trpasličí pevnosti, vše, co potřebuju pro vedení příběhu.
+ChatGPT said:
+
+Výborně! Tady máš kompletní popis sídla temného mága Aldura Velkara, jeho okolí, cestu z trpasličí pevnosti, strukturu budovy, i možnosti interakce. Dává to plné zázemí pro dobrodružství, ke kterému se družina může dostat různými způsoby:
+📍 Cesta ze zničené trpasličí pevnosti k sídlu Aldura Velkara
+
+    Vzdálenost: přibližně 25 km severovýchodně od pevnosti, v hluboké rozsedlině mezi dvěma skalními hřebeny.
+
+    Cesta:
+
+        Ze zadní části pevnosti vede starý opuštěný těžební tunel, který pokračuje do hor. Několik kilometrů se vine v podzemí a vede do jeskynního systému.
+
+        Po zhruba 6 km tunel končí v černé kotlině – opuštěném dolu. Tam si družina všimne nepřirozených světelných znaků na stěnách (rudé runy), které zůstanou neviditelné bez Detect Magic nebo podobného kouzla.
+
+        Odtud se cesta klikatí po kamenitém svahu, kde je třeba překonat úzkou římsu s hrozbou sesuvu (DC 13 DEX save, nebo DC 15 Acrobatics).
+
+        Nakonec se objeví visutý most z řetězů a dřeva, z části oprýskaný, vedoucí k masivním železným dveřím vytesaným do skály. To je vstup do Aldurova sídla.
+
+🏰 Sídlo Aldura Velkara – "Temná svatyně"
+📌 Obecná charakteristika
+
+    Vytesané do masivu Severních hor, staré, zčásti opuštěné podzemní chrámové sídlo staré kultovní civilizace.
+
+    Aldur ho přestavěl na laboratoř, svatyni, vězení a sídlo. Sídlí zde s několika stálými služebníky (přesněji níže).
+
+    Je obklopeno neustálým šerem – i za dne je vstupní rokle tmavá a nepřístupná přímému slunci.
+
+🧭 Rozvržení v bodech
+
+    Vstupní síň
+
+        Sochy zapomenutých bohů s odštěpenými hlavami.
+
+        Dveře opatřeny magickou runou (Alarm, Glyph of Warding nebo Arcane Lock – záleží na úrovni družiny).
+
+    Chodba bolesti
+
+        Série optických klamů a pastí (mechanické i magické).
+
+        Fear glyphs, phantasmal killer iluze nebo Alarm traps.
+
+    Laboratoř života
+
+        Alchymistické a nekromantické stoly, zkumavky, orčí krve, magická ruda (viz níže).
+
+        V této místnosti sídlí kanál životní síly – černý krystal usazený v kruhu run.
+
+            Přes tento krystal proudí do mága vitalita orků, kteří nosí prokleté předměty.
+
+            Každá smrt nositele mu dá +1d4 do HP, které si udržuje do dlouhého odpočinku.
+
+    Velká svatyně
+
+        Sloupový sál s vyvýšeným trůnem.
+
+        Aldur se zde objevuje s ochrankou nebo projekcí.
+
+        Dominantou je levitující kámen, na němž je vytesáno slovo „Zlomitelný“ ve starodávném jazyce (narážka na smrtelnost).
+
+    Knihovna
+
+        Plná svitků, rituálů, záznamů o bankovním systému (!), poznámky k trpasličímu klíči a jeho možnému zneužití.
+
+        Mohou zde najít záznam: „...bez razítka nic neuděláš. Ale s razítkem a klíčem? Nový svět, nové zlato...”
+
+    Cela přeživších trpaslíků
+
+        2–3 trpaslíci z pevnosti jsou zde stále vězněni – možní spojenci nebo informační zdroj.
+
+🛡️ Ochránci sídla
+
+    2–4 nemrtví orkové bojovníci (magicky oživení padlí bojovníci).
+
+    1–2 homunkulové / familiáři, kteří fungují jako špehové a alarm.
+
+    Runová věžička – obranný systém fungující jako Arcane Cannon (1× za kolo vystřelí Magic Missile).
+
+🎁 Zajímavosti a potenciální odměny
+
+    Fragmenty duší ve skleněných ampulích – lze použít v rituálu nebo zničit (poskytují bonusy nebo uvolní sílu na jednorázové kouzlo).
+
+    Zápisník Aldura – obsahuje návod k výrobě život vysávajících zbraní.
+
+    Těžená ruda – zatím nepojmenovaná substance, katalyzuje magické toky (např. +1 bonus ke kouzlení, je-li součástí komponent).
+
+📜 Možné způsoby interakce
+
+    ⚔️ Přímý útok na Aldura – velmi těžký, má výhodu domácího terénu.
+
+    🧠 Diplomacie/klam – družina může zkusit vydávat se za spojence nebo učedníky (zvlášť pokud s sebou mají některé prokleté zbraně).
+
+    🕵️ Průzkum – možnost získat informace, zachránit trpaslíky a utéct.

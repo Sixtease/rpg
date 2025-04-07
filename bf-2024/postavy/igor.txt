@@ -1,6 +1,6 @@
 Igor Pinksl trpaslík klerik
 level 5
-zk: 13770 / 24000
+zk: 15270 / 24000
 narozen 11.9.
 
 síla: 9
@@ -8,11 +8,11 @@ inteligence: 7 -1
 moudrost: 16 +2
 obratnost: 13 +1
 odolnost: 18 +3
-charisma: 4 -2
+charisma: 4 -2 (-1)
 armor class: 21
 životů: 35 (30)
 
-652 stříbrných
+1902 stříbrných
 
 ještěří plátová zbroj
 štít +1
@@ -25,15 +25,16 @@ duchovní kladivo (+1 / 1k6+1)
 10 kamenů (1k3)
 měch na vodu
 telefonní náušnice
+amulet charisma +1
+2x léčivý lektvar
 Vílí houbový prášek (40 stříbrných, 5 použití)
     Když se rozsype do vzduchu, vyzařuje slabé světlo, které odhalí neviditelné tvory nebo magické aury v okolí 5 metrů po dobu 1 minuty.
     Má ale výraznou vůni a přitahuje lesní tvory.
 
 1:
 cure light wounds·
-protection from evil
 2:
-bless
+hold person
 spiritual hammer
 
 dovednosti:
