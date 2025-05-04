@@ -32,9 +32,9 @@ Vílí houbový prášek (40 stříbrných, 5 použití)
     Má ale výraznou vůni a přitahuje lesní tvory.
 
 1:
-cure light wounds·
+cure light wounds
 2:
-hold person
+vytělesnění
 spiritual hammer
 
 dovednosti:

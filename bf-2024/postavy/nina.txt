@@ -33,7 +33,7 @@ páčidlo
 3x léčivý lektvar
 3.8x lektvar dýchání pod vodou
 10x kouřová bomba
-prut magické střely (2x denně)
+prut magické střely (2x denně) *
 prut dispell magic (2x denně)
 
 hůl blesk 1/den magická zbraň (-1 / 1k6-2)
@@ -42,19 +42,19 @@ dýka (-1 / 1k4-2)
 kouzla:
 L1:
 čtení magie
-uspání *
-štít
+uspání
+štít *
 okouzlení
-magická střela
+magická střela *
 plovoucí disk
 L2:
 levitace
 neviditelnost *
-zrcadlový obraz
+zrcadlový obraz *
 pavučina
 nalezení předmětu
 čtení mysli
-přelud *
+přelud
 
 veverka - Mlska
 

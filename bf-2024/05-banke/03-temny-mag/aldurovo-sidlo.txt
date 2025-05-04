@@ -1,0 +1,148 @@
+🧭 Návrh místností a oblastí v Aldurově sídle
+📜 1. Vstupní zóna
+
+    Brána s dlouhou chodbou (už existuje) – vhodná pro úvodní střet nebo zastrašující výjev.
+
+    Nemrtvý strážce (již použit).
+
+🪞 2. Hlavní hala
+
+    Již zmíněná síň za chodbou.
+
+    Slouží jako rozdělovník ke čtyřem dveřím – každé vedou do jiné části sídla.
+
+💡 Hlavní funkční oblasti sídla
+🧪 A. Pracovna Aldura (již existuje, za prostředními dveřmi)
+
+    Knihy, kouzla, artefakty, možná magický glóbus nebo runový kruh.
+
+    Možná portál do jiné dimenze nebo k pokusnému zařízení.
+
+🧱 B. Rituální sál / laboratoř
+
+    Slouží ke kanalizaci životní energie.
+
+    Obsahuje oltář, krystal, nebo síť run.
+
+    Vhodné místo pro finální střet.
+
+👤 C. Cely / Vězení
+
+    Pro uchovávání obětí, zajatců, experimentálních subjektů.
+
+    Možná propojeno skrytě s rituálním sálem.
+
+📚 D. Knihovna / Sklad poznání
+
+    Záznamy jeho výzkumu, grimoáry, deníky.
+
+    Mohou obsahovat slabinu, nákresy kanálu životní síly atd.
+
+🧫 E. Laboratoř alchymie a mutací
+
+    Místo, kde vznikají temné zbroje, látky, elixíry.
+
+    Skleněné nádoby s podivnými tvory, šuplíky s runami a fosforeskujícími prášky.
+
+🔒 F. Osobní komnata
+
+    Jeho lože, artefakty, možná tajný tunel nebo nouzový portál.
+
+🪨 G. Skrytá svatyně / místnost síly
+
+    Místo, odkud čerpá nejvíce moci – např. magický krystal napojený na podzemní ložisko rudy.
+
+🎮 Bonusové / interaktivní zóny
+🔁 H. Chodby s pastmi / iluzemi
+
+    Přeměňující se chodby, které matou směr.
+
+    Přesouvající se dveře, magická slepá místa.
+
+🧙‍♂️ I. Sídlo přisluhovačů
+
+    Pokoje nebo komory, kde žijí jeho podřízení (orčí šaman, nemrtví, alchymista...).
+
+📦 J. Sklad a zásobárna
+
+    Zbraně, materiál z nájezdů, poklad, zásoby pro oběti (i lidské).
+
+
+🧱 STRUKTURA A ROZMÍSTĚNÍ MÍSTNOSTÍ
+➤ Z hlavní haly:
+🔲 DOPŘEDU: ALDUROVA PRACOVNA
+
+    Dominantní, vysoká síň s velkým obloukovým oknem nebo temným portálem.
+
+    V rohu schodiště do patra → vede k jeho osobní komnatě.
+
+    Na druhé straně tajné dveře za knihovnou → vedou do svatyně síly.
+
+🔲 DOLEVA: KOMPLEX POZNÁNÍ A MUTACE
+
+    Vede do knihovny (vpravo) a dále chodbou do alchymistické laboratoře (vlevo).
+
+    Za laboratoří malé pokojíky přisluhovačů a sklad pokladů a přísad.
+
+    Ze skladu možnost vstupu do chodby s iluzemi a zrcadly, která se cyklí a mate směr.
+
+    Zde lze bloudit nebo najít cestu zkratem do zadní části sídla (např. do svatyně).
+
+🔲 DOPRAVA: CELY A RITUÁLNÍ SEKCE
+
+    Krátká chodba do vězeňských cel (několik místností, možná s trpasličími zajatci).
+
+    Dále do rituální síně, kde je oltář, runy, kanál životní síly.
+
+    Východ z rituální síně do malé místnosti s magickou studnou (dobíjecí uzel pro Aldura).
+
+    Možnost únikové chodby vedoucí mimo sídlo nebo do stok.
+
+🔲 SCHODIŠTĚ V PRACOVNĚ (nahoru)
+
+    Vede k osobní komnatě Aldura – ložnice, relikvie, tajné poznámky, možná zrcadlo s pozorováním světa.
+
+    Východ na balkon – viditelný zvenčí (pro případ pátrání).
+
+🗝️ UMÍSTĚNÍ ŠIFROVACÍHO KLÍČE
+📍 Místo: Spodní zásobárna v alchymistickém křídle (levé křídlo)
+
+    V jedné z uzavřených skříní za laboratoří.
+
+    Šifrovací klíč je uložen v ozdobné trpasličí schránce s komplikovaným mechanickým zámkem.
+
+    Aldur to považuje za relikvii nebo artefakt ze starého trpasličího světa, který „ještě neprolomil“.
+
+    Schránku nedokáže otevřít, ale tuší, že to má „nějakou vnitřní sílu“ – zvažoval ji použít jako součást rituálu, ale bojí se, že by byla „magicky nečistá“.
+
+🧠 Co pozná Benke:
+
+    Jakmile ji spatří (nebo její vnější rytiny), okamžitě pozná, že se jedná o autentický bankovní přenosový klíč.
+
+    Bude šokovaná, že se nachází v sídle temného mága – to zcela změní její postoj k misi.
+
+🕳️ TAJNÁ ÚNIKOVÁ CHODBA
+📍 Místo: Za osobní komnatou Aldura (horní patro)
+
+    Za těžkým gobelínem nebo výsuvným kamenem.
+
+    Vstup je otevřený jen z vnitřní strany.
+
+    Aktivuje se mechanicky (není magický, což je důležité – nedá se detekovat Detect Magic).
+
+🛤️ Kam vede:
+
+    Vede skrze přirozenou puklinu ve skále ven z horského masivu.
+
+    Cesta je úzká, klikatá, místy strmá – ale prostupná i s nákladem nebo zraněným.
+
+    Výstup je za malým vodopádem, několik set metrů od sídla, na severovýchodním úbočí – mezi skalami a stromy. Nenápadné místo, dobré na únik i přepad.
+
+📘 Co ví o chodbě:
+
+    Aldur ji zná, ale už ji dlouho nepoužil – má ji jako „pojistku“.
+
+    Nikomu z orků o ní neřekl.
+
+    Magické stvoření, trpaslík nebo zajatec může tušit, že „někam z patra odchází a mizí na celé hodiny“.
+

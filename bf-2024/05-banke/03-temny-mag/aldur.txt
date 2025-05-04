@@ -1,0 +1,104 @@
+Jméno: Aldur Velkar
+Rasa: Člověk (nebo volitelně napůl démon, pokud chceš temnější tón)
+Věk: Těžko určitelný – vypadá na 40–50, ale jeho skutečný věk může být mnohem vyšší díky magickému prodlužování života
+Povolání: Černokněžník (Warlock) nebo čaroděj (Wizard) zaměřený na nekromantii a magie krve
+Motivace: Touha po nesmrtelnosti, prodlužování života kanálem životní síly od druhých
+Zvláštnost: Kanál životní síly propojený s jeho orčími zbrojemi a zbraněmi
+VZHLED
+
+    Vysoký, hubený, kostnatý muž v tmavých, rozpraskaných rouchách s kovovými výšivkami
+
+    Kůže má voskově našedlou barvu, oči mu žhnou slabě karmínovým světlem
+
+    Vlasy bílé, rozcuchané a suché, vous rozčepýřený jako u askety
+
+    Hovoří pomalu, klidně a přitom nesnesitelně povýšeně
+
+STATISTIKY (pro 5. úroveň dobrodružství)
+
+    Úroveň: 8 (v případě souboje na dálku velmi nebezpečný)
+
+    Životy: 64 (8k8 + 24)
+
+    Zbroj: 15 (magická ochrana)
+
+    Síla: 10
+
+    Obratnost: 14
+
+    Odolnost: 16
+
+    Inteligence: 18
+
+    Moudrost: 12
+
+    Charisma: 14
+
+VYBAVENÍ
+
+    Hůl z rudého skla: Slouží jako fokus a zároveň jako Staff of Withering (při zásahu může vysávat život)
+
+    Prsten kanálu síly: Kanál napojený na orčí vybavení – pasivně získává 1 životní bod za každého orka, který pomocí jeho magického vybavení způsobí zranění
+
+    Kniha krve: Zakázaná grimoárová kniha s rituály prodlužování života, schovává ji v chráněné kryptě nebo síni
+
+    Amulet proti identifikaci: Znesnadňuje automatické zjištění vlastností jeho magie běžnými kouzly (Identify hází s nevýhodou)
+
+KOUZLA (DC 15)
+Triky:
+
+    Eldritch Blast
+
+    Mage Hand
+
+    Prestidigitation
+
+1. stupeň (4 sloty):
+
+    Shield
+
+    Mage Armor
+
+    Hex
+
+2. stupeň (3 sloty):
+
+    Mirror Image
+
+    Misty Step
+
+3. stupeň (3 sloty):
+
+    Counterspell
+
+    Vampiric Touch
+
+4. stupeň (2 sloty):
+
+    Greater Invisibility
+
+    Phantasmal Killer
+
+KOUZLA NA SOBĚ (běžně aktivní):
+
+    Mage Armor (AC 15) – téměř permanentně
+
+    Hex nebo Hunter’s Mark přenesený přes amulet na orky – sleduje výkony zbraní
+
+    Scrying (čas od času) – kontroluje, zda někdo nesleduje jeho pohyb
+
+KANÁL ŽIVOTNÍ SÍLY – MECHANIKA
+
+    Každý zásah orka magickou zbraní +1 (od mága) → Aldur získá 1 HP (ne víc než 1 za kolo)
+
+    Pokud ork někoho zabije, Aldur získá 1d6 HP navíc
+
+    Jestliže ork zemře s jeho zbrojí, Aldur pocítí ztrátu – dočasné snížení vlastního max. HP o 1 (kumulativní do 5)
+
+CHOVÁNÍ PŘI SETKÁNÍ
+
+    Neútočí hned – je ochoten vyjednávat, pokud necítí převahu
+
+    Představuje se jako "konzultant z hor", bagatelizuje své vazby na orky
+
+    Mluví v metaforách ("Vše, co roste, se jednou vrátí k zemi – já jen pomáhám urychlit cyklus")
