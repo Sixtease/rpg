@@ -22,14 +22,14 @@ krátký luk TH +5
 batoh
 kotva
 50" hedvábné lano
-uspávací látka na 80 použití
+uspávací látka na 0 použití
 směrová lucerna
 2 flašky oleje
 zlodějské náčiní
 křesadlo
 náušnice
 plášť +2 skrývání
-lektvar neviditelnosti
+0x lektvar neviditelnosti
 3x lektvar dýchání pod vodou
 1x lektvar dalekozrakosti
 šplhací rukavice

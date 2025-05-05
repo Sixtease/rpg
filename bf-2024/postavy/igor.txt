@@ -14,7 +14,8 @@ armor class: 21
 
 1902 stříbrných
 
-ještěří plátová zbroj
+#ještěří plátová zbroj
+temná plátová zbroj +3, imunní vůči nemagickým zbraním
 štít +1
 warhammer +1 (+3 / 1k6 (2k6 proti nemrtvým))
 batoh nekonečného prostoru
