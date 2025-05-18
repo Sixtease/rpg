@@ -1,6 +1,6 @@
 Nina elf kouzelník
-4. level
-19350 / 20000 zk
+5. level
+25350 / 40000 zk
 narozena 20.12., věk 18 let
 
 síla: 5 -2
@@ -42,10 +42,10 @@ dýka (-1 / 1k4-2)
 kouzla:
 L1:
 čtení magie
-uspání
+uspání *
 štít *
 okouzlení
-magická střela *
+magická střela
 plovoucí disk
 L2:
 levitace
@@ -54,7 +54,13 @@ zrcadlový obraz *
 pavučina
 nalezení předmětu
 čtení mysli
-přelud
+přelud *
+L3:
+skupinová neviditelnost
+fireball *
+létání
+spěch
+zadržení osoby
 
 veverka - Mlska
 

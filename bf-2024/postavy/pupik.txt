@@ -1,6 +1,6 @@
 Pupík Tichošlap půlčík zloděj
-level 5
-16330 / 20000 zk
+level 6
+22330 / 40000 zk
 
 síla: 9
 inteligence: 6 -1
@@ -10,7 +10,7 @@ odolnost: 15 +2
 charisma: 6 -1
 
 AC: 16 (18)
-31 životů (29)
+31 životů (22)
 
 3660 stříbrných
 šperky v hodnotě 666
@@ -35,7 +35,7 @@ plášť +2 skrývání
 šplhací rukavice
 zásoby na 7 dní
 měch na vodu
-2x léčivý lektvar 2d4+2
+0x léčivý lektvar 2d4+2
 totem větru 1x/den
 elfí šperky v hodnotě 500ag
 telefonní naušnice
@@ -44,3 +44,4 @@ prsten kouzla zrcadlový obraz L5 1x/den
 dovednosti:
     Dýkou k poškození bonus za obratnost místo síly.
     Skrytá kapsa: Zloděj může bezpečně ukrýt malý předmět (např. dýku, minci, klíč) i při tělesné prohlídce.
+    Znalec lidí: Zloděj získává bonus +2 k hodům na vnímání záměrů postav v sociálních situacích.

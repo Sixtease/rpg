@@ -1,6 +1,6 @@
 Igor Pinksl trpaslík klerik
 level 5
-zk: 15270 / 24000
+zk: 20270 / 24000
 narozen 11.9.
 
 síla: 9
@@ -10,12 +10,12 @@ obratnost: 13 +1
 odolnost: 18 +3
 charisma: 4 -2 (-1)
 armor class: 21
-životů: 35 (30)
+životů: 35 (35)
 
 1902 stříbrných
 
-#ještěří plátová zbroj
-temná plátová zbroj +3, imunní vůči nemagickým zbraním
+ještěří plátová zbroj
+# temná plátová zbroj # +3, imunní vůči nemagickým zbraním
 štít +1
 warhammer +1 (+3 / 1k6 (2k6 proti nemrtvým))
 batoh nekonečného prostoru
@@ -34,8 +34,9 @@ Vílí houbový prášek (40 stříbrných, 5 použití)
 
 1:
 cure light wounds
+detect magic
 2:
-vytělesnění
+area silence
 spiritual hammer
 
 dovednosti:
@@ -45,4 +46,4 @@ dovednosti:
 
 aury:
     Aura světla: Spojenci v dosahu získávají bonus +1 k hodům na záchranu proti efektům, které ovlivňují mysl nebo způsobují strach.
-    Aura odplaty: Nepřátelé, kteří zasáhnou klerika nebo spojence v dosahu aury, utrpí 1k4 radiant damage.
+    * Aura odplaty: Nepřátelé, kteří zasáhnou klerika nebo spojence v dosahu aury, utrpí 1k4 radiant damage.

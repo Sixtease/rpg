@@ -18,7 +18,7 @@ Postupový žebříček bojovníka
         Zlepšení AC: Pokud nosíš zbroj, získáváš +1 k Armor Class (AC).
 
     Úroveň 5:
-        Druhé útoky: Jednou za kolo můžeš zaútočit dvakrát místo jednou.
+        Druhé útoky: Jednou za boj můžeš zaútočit dvakrát místo jednou.
 
     Úroveň 6:
         Bonus k poškození: Přidáš +1 k hodům na poškození všemi zbraněmi.
