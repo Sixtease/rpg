@@ -10,9 +10,9 @@ obratnost: 16 +2
 odolnost: 10
 charisma: 9
 AC 20
-23 životů (23)
+32 životů (32)
 
-3672 stříbrných
+3425 stříbrných
 
 batoh
 měch na vodu
@@ -24,6 +24,7 @@ náramek léčení 1k4 jednou denně
 3x lektvar rychlosti
 3x léčivý lektvar
 3x lektvar dýchání pod vodou
+2x lektvar neviditelnosti
 telefonní naušnice
 amulet imunity proti kouzlům L1
 Vílí houbový prášek (40 stříbrných, 5 použití)
@@ -32,7 +33,8 @@ Vílí houbový prášek (40 stříbrných, 5 použití)
 maso
 rybářský prut
 15 kouřových bomb
-prokleté rukavice odvrácení kritické chyby
+// prokleté rukavice odvrácení kritické chyby
+zlaté boty
 
 plátová zbroj
 

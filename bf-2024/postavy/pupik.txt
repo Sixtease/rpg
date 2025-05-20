@@ -10,9 +10,9 @@ odolnost: 15 +2
 charisma: 6 -1
 
 AC: 16 (18)
-31 životů (22)
+39 životů (39)
 
-3660 stříbrných
+2760 stříbrných
 šperky v hodnotě 666
 
 dýka +1 jedová (th +4 dmg 1k4+4)
@@ -22,20 +22,20 @@ krátký luk TH +5
 batoh
 kotva
 50" hedvábné lano
-uspávací látka na 0 použití
+uspávací látka na 50 použití
 směrová lucerna
 2 flašky oleje
 zlodějské náčiní
 křesadlo
 náušnice
 plášť +2 skrývání
-0x lektvar neviditelnosti
+1x lektvar neviditelnosti
 3x lektvar dýchání pod vodou
 1x lektvar dalekozrakosti
+2x léčivý lektvar 2d4+2
 šplhací rukavice
 zásoby na 7 dní
 měch na vodu
-0x léčivý lektvar 2d4+2
 totem větru 1x/den
 elfí šperky v hodnotě 500ag
 telefonní naušnice

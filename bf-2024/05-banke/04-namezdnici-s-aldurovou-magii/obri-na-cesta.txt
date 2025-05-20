@@ -1,0 +1,82 @@
+Zamýšlím nechat Oranžovou hlídku přerušit karavanu hned po výjezdu z města (a tím z dosahu stráží) a argumentovat tím, že ozbrojení orkové vyhnali z jejich domovů rodinu obrů, kteří teď napadají karavany. Železní vlci nemají šanci ani zkušenosti proti takovým nepřátelům, proto přebírají kontrakt -- po dobrém nebo po zlém. Ať se družina zachová jakkoliv, slova Oranžové hlídky se potvrdí a čeká je boj proti obrům. Ten bych rád připravil.
+ChatGPT said:
+
+To je výborně koncipovaná zápletka – kombinace morálního dilematu, politického napětí a přímé akce. Níže najdeš návrh boje s obry, přizpůsobený tvému světu (včetně rozsahu družiny a jejich schopností). Navrhnu:
+
+    pozici a záměr obrů
+
+    složení skupiny obrů
+
+    plán bitvy
+
+    možnosti interakce před bojem
+
+    kořist
+
+🧱 ZÁKLADNÍ NASTAVENÍ: Útok obrů na karavanu
+📍 Kde a jak?
+
+    Obři si v zalesněné části nízkých pahorků na jih od cesty založili provizorní ležení.
+
+    Hlídkují podél trasy a reagují na každou větší karavanu, protože věří, že jejich zkáza je „vina lidí a orků“.
+
+    Zprvu nehodlají jednat – rovnou přepadnou karavanu. Ale lze si všimnout varovných znamení:
+
+        Ušlapané okraje cesty
+
+        Otisky obřích nohou v bahně
+
+        Ztracený vůz místních obchodníků (zničený, bez posádky)
+
+👹 SLOŽENÍ OBRŮ (tři varianty podle obtížnosti)
+🧊 Základní varianta (vyvážená)
+
+    2× obří rváč (přímí bijci, velké kladivo, HP 40–50, AC 14, +7 útok za 2d10+4)
+
+    1× obří prakostřelec (háže obrovské šutry, dosah 40 m, +5 na zásah, 3d8 zranění)
+
+    1× mladý obr (neobratný, ale rychlý, AC 12, HP 30, často hází kritiky kvůli zuřivosti)
+
+💀 Těžší varianta (smrtelnější, třeba za pomoci NPC)
+
+    2× rváči, 1× prakostřelec, 1× šaman (kouzla: Entangle, Cause Fear, Mirror Image)
+
+    Obři používají strategii: šaman za zalesněným valem, prakostřelec rozbíjí vozy, rváči svádí hlavní boj
+
+🧅 Jednodušší varianta (např. pro zrychlené řešení)
+
+    1× rváč, 1× mladý obr, 1× obří vlk nebo medvěd, ochočený
+
+🧭 TAKTIKA OBRŮ
+
+    Před útokem rozdrtí první vůz, což zastaví celou kolonu
+
+    Poté vtrhnou do středu karavany
+
+    Neútočí na „děti“ ani zjevně civilní osoby, chtějí zásoby a trest
+
+    Pokud to družina zvládne diplomaticky (např. přímou výzvou k souboji nebo výkupným), bitvu lze odvrátit
+
+💬 DIPLOMATICKÉ MOŽNOSTI (volitelně)
+
+    Obři by mohli na chvíli váhat, pokud družina nabídne:
+
+        náhradu škod
+
+        návrh vyjednávání s místními
+
+        souboj na čest, jeden proti jednomu
+
+        doklad, že orkové (Aldur) byli poraženi a do údolí se už nevrátí
+
+💰 KOŘIST PO BITVĚ
+
+    Na tělech obrů:
+
+        Obří váček s mincemi (stříbrné šupiny, mince z doby pradávné: ~300–500 stříbrných)
+
+        Obrovský tesák nebo válečný kyj – může jít rozřezat a prodat jako relikvii
+
+        Magický opasek síly (omezený) – +1 k Síle na 24 h, než se vybije
+
+        Obři mohou mít obchodní zboží, které zabavili karavanám: plátno, víno, zlaté šperky, skleněné korálky

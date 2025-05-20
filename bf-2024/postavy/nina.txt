@@ -11,9 +11,9 @@ odolnost: 9
 charisma: 16 +2
 
 AC: 13
-11 životů (11)
+13 životů (13)
 
-2342 stříbrných
+2334 stříbrných
 šperky v hodnotě 666
 
 batoh
@@ -47,20 +47,22 @@ uspání *
 okouzlení
 magická střela
 plovoucí disk
+mluvení z různých směrů
 L2:
-levitace
+levitace *
 neviditelnost
-zrcadlový obraz *
+zrcadlový obraz
 pavučina
 nalezení předmětu
 čtení mysli
 přelud *
+čarodějný zámek
 L3:
 skupinová neviditelnost
-fireball *
+fireball
 létání
 spěch
-zadržení osoby
+zadržení osoby *
 
 veverka - Mlska
 

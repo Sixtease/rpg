@@ -1,0 +1,293 @@
+🛡️ Železní vlci – námezdní skupina
+
+    Typ: Poloprofesionální žoldnéřská jednotka, 10–12 členů.
+
+    Zázemí: Původně z Loun, částečně působí jako "karavanní domobrana". Nejsou to vojáci ani lůza, ale praktici – bojují dobře, protože musejí.
+
+    Pověst: Prakticky orientovaní, dřív spíš podprůměrní, ale v posledních měsících nečekaně efektivní → díky magickým předmětům od padlých orků.
+
+    Současná situace: Ztráta magických bonusů = krize → hledají posily, zatloukají slabinu.
+
+🧑‍✈️ 1. Velitel: Dargan Žárný
+
+    Rasa: Člověk, 40 let, statný, vousatý, s jizvou přes rty.
+
+    Charakter: Praktický, podezřívavý, ochotný jednat, pokud je to výhodné.
+
+    Pozadí: Bývalý městský strážný z Loun. Odešel po rozepři s vedením, založil Železné vlky.
+
+    Motivace: Udržet prestiž jednotky. Nesnáší porážku.
+
+    Vybavení: (momentálně nefunkční) amulet síly +1, těžká kožená zbroj, sekera.
+
+    Statistiky (pro DnD 5e orientaci):
+
+        AC 15 (kožená zbroj)
+
+        HP: 48 (6d10 + 12)
+
+        Útok: Sekera +5, 1d10+3
+
+        Vlastnosti: STR 16, CON 14, INT 10, WIS 12, CHA 11
+
+        Schopnosti: Commanding Voice (1/den: bonusová akce, člen skupiny má výhodu na útok)
+
+🧝 2. Lukostřelkyně: Saia Hvozdná
+
+    Rasa: Lesní elfka, asi 130 let, klidná, dřív lovkyně.
+
+    Charakter: Profesionálka, tichá, loajální k Darganovi, ale má pochybnosti.
+
+    Zbraň: Krátký luk, dýka; dříve prsten s +1 k útokům – nyní bez efektu.
+
+    Statistiky:
+
+        AC 14
+
+        HP 32
+
+        Útok: Luk +6, 1d8+3
+
+        Schopnosti: Rychlý výstřel (2 šípy najednou, 1/den)
+
+🧑‍🔬 3. Alchymista: Holver "Dýmka" Vrána
+
+    Rasa: Člověk, starší, šedovlasý, permanentně čmoudlý.
+
+    Charakter: Snaží se zkoumat magické předměty, ale ví, že je nezvládá. Má rád alkohol.
+
+    Dříve: Měl prsten od Aldura, který generoval iluzorní dvojníky.
+
+    Statistiky:
+
+        AC 12
+
+        HP 22
+
+        Schopnosti: Hod granátu (alchymistická koule: 1d8 ohně nebo kyseliny)
+
+🧑‍🌾 4. Rekrut: Lojzík
+
+    Rasa: Člověk, mladý, nadšený, hloupý.
+
+    Charakter: Obdivuje hrdiny, chce se „ukázat“. Naivní, snadno zmanipulovatelný.
+
+    Zbraň: Kopí, rozbitý amulet → věří, že je to „legendární šperk“.
+
+    HP 18, Útok: Kopí +2, 1d6+1
+
+⚙️ Struktura skupiny
+
+    Počet: 10–12 členů, rozdělení na:
+
+        1 velitel
+
+        1–2 specialisté (alchymista, lučištník)
+
+        5–6 běžných vojáků (STR 13–15, HP 20–35, zbroj AC 13–15)
+
+        2 rekruti nebo podřadní členové (HP do 20, zbroj lehká)
+
+📉 Současný stav
+
+    Morálka: Křehká – někteří vědí, že magie slábne. Jiní se to bojí přiznat.
+
+    Zázemí: Malý stanový tábor u městské brány Třetimostu.
+
+    Cíl: Udržet ochranu karavany – mají kontrakt a Dargan ví, že selhání ho zničí.
+
+Pokud chceš, můžeme teď rozpracovat i Oranžovou hlídku jako protivníky, nebo vybrat členy Železných vlků pro osobní interakce.
+You said:
+Ano, prosím o podobné detaiy Oranžové hlídky. Nechť mají zázemí též v Lounech.
+ChatGPT said:
+
+Skvěle. Tady je návrh Oranžové hlídky, skupiny drsnější, starší a s profesionálnějším zázemím než Železní vlci. Tito žoldnéři operují z Loun déle, jsou známí svou tvrdostí i efektivitou, a nenechají si jen tak sebrat kontrakt – ani bez násilí.
+🟧 Oranžová hlídka
+
+    Typ: Zkušená žoldnéřská skupina (cca 8–10 členů).
+
+    Zázemí: Vlastní dům v Lounech poblíž cechovní čtvrti – fungují skoro jako soukromá armáda.
+
+    Pověst: Drsní, nekompromisní, efektivní. Jsou známi tím, že drží slovo – ale jen vůči platícím.
+
+    Barvy: Oranžové šerpy, pláště nebo pásky (podle přísnosti akce).
+
+    Poznámka: Jméno má ironický původ – vzniklo z barevného značení v městském miliciálním rozpisu (oddíl C byl „oranžový“) a už jim zůstalo.
+
+🪓 1. Velitelka: Yllka z Vraního ostrohu
+
+    Rasa: Člověk (žena), cca 50 let, šlachovitá, ošlehaná veteránka.
+
+    Charakter: Přímočará, strategická, bez iluzí. Lituje, že podcenila Železné vlky – teď to chce napravit.
+
+    Zbraň: Hákový meč a štít.
+
+    Statistiky (DnD 5e styl):
+
+        AC 17 (štít + zbroj)
+
+        HP: 62 (8d10+16)
+
+        STR 17, DEX 12, CON 14
+
+        Útok: Hákový meč +6, 1d10+3, může protivníka zatáhnout o 1 sáh blíž
+
+🧙 2. Taktik a mág: Omrund Černorost
+
+    Rasa: Trpaslík
+
+    Role: Konzultant, iluzionista a odborník na boj proti kouzlům
+
+    Zbraň: Hůl, sova jako familiár
+
+    Kouzla: Shield, Dispel Magic, Mirror Image, Misty Step, Scorching Ray
+
+    Statistiky:
+
+        AC 13 bez kouzel, 16 se Shield
+
+        HP: 38
+
+        INT 17, WIS 14
+
+        Schopnost: Včasný zásah – 1/den může přerušit kouzlo jiného kouzelníka
+
+🛡️ 3. Bojovník: Torgal Narážeč
+
+    Rasa: Poloorc
+
+    Charakter: Mlčenlivý, loajální k Yllce. Silový typ. Umí s kuší i mečem.
+
+    Vybavení: Těžká kuše, obouruční meč
+
+    Statistiky:
+
+        AC 16 (plátovka)
+
+        HP 54
+
+        STR 18, CON 14
+
+        Zvláštnost: Příval síly (1/den: 2 útoky během jednoho kola)
+
+🐕 4. Průzkumnice: Vilka
+
+    Rasa: Lidská žena, mladá, štíhlá, s šelmou po boku
+
+    Zvíře: Vyšlechtěný bojový pes jménem Zubák
+
+    Úloha: Stopování, plížení, infiltrace
+
+    Schopnosti: Zjevení stop, tichý pohyb
+
+    Statistiky:
+
+        AC 14
+
+        HP 26
+
+        Pes: AC 12, HP 18, kousnutí 1d8+2
+
+⚖️ Struktura a přístup
+
+    Hierarchie: Yllka velí, Omrund radí, ostatní poslouchají
+
+    Přístup ke kontraktům: Striktní – pokud má někdo oficiálně kontrakt, nezasáhnou… ale pokud ochranka selže, převezmou ihned a nemilosrdně.
+
+    Spor se Železnými vlky: Původně považovali jejich úspěch za dočasný. Když přišla ztráta magie, Omrund to pochopil a navrhl vyčkávat. Nyní se připravují.
+
+Pokud budeš chtít, můžeme vytvořit i konfliktní setkání mezi oběma skupinami (např. přetlačovaná u karavany, duel šampionů, obchodní arbitráž, nebo dokonce tajný sabotážní útok).
+You said:
+Teď prosím detaily o karavaně společnosti Záruba a syn.
+ChatGPT said:
+
+Zde je přehled společnosti Záruba a syn, která provozuje karavanu, o niž se přetahují Železní vlci a Oranžová hlídka:
+🐫 Záruba a syn – Obchodní karavana
+🏢 O společnosti
+
+    Zakladatel: Dalibor Záruba, obchodník z Kamenice s kontakty až v trpasličích pevnostech
+
+    Současné vedení: Ivan Záruba (syn), nyní 35 let, obchodnický stratég s ostrými lokty
+
+    Sídlo: Kamenice, pobočka v Lounech, sklad v Týně
+
+    Zaměření: Obchod s luxusním zbožím – šperky, rafinovaná sůl, jemné tkaniny, magicky preparované látky, léčivé byliny a drahé koření z pobřeží
+
+🚚 Karavana
+
+    Trasa: Kamenice → Louny → Týn → Haagen → trpasličí země
+
+    Frekvence: Jednou za 14 dní, s týdenní přestávkou v každém hlavním městě
+
+    Velikost:
+
+        4 nákladní vozy (tažené dvěma silnými tažnými zvířaty, většinou voli)
+
+        1 lehký vůz s vedením karavany a dokumenty
+
+        6–8 mužů posádky (vozkové, pomocníci)
+
+    Ostraha:
+
+        najímána městsky — skupiny jako Železní vlci nebo Oranžová hlídka
+
+        dle smlouvy vždy chrání vůz č.1 a č.3 (nejcennější), ostatní mají nižší prioritu
+
+    Vozové značky: Dřevěné cedule se stylizovaným symbolem vinné révy a váhy
+
+📦 Obsah nákladu (aktuální jízda)
+
+(Zboží je záměrně rozprostřeno do více vozů)
+
+    Vůz 1 (nejcennější):
+
+        Šperky z Kamenice
+
+        Trpasličí slitiny (pro výměnu)
+
+        Magické komponenty
+
+    Vůz 2:
+
+        Látky (včetně magicky impregnovaných)
+
+        Oleje a masti
+
+    Vůz 3 (druhý nejcennější):
+
+        Rafiné sůl, drahé koření
+
+        Lahvičky s léčivými esencemi
+
+    Vůz 4:
+
+        Nářadí, kovové díly, trvanlivé potraviny
+
+👤 Klíčové postavy
+Ivan Záruba (majitel)
+
+    Rasa: Člověk
+
+    Povaha: Inteligentní, vypočítavý, bez iluzí o morálce žoldnéřů
+
+    Cíl: Udržet efektivitu a minimalizovat ztráty. Ostrahu vybírá podle výkonu, ne sympatií.
+
+Želmíra "Žela" Lukášová (vedoucí karavany)
+
+    Rasa: Poloviční elfka
+
+    Funkce: Má hlavní slovo v logistice na cestě
+
+    Charakter: Racionální, nemá ráda konflikty – ale nesnáší neprofesionálnost
+
+    Vztah k hlídkám: Nevěří ani jedné, ale Železné vlky považuje za schopnější pod tlakem
+
+⚖️ Konflikt v Lounech
+
+    Železní vlci získali kontrakt díky magickým předmětům od orků
+
+    Oranžová hlídka je připravena přinutit karavanu k přehodnocení (např. hrozbou sabotáže, přesvědčením vedení)
+
+    Záruba nechce ztratit zboží – hraje na jistotu, bude chtít vidět, kdo situaci zvládne lépe
+
+    Žela je připravená zasáhnout, pokud situace přeroste v otevřený střet
