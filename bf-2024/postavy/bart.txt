@@ -1,6 +1,6 @@
 Bárt aka Ronaldo elf bojovník
 level 5
-21360 / 32000 zk
+22360 / 32000 zk
 narozen 26.9., věk 15 let
 
 síla: 18 +3
@@ -12,7 +12,7 @@ charisma: 9
 AC 20
 32 životů (32)
 
-3425 stříbrných
+2425 stříbrných
 
 batoh
 měch na vodu
@@ -22,7 +22,7 @@ zásoby na 7 dní i pro vlka
 stan pro 10 lidí
 náramek léčení 1k4 jednou denně
 3x lektvar rychlosti
-3x léčivý lektvar
+2x léčivý lektvar
 3x lektvar dýchání pod vodou
 2x lektvar neviditelnosti
 telefonní naušnice

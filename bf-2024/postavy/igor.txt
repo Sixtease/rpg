@@ -1,6 +1,6 @@
 Igor Pinksl trpaslík klerik
 level 5
-zk: 20270 / 24000
+zk: 21270 / 24000
 narozen 11.9.
 
 síla: 9
