@@ -13,7 +13,7 @@ charisma: 16 +2
 AC: 13
 13 životů (13)
 
-2000 stříbrných
+1880 stříbrných
 šperky v hodnotě 666
 
 batoh
@@ -29,8 +29,9 @@ lano hedvábné 50"
 pero + inkoust
 hamaka
 páčidlo
+1x lektvar neviditelnosti
 3x lektvar síly
-3x léčivý lektvar
+2x léčivý lektvar
 3.8x lektvar dýchání pod vodou
 10x kouřová bomba
 prut magické střely (2x denně)
@@ -43,7 +44,7 @@ dýka (-1 / 1k4-2)
 kouzla:
 L1:
 čtení magie
-uspání *
+uspání
 štít
 okouzlení
 magická střela *
@@ -51,14 +52,14 @@ plovoucí disk
 mluvení z různých směrů
 L2:
 levitace
-neviditelnost *
+neviditelnost
 zrcadlový obraz
 pavučina
 nalezení předmětu
 čtení mysli
 přelud *
 čarodějný zámek
-trvalé světlo
+trvalé světlo *
 L3:
 skupinová neviditelnost
 fireball
@@ -66,6 +67,7 @@ létání
 spěch
 zadržení osoby *
 jasnozřivost
+blesk
 
 veverka - Mlska
 

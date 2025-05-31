@@ -12,7 +12,7 @@ charisma: 9
 AC 20
 32 životů (32)
 
-2425 stříbrných
+2525 stříbrných
 
 batoh
 měch na vodu
@@ -24,7 +24,7 @@ náramek léčení 1k4 jednou denně
 3x lektvar rychlosti
 2x léčivý lektvar
 3x lektvar dýchání pod vodou
-2x lektvar neviditelnosti
+1x lektvar neviditelnosti
 telefonní naušnice
 amulet imunity proti kouzlům L1
 Vílí houbový prášek (40 stříbrných, 5 použití)

@@ -29,6 +29,7 @@ Schopnosti
     Lezení: Veverka může šplhat po stromech a svislých površích, pokud nejsou zcela hladké.
     Kouzelné spojení: Nina může skrze veverku používat kouzla vyžadující "touch", pokud je veverka v dosahu 100 stop.
     Sdílené vidění: Nina může vidět očima veverky, ale během této doby je slepá na své vlastní oči.
+    Proxy kouzlení: Mlska může kouzlit místo Niny.
 
 Útoky
 
