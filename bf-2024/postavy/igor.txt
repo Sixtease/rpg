@@ -10,7 +10,7 @@ obratnost: 13 +1
 odolnost: 18 +3
 charisma: 4 -2 (-1)
 armor class: 21
-životů: 35 (35)
+životů: 37 (37)
 
 1902 stříbrných
 
