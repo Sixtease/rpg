@@ -13,7 +13,7 @@ charisma: 16 +2
 AC: 13
 15 životů (15)
 
-2030 stříbrných
+3020 stříbrných
 šperky v hodnotě 665
 
 batoh
@@ -44,29 +44,29 @@ dýka (-1 / 1k4-2)
 kouzla:
 L1:
 čtení magie
-uspání
-štít *
-okouzlení
-magická střela *
+uspání *
+štít
+okouzlení *
+magická střela
 plovoucí disk
 mluvení z různých směrů
 L2:
 levitace
-neviditelnost *
-zrcadlový obraz *
+neviditelnost
+zrcadlový obraz
 pavučina
 nalezení předmětu
 čtení mysli
-přelud
+přelud *
 čarodějný zámek
 trvalé světlo
 trvalá temnota
 L3:
-skupinová neviditelnost *
+skupinová neviditelnost
 fireball
 létání
 spěch
-zadržení osoby
+zadržení osoby *
 jasnozřivost
 blesk
 

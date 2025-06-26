@@ -13,7 +13,7 @@ charisma: 6 -1
 AC: 16 (18)
 41 životů (41)
 
-2960 stříbrných
+3660 stříbrných
 šperky v hodnotě 666
 
 dýka +1 jedová (th +4 dmg 1k4+4)
