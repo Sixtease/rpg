@@ -1,0 +1,242 @@
+Kult boha rovnováhy sil má s trpaslíky smlouvu, že jim poskytuje informace o trpaslících v chrámových matrikách. Právě teď je čas (třeba jednou za deset let, aby to mělo váhu) jim doručit aktualizované dokumenty. Dodávky pravidelných matričních údajů jsou součástí širší spolupráce a trpaslíci kultu platí a poskytují jim i ozbrojenou podporu, je-li to nutné. Je nezbytné knihu včas doručit. Gorazd, mnich z kamenického kláštera, se snaží vypracovat, aby mohl kandidovat na opata. V poslední době ale selhal v několika věcech a teď musí napravit svou reputaci. Dostal za úkol zajistit předání matriční knihy trpaslíkům. Vydal se tedy na cestu, aby zastihl trpasličí konvoj a knihu jim předal. Trpaslíci by si ji pak dovezli sami do své metropole. Gorazd ale selhal a konvoj propásl. Putoval tedy s knihou sám na západ, aby je dohnal nebo nějak knihu dopravil na místo, které je ale mnoho set kilometrů vzdálené. Už je velmi daleko od domova, knihu mu ukradli orkové a Gorazd je zoufalý. Potkává Igora, vzpomíná si, že ho na dluh vzkřísili v Kamenici, a vidí v něm svou jedinou naději. Předává mu úkol knihu dopravit do trpasličí metropole a nechat si vystavit potvrzení o předání. To má pak donést do kamenického kláštera a tím bude jeho dluh smazán. Zároveň mu Gorazd bude zavázán.
+
+Tady je navržené řešení s důrazem na herní logiku, vyváženost a možnost dramatické gradace.
+⚔️ Kolik orků tvoří skupinu s knihou
+
+    Velikost: 4–6 orků
+    → dost na to, aby to nebyli sólisté, ale ani „vojenská jednotka“.
+
+    Složení:
+
+        1 × velitel / šéf výpravy – nosí knihu, rozhoduje
+
+        1–2 × hrubí nosiči / válečníci
+
+        1 × zvěd / stopař – dává jim náskok
+
+        (volitelně) 1 × šaman nebo nájezdník s okultní zálibou – poklady nebere jen pro zisk
+
+🎯 Hratelná skupina pro sólo Igora nebo s jedním spojencem (Azi, Ivo).
+🏕️ Vzdálenost hlavní orčí tlupy
+
+    Z hlediska mapy: asi 3–4 dny cesty před nimi.
+
+    Orkové ze skupiny počítají, že ji doženou za 2–3 dny → mají rychlé tempo (jako Igor).
+
+    Poloha tlupy:
+
+        Leží v hlubším údolí v lesích západně od cesty (ne přímo u trasy).
+
+        Igor o ní může slyšet od hlavních orků, nebo najít značky – skalní rytiny, zvířecí kosti jako ukazatele směru.
+
+⏱️ Jak vyhodnocovat „doženutí“ skupinky
+Varianty podle tempa:
+Igorova volba	Výsledek
+Cestuje nalehko, zkracuje, šlape na krev	Dostihne skupinu před setkáním s tlupou
+Běžné tempo, přespání, zdržení	Dorazí ve chvíli, kdy už jsou na okraji vlivu tlupy
+Příliš pomalý / zranění	Skupina už se spojila s tlupou → větší problém
+
+🎲 Mechanicky můžeš použít:
+
+    Každý den hod na náhodné události (zdržení, ztráta stop, výhoda z terénu),
+
+    Hod 1d6 každý večer: 1–2 → „přiblížili jste se“, 5–6 → „oni získali náskok“,
+
+    Nebo prostě lineárně rozpočítat na 3 „úseky“ a do každého vložit jednu scénu (ztráta stopy, setkání s pastí, rozhodnutí o risku).
+
+💰 Jaké další poklady u sebe mají
+
+Orkové nekradli jen knihu — vzali co považovali za lesklé / důležité / magické:
+Přehled pokladů:
+
+    📕 Matriční kniha – v kožené brašně s kovovým zavíráním, šéf ji nosí přes záda.
+
+    🪙 Pytlík trpasličích cechovních mincí (20 zlatých hodnoty) – orkové netuší jejich význam, ale jsou krásně ražené.
+
+    🧱 Stříbrné destičky s rytinami chrámových zákonů – šaman si myslí, že jsou magické talismany.
+
+    🔩 Kovová dutá trubice se znakem Rovnováhy sil – svitek v pouzdru, chráněný voskovým zapečetěním (vzkaz od opata).
+
+    💍 Trpasličí pečetní prsten – velitel ho nosí jako prsten síly, i když mu nesedí.
+
+🎯 → Igor může mít dilema, co všechno vracet, co ponechat, co zničit. Něco z toho mu může otevřít dveře u trpaslíků, nebo přitáhnout nežádoucí pozornost.
+
+tady jsou bojové statistiky a individuální kořist pro každého z 5 členů orčí výpravy, kteří ukradli matriční knihu. Vše podle Basic Fantasy RPG, přizpůsobené pro družinu s Igorem a případně jedním pomocníkem (např. Azi).
+🧟‍♂️ Skupina „Orčí běžci“
+
+    Cestují nalehko, ale každý z nich má na sobě něco cenného nebo nebezpečného. Jejich celkový cíl je dojít k tlupě a získat uznání.
+
+1️⃣ Vagrub, vůdce výpravy
+
+    Ork bojovník, HD 2, HP 11, AC 15 (kožená zbroj + štít)
+
+    Útok: 1d8 meč nebo kopanec (1d4)
+
+    Morálka: 9 (arogantní, ale přežívá rád)
+
+    Zvláštní: má vojenskou píšťalku, jíž dává signály skupině
+
+Kořist:
+
+    🎒 Matriční kniha (v koženém vaku na zádech, zajištěná koženým řemenem)
+
+    💍 Trpasličí pečetní prsten (používá ho jako prsten „síly“)
+
+    🪙 6 zlatých (osobní záloha na oslavu vstupu do tlupy)
+
+2️⃣ Brak, těžký nosič
+
+    Ork, HD 1+1, HP 8, AC 13 (kožená zbroj)
+
+    Útok: 1d6 kyj
+
+    Morálka: 8 (ochotný bojovat, když to vypadá dobře)
+
+Kořist:
+
+    🎒 Velký pytel s:
+
+        1× pytlík cechovních zlaťáků (10 zlatých),
+
+        1× trpasličí kalamář z bronzu (nenápadný, ale cenný),
+
+        1× špinavá přikrývka s vytkaným znakem Rovnováhy sil (jako trofej).
+
+3️⃣ Groll, stopař a zvěd
+
+    Ork, HD 1, HP 6, AC 14 (kůže, rychlý)
+
+    Útok: 1d6 krátký meč nebo vrhací sekera (1d4)
+
+    Morálka: 10 (drzý, nebojácný, vymýšlí lstivosti)
+
+Kořist:
+
+    🎒 Malý vak s:
+
+        🧱 3 stříbrné rytí na kamenných deskách (velikost cihly),
+
+        🔩 mosazný kalíšek s půlkou svaté voskové pečetě (neví, co to je),
+
+        🥄 několik trpasličích lžic – tvrdí, že jsou z kouzelného kovu (nejsou).
+
+4️⃣ Mog, mladý bijec
+
+    Ork, HD 1, HP 5, AC 13
+
+    Útok: 1d8 kopí, v boji řve, ale lehce zastrašitelný
+
+    Morálka: 7 (spíš následuje než vede)
+
+Kořist:
+
+    🧦 Plátěný pytel s:
+
+        🪙 3 zlaté, 15 stříbrných,
+
+        ⚙️ poškozený zámek a pečetní trubice — Igor může poznat jako součást zprávy kláštera (důležitý fragment!),
+
+        🦷 náhrdelník z trpasličích zubů (barbarský, ale ne magický).
+
+5️⃣ Shurg, šaman „mág“
+
+    Ork, HD 2, HP 9, AC 12 (roucho)
+
+    Útok: hůl 1d6 nebo malý magický efekt (iluze světla, zasyčení, jen zastrašení)
+
+    Morálka: 9 (věří, že je vyvolený tlupou Donarova hněvu)
+
+Kořist:
+
+    📜 Zabaleno v hadrech:
+
+        1× kopie obřadního trpasličího zákoníku, považuje za „kouzelnou knihu“
+
+        1× svíčka z chrámu Rovnováhy sil, má zvláštní zápach – může mít magické stopy
+
+        🪙 5 zlatých v plechové krabičce s orčími runami
+
+        🧂 Pytlík prášku na klamání duchů (rituální moučka s popelem)
+
+🎯 Poznámky pro hru:
+
+    Celková síla je na hraně pro Igora sólo – doporučuji dělit je (např. přepadnout zadní skupinu, nebo rozehrát vyjednávání).
+
+    Dá se s nimi vyjednávat, hlavně s Grollem nebo Shurgem.
+
+    Můžeš použít průběžné ztráty (někdo z nich se zranil cestou, ztratil výbavu apod.).
+
+
+tady je návrh matriční knihy kultu Rovnováhy sil, přizpůsobený:
+
+    běžné úrovni zabezpečení pro standardní, ale důležitý transport,
+
+    situaci, kdy hlavním garantem bezpečí měl být systém (doručovatel, konvoj), nikoli kouzla či pasti,
+
+    a zároveň to může dát Igorovi šanci knihu chránit, vyhodnotit, nebo interpretovat.
+
+📘 Matriční kniha kultu Rovnováhy sil (verze pro trpasličí archiv)
+📚 Fyzický popis
+
+    Rozměr: cca 35 × 25 cm, tloušťka 7 cm
+
+    Hmotnost: cca 4 kg
+
+    Desky: silné dřevo potažené ošoupanou šedou kůží, v rozích mosazné kryty.
+
+    Zavírání: jeden kožený pás s mosaznou sponou, na které je vosková pečeť s motivem rovnováhy (dvě váhy s očima).
+
+    Značka kultu a roku vyražena na hřbetě knihy v latině kultu: Equilibria Anno XIV.
+
+🔒 Zabezpečení knihy
+✅ Běžná ochrana:
+
+    Vosková pečeť kultu – magicky značená, nedetekovatelná běžným kouzlem, ale při jejím poškození nebo sejmutí:
+
+        Pečeť zčerná a zneviditelní písmo na všech stránkách, dokud nebude znovu oficiálně zapečetěna v chrámu.
+
+        Igor to může zjistit jako klerik Rovnováhy.
+
+⚠️ Nechráněná slabina:
+
+    Pečeť není chráněná proti fyzickému poškození nebo nešetrné manipulaci – pokud ji někdo nevídaně poškodí (např. rozřízne opasek), může zničit funkci pečeti.
+
+    Kniha není chráněná proti vodě, ohni, plísni, apod.
+
+🧠 Obsah knihy
+
+    Každá dvojstrana je určena jednomu trpasličímu rodu / jménu / linii.
+
+    Zaznamenány jsou:
+
+        Narození, úmrtí, obrady zasvěcení, ztráta cti, návraty domů.
+
+        Vzácně doplněno poznámkami o zvláštní ochraně (např. u Igora: „Vzkříšen z vůle Rovnováhy, pohledávka u kláštera“).
+
+    Text je psán ve dvou verzích:
+
+        Běžný úřední jazyk,
+
+        A vnitřní poznámky (tajný kód kultu, čitelný jen vyšším duchovním nebo pomocí read magic).
+
+✨ Magická odezva
+
+    Kniha má slabou vnitřní magii (aura neutrality a pořádku).
+
+    Když ji drží někdo, kdo není členem kultu, v noci:
+
+        má zvláštní sny o vahách, neznámých světcích, rozbitých pečetích.
+
+        Při dlouhodobém držení (3+ dní): může se u „nečistého držitele“ projevit zvláštní paranoia (drobné postihy k Charisma nebo koncentraci).
+
+    Když Igor drží knihu, může číst metaznačky v záhlaví → ví, že je to autentický exemplář.
+
+📜 Potvrzení o doručení
+
+    V zadní části je:
+
+        pergamenová kapsa na potvrzení převzetí,
+
+        a nalinkovaná stránka pro podpis a razítko příjemce (většinou trpasličí kancléř matrik).
+
+    Igor musí přinést zpět potvrzený list, nebo zajištěnou kopii.

@@ -1,0 +1,133 @@
+🏙️ Moinz – perla horního Tachu
+
+Moinz je velké a pevně vystavěné město na východním konci germánské části údolí, kde řeka Tach začíná být splavná a umožňuje obchod s dolním tokem až k moři. Slouží jako brána mezi lidským a trpasličím světem, vojenský opěrný bod a kulturní centrum germánského prostoru.
+🧱 Obecný popis města:
+
+    Styl: pravoúhlé ulice, čisté fasády, dominují šedé břidlice, tvrdé dřevo a kamenné kvádry, občas s náznaky trpasličího vlivu v portálech a sklepeních.
+
+    Opevnění: silné hradby s věžemi, dvě hlavní brány – Říční brána (u přístavu) a Horní brána (východní, směr Reichenbach).
+
+    Řeka Tach: rozděluje město na severní obchodní čtvrť a jižní obytné a úřední čtvrti. Překlenuta třemi mosty (z toho jeden krytý).
+
+    Atmosféra: spořádanost, řád, disciplína. Městská garda má silný vliv, cizince si evidují.
+
+🗺️ Významná místa ve městě:
+1. Chrám Donara
+
+    Monumentální kruhová stavba se sloupy, v centru kladivo-blesk ze železa, každodenní obřady v poledne.
+
+    Kněz Sigbrecht z Tachu vede chrám – hrdý, ortodoxní, ale v srdci vnímavý k poctivé zbožnosti.
+
+2. Trh Podmodří
+
+    Největší tržnice ve městě, pojmenovaná podle typické modré břidlice na střechách okolních domů.
+
+    Najdeme zde exotické zboží z moře, řemesla z Reichenbachu i základní produkty od trpaslíků.
+
+3. Strojní cech
+
+    Poloveřejná technická akademie a cechovna, kde se testují nové vodní mechanismy, převody a ložiska.
+
+    Zde si může družina vyslechnout o zvláštních kolejích, výtazích do hor, případně získat kontakt do Velehor.
+
+4. U Černého Valchu
+
+    Nejelegantnější hostinec ve městě, oblíbený mezi obchodníky a vyššími úředníky.
+
+    Přísný dresscode a přítomnost ochrany. Ideální místo pro nábor / sledování významných NPC.
+
+5. Přístaviště na Tachu
+
+    Tři hlavní mola, z toho jedno nákladní s překladištěm na povozy.
+
+    Dohlíží na ně správce Herr Rupprecht, podezřívavý, ale loajální vůči městské radě.
+
+6. Městská rada
+
+    Kamenná radnice se štítem Donarova kladiva. Zde sídlí městský purkmistr a rada volená gildami.
+
+    Politika je tu chladná a procedurální. Slovanským cizincům se tu nevěří.
+
+7. Sídlo cechu převozníků a vozatajů
+
+    Odtud se spravují trasy do hor i plavby po Tachu. Ideální místo, kde získat dopravní informace.
+
+8. Podzemní depozitáře
+
+    Polo-veřejné sklady a bankovní sejfy. Trpasličí styl je zde výrazný.
+
+    Vhodné místo pro pátrání po zmizelých trpaslících nebo pohřešovaných artefaktech.
+
+💬 Lokalizační ráz:
+
+    Germánský přízvuk zde převažuje, formálnost a důslednost je součástí společenského styku.
+
+    Slovanská družina bude pod drobnohledem. Místní dávají přednost občanům a známým cechům.
+
+Chceš navrhnout konkrétní NPC, cechovního úředníka, dobrodružný háček nebo lokaci, kde by mohlo dojít k únosu Benke?
+You said:
+udělej mi prosím obrázek města Moinz, ze kterého bude patrná jeho atmosféra.
+ChatGPT said:
+Generated image
+Generated image
+Generated image
+You said:
+teď mi prosím řekni, co pro postavy zajímavého se dá v Moinzu sehnat, s čím se ve slovanské části a v menších germánských obcích ještě nesetkali.
+ChatGPT said:
+
+Zde je přehled zajímavých a unikátních věcí, které lze sehnat v Moinzu, a které by postavy ve slovanské části údolí nebo v menších germánských městech zatím nepotkaly. Rozděleno podle typu užitečnosti a s ohledem na dosavadní vývoj hry:
+🛠️ Technologické rarity a zboží z trpasličí výroby
+
+Díky blízkosti trpasličích dolů a inženýrských dílen se v Moinzu vyskytuje trh s pokročilými výrobky, které dál na východ neputují:
+
+    Kompaktní trpasličí ložiska – snižují tření v mechanismech. (Např. použitelné při konstrukci složitějších nástrojů, zbraní nebo vozíků.)
+
+    Miniaturní zámky s labyrintovým mechanismem – velmi těžko otevřitelné bez správného klíče (DC 25 na Zlodějské náčiní).
+
+    Destičky s trpasličím kódem – slouží k identifikaci původu, pravosti nebo vlastnictví zboží (možno využít v zápletkách s pašováním, cechy atd.).
+
+    Kapesní samonavíjecí metr – mechanický nástroj, oblíbený mezi staviteli a kartografy.
+
+🧪 Lektvary a alchymie, které jinde nejsou běžné
+
+Moinz je kontaktní bod pro alchymisty připlouvající z dolního toku Tachu – zdejší nabídka je bohatší než v Týnu nebo Reichenbachu:
+
+    Lektvar povznesení smyslů – na 10 minut +1 k hodům na Vnímání a naslouchání.
+
+    Kondenzovaná esence žáru – pálivý extrakt, který lze použít jako jed nebo zdroj tepla.
+
+    Čistič jedů (germánský recept) – funguje jako lektvar Neutralizace jedu, ale pouze na látky rostlinného původu.
+
+    Tinktura síry a lihu – silně zápalná kapalina, nebezpečná při přepravě, ale výhodná při přípravě střelného prachu nebo alchymistických ohňů.
+
+📜 Knihy a svitky – literární a vzdělanostní výběr
+
+Místní skriptoria a knihkupci nabízejí tituly, které ve slovanském prostoru nejsou známé:
+
+    "Tachonomicon" – komentovaná mapa dolního toku Tachu s anotacemi obchodních bodů, celních praktik a legend.
+
+    "Donarova spravedlnost" – kniha legend a zákonů spjatých s božím soudem a rituály blesku.
+
+    "Řeč mechanismu" – návod k sestavování jednoduchých převodových aparátů (přidává +1 k pokusům o jejich konstrukci).
+
+🎭 Zábava, móda a kulturní rozdíly
+
+Moinz se považuje za kulturní metropoli horního Tachu. Lze tu najít:
+
+    Laděné zvonky a zvonkohry – mají údajně harmonizační účinek na mysl (placebo, ale oblíbené).
+
+    Donarova móda – oděvy s těžkými kovovými sponami, opasky s kladivem, či pláště do tvaru blesku.
+
+    Pivní poklady – sudy místního speciálu "Bürgerblitz", který způsobuje elektrizující mravenčení v jazyku (doslova lehce paralytický).
+
+📦 Trpasličí pololegální zboží na černém trhu
+
+Přes trpasličí spojky lze získat:
+
+    Zbytky starých trpasličích runových tabulek
+
+    Nedeklarované šperky nebo nářadí z trpasličího stříbra
+
+    Mapky tajných tunelů / zasutých dolů
+
+Chceš detailnější ceny, konkrétní obchodníky nebo háčky vedoucí k některým těmto předmětům?

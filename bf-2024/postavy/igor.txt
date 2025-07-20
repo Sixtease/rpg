@@ -12,12 +12,13 @@ charisma: 4 -2 (-1)
 armor class: 21
 životů: 37 (37)
 
-1902 stříbrných
+1012 stříbrných
 
 ještěří plátová zbroj
 # temná plátová zbroj # +3, imunní vůči nemagickým zbraním
 štít +1
 warhammer +1 (+3 / 1k6 (2k6 proti nemrtvým))
+warhammer +3 (+5 / 1k6+3)
 batoh nekonečného prostoru
 lampa denního světla proti nemrtvým
 prak +3 (+4 / 1k4+3)
@@ -30,13 +31,20 @@ amulet charisma +1
 2x léčivý lektvar
 Vílí houbový prášek (40 stříbrných, 5 použití)
     Když se rozsype do vzduchu, vyzařuje slabé světlo, které odhalí neviditelné tvory nebo magické aury v okolí 5 metrů po dobu 1 minuty.
-    Má ale výraznou vůni a přitahuje lesní tvory.
+    Má ale výraznou vůni a přitahuje lesní tvory.\
+
+matriční kniha
+trpasličí pečetní prsten
+chrámové pečetidlo
+kalamář
+chrámový pečetní vosk
+6 trpasličích lžic
+10 cechovních trpasličích zlatých mincí
 
 1:
 cure light wounds
 detect magic
 2:
-area silence
 spiritual hammer
 
 dovednosti:
