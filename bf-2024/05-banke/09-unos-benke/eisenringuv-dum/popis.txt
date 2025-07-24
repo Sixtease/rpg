@@ -1,0 +1,87 @@
+🏠 Dům Eisenringa – trpasličí měšťanská vila
+Obecný popis
+
+Stavba ze světlého kamene, s vnitřním dvorem, dvěma patry a malým podzemím. Stylově připomíná pozdně gotický dům trpasličí buržoazie – dekorace jsou inspirovány technikou, uměním, vědou. Dům má těžká dřevěná vrata a je obehnán zdí s jednoduchou kovovou bránou. Uvnitř žije služebnictvo, správce a domácí stráž, Eisenring samotný se pohybuje mezi pracovnou, jídelnou a věží s observatoří, kde Benke drží jako „čestného hosta“ (fakticky vězně).
+🔍 Průzkumné háčky (hooky)
+
+    Získání přístupu: Služebnictvo pustí dovnitř jen se souhlasem správce, který se řídí Eisenringovými příkazy.
+
+    Alternativy průniku: Zahrada za domem, kanálek z fontány (vede do sklepa), střecha přes zadní dvůr, nebo lest (např. falešné pověření z univerzity, obchodní nabídka, zájem o Eisenringovy knihy).
+
+📐 Rozvržení vily
+1. Vstupní hala
+
+    Dlažba, socha mechanického orla, dveře do pracovny a jídelny, schodiště nahoru.
+
+    Slouží i jako čekárna pro návštěvy.
+
+    Přítomen komorník Wulfbrecht, velmi loajální.
+
+2. Jídelna
+
+    Dlouhý stůl, malba Donara, vitríny se sklem a porcelánem.
+
+    Dveře do kuchyně a do zahrady.
+
+3. Kuchyně a pokoj služek
+
+    Služebná Isla se dá přesvědčit k drobné zradě za úplatu.
+
+    Mohou zde najít stopy přípravy jídla pro další osobu, přestože Eisenring tvrdí, že je sám.
+
+4. Pracovna Eisenringa
+
+    Obrovská knihovna, matematické modely, sbírka starých plánů strojů a map podzemí.
+
+    Uzamčené zásuvky (DC 15) mohou obsahovat jeho deník – láskyplné zmínky o Benke.
+
+    Střežený papoušek jménem Zirkon, který opakuje věty jako „Benke dnes opět zářila!“
+
+5. Schodiště nahoru – patro ložnic
+
+    Tři pokoje: Eisenringova ložnice, pokoj hostů, pokoj Benke.
+
+5a. Ložnice Benke
+
+    Zvenčí zamčená (DC 16), okno zajištěné mříží.
+
+    Uvnitř je Benke, která je naoko klidná, ale připravená utéct při sebemenší příležitosti.
+
+    Může pomoci s únikem, pokud družinu pozná.
+
+6. Věž s observatoří
+
+    Výstřední zařízení na pozorování hvězd a sférických pohybů.
+
+    Eisenring sem často vodí Benke, aby jí vysvětloval své teorie.
+
+    Možno zde najít mapy podzemí vedoucí až na západní pobřeží – případná další dějová linie.
+
+7. Podzemí – sklep
+
+    Přístup přes kuchyň.
+
+    Sklad vín, uhlí a technických zásob.
+
+    Tajná chodba (DC 17 najít) vedoucí k zadnímu výpustnímu kanálu. Úniková cesta.
+
+🧍‍♂️ NPC a obrana
+
+    Eisenring: Inteligentní, výstřední, neozbrojený, ale má osobní stráž.
+
+    Strážci domu (2): Zbrojnoši s lehkým brněním, kopím a kuší. Intelekt nízký, loajalita průměrná.
+
+    Wulfbrecht (komorník): Formální, podezřívavý, ale lze ho přechytračit.
+
+    Isla (služka): Laskavá, přístupná, chce chránit Benke.
+
+🧩 Možnosti řešení
+
+    Sociální přístup: Přesvědčit Eisenringa, že Benke není jeho osudem – složité, vyžaduje velmi vysoké Charisma nebo důkazy (např. Benke ho odmítne přímo).
+
+    Násilné vniknutí: Boj se strážemi, osvobození Benke.
+
+    Plíživé vniknutí: Průnik sklepem či střechou, tichá neutralizace personálu.
+
+    Využití paniky: Např. fingovaný požár nebo hrozba.
+

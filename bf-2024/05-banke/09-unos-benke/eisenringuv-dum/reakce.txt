@@ -1,0 +1,56 @@
+🧠 Reakce vily Eisenringa na narušení
+🔔 Poplach
+
+    Spuštění: Jakmile stráže nebo komorník zaznamenají narušení (vniknutí, křik, otevření dveří Benke), spustí zvukový poplach: zvonek tahací šňůrou na několika místech domu.
+
+    Účinek:
+
+        Všichni obyvatelé domu se probouzejí (během 1 kola).
+
+        Dveře se zamykají (klíč u komorníka nebo v Eisenringově pracovně).
+
+        Stráže zaujímají obranné pozice:
+
+            Jeden brání schody do patra (Benke),
+
+            Druhý se přesune ke vchodu, blokuje cestu ven,
+
+            Třetí (pokud je) provádí patro.
+
+🗝️ Bezpečnostní prvky
+Místo	Zámek/ochrana	Poznámky
+Hlavní vchod	Dvoukřídlé dveře, zámek na klíč	Klíč má Wulfbrecht a Eisenring
+Dveře do observatoře	Jednokřídlé, zamykatelné, klíč u Eisenringa	Eisenring zde má své „ústupy“
+Pokoj Benke	Zamčeno zvenku i zevnitř, ale zámek jednoduchý	Lze otevřít šperháčkem (DC 15) nebo přesvědčit Wulfbrechta
+Knihovna	Není zamčeno, ale je zde tajný vchod do úzké chodby vedoucí do observatoře	
+Sklep	Přístup přes kuchyň, silně zamčeno (DC 20, železné dveře)	Rezervní východ + zásoby
+🧭 Alternativní trasy průniku
+
+    Přes služebnictvo (přesvědčit, podplatit Wulfbrechta)
+
+    Střecha – otevřené okno observatoře (Obratnost hod DC 13, past na sklouznutí)
+
+    Tajná chodba z knihovny → observatoř (najde se při Perception DC 18 nebo Investigation DC 15)
+
+    Sklepní přístup od zahrady, těžce chráněný (a slouží Eisenringovi jako nouzový únik)
+
+🏘️ Reakce městské gardy
+
+    Pokud je hluk nebo výkřiky, někdo z okolí přivolá stráž (1k4 kol).
+
+    Stráže města mají důvěru v Eisenringa – pokud hráči nemají jasný důkaz o únosu, gardisté budou jednat proti nim.
+
+    Možnosti hráčů:
+
+        Předložit výpověď svědků (např. informátor z hospody).
+
+        Najít dopis od Eisenringa ve vile – "Deník z posedlosti" nebo záznamy o Benke.
+
+        Vést Benke ke svědectví (ale nesmí být zfetovaná nebo zmatená).
+
+🧱 Shrnutí jako scénář
+Fáze	Klíčové události
+Vniknutí	Tiché nebo násilné, přes služebnictvo, tajnou chodbu, nebo střešní okno
+Zjištění	Hledání Benke v patře nebo observatoři; možná pomoc od komorníka
+Konflikt	Stráže chrání Eisenringa, Eisenring se může pokusit uprchnout observatoří/sklepem
+Rozuzlení	Zajištění důkazu → městská stráž → rozhodnutí o osudu Eisenringa a Benke

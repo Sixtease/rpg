@@ -1,6 +1,6 @@
 Nina elf kouzelník
 5. level
-27850 / 40000 zk
+28700 / 40000 zk
 narozena 20.12., věk 18 let
 
 síla: 5 -2
@@ -8,12 +8,12 @@ inteligence: 18 +3
 moudrost: 13 +1
 obratnost: 7 -1
 odolnost: 9
-charisma: 16 +2
+charisma: 16 +2 (+3)
 
-AC: 13
-15 životů (15)
+AC: 13 (16 / 19)
+15 životů (13)
 
-3020 stříbrných
+2900 stříbrných
 šperky v hodnotě 665
 
 batoh
@@ -25,6 +25,7 @@ prsten rozptylu: 1× denně umožní seslat Dispel Magic na kouzlo 2. úrovně.
 náramek ochrany proti duchům (bonus +2 na záchranné hody, útok a AC proti nehmotným bytostem.)
 telefonní naušnice
 amulet detect magic 1x denně
+amulet charisma +1
 lano hedvábné 50"
 pero + inkoust
 hamaka
@@ -37,6 +38,9 @@ páčidlo
 prut magické střely (2x denně)
 prut dispell magic (2x denně)
 uspávadlo do jídla/pití na 2 použití
+láveh kořalky
+1 x univerzální protijed
+60 x mast nezanechávání stop pro veverku na 8 hodin
 
 hůl blesk 1/den magická zbraň (-1 / 1k6-2)
 dýka (-1 / 1k4-2)
@@ -44,29 +48,29 @@ dýka (-1 / 1k4-2)
 kouzla:
 L1:
 čtení magie
-uspání *
-štít
-okouzlení *
-magická střela
+uspání
+štít (20 kol)
+okouzlení
+magická střela *
 plovoucí disk
 mluvení z různých směrů
 L2:
 levitace
-neviditelnost
-zrcadlový obraz
+neviditelnost *
+zrcadlový obraz *
 pavučina
 nalezení předmětu
 čtení mysli
-přelud *
+přelud
 čarodějný zámek
 trvalé světlo
 trvalá temnota
 L3:
 skupinová neviditelnost
-fireball
+fireball *
 létání
 spěch
-zadržení osoby *
+zadržení osoby
 jasnozřivost
 blesk
 

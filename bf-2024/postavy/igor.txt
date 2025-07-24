@@ -1,6 +1,6 @@
 Igor Pinksl trpaslík klerik
 level 5
-zk: 21270 / 24000
+zk: 23120 / 24000
 narozen 11.9.
 
 síla: 9
@@ -10,12 +10,11 @@ obratnost: 13 +1
 odolnost: 18 +3
 charisma: 4 -2 (-1)
 armor class: 21
-životů: 37 (37)
+životů: 37 (34)
 
-1012 stříbrných
+712 stříbrných
 
 ještěří plátová zbroj
-# temná plátová zbroj # +3, imunní vůči nemagickým zbraním
 štít +1
 warhammer +1 (+3 / 1k6 (2k6 proti nemrtvým))
 warhammer +3 (+5 / 1k6+3)
@@ -27,30 +26,27 @@ duchovní kladivo (+1 / 1k6+1)
 10 kamenů (1k3)
 měch na vodu
 telefonní náušnice
-amulet charisma +1
 2x léčivý lektvar
-Vílí houbový prášek (40 stříbrných, 5 použití)
-    Když se rozsype do vzduchu, vyzařuje slabé světlo, které odhalí neviditelné tvory nebo magické aury v okolí 5 metrů po dobu 1 minuty.
-    Má ale výraznou vůni a přitahuje lesní tvory.\
+Kouzelný kompas (ukazuje k destinaci, pak se 2 dny nabíjí na slunci)
+3 zlaté pruty à 1zl
+gobliní léčivý prášek (-1ž na člověka)
+2 butylky gobliního piva
 
 matriční kniha
 trpasličí pečetní prsten
-chrámové pečetidlo
-kalamář
-chrámový pečetní vosk
 6 trpasličích lžic
 10 cechovních trpasličích zlatých mincí
 
 1:
-cure light wounds
-detect magic
+cure light wounds 2x
 2:
 spiritual hammer
+hold person
 
 dovednosti:
     Opevněný štít: Bonus +1 k AC při použití štítu.
     Plná defenzíva: Klerik se může rozhodnout zaujmout plně defenzivní postoj. Získá bonus +5 k AC, ale v tomto stavu nemůže útočit ani kouzlit. (Vydrží maximálně 3 kola.)
-    Jediná aura za den, dosah 3m.
+    dvě aury za den, dosah 5m.
 
 aury:
     Aura světla: Spojenci v dosahu získávají bonus +1 k hodům na záchranu proti efektům, které ovlivňují mysl nebo způsobují strach.

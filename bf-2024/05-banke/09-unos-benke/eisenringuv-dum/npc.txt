@@ -1,0 +1,57 @@
+🛡️ Statblocy
+🔹 Eisenring, trpasličí učenec a technokrat
+
+    Typ: Humanoid (trpaslík), NE bojový typ, ale velmi inteligentní
+
+    HP: 24 (6k8)
+
+    AC: 11 (obyčejné šaty)
+
+    Síla: 10, Obratnost: 9, Odolnost: 12, Inteligence: 18, Moudrost: 14, Charisma: 11
+
+    Zvláštní schopnosti:
+
+        Přehled o domě: +5 k hodům na vnímání ve své vile.
+
+        Filozofická logika: Může jednou denně kohokoliv zmást logickým argumentem (DC 13 Moudrost nebo ztrácí akci kvůli váhání).
+
+    Zbraň: Těžké knihy, hůl – 1k6 zranění (nebojový styl).
+
+    Postoj: Nechce bojovat. Pokud je konfrontován, raději uteče do observatoře nebo sklepa.
+
+    Motivace: Uchovat Benke jako svou „intelektuální múzu“, nevidí v tom nic špatného.
+
+🔹 Stráže Eisenringa (2–3 podle potřeby)
+
+    Typ: Humanoid
+
+    HP: 27 (3k8 + 12)
+
+    AC: 16 (kroužková zbroj, štít)
+
+    Síla: 15, Obratnost: 12, Odolnost: 14, Inteligence: 10, Moudrost: 11, Charisma: 10
+
+    Útoky:
+
+        Kopí (2m dosah): +4 k zásahu, 1k8+2 zranění
+
+        Kuše (záložní): +3 k zásahu, 1k8
+
+    Zvláštní schopnosti:
+
+        Zablokování průchodu: Reakce – může použít štít ke zmaření průchodu dveřmi.
+
+    Loajalita: 50 %. Pokud je Eisenring zraněn nebo evidentně ztrácí převahu, morálka se láme.
+
+    Chování: Upřednostní ochranu pána, nebudou pronásledovat uprchlíky do města.
+
+🔸 Komorník Wulfbrecht
+
+    HP: 15
+
+    AC: 10
+
+    Schopnosti: Přesvědčování +5, Intriky +4, Vnímání +4
+
+    Zvláštnost: Má klíče od všech dveří v domě. Pokud je přesvědčen, že Eisenring dělá „hlouposti“, může se obrátit proti němu.
+
