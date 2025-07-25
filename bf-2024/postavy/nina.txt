@@ -1,6 +1,6 @@
 Nina elf kouzelník
 5. level
-28700 / 40000 zk
+32200 / 40000 zk
 narozena 20.12., věk 18 let
 
 síla: 5 -2
@@ -67,7 +67,7 @@ trvalé světlo
 trvalá temnota
 L3:
 skupinová neviditelnost
-fireball *
+fireball
 létání
 spěch
 zadržení osoby
