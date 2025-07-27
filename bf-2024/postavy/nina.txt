@@ -13,10 +13,10 @@ charisma: 16 +2 (+3)
 AC: 13 (16 / 19)
 15 životů (13)
 
-2900 stříbrných
-šperky v hodnotě 665
+2400 stříbrných
+šperky v hodnotě 127
 
-batoh
+batoh nekonečného prostoru
 měch na vodu
 kniha kouzel
 elfí róba AC 14
@@ -49,7 +49,7 @@ kouzla:
 L1:
 čtení magie
 uspání
-štít (20 kol)
+štít*
 okouzlení
 magická střela *
 plovoucí disk
@@ -57,11 +57,11 @@ mluvení z různých směrů
 L2:
 levitace
 neviditelnost *
-zrcadlový obraz *
+zrcadlový obraz
 pavučina
 nalezení předmětu
 čtení mysli
-přelud
+přelud *
 čarodějný zámek
 trvalé světlo
 trvalá temnota
@@ -72,7 +72,7 @@ létání
 spěch
 zadržení osoby
 jasnozřivost
-blesk
+blesk *
 
 veverka - Mlska
 

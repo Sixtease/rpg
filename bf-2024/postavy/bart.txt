@@ -12,7 +12,7 @@ charisma: 9
 AC 20
 34 životů (33)
 
-3296 stříbrných
+3066 stříbrných
 
 batoh
 měch na vodu
@@ -32,10 +32,11 @@ Vílí houbový prášek (40 stříbrných, 5 použití)
     Má ale výraznou vůni a přitahuje lesní tvory.
 maso
 rybářský prut
-15 kouřových bomb
+14 kouřových bomb
 // prokleté rukavice odvrácení kritické chyby
 zlaté boty
-láhev vína a zlatý kalich
+láhev vína
+harpuna
 
 plátová zbroj
 

@@ -57,3 +57,5 @@ vybavení:
 - přívěšek divoké vůle
   Umožňuje zvířeti jednou za den odolat efektům strachu, magie nebo ovládání (např. kouzlo Charm nebo Sleep).
 - kroužek chrlení ohně lvl/2 denně
+- korálek proti horku (odolnost proti spáleninám atd.)
+- prstýnek lesní harmonie (neútočí na ni přirození predátoři ani jiná zvířata)
