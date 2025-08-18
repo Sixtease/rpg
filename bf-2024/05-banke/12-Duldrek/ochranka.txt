@@ -1,0 +1,16 @@
+Zde jsou herní statistiky pro ochranku Duldreka, přizpůsobené tomu, že se jedná o placené a loajální bodyguardy v prostředí přístavního města Haagen, kde se Duldrek skrývá. Tito strážci nejsou elitní zabijáci, ale zkušení žoldáci ochotní se rvát za svého zaměstnavatele – především proto, že je dobře platí a mají zajištěné výhody.
+
+🛡️ Ochranka Duldreka – „Najmutí žoldáci“ (2 až 3 postavy)
+
+Typ: Střední humanoid (člověk nebo půlelf), Neutrální
+Úroveň: 3. úroveň bojovníka (Fighter)
+Počet: 2 až 3 v závislosti na obtížnosti (pro skupinu 4 hrdinů na 5–6. úrovni)
+
+Společné statistiky
+Atribut	Hodnota	Bonus
+Síla	16	+3
+Obratnost	12	+1
+Odolnost	14	+2
+Inteligence	10	+0
+Moudrost	11	+0
+Charisma	10	+0

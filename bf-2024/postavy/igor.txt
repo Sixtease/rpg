@@ -1,27 +1,27 @@
 Igor Pinksl trpaslík klerik
 level 6
-zk: 27220 / 48000
+zk: 32720 / 48000
 narozen 11.9.
 
 síla: 9
 inteligence: 7 -1
 moudrost: 16 +2
-obratnost: 13 +1
+obratnost: 13 +1 (+2)
 odolnost: 18 +3
-charisma: 4 -2 (-1)
-armor class: 21
-životů: 37 (34)
+charisma: 4 -2
+armor class: 22
+životů: 37 (37)
 
-712 stříbrných
+172 stříbrných
 
 ještěří plátová zbroj
 štít +1
-warhammer +1 (+3 / 1k6 (2k6 proti nemrtvým))
-warhammer +3 (+5 / 1k6+3)
+warhammer +1 (+4 / 1k6 (2k6 proti nemrtvým))
+warhammer +3 (+4 / 1k6+3)
 batoh nekonečného prostoru
 lampa denního světla proti nemrtvým
-prak +3 (+4 / 1k4+3)
-duchovní kladivo (+1 / 1k6+1)
+prak +3 (+5 / 1k4+3)
+duchovní kladivo (+´1 / 1k6+1)
 50x kulka +2 (+6 / 1k4+5)
 10 kamenů (1k3)
 měch na vodu
@@ -31,6 +31,42 @@ Kouzelný kompas (ukazuje k destinaci, pak se 2 dny nabíjí na slunci)
 3 zlaté pruty à 1zl
 gobliní léčivý prášek (-1ž na člověka)
 2 butylky gobliního piva
+šupina +1 kouzlo za den z každého levelu nižšího, než může maximálně kouzlit
+rukavice +1 obratnost
+Plášť mořské mlhy 1× denně vyvolá hustou mlhu (20m radius), vydrží 10 kol
+2x Granát z mlžného železa Jednorázový – mlha, oslepení a 1k8 nekrotického poškození
+záznamníková lasturka (lze nahrát 20s zvuku a kdykoliv přehrát)
+
+knihy Kouzel
+- ochrana před zlem
+- světlo
+- zadržení portálu
+- detekce neviditelnosti
+- klepání
+- dýchání pod vodou
+- zrušení kouzla
+- ochrana před běžnými střelami
+- okouzlení příšery
+- zmatek
+- dimension door
+- růst rostlin
+- ledová bouře
+- massmorph
+- polymorph self
+- remove curse
+- wall of fire
+- wizard eye
+- animate dead
+- cloudkill
+- conjure elemental
+- feeblemind
+- magic jar
+- passwall
+- teleport
+- death spell
+- invisibe stalker
+- projected image
+- wall of iron
 
 matriční kniha
 trpasličí pečetní prsten
@@ -38,10 +74,13 @@ trpasličí pečetní prsten
 10 cechovních trpasličích zlatých mincí
 
 1:
-cure light wounds 2x
+cure light wounds 3x
 2:
-spiritual hammer
+silence 15"
 hold person
+spiritual hammer
+3:
+locate object
 
 dovednosti:
     Opevněný štít: Bonus +1 k AC při použití štítu.
@@ -50,4 +89,7 @@ dovednosti:
 
 aury:
     Aura světla: Spojenci v dosahu získávají bonus +1 k hodům na záchranu proti efektům, které ovlivňují mysl nebo způsobují strach.
-    * Aura odplaty: Nepřátelé, kteří zasáhnou klerika nebo spojence v dosahu aury, utrpí 1k4 radiant damage.
+    Aura odplaty: Nepřátelé, kteří zasáhnou klerika nebo spojence v dosahu aury, utrpí 1k4 radiant damage.
+    * Aura ochrany: Spojenci v dosahu získávají bonus +1 k AC.
+    Aura regenerace: Spojenci na začátku svého tahu obnoví 1 život, pokud mají méně než polovinu svého maximálního počtu životů.
+

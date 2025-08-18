@@ -1,6 +1,6 @@
 Nina elf kouzelník
 5. level
-32200 / 40000 zk
+38700 / 40000 zk
 narozena 20.12., věk 18 let
 
 síla: 5 -2
@@ -10,29 +10,31 @@ obratnost: 7 -1
 odolnost: 9
 charisma: 16 +2 (+3)
 
-AC: 13 (16 / 19)
-15 životů (13)
+AC: 14 (17 / 20)
+15 životů (15)
 
-2400 stříbrných
+8680 stříbrných
 šperky v hodnotě 127
 
 batoh nekonečného prostoru
 měch na vodu
 kniha kouzel
 elfí róba AC 14
+Pás se sponou strážce +1 k AC, pokud nositel nenese štít
 prsten zmizení předmětů
 prsten rozptylu: 1× denně umožní seslat Dispel Magic na kouzlo 2. úrovně.
 náramek ochrany proti duchům (bonus +2 na záchranné hody, útok a AC proti nehmotným bytostem.)
 telefonní naušnice
 amulet detect magic 1x denně
-amulet charisma +1
+>amulet charisma +1
+Amulet proti horku – snižuje účinek ohnivých útoků o 2 (pasivně).
 lano hedvábné 50"
 pero + inkoust
 hamaka
 páčidlo
-1x lektvar neviditelnosti
+3x lektvar neviditelnosti
 3x lektvar síly
-2x léčivý lektvar
+4x léčivý lektvar
 3.8x lektvar dýchání pod vodou
 10x kouřová bomba
 prut magické střely (2x denně)
@@ -41,17 +43,21 @@ uspávadlo do jídla/pití na 2 použití
 láveh kořalky
 1 x univerzální protijed
 60 x mast nezanechávání stop pro veverku na 8 hodin
+šupina +1 kouzlo za den z každého levelu nižšího, než může maximálně kouzlit
+naušnice imunity proti okouzlení
+kostka detekce lži
 
 hůl blesk 1/den magická zbraň (-1 / 1k6-2)
+dýka +1 (0 / 1k4-1ˇ)
 dýka (-1 / 1k4-2)
 
 kouzla:
 L1:
 čtení magie
-uspání
-štít*
-okouzlení
-magická střela *
+uspání *
+štít *
+okouzlení *
+magická střela
 plovoucí disk
 mluvení z různých směrů
 L2:
@@ -59,7 +65,7 @@ levitace
 neviditelnost *
 zrcadlový obraz
 pavučina
-nalezení předmětu
+nalezení předmětu *
 čtení mysli
 přelud *
 čarodějný zámek
@@ -67,12 +73,12 @@ trvalé světlo
 trvalá temnota
 L3:
 skupinová neviditelnost
-fireball
+ohnivá koule
 létání
 spěch
-zadržení osoby
+zadržení osoby *
 jasnozřivost
-blesk *
+blesk
 
 veverka - Mlska
 
@@ -84,3 +90,48 @@ hůl (-1 / 1k6-2); magic missile 1x denně
 Černý dýkový tesák (magická zbraň +1, tichý zásah) (0, 1k4)
 síť
 0x elixír neviditelnosti
+
+
+# dračí kořist:
+
+10 dračích šupin
+
+flakonky z dračí vody (osvěžující voda)
+
+🪙 Drahé kovy a šperky
+
+Koruna z čistého stříbra s motivem dubových listů, osazená jantarovými kameny (hodnota: 350 zl).
+
+Náramek z propleteného mithrilu, lesklý jako měsíc (hodnota: 500 zl).
+
+Starý meč s rubínem ve středu jílce – šperk, nikoli zbraň (hodnota: 400 zl).
+
+Kazeta s mincemi z různých království, některé dávno zaniklé – numismaticky velmi cenné (hodnota: 800 zl).
+
+💎 Drahokamy a artefakty
+
+Velký modrý safír – velikostí jako slepičí vejce, zasazený v sošce draka (hodnota: 1200 zl).
+
+Oko trolla – zasazený smaragd v podivném křišťálovém pouzdře, pulzující teplem.
+
+Fragment ztraceného kamene rovnováhy – hladký černý kámen, který vždy visí ve vzduchu (možno využít v budoucím příběhu).
+
+🧪 Lektvary a spotřební magie
+
+Lektvar dechového útoku (ohnivého) – napodobenina dračího dechu, 1 použití (účinek jako burning hands, ale s větším rozsahem).
+
+¿ Flakónek s elixírem jazyka – kdo vypije, rozumí každému jazyku 1 hodinu.
+
+🪄 Magické předměty
+
+¿ Prsten dračího šepotu – nositeli umožňuje jednou denně porozumět drakovi (i bez společného jazyka).
+
+Zvířecí kápička pro Mlsku – lehká kožešinová kápě, která na 10 minut denně poskytuje neviditelnost (1x/den).
+
+📜 Cenné dokumenty nebo záhadné předměty
+
+Mapa ztraceného města pod Velehorami, ukazující staré trpasličí doly a pečetě.
+
+Zapečetěný dopis s rudou voskovou pečetí a znakem kultu rovnováhy sil – napsán neznámým jazykem.
+
+̉Soška elfa držícího misku – magická, začne zářit, pokud do ní někdo nalije vodu.

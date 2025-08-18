@@ -1,0 +1,54 @@
+Zde je návrh herních statistik pro Duldreka, bývalého trpasličího úředníka a pašeráka, který má být v kampani zajat po dramatické konfrontaci. Postava je přizpůsobená tak, aby byla výzvou pro skupinu úrovně 5–6, ale nikoliv plnohodnotným bossfajtem. Spíše jde o lstivého a dobře vybaveného protivníka, který se pokusí utéct nebo vymluvit.
+
+🧾 Duldrek – Trpasličí pašerák a zrádce (NPC)
+
+Typ: Střední humanoid (trpaslík), Zlý neutrální
+Úroveň: 4. úroveň darebáka (rogue)
+Zkušenost: 270 XP (většina odměny je za kontext, nikoliv boj)
+
+Statistiky
+Atribut	Hodnota	Bonus
+Síla	10	+0
+Obratnost	14	+2
+Odolnost	12	+1
+Inteligence	15	+2
+Moudrost	10	+0
+Charisma	13	+1
+
+
+🧱 Duldrek v Haagenu: Tiché zlo pod pláštíkem funkce
+🎩 Oficiální funkce:
+
+Titul: Koordinátor námořních tras Císařského cechu loďařů
+
+Má na starosti přidělování lodního prostoru, optimalizaci námořních linek a v některých případech i výběr posádek nebo dohled nad plavbami „citlivého charakteru“.
+
+🛠️ Co dělá tajně:
+
+Z pozice přiděluje lodě a posádky tak, aby mohl na některých z nich pašovat zboží, popř. otroky, aniž by to šlo snadno dohledat.
+
+Většina lodi je legálně nasmlouvaná, jen v malé části podpalubí se veze nelegální náklad, někdy i lidé.
+
+Platí posádkám, které mlčí, nebo manipuluje záznamy, aby trasy nebyly zpětně dohledatelné.
+
+💰 Proč mu to prochází:
+
+Neškodí cechu – naopak, přináší výsledky a efektivitu.
+
+Umí být velmi štědrý ke spojencům a má dobrý přehled o tom, koho si jak koupit nebo zastrašit.
+
+Veřejně je charismatický, ale nenápadný – mnozí ho vnímají jako pragmatika, který „umí vyřešit každou situaci“.
+
+🎲 Co to znamená pro družinu:
+
+Zadržení Duldreka je morálně jasně správné – pašuje otroky, dělá to systematicky a zneužívá moc.
+
+Je ale mistrovský manipulátor – postavy budou muset:
+
+získat důkazy,
+
+rozplést jeho síť loajalistů,
+
+odhalit jeho pašovací linku,
+
+nebo ho prostě překvapit a unést dřív, než si stihne zajistit únikovou cestu.

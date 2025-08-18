@@ -1,6 +1,6 @@
 Pupík Tichošlap půlčík zloděj
 level 6
-29180 / 40000 zk
+34180 / 40000 zk
 narozen 22. července, věk 31 rok
 
 síla: 9
@@ -13,7 +13,7 @@ charisma: 6 -1
 AC: 16 (18)
 41 životů (38)
 
-3660 stříbrných
+7280 stříbrných
 šperky v hodnotě 666
 
 dýka +1 jedová (th +4 dmg 1k4+4)
@@ -40,6 +40,8 @@ totem větru 1x/den
 elfí šperky v hodnotě 500ag
 telefonní naušnice
 prsten kouzla zrcadlový obraz L5 1x/den
+tatranka břichomluvectví
+Tinktura nočního zraku – umožňuje vidění ve tmě na 6 hodin.
 
 dovednosti:
     Dýkou k poškození bonus za obratnost místo síly.
