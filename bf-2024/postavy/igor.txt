@@ -1,6 +1,6 @@
 Igor Pinksl trpaslík klerik
 level 6
-zk: 32720 / 48000
+zk: 41220 / 48000
 narozen 11.9.
 
 síla: 9
@@ -10,9 +10,9 @@ obratnost: 13 +1 (+2)
 odolnost: 18 +3
 charisma: 4 -2
 armor class: 22
-životů: 37 (37)
+životů: 45 (45)
 
-172 stříbrných
+8542 stříbrných
 
 ještěří plátová zbroj
 štít +1
@@ -36,6 +36,7 @@ rukavice +1 obratnost
 Plášť mořské mlhy 1× denně vyvolá hustou mlhu (20m radius), vydrží 10 kol
 2x Granát z mlžného železa Jednorázový – mlha, oslepení a 1k8 nekrotického poškození
 záznamníková lasturka (lze nahrát 20s zvuku a kdykoliv přehrát)
+amulet non-detection
 
 knihy Kouzel
 - ochrana před zlem
@@ -43,7 +44,6 @@ knihy Kouzel
 - zadržení portálu
 - detekce neviditelnosti
 - klepání
-- dýchání pod vodou
 - zrušení kouzla
 - ochrana před běžnými střelami
 - okouzlení příšery
@@ -74,7 +74,8 @@ trpasličí pečetní prsten
 10 cechovních trpasličích zlatých mincí
 
 1:
-cure light wounds 3x
+detect evil
+cure light wounds 2x
 2:
 silence 15"
 hold person

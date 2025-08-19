@@ -1,0 +1,59 @@
+🧙 Kouzelnice na pronásledující lodi
+
+Jméno: Valyra z Trnu
+
+Úroveň: 6
+
+Inteligence: 17 (+2)
+
+Kouzelnické úrovně: 1.–3.
+
+Zvláštnost: Vysoká sebedůvěra, zkušenosti s námořními misemi, nenávidí zrádce a zločince, které pokládá za morální hnilobu společnosti.
+
+🌀 Připravená kouzla
+1. úroveň (3 kouzla):
+
+Magic Missile
+sleep
+charm person
+
+2. úroveň (2 kouzla):
+
+levitate
+web
+
+3. úroveň (1 kouzlo):
+
+dispel magic
+
+Poznámka: Valyra si je vědoma ceny cíle, takže Fireball použije jen v nejkrajnějším případě (např. pokud se družina pokusí o útěk a nebude jiná možnost).
+
+💼 Magické vybavení
+
+Prsten ochrany +1
+
+Svitek s kouzlem „Hold Person“
+
+Lektvar „Invisibility“
+
+
+👤 Velitelka lodi
+
+Jméno: Kapitánka Ysildra Křivobřehá
+
+Bývalá námezdní pirátka, později pracovala pro pašerácké klany v podzemí.
+
+Vysoká, kostnatá, bledá žena s nosem jako skřetí zobák a očima stále ve stínu klobouku.
+
+Dostala zaplaceno napřed od Duldrekových kontaktů v Haagenu: má za úkol vězně najít, sledovat a vysvobodit, pokud to půjde bez ztrát.
+
+Motivace: Dobře zaplaceno, ale není loajální – pokud věci půjdou příliš ztuha, raději zdrhne.
+
+🛡️ Posádka
+Jméno	Role	Staty / Výbava
+Brann	Harpunář	Hrubý bijec, AC 15, HP 24, 2× háková harpunová střela za 1k8+3, háže síť
+Kull	Vysoký veslař	Šlachovitý, tichý, AC 14, HP 20, dobrý v plavání a lezení
+Fannika	Kouzelnice	Sesílá Fog Cloud, Sleep, Mage Armor
+Vott	Špeh	AC 13, HP 16, dobré plížení, používá kuši a špiónské nástroje
+Grimlen	Kormidelník	Dobře zná proudy, hází bonus na manévry
+Zerb	Námořník	Síla, háže kotvu, ruční boj, AC 12, HP 15

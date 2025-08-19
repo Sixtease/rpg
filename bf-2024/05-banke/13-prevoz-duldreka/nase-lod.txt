@@ -1,0 +1,99 @@
+🚣‍♂️ Standardní posádka veslice (8 pasažérů, 5 koní, menší náklad)
+
+Celkem: 9 osob
+
+1 kapitán
+
+1 kormidelník
+
+1 námořník (plachta, kotvy, lana…)
+
+6 veslařů
+
+⚓ Kapitán: Hroldar Těžkoveslý
+
+Rasa: Trpaslík
+
+Level: 3 (bojovník)
+
+HP: 22
+
+Zbroj: Vesta z tvrzené kůže (AC 15)
+
+Zbraně: Krátký meč, kuše
+
+Schopnosti:
+
++2 k ovládání plavidel a bojové taktice na vodě
+
+Inspiruje posádku → 1×/den může všem veslařům dát +1 k hodům na Výdrž na 1h
+
+Povaha: Zkušený, nepříliš družný, loajální k trpasličí říši
+
+🧭 Kormidelník: Frigg Žiletkoprstá
+
+Rasa: Trpaslice
+
+Level: 2 (hraničář)
+
+HP: 14
+
+AC: 14 (lehká zbroj)
+
+Zbraně: Lovecký nůž, prak
+
+Zvláštnosti:
+
+Skvělé reflexy (iniciativa +2)
+
+Umí plavidlo otočit i ve velmi těsných vodách
+
+Povaha: Rázná, tichá pozorovatelka
+
+🪢 Námořník: Sven Bělolano
+
+Rasa: Člověk
+
+Level: 1 (commoner)
+
+HP: 8
+
+AC: 11 (pracovní oděv)
+
+Zbraně: Dýka, prak
+
+Dovednosti:
+
+Manipulace s plachtou
+
+Spouštění kotvy a háků
+
+Zabezpečování nákladu
+
+Povaha: Mladý a čilý, loajální k Frigg
+
+💪 Veslaři (6x): Durg, Brom, Rekk, Arn, Bolda, Vigrin
+
+Rasa: Trpaslíci (4×), Lidé (2×)
+
+Level: 1
+
+HP: 8–10 každý
+
+AC: 12 (plátěné vesty)
+
+Zbraně: Krátké obušky, sekery (pro práci i obranu)
+
+Zvláštnosti:
+
+Silové testy +1
+
+Můžou se přesunout mezi vesly a bojovými pozicemi v 1 kole
+
+🧭 Poznámky
+
+V boji: veslaři zajišťují hlavně podporu a krytí, nevedou hlavní útok
+
+Zkušenostní profil: zocelení trpaslíci, zvyklí na náročné podmínky
+
+Motivace: dodržet plavbu a chránit náklad (včetně pasažérů), ne honit vězně do lesů

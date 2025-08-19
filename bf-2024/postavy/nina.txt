@@ -1,6 +1,6 @@
 Nina elf kouzelník
-5. level
-38700 / 40000 zk
+6. level
+47200 / 80000 zk
 narozena 20.12., věk 18 let
 
 síla: 5 -2
@@ -13,7 +13,7 @@ charisma: 16 +2 (+3)
 AC: 14 (17 / 20)
 15 životů (15)
 
-8680 stříbrných
+16140 stříbrných
 šperky v hodnotě 127
 
 batoh nekonečného prostoru
@@ -35,7 +35,7 @@ páčidlo
 3x lektvar neviditelnosti
 3x lektvar síly
 4x léčivý lektvar
-3.8x lektvar dýchání pod vodou
+2.8x lektvar dýchání pod vodou
 10x kouřová bomba
 prut magické střely (2x denně)
 prut dispell magic (2x denně)
@@ -46,9 +46,10 @@ láveh kořalky
 šupina +1 kouzlo za den z každého levelu nižšího, než může maximálně kouzlit
 naušnice imunity proti okouzlení
 kostka detekce lži
+Magický prsten "Rétoriky" (+1 k přesvědčování, 1× denně Suggestion)
 
 hůl blesk 1/den magická zbraň (-1 / 1k6-2)
-dýka +1 (0 / 1k4-1ˇ)
+dýka +1 (0 / 1k4-1)
 dýka (-1 / 1k4-2)
 
 kouzla:
@@ -56,16 +57,16 @@ L1:
 čtení magie
 uspání *
 štít *
-okouzlení *
-magická střela
+okouzlení
+magická střela *
 plovoucí disk
 mluvení z různých směrů
 L2:
 levitace
 neviditelnost *
 zrcadlový obraz
-pavučina
-nalezení předmětu *
+pavučina *
+nalezení předmětu
 čtení mysli
 přelud *
 čarodějný zámek
@@ -73,12 +74,13 @@ trvalé světlo
 trvalá temnota
 L3:
 skupinová neviditelnost
-ohnivá koule
+ohnivá koule *
 létání
 spěch
-zadržení osoby *
+zadržení osoby
 jasnozřivost
 blesk
+dýchání pod vodou
 
 veverka - Mlska
 
@@ -93,45 +95,28 @@ síť
 
 
 # dračí kořist:
-
 10 dračích šupin
-
 flakonky z dračí vody (osvěžující voda)
 
 🪙 Drahé kovy a šperky
-
 Koruna z čistého stříbra s motivem dubových listů, osazená jantarovými kameny (hodnota: 350 zl).
-
 Náramek z propleteného mithrilu, lesklý jako měsíc (hodnota: 500 zl).
-
 Starý meč s rubínem ve středu jílce – šperk, nikoli zbraň (hodnota: 400 zl).
-
 Kazeta s mincemi z různých království, některé dávno zaniklé – numismaticky velmi cenné (hodnota: 800 zl).
 
 💎 Drahokamy a artefakty
-
 Velký modrý safír – velikostí jako slepičí vejce, zasazený v sošce draka (hodnota: 1200 zl).
-
 Oko trolla – zasazený smaragd v podivném křišťálovém pouzdře, pulzující teplem.
-
 Fragment ztraceného kamene rovnováhy – hladký černý kámen, který vždy visí ve vzduchu (možno využít v budoucím příběhu).
 
 🧪 Lektvary a spotřební magie
-
 Lektvar dechového útoku (ohnivého) – napodobenina dračího dechu, 1 použití (účinek jako burning hands, ale s větším rozsahem).
 
-¿ Flakónek s elixírem jazyka – kdo vypije, rozumí každému jazyku 1 hodinu.
-
 🪄 Magické předměty
-
-¿ Prsten dračího šepotu – nositeli umožňuje jednou denně porozumět drakovi (i bez společného jazyka).
-
+Prsten dračího šepotu – nositeli umožňuje jednou denně porozumět zvířatům (i bez společného jazyka).
 Zvířecí kápička pro Mlsku – lehká kožešinová kápě, která na 10 minut denně poskytuje neviditelnost (1x/den).
 
 📜 Cenné dokumenty nebo záhadné předměty
-
 Mapa ztraceného města pod Velehorami, ukazující staré trpasličí doly a pečetě.
-
 Zapečetěný dopis s rudou voskovou pečetí a znakem kultu rovnováhy sil – napsán neznámým jazykem.
-
 ̉Soška elfa držícího misku – magická, začne zářit, pokud do ní někdo nalije vodu.

@@ -10,10 +10,10 @@ Základní statistiky
 
 Statistické hodnoty
 
-    Armor Class (AC): 13 (obratnost).
+    Armor Class (AC): 13 (obratnost) (14 obojek).
     Hit Points (HP): 4 (1d4).
     Speed: 30 ft., climb 30 ft.
-    Délka skoku: 50 + 50xL = 250m
+    Délka skoku: 50 + 50xL = 3z50m
 
 Atributy
 
@@ -30,6 +30,7 @@ Schopnosti
     Kouzelné spojení: Nina může skrze veverku používat kouzla vyžadující "touch", pokud je veverka v dosahu 100 stop.
     Sdílené vidění: Nina může vidět očima veverky, ale během této doby je slepá na své vlastní oči.
     Proxy kouzlení: Mlska může kouzlit místo Niny.
+    teleport
 
 Útoky
 
@@ -53,7 +54,7 @@ schopnosti:
     -
 
 vybavení:
-- kožený oboječek na míru
+- obojek +1 AC
 - přívěšek divoké vůle
   Umožňuje zvířeti jednou za den odolat efektům strachu, magie nebo ovládání (např. kouzlo Charm nebo Sleep).
 - kroužek chrlení ohně lvl/2 denně
