@@ -13,8 +13,9 @@ charisma: 16 +2 (+3)
 AC: 14 (17 / 20)
 15 životů (15)
 
-16140 stříbrných
+14720 stříbrných
 šperky v hodnotě 127
+smaragd v hodnotě 1700
 
 batoh nekonečného prostoru
 měch na vodu
@@ -55,17 +56,17 @@ dýka (-1 / 1k4-2)
 kouzla:
 L1:
 čtení magie
-uspání *
+uspání
 štít *
 okouzlení
-magická střela *
+magická střela **
 plovoucí disk
 mluvení z různých směrů
 L2:
 levitace
-neviditelnost *
+neviditelnost
 zrcadlový obraz
-pavučina *
+pavučina **
 nalezení předmětu
 čtení mysli
 přelud *
@@ -99,13 +100,12 @@ síť
 flakonky z dračí vody (osvěžující voda)
 
 🪙 Drahé kovy a šperky
-Koruna z čistého stříbra s motivem dubových listů, osazená jantarovými kameny (hodnota: 350 zl).
-Náramek z propleteného mithrilu, lesklý jako měsíc (hodnota: 500 zl).
-Starý meč s rubínem ve středu jílce – šperk, nikoli zbraň (hodnota: 400 zl).
-Kazeta s mincemi z různých království, některé dávno zaniklé – numismaticky velmi cenné (hodnota: 800 zl).
+Koruna z čistého stříbra s motivem dubových listů, osazená jantarovými kameny (hodnota: 350).
+Náramek z propleteného mithrilu, lesklý jako měsíc (hodnota: 500).
+Starý meč s rubínem ve středu jílce – šperk, nikoli zbraň (hodnota: 400).
+Kazeta s mincemi z různých království, některé dávno zaniklé – numismaticky velmi cenné (hodnota: 800).
 
 💎 Drahokamy a artefakty
-Velký modrý safír – velikostí jako slepičí vejce, zasazený v sošce draka (hodnota: 1200 zl).
 Oko trolla – zasazený smaragd v podivném křišťálovém pouzdře, pulzující teplem.
 Fragment ztraceného kamene rovnováhy – hladký černý kámen, který vždy visí ve vzduchu (možno využít v budoucím příběhu).
 
@@ -120,3 +120,5 @@ Zvířecí kápička pro Mlsku – lehká kožešinová kápě, která na 10 min
 Mapa ztraceného města pod Velehorami, ukazující staré trpasličí doly a pečetě.
 Zapečetěný dopis s rudou voskovou pečetí a znakem kultu rovnováhy sil – napsán neznámým jazykem.
 ̉Soška elfa držícího misku – magická, začne zářit, pokud do ní někdo nalije vodu.
+
+dárek pro maminku: náhrdelník s naušnicemi v hodnotě 900

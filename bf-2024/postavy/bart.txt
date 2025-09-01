@@ -12,7 +12,7 @@ charisma: 9
 AC 20
 42 životů (41)
 
-11326 stříbrných
+11000 stříbrných
 
 batoh
 měch na vodu
@@ -45,6 +45,8 @@ vystřelovací dýka (+5 / 1k4+4)
 pěst (+6 / 1k3+5)
 kop (+4 / 1k4+5)
 obouruční meč +3 (+7 / 1k10+7)
+
+dárek pro maminku pozlacený náhdrelník s malým diamantovým srdíčkem (hodnota 326)
 
 specializace na boj beze zbraně
 +1 na poškození všemi zbraněmi
