@@ -1,6 +1,6 @@
 Nina elf kouzelník
 6. level
-50000 / 80000 zk
+51000 / 80000 zk
 narozena 20.12., věk 18 let
 
 síla: 5 -2
@@ -13,7 +13,7 @@ charisma: 16 +2 (+3)
 AC: 14 (17 / 20)
 15 životů (15)
 
-16860 stříbrných
+16660 stříbrných
 šperky v hodnotě 127
 smaragd v hodnotě 1700
 

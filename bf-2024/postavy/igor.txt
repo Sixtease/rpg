@@ -1,6 +1,6 @@
 Igor Pinksl trpaslík klerik
 level 6
-zk: 41220 / 48000
+zk: 42220 / 48000
 narozen 11.9.
 
 síla: 9
@@ -12,7 +12,7 @@ charisma: 4 -2
 armor class: 22
 životů: 45 (45)
 
-8542 stříbrných
+8342 stříbrných
 
 ještěří plátová zbroj
 štít +1
