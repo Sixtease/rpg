@@ -1,0 +1,41 @@
+⚫ Ropný elementál (Oil Elemental)
+
+HD: 6+3 (průměr 33 HP)
+
+AC: 16 (beztvaré tělo, část útoků se po něm sveze)
+
+Pohyblivost: 9 (plouží se, dokáže protéct skulinkami), plavání 12
+
+Útoky:
+
+2× chapadlo (THAC0 +6, dmg 1k6 + šance obalit cíl)
+
+Obalení: Save vs. Paralysis; při neúspěchu je cíl pokryt ropnou hmotou → postih –2 k hodům na útok a pohyblivost snížena na polovinu, dokud není očištěn.
+
+Hořlavost: Pokud je zasažen ohněm, obalený cíl okamžitě vzplane (1k6 dmg/kolo, save vs. Breath na uhašení).
+
+Zvláštní schopnosti:
+
+Výpary: V dosahu 3 m musí postavy házet Save vs. Poison, jinak –2 k útokům po dobu 1k6 kol (mdloby, kašel).
+
+Hořlavé tělo: Útoky ohněm působí dvojnásobné poškození.
+
+Odolnosti: Odolný proti nekrotickému a jedovému poškození.
+
+Nestabilní forma: Může protéct mřížemi, pod dveřmi apod.
+
+Morálka: 11 (bojovný, chrání jezírko do poslední kapky)
+
+Poklad: Ve svém jádře má černý krystalový úlomek – ztuhlou pryskyřici s magickým nábojem (může fungovat jako komponenta pro ohnivá kouzla nebo výrobní materiál pro Thraina).
+
+🧠 Chování
+
+Teritoriální strážce – nevzdaluje se daleko od jezírka / destilační kolny.
+
+Útočí na všechny, kdo narušují hladinu nebo manipulují s ropou.
+
+Nejprve se snaží obalit nejsilnějšího protivníka (Bárt, Igor), pak se zaměřuje na ty, kdo manipulují se sudy.
+
+Pokud se dostane do kritického stavu (pod 10 HP), stáhne se zpět do jezírka – družina musí rozhodnout, zda ho pronásledovat.
+
+👉 Je to nepřítel, kterého dokáže zničit kombinace ohnivých kouzel (Nina – ohnivá koule

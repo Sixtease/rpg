@@ -1,0 +1,115 @@
+⚖️ 1. Starosta – Torvald „Prázdný znak“
+
+Rasa: trpaslík
+
+Věk: 178 let
+
+Charakter: unavený muž, který ví, že jeho město se rozpadá, ale zůstává, protože je „poslední hlídka“.
+
+Povaha: zdvořilý, ale rezignovaný, rád by uvěřil v zázrak, ale bojí se naděje.
+
+Role: Může družině poskytnout podporu (povolení, pár mužů), pokud uvidí, že to s plavbou myslí vážně.
+
+🍺 2. Hostinská – Marta „Suchý sud“
+
+Rasa: lidská žena
+
+Věk: 42 let
+
+Charakter: jediná fungující hospoda ve městě, drží ji tvrdohlavě, i když zákazníků je málo.
+
+Povaha: drsná, přímočará, vůči cizincům nejdřív odměřená, ale má slabost pro odvážné historky.
+
+Role: Družina od ní může získat informace, místní fámy (např. o duchách v dokách), a pokud si ji získají, poskytne i zásoby na loď.
+
+🎣 3. Rybář – Eirik „Sleďový prorok“
+
+Rasa: půlelf
+
+Věk: 63 let
+
+Charakter: podivín, co tvrdí, že mluví s mořskými duchy; polovina města ho má za blázna, polovina se ho bojí.
+
+Povaha: roztržitý, ale někdy říká překvapivě přesné věci.
+
+Role: Může varovat před mořskými wyvernami, zmínit pověst o „jedovatém ostrově“ uprostřed moře. Pro Pupíka by mohl mít tajemný vzkaz od „Mořské panny“.
+
+⚒️ 4. Stavitel lodí – mistr Thrain Kovoplavec (už popsaný)
+
+Role: klíčová postava, zdroj prototypu lodi. Potřebuje důvěru, pomoc nebo důkaz, že družina stojí za to, aby jim svěřil svou životní práci.
+
+🪓 5. Kapitán Ragnar Halek
+
+Rasa: člověk
+
+Věk: 50 let
+
+Charakter: bývalý námořní kapitán, dnes už spíš pijan, který přežil několik střetů s wyvernami.
+
+Povaha: cynický, ale v jádru čestný.
+
+Role: Jediný ve městě, kdo má zkušenosti s plavbou přes Severní moře. Pokud ho družina přesvědčí, může vést posádku – jinak loď zůstane jen kusem dřeva a železa bez rukou, co by ji ovládaly.
+
+
+
+### interakce
+
+⚖️ 1. Starosta Torvald „Prázdný znak“
+
+Prostředí: V citadele na kopci, ve velké síni, kde kdysi zasedala rada. Teď je tam chlad a prázdno, jen pár svíček a Torvaldův stůl, zavalený účty a mapami.
+
+Scéna:
+
+Torvald zvedne hlavu, když družina vstoupí: „Tak to jste vy, cizinci. Vítejte v Nyborgu, městě, které se pomalu rozpouští jak led na slunci.“
+
+Působí unaveně, ale v očích mu na okamžik zajiskří zájem – snad by uvěřil, že se tu ještě může něco změnit.
+
+Háček: Když mu naznačí, že chtějí plout, nabídne jim „povolení k vyplutí“ a doporučení na Thraina. Dodá: „Pokud se vám podaří vrátit Nyborgu aspoň zrnko slávy, budete mít mé požehnání.“
+
+🍺 2. Hostinská Marta „Suchý sud“
+
+Prostředí: Jediná otevřená hospoda, poloprázdná, kouř z ohně, pár ospalých štamgastů.
+
+Scéna:
+
+Marta za výčepem, ruce v bok: „Nycí se to tu jen prachem a rzí. Ale jestli máte žízeň a stříbro, ještě pořád tučím pivo.“
+
+Pozoruje družinu se směsí podezření a zvědavosti, jako by přemýšlela, jestli jsou blázni, nebo hrdinové.
+
+Háček: Pokud se rozhovoří, podělí se o pověsti – třeba o duchách v dokách nebo o kapitánu Ragnarovi, „který už měl být dávno sežrán, ale pořád tu chlastá“.
+
+🎣 3. Rybář Eirik „Sleďový prorok“
+
+Prostředí: Na molu za městem, v rozvrzané loďce, tahá z vody sítě. Kolem se motají racci.
+
+Scéna:
+
+Bez ohlédnutí na družinu zamumlá: „Moře ví, kdo k němu patří. A taky ví, kdo se do něj cpe, i když tam nemá co dělat.“
+
+Když se s ním dají do řeči, začne povídat zmateně o jedovatých proudech, wyverních hnízdech a Mořské panně, která „čeká, až někdo vrátí rovnováhu“.
+
+Háček: Může Pupíkovi nebo Nině dát zvláštní zprávu, třeba v podobě rybí kosti vyřezané do tvaru runy.
+
+⚒️ 4. Stavitel lodí Thrain Kovoplavec
+
+Prostředí: Jeho dílna v prázdných loděnicích, všude železné pláty, výkresy, žhnoucí kovárna. Uprostřed doku stojí jeho nedokončená loď.
+
+Scéna:
+
+Když družina vstoupí, praští kladivem do kovadliny a bez otočení zabručí: „Pokud nejste duchové, tak vám říkám rovnou – sem se nechodí jen tak čumět.“
+
+Po chvíli zvedne oči, zkoumavě: „Vy vypadáte na ty, co by dokázali moji loď potopit ještě dřív, než ji moře spatří.“
+
+Háček: Chce důkaz – že družina není jen parta dobrodruhů hledající rychlý únik. Může chtít, aby mu přinesli materiál z ruin doků nebo vyhnali příšeru, co se usadila ve starém skladišti.
+
+🪓 5. Kapitán Ragnar Halek
+
+Prostředí: Hospoda Marty „Suchý sud“. Sedí v rohu, před sebou půllitr, vousy šedivé, oči zakalené, ale pořád ostré.
+
+Scéna:
+
+Když ho osloví, zvedne obočí a bez pozdravu vyprskne: „Vy chcete plout? Hah! Viděl jsem wyvernu roztrhnout loď vejpůl jak hračku. A vy se ptáte mě? Máte vůbec koule sednout na palubu?“
+
+Zkouší je provokovat, ale v hlase je i cosi jako naděje, že se ještě jednou dočká pořádného dobrodružství.
+
+Háček: Pokud ho přesvědčí (pitím, vyprávěním, odvahou), souhlasí, že povede loď – ale varuje, že posádka se bude hledat těžko.
