@@ -1,0 +1,6 @@
+🛡️ Obrana a výdrž
+Název	Popis	Cena (stříbrných)
+Pás posílené odolnosti	+2 k hodům na odolnost, vyráběný pouze v Guldhavenu.	2000
+Pancíř z živého kovu	Lehké brnění měnící tvar dle nositele, nebrání pohybu. AC +1 navíc.	2500
+Štít hlubin	Jednou denně absorbuje kouzlo 3. úrovně nebo nižší.	1200
+Prsten těžkého kroku	Snižuje šanci být sražen/posunut a poskytuje výhodu proti hromadným útokům.	600

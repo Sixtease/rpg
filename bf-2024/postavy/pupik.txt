@@ -1,6 +1,6 @@
 Pupík Tichošlap půlčík zloděj
-level 6
-39680 / 40000 zk
+level 7
+40000 / 80000 zk
 narozen 22. července, věk 31 rok
 
 síla: 9
@@ -11,7 +11,7 @@ odolnost: 15 +2
 charisma: 6 -1
 
 AC: 16 (18)
-41 životů (38)
+48 životů (48)
 
 7240 stříbrných
 šperky v hodnotě 666

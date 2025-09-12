@@ -1,6 +1,6 @@
 Nina elf kouzelník
 6. level
-47200 / 80000 zk
+50000 / 80000 zk
 narozena 20.12., věk 18 let
 
 síla: 5 -2
@@ -13,7 +13,7 @@ charisma: 16 +2 (+3)
 AC: 14 (17 / 20)
 15 životů (15)
 
-14720 stříbrných
+16860 stříbrných
 šperky v hodnotě 127
 smaragd v hodnotě 1700
 
@@ -22,21 +22,22 @@ měch na vodu
 kniha kouzel
 elfí róba AC 14
 Pás se sponou strážce +1 k AC, pokud nositel nenese štít
-prsten zmizení předmětů
+prsten zmizení předmětů (dárek pro bratra)
+nůž z dračí šupiny (dárek pro bratra)
 prsten rozptylu: 1× denně umožní seslat Dispel Magic na kouzlo 2. úrovně.
 náramek ochrany proti duchům (bonus +2 na záchranné hody, útok a AC proti nehmotným bytostem.)
 telefonní naušnice
 amulet detect magic 1x denně
 >amulet charisma +1
-Amulet proti horku – snižuje účinek ohnivých útoků o 2 (pasivně).
+Amulet proti horku – snižuje účinek ohnivých útoků o 2 (pasivně, dárek pro bratra).
 lano hedvábné 50"
 pero + inkoust
 hamaka
 páčidlo
 3x lektvar neviditelnosti
 3x lektvar síly
-4x léčivý lektvar
-2.8x lektvar dýchání pod vodou
+3x léčivý lektvar
+4.8x lektvar dýchání pod vodou
 10x kouřová bomba
 prut magické střely (2x denně)
 prut dispell magic (2x denně)
@@ -48,25 +49,28 @@ láveh kořalky
 naušnice imunity proti okouzlení
 kostka detekce lži
 Magický prsten "Rétoriky" (+1 k přesvědčování, 1× denně Suggestion)
+18 křídových barevných bločků
+kniha 40 prázdných listů papíru pozlacená
 
 hůl blesk 1/den magická zbraň (-1 / 1k6-2)
 dýka +1 (0 / 1k4-1)
-dýka (-1 / 1k4-2)
+dýka z dračí šupiny (+0 / 1k4+2)
+dýka z dračí šupiny +1 (+1 / 1k4+3)
 
 kouzla:
 L1:
 čtení magie
-uspání
+uspání *
 štít *
 okouzlení
-magická střela **
+magická střela *
 plovoucí disk
 mluvení z různých směrů
 L2:
 levitace
-neviditelnost
+neviditelnost *
 zrcadlový obraz
-pavučina **
+pavučina *
 nalezení předmětu
 čtení mysli
 přelud *
@@ -114,7 +118,7 @@ Lektvar dechového útoku (ohnivého) – napodobenina dračího dechu, 1 použi
 
 🪄 Magické předměty
 Prsten dračího šepotu – nositeli umožňuje jednou denně porozumět zvířatům (i bez společného jazyka).
-Zvířecí kápička pro Mlsku – lehká kožešinová kápě, která na 10 minut denně poskytuje neviditelnost (1x/den).
+Zvířecí kápička pro Mlsku – lehká kožešinová kápě, která na 10 minut denně poskytuje neviditelnost (1x/den) (dárek pro bratra).
 
 📜 Cenné dokumenty nebo záhadné předměty
 Mapa ztraceného města pod Velehorami, ukazující staré trpasličí doly a pečetě.
@@ -122,3 +126,6 @@ Zapečetěný dopis s rudou voskovou pečetí a znakem kultu rovnováhy sil – 
 ̉Soška elfa držícího misku – magická, začne zářit, pokud do ní někdo nalije vodu.
 
 dárek pro maminku: náhrdelník s naušnicemi v hodnotě 900
+
+# svitky:
+skupinová neviditelnost
