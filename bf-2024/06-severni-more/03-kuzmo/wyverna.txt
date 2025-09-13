@@ -1,0 +1,75 @@
+🐉 Mořská wyverna
+
+HD: 4+2 (průměrně 20 HP)
+
+AC: 15 (šupiny a obratnost)
+
+Pohyblivost: Let 18, plavání 12
+
+Útoky:
+
+Kousnutí: THAC0 +5, dmg 1k8+1
+
+Ocas s bodcem: THAC0 +5, dmg 1k6+jed (Save vs. Poison, při neúspěchu 1k6 dodatečně; při úspěchu žádný efekt)
+
+Zvláštnosti:
+
+Plavci i letci: Dokážou střemhlav zaútočit z nebe a zase zmizet do vln.
+
+Rojové chování: Útočí v hejnech, ale pokud jsou dvě třetiny z nich poraženy, zbytek se stáhne.
+
+Strach z ohně: Pokud vidí velký plamen na vodě, musí hodit Save vs. Spell; neúspěch = drží si odstup.
+
+Morálka: 8 (dravé, ale nejsou sebevražedné)
+
+Poklad: v břiše bývá pár lesklých kovových předmětů (náhody ze ztroskotaných lodí).
+
+⚔️ Jak to vychází pro družinu
+
+Bárt má obouruční meč +3 (+7 k zásahu, dmg 1k10+7)
+
+
+🐉 Taktika hejna mořských wyvern
+1. První kontakt (vyplašení a zmatek)
+
+2–3 wyverny naletí střemhlav na palubu, mávají křídly a snaží se smést postavy do vody.
+
+Útočí spíš na zásoby a posádku, ne rovnou na nejsilnější bojovníky – chtějí znejistit obranu.
+
+Vzbudí paniku mezi námořníky, křik, rozházené sudy.
+
+2. Rozdělení sil
+
+Část hejna krouží nad lodí a vyčkává na příležitost (harasení).
+
+Jiná část útočí zezadu – z vody vyskočí na boky lodi, snaží se rozštípnout vesla nebo lana u plachet.
+
+Tím dělají dojem, že loď je pod útokem ze všech stran, a posádka se musí rozdělit.
+
+3. Souboj na palubě
+
+Každá útočící wyverna použije kousnutí na nejbližšího protivníka, ocasní bodec používají na ty, kdo se zdají nejméně chránění (kouzelníci, střelci).
+
+Snaží se přetlačit postavy směrem k okraji paluby → kdo prohraje Opposed Strength/Dex check, hrozí mu pád přes palubu.
+
+4. Ústup a znovuútok
+
+Po 2–3 kolech se část hejna stáhne zpět do vzduchu nebo pod vodu, aby znovu naletěla – útoky jsou vlnovité.
+
+Pokud jsou 2–3 vyřazeny (zabití nebo vážně zraněné), celé hejno provede poslední zoufalý útok a pak se stáhne.
+
+🔥 Reakce na speciální taktiky hráčů
+
+Oheň na hladině: jakmile ho uvidí, většina hejna se zdráhá klesnout → útoky shora, ale kratší a nejistější. Save vs. Spell = strachová reakce.
+
+Magie plošná (ohnivá koule, blesk): pokud je v 1–2 kolech zraněno víc než polovina hejna, stáhnou se.
+
+Smrt alfa-wyverny: pokud družina zabije největší kus, zbytek se rozpadne a odletí.
+
+🎭 Dramatický průběh boje
+
+Náraz první vlny → chaos na palubě, posádka křičí.
+
+Zaskočení → družina musí rychle zareagovat a rozdělit se.
+
+Zoufalý útok → když se boji nedaří, poslední vlna drtivě zaútočí, než prchnou.

@@ -1,0 +1,42 @@
+🔥 Co se stane (v herním světě)
+Fyzikální efekt
+
+Rozlití: Destilát vytvoří na hladině moře tenký, ale rychle se šířící film.
+
+Zápal: Jakmile přijde plamen (pochodeň, střela s hadrem, kouzlo), oheň se rozběhne po hladině – ohnivá plocha o průměru desítek metrů.
+
+Intenzita: Lehká frakce (benzín) vzplane okamžitě a prudce, petrolej a nafta zajistí, že se oheň udrží déle.
+
+Účinky na wyverny
+
+Zasažené wyverny hořící ploše se nevyhnou hned → utrpí 1k6–1k8 poškození za kolo, dokud jsou nad plameny.
+
+Pokud přímo smočí křídla v hořící hladině → navíc Save vs. Breath, jinak křídla vzplanou a mají postih k letu (mohou se zřítit do moře).
+
+Psychologicky: I ty, které se přímo nespálí, budou odrazeny, zmatou se a rozptýlí.
+
+Účinky na loď a družinu
+
+Loď musí udržet odstup – vítr nebo proud může oheň zanést zpět.
+
+Pokud plamen zasáhne bok lodi → možnost zapálení, nutno rychle hasit pískem/vodou.
+
+Vdechování kouře → Save vs. Poison, jinak kašel, postih k hodům.
+
+Případný výbuch: pokud by se na hladině nahromadilo příliš těkavých par a přibyl prudký plamen, může dojít k tlakovému výbuchu (jednorázově 2k6 dmg v okruhu).
+
+⚖️ Herní shrnutí (navržená pravidla)
+
+Rozlití + zapálení = ohnivá plocha Ø 20–30 m.
+
+Trvání: 2k4 kol (vítr + vlny ji rychle rozbijí).
+
+Účinek: Každé kolo uvnitř: 1k6 dmg ohněm (Save vs. Breath → polovina).
+
+Pokud wyverna proletí těsně nad plameny → Save vs. Breath, při neúspěchu plamen chytí křídla (1k3 dmg/kolo, nevýhoda na let, dokud se neuhasí).
+
+Loď v dosahu: riziko zapálení, Save vs. Breath (konstrukce), jinak 1k6 dmg ohněm do trupu.
+
+👉 Je to zbraň hromadného ničení – účinná na hejna wyvern, ale riskantní pro posádku. Dává hráčům možnost taktické volby: Použijeme to, i když ohrozíme sami sebe?
+
+Chceš, abych ti připravil i návrh, jak se to dá do hry dostat (jak družina destilát uskladní na lodi, kolik toho unese, jak ho připraví k zapálení)?

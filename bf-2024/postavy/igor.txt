@@ -1,6 +1,6 @@
 Igor Pinksl trpaslík klerik
-level 6
-zk: 42220 / 48000
+level 7
+zk: 50020 / 96000
 narozen 11.9.
 
 síla: 9
@@ -74,14 +74,13 @@ trpasličí pečetní prsten
 10 cechovních trpasličích zlatých mincí
 
 1:
-detect evil
 cure light wounds 2x
 2:
-silence 15"
-hold person
+speak with animals
+spiritual hammer
 spiritual hammer
 3:
-locate object
+cure disease
 
 dovednosti:
     Opevněný štít: Bonus +1 k AC při použití štítu.

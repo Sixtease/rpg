@@ -1,6 +1,6 @@
 Nina elf kouzelník
 6. level
-51000 / 80000 zk
+56500 / 80000 zk
 narozena 20.12., věk 18 let
 
 síla: 5 -2
@@ -29,6 +29,7 @@ náramek ochrany proti duchům (bonus +2 na záchranné hody, útok a AC proti n
 telefonní naušnice
 amulet detect magic 1x denně
 >amulet charisma +1
+amulet imunity vůči kouzlům level 1
 Amulet proti horku – snižuje účinek ohnivých útoků o 2 (pasivně, dárek pro bratra).
 lano hedvábné 50"
 pero + inkoust
@@ -60,26 +61,26 @@ dýka z dračí šupiny +1 (+1 / 1k4+3)
 kouzla:
 L1:
 čtení magie
-uspání *
+uspání
 štít *
 okouzlení
-magická střela *
+magická střela **
 plovoucí disk
 mluvení z různých směrů
 L2:
 levitace
-neviditelnost *
+neviditelnost
 zrcadlový obraz
-pavučina *
+pavučina
 nalezení předmětu
 čtení mysli
-přelud *
+přelud **
 čarodějný zámek
-trvalé světlo
+trvalé světlo *
 trvalá temnota
 L3:
 skupinová neviditelnost
-ohnivá koule *
+ohnivá koule
 létání
 spěch
 zadržení osoby
