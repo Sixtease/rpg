@@ -12,7 +12,7 @@ charisma: 9
 AC 20
 42 životů (30)
 
-12500 stříbrných
+13000 stříbrných
 
 batoh
 měch na vodu
@@ -26,7 +26,7 @@ náramek léčení 1k4 jednou denně
 2x lektvar dýchání pod vodou
 1x lektvar neviditelnosti
 telefonní naušnice
-bambitka
+bambitka ozdobená zlatem a rubínem, 100 střel
 Vílí houbový prášek (40 stříbrných, 5 použití)
     Když se rozsype do vzduchu, vyzařuje slabé světlo, které odhalí neviditelné tvory nebo magické aury v okolí 5 metrů po dobu 1 minuty.
     Má ale výraznou vůni a přitahuje lesní tvory.

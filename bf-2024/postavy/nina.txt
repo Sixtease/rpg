@@ -13,9 +13,8 @@ charisma: 16 +2 (+3)
 AC: 14 (17 / 20)
 15 životů (15)
 
-16660 stříbrných
+18000 stříbrných
 šperky v hodnotě 127
-smaragd v hodnotě 1700
 
 batoh nekonečného prostoru
 měch na vodu

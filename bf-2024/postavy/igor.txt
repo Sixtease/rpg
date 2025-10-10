@@ -12,21 +12,22 @@ charisma: 4 -2
 armor class: 22
 životů: 45 (45)
 
-8342 stříbrných
+7400 stříbrných
 
 ještěří plátová zbroj
 štít +1
 warhammer +1 (+4 / 1k6 (2k6 proti nemrtvým))
-warhammer +3 (+4 / 1k6+3)
+warhammer +3 (+4 / 1k6+3), s kamenem, který umožní při hodu na útok 20 útočit ještě jednou v kole
 batoh nekonečného prostoru
 lampa denního světla proti nemrtvým
 prak +3 (+5 / 1k4+3)
-duchovní kladivo (+´1 / 1k6+1)
+duchovní kladivo (+1 / 1k6+1)
 50x kulka +2 (+6 / 1k4+5)
 10 kamenů (1k3)
 měch na vodu
 telefonní náušnice
 2x léčivý lektvar
+2x lektvar světla (30 minut svítíš jako pod kouzlem light)
 Kouzelný kompas (ukazuje k destinaci, pak se 2 dny nabíjí na slunci)
 3 zlaté pruty à 1zl
 gobliní léčivý prášek (-1ž na člověka)
@@ -37,6 +38,7 @@ Plášť mořské mlhy 1× denně vyvolá hustou mlhu (20m radius), vydrží 10 
 2x Granát z mlžného železa Jednorázový – mlha, oslepení a 1k8 nekrotického poškození
 záznamníková lasturka (lze nahrát 20s zvuku a kdykoliv přehrát)
 amulet non-detection
+Kouzelný kompas Ukazuje na nejbližší zdroj aktivní magie v okruhu 100 m
 
 knihy Kouzel
 - ochrana před zlem
