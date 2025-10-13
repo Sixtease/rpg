@@ -1,6 +1,6 @@
 Igor Pinksl trpaslík klerik
 level 7
-zk: 50020 / 96000
+zk: 56020 / 96000
 narozen 11.9.
 
 síla: 9
@@ -10,11 +10,11 @@ obratnost: 13 +1 (+2)
 odolnost: 18 +3
 charisma: 4 -2
 armor class: 22
-životů: 45 (45)
+životů: 45 (24)
 
-7400 stříbrných
+6885 stříbrných
 
-ještěří plátová zbroj
+ještěří plátová zbroj s 12 wyverními šupinami (lepší pohyb ve vodě)
 štít +1
 warhammer +1 (+4 / 1k6 (2k6 proti nemrtvým))
 warhammer +3 (+4 / 1k6+3), s kamenem, který umožní při hodu na útok 20 útočit ještě jednou v kole
@@ -38,7 +38,11 @@ Plášť mořské mlhy 1× denně vyvolá hustou mlhu (20m radius), vydrží 10 
 2x Granát z mlžného železa Jednorázový – mlha, oslepení a 1k8 nekrotického poškození
 záznamníková lasturka (lze nahrát 20s zvuku a kdykoliv přehrát)
 amulet non-detection
+amulet chození po vodě
+amulet dýchání pod vodou
+vodní dělo
 Kouzelný kompas Ukazuje na nejbližší zdroj aktivní magie v okruhu 100 m
+11 wyverních šupin
 
 knihy Kouzel
 - ochrana před zlem
@@ -76,13 +80,11 @@ trpasličí pečetní prsten
 10 cechovních trpasličích zlatých mincí
 
 1:
-cure light wounds 2x
+cure light wounds 3x
 2:
-speak with animals
-spiritual hammer
-spiritual hammer
+anti silence 3x
 3:
-cure disease
+cause disease
 
 dovednosti:
     Opevněný štít: Bonus +1 k AC při použití štítu.
@@ -91,7 +93,7 @@ dovednosti:
 
 aury:
     Aura světla: Spojenci v dosahu získávají bonus +1 k hodům na záchranu proti efektům, které ovlivňují mysl nebo způsobují strach.
-    Aura odplaty: Nepřátelé, kteří zasáhnou klerika nebo spojence v dosahu aury, utrpí 1k4 radiant damage.
-    * Aura ochrany: Spojenci v dosahu získávají bonus +1 k AC.
+    * Aura odplaty: Nepřátelé, kteří zasáhnou klerika nebo spojence v dosahu aury, utrpí 1k4 radiant damage.
+    Aura ochrany: Spojenci v dosahu získávají bonus +1 k AC.
     Aura regenerace: Spojenci na začátku svého tahu obnoví 1 život, pokud mají méně než polovinu svého maximálního počtu životů.
 
