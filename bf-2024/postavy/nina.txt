@@ -13,7 +13,7 @@ charisma: 16 +2 (+3)
 AC: 14 (17 / 20)
 15 životů (15)
 
-20700 stříbrných
+19700 stříbrných
 šperky v hodnotě 127
 
 batoh nekonečného prostoru
@@ -29,20 +29,22 @@ telefonní naušnice
 amulet detect magic 1x denně
 >amulet charisma +1
 amulet imunity vůči kouzlům level 1
-Amulet proti horku – snižuje účinek ohnivých útoků o 2 (pasivně, dárek pro bratra).
+amulet proti horku – snižuje účinek ohnivých útoků o 2 (pasivně, dárek pro bratra).
+amulet chůze po vodě
+amulet dýchání pod vodou
 lano hedvábné 50"
 pero + inkoust
 hamaka
 páčidlo
 3x lektvar neviditelnosti
-3x lektvar síly
+2.8x lektvar síly
 3x léčivý lektvar
 4.8x lektvar dýchání pod vodou
 10x kouřová bomba
 prut magické střely (2x denně)
 prut dispell magic (2x denně)
 uspávadlo do jídla/pití na 2 použití
-láveh kořalky
+láhev kořalky
 1 x univerzální protijed
 60 x mast nezanechávání stop pro veverku na 8 hodin
 šupina +1 kouzlo za den z každého levelu nižšího, než může maximálně kouzlit
@@ -51,8 +53,6 @@ kostka detekce lži
 Magický prsten "Rétoriky" (+1 k přesvědčování, 1× denně Suggestion)
 18 křídových barevných bločků
 kniha 40 prázdných listů papíru pozlacená
-amulet chůze po vodě
-amulet dýchání pod vodou
 
 hůl blesk 1/den magická zbraň (-1 / 1k6-2)
 dýka +1 (0 / 1k4-1)
@@ -63,26 +63,26 @@ kouzla:
 L1:
 čtení magie
 uspání
-štít
+štít *
 okouzlení
-magická střela **
+magická střela ***
 plovoucí disk
 mluvení z různých směrů
 L2:
 levitace
-neviditelnost
+neviditelnost *
 zrcadlový obraz
-pavučina *
+pavučina
 nalezení předmětu
 čtení mysli
-přelud *
+přelud
 čarodějný zámek *
 trvalé světlo
 trvalá temnota
 L3:
 skupinová neviditelnost
 ohnivá koule
-létání
+létání *
 spěch
 zadržení osoby
 jasnozřivost

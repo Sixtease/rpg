@@ -10,7 +10,7 @@ obratnost: 16 +2
 odolnost: 10
 charisma: 9
 AC 20
-42 životů (36)
+42 životů (37)
 
 14000 stříbrných
 
@@ -24,7 +24,7 @@ náramek léčení 1k4 jednou denně
 3x lektvar rychlosti
 0x léčivý lektvar
 2x lektvar dýchání pod vodou
-1x lektvar neviditelnosti
+0x lektvar neviditelnosti
 telefonní naušnice
 bambitka ozdobená zlatem a rubínem, 96 střel to hit 0 dmg 1k12+1
 Vílí houbový prášek (40 stříbrných, 5 použití)
