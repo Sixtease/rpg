@@ -1,6 +1,6 @@
 Nina elf kouzelník
 6. level
-61500 / 80000 zk
+65000 / 80000 zk
 narozena 20.12., věk 18 let
 
 síla: 5 -2
@@ -13,7 +13,7 @@ charisma: 16 +2 (+3)
 AC: 14 (17 / 20)
 15 životů (15)
 
-19700 stříbrných
+19750 stříbrných
 šperky v hodnotě 127
 
 batoh nekonečného prostoru
@@ -42,7 +42,7 @@ páčidlo
 4.8x lektvar dýchání pod vodou
 10x kouřová bomba
 prut magické střely (2x denně)
-prut dispell magic (2x denně)
+prut dispell magic (2x denně) *
 uspávadlo do jídla/pití na 2 použití
 láhev kořalky
 1 x univerzální protijed
@@ -53,6 +53,8 @@ kostka detekce lži
 Magický prsten "Rétoriky" (+1 k přesvědčování, 1× denně Suggestion)
 18 křídových barevných bločků
 kniha 40 prázdných listů papíru pozlacená
+encyklopedie magických suchozemských zvířat
+encyklopedie magických mořských zvířat
 
 hůl blesk 1/den magická zbraň (-1 / 1k6-2)
 dýka +1 (0 / 1k4-1)
@@ -76,7 +78,7 @@ pavučina
 nalezení předmětu
 čtení mysli
 přelud
-čarodějný zámek *
+čarodějný zámek
 trvalé světlo
 trvalá temnota
 L3:
