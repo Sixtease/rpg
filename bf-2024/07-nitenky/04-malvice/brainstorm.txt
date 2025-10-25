@@ -1,0 +1,96 @@
+Chrám Rovnováhy sil v Brance začne aktivně vyvíjet lék proti nákaze nitěnkou. Přijou na recept, který funguje, ale ne dost spolehlivě a nedá se vyrábět dost ve velkém. Zjistili, že důležitou ingrediencí jsou zrníčka malvic a potřebujou zjistit, jaké fungují nejlíp. Igorovým úkolem bude dostat se z Branky, která je kvůli karanténě uzavřená, objezdit lesy a sady s různými druhy malvic, a dostat se zpět. Zjistí se, že nejlépe hodí odrůda kdoulí, která se pěstuje ve velkém jenom v okolí Kamenice. Igor tedy bude muset do Kamenice, kde bude muset podpořit převrat, aby jeho vedení neodporovalo pomoct Brance.
+
+
+
+## ✅ Co funguje výborně
+
+* **Motiv léku proti nitěnkám**:
+  Přirozené pokračování po pandemii; město chce samo najít obranu.
+  Chrám Rovnováhy sil je ideální instituce — symbolické, že rovnováhu mezi životem a smrtí obnovuje víra.
+
+* **Zrníčka malvic**:
+  Zní obyčejně, ale skvěle to odpovídá světu – kombinace víry, přírody a praktické magie.
+  Můžeš z toho udělat malý „detektivní“ motiv: každá odrůda má jiné magické spektrum, mění se podle půdy, slunce, nadmořské výšky…
+
+* **Cesta mimo Branku přes karanténu**:
+  Skvělý začátek — dává ti přirozenou překážku, napětí i záminku pro Pupíkovu účast (má obratnost, zkušenost s nelegálním pohybem, kontakty).
+
+* **Cíl v Kamenici**:
+  Ideální — známe to prostředí, hráči tam začínali, působí to jako uzavření kruhu.
+  Politický převrat je přirozený konflikt: Igor může jednat skrze víru a morálku, Pupík skrze kontakty a intriky.
+
+---
+
+## ⚙️ Co doplnit / rozvinout
+
+### 1. **Kdo vytvořil původní recept**
+
+> Aby byl příběh srozumitelný, je dobré mít jméno a tvář toho, kdo recept objevil.
+> Navrhuji:
+>
+> * **Sestra Alžběta ze Světel** – bylinkářka chrámu Rovnováhy sil, charismatická, trochu přecitlivělá.
+> * Vynalezla první tinkturu, ale účinek je jen 60 %.
+> * Prosí Igora, aby „přinesl pravé semeno rovnováhy“, protože cítí, že jen z něj může vzniknout lék dokonalý.
+
+To dá úkolu osobní rozměr – Igor pomáhá „kolegyňce víry“.
+
+---
+
+### 2. **Proč je Branka pro karanténu tak přísně uzavřená**
+
+> Krátká logika světa:
+>
+> * Nitěnky zanechaly zbytkové „spóry“ v půdě, proto je hranice mezi suchým a vlhkým územím hlídána.
+> * Každý, kdo odchází, musí mít **zapečetěné potvrzení** – pro Igorovu misi se dá získat jen těžko.
+> * Pupík může sehnat padělek, nebo najít *neoficiální cestu ven* – malý úkol hned na začátku.
+
+---
+
+### 3. **Jak hledání malvic zpestřit**
+
+> Každý sad může být jiný malý „mikropříběh“:
+>
+> * **Sady ve vlhkém údolí:** napadené houbou – možnost použít magii nebo rituál k očištění.
+> * **Lesní planina:** starý sad chráněný druidem, který nevidí rád městské lidi.
+> * **Divoké plané jabloně:** Pupík může objevit pašerácký tábor, co suší malvice pro alkohol.
+> * **Starý sad v ruinách statku:** kdouloní tam roste „ze zlata“ – magicky zlaté plody (předzvěst Kamenice).
+
+Každý může dát jinou stopu (chuť, barva, magická rezonance, počet semen).
+
+---
+
+### 4. **Kamenice a převrat**
+
+> Aby to bylo uvěřitelné:
+>
+> * V Kamenici vládne **konzervativní rada**, která nechce posílat úrodu pryč („Kamenice nejdřív Kamenici“).
+> * Opozice (mladší cechy, pěstitelé, obchodníci) by rádi pomohli, ale bojí se odvety.
+> * Igor může být **morální katalyzátor** („Rovnováha není hromadění dobra pro sebe“)
+> * Pupík může tajně pomáhat opozici s logistikou nebo sabotáží starostových gardistů.
+
+Výsledek: převrat může být nekrvavý, třeba politický nebo symbolický (starosta abdikuje, lidé otevřou sýpky).
+
+---
+
+### 5. **Finální háček**
+
+> Po návratu do Branky se zjistí, že lék sice funguje dokonale, ale má **vedlejší účinek** – vyvolává euforii, možná i mírnou závislost.
+> Tím můžeš otevřít budoucí linku:
+>
+> * nová etická dilemata: „Pomáháme, nebo jen vytváříme jinou závislost?“
+> * nebo hrozbu – kdosi by chtěl látku vyrábět masově.
+
+---
+
+### 🔹Shrnutí v bodech
+
+| Fáze | Událost                                                | Herní typ              |
+| ---- | ------------------------------------------------------ | ---------------------- |
+| 1    | Chrám pověří Igora získáním malvic                     | Úvod, briefing         |
+| 2    | Získání výstupního povolení z karantény (Pupík pomáhá) | Roleplay, infiltration |
+| 3    | Cesta a sběr vzorků (3 lokality, různé situace)        | Exploration            |
+| 4    | Zjištění, že kdoule z Kamenice jsou klíč               | Investigation          |
+| 5    | Kamenický převrat (morální rozhodnutí, akce)           | Diplomacie + akce      |
+| 6    | Návrat a výroba finálního lektvaru                     | Uzavření, satisfakce   |
+| 7    | Vedlejší efekt léku (teaser do budoucna)               | Epilog                 |
+
