@@ -21,7 +21,7 @@ Klíčová místa ve městě
 2. Síň u Křišťálové koruny (pro Ninu)
 
     Popis: Magické sídlo v korunách stromů, kde se elfové učí a uchovávají kouzla. Místo je plné magických knih, svitků a runových artefaktů.
-    Postava: Ellarian Vítrunes
+    Postava: Aurelia Vítrunes
         Role: Učitelka magie, mistryně iluzí a ochranných kouzel.
         Osobnost: Klidná, ale přísná. Ráda testuje trpělivost a důvtip.
         Služby:
@@ -66,13 +66,13 @@ Klíčová místa ve městě
 
 Shrnutí: Možné interakce
 
-    Ellarian Vítrunes: Učení kouzel a identifikace předmětů.
+    Aurelia Vítrunes: Učení kouzel a identifikace předmětů.
     Tržiště Mlžné stezky: Nákup zbraní, lektvarů, amuletů a informací.
     Kněžka Elrína: Léčení a duchovní podpora.
     Strážní stanice: Informace o bezpečnosti a politice Temnohvozdu.
 
-Zde jsou inventáře a ceny pro Ellarian, Miru a Sylase v Srdci Temnohvozdu. Ceny jsou přizpůsobeny tak, aby odpovídaly nízkým úrovním postav a prostředí fantasy světa:
-1. Ellarian Vítrunes (Magické svitky a služby)
+Zde jsou inventáře a ceny pro Aurelii, Miru a Sylase v Srdci Temnohvozdu. Ceny jsou přizpůsobeny tak, aby odpovídaly nízkým úrovním postav a prostředí fantasy světa:
+1. Aurelia Vítrunes (Magické svitky a služby)
 
     Svitky:
         Magic Missile: 50 zl.
@@ -84,7 +84,7 @@ Zde jsou inventáře a ceny pro Ellarian, Miru a Sylase v Srdci Temnohvozdu. Cen
         Základní kouzelnická kniha s 2 základními kouzly: 200 zl.
     Identifikace předmětů:
         Cena za identifikaci jednoho předmětu: 25 zl.
-        Pokud hráči splní vedlejší úkol pro Ellarian, může jim identifikovat jeden předmět zdarma.
+        Pokud hráči splní vedlejší úkol pro Aurelii, může jim identifikovat jeden předmět zdarma.
 
 2. Myra Listokvět (Bylinky, lektvary a jedy)
 
@@ -118,6 +118,6 @@ Zde jsou inventáře a ceny pro Ellarian, Miru a Sylase v Srdci Temnohvozdu. Cen
 
 Poznámka: Slevy a výhody
 
-    Ellarian: Může dát slevu za splnění úkolu pro Temnohvozd nebo za cenné informace.
+    Aurelia: Může dát slevu za splnění úkolu pro Temnohvozd nebo za cenné informace.
     Myra: Ráda obchoduje s ingrediencemi, pokud hráči přinesou vzácné bylinky nebo houby.
     Sylas: Nabídne lepší cenu, pokud hráči prokážou své dovednosti v lovu nebo ochrání tržiště před hrozbou.

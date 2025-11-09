@@ -23,10 +23,10 @@ V Dřívkově dostala družina čtyři úkoly, každý hrdina si musel vzít jed
 
 Tam předávají dopis a Radomír je prosí o záchranu syna.
 
-Zde je návrh vedlejšího úkolu od Ellarian Vítrunes, který zahrnuje magii, záhady a zapojení hráčů do prostředí Temnohvozdu:
+Zde je návrh vedlejšího úkolu od Aurelie Vítrunes, který zahrnuje magii, záhady a zapojení hráčů do prostředí Temnohvozdu:
 Vedlejší úkol: "Runy Temného pramene"
-Zadání úkolu: Ellarian vysvětluje, že magická rovnováha Temnohvozdu byla nedávno narušena v oblasti zvané Temný pramen – malá, odlehlá tůň v hlubinách lesa, kde se sbíhají prastaré magické proudy. Něco způsobilo, že magická energie z tohoto místa uniká a negativně ovlivňuje okolní les.
-Ellarian podezřívá, že někdo poškodil ochranné runy kolem pramene, což narušilo jeho rovnováhu. Hrdiny požádá, aby runy znovu aktivovali, než škody způsobí větší chaos.
+Zadání úkolu: Aurelia vysvětluje, že magická rovnováha Temnohvozdu byla nedávno narušena v oblasti zvané Temný pramen – malá, odlehlá tůň v hlubinách lesa, kde se sbíhají prastaré magické proudy. Něco způsobilo, že magická energie z tohoto místa uniká a negativně ovlivňuje okolní les.
+Aurelia podezřívá, že někdo poškodil ochranné runy kolem pramene, což narušilo jeho rovnováhu. Hrdiny požádá, aby runy znovu aktivovali, než škody způsobí větší chaos.
 Cíl úkolu:
     Najít Temný pramen – místo je vzdálené asi hodinu cesty od Srdce Temnohvozdu.
     Opravit runy – obnovit ochrannou magii tím, že správně uspořádají magické symboly vyryté do kamenů kolem pramene.
@@ -915,10 +915,74 @@ Starosta Adam Igora zve na rozhovor při kouzlu detekce lži. Igor přijímá a 
 
 Vrací se posel z Temnohvozdu a potvrzuje Igorovu legitimitu. Městská rada přislibuje Igorovi podporu. Igor cestuje do Kamenice.
 
-V Kamenici Igor vyhledává Paula Drosetuxe. Spolu tvoří plán na ovládnutí Kamenic: 1) tvorba a roznesení plakátů proti vládě knížete pána; 2) Igorův veřejný projev, ve kterém získá podporu veřejnosti pro svoji vládu; 3) získání podpory co největšího počtu vlivných osobností z Kamenice; 4) odstranění mistra Badyána, který v Kamenici tahá za provázky, zatímco kníže pán je jen jeho loutka; 5) faktické převzetí moci.
+V Kamenici Igor vyhledává Paula Drosetuxe. Spolu tvoří plán na ovládnutí Kamenice: 1) tvorba a roznesení plakátů proti vládě knížete pána; 2) Igorův veřejný projev, ve kterém získá podporu veřejnosti pro svoji vládu; 3) získání podpory co největšího počtu vlivných osobností z Kamenice; 4) odstranění mistra Badyána, který v Kamenici tahá za provázky, zatímco kníže pán je jen jeho loutka; 5) faktické převzetí moci.
 
-Paulus hned zadal svým lidem výrobu plakátů proti knížeti pánovi.
+Paulus hned zadal svým lidem výrobu plakátů proti knížeti pánovi a dalších, kde se varuje před nitěnkovou nákazou a svolává se lid na druhý den po obědě pro zdravotní informace.
 
 Pátek 30. září
 
-Plakáty jsou rozneseny a vylepeny, Igor si nechává napsat projev.
+Plakáty jsou rozneseny a vylepeny, Igor si nechává napsat projev. Nechává si od místního čaroděje udělat lektvar na zvýšení charismatu. Domlouvá v lazaretu dva malomocné, aby přišli na jeho projev.
+
+Sobota 1. listopadu
+
+Igor po obědě vystupuje na pódium, představuje sebe a své dosavadní činy a zkušenosti s nitěnkovým morem. Na místě léčí dva malomocné. Přednáší projev a získává si ovace davu, který skanduje "Igor na hrad!"
+
+Po projevu odchází do hostince. Hned se západem slunce jde spát.
+
+neděle 2. listopadu
+
+Po půlnoci se Igor probouzí a vyráží s Pupíkem k Badyánově vile. Pupík odemyká hlavní bránu a schovávají se za živým plotem v zahradě. Stráže je slyší a vykukují ven, ale nevidí. Igor jednoho odlákal do vedlejší mistnosti, druhého zakouzlil na sebe plošné ticho, vtrhl do okna a dal se do boje s druhým strážným. První se hned vrátil z místnosti, kam byl odlákán, a bojovali všichni. Jeden padl, druhý se nakonec vzdal. Nikdo nic neslyšel, protože Igor měl zakouzlené plošné ticho.
+
+Igor přeživšího svázal s roubíkem a šel prozkoumat vilu, aby našel Badyána. Našel ho spícího v patře. Rychle naň zakouzlil hold person a 4x inflict light wounds. Tím ho odeslal do věčných lovišť a šel zase pryč. Mrtvolu strážného odnesl do zahrady sousední vily a živého naloživ na ramena odnesl do domácího vězení u Paula Drosetuxe.
+
+Po konzultaci s ním šel ještě vzbudit čaroděje, aby si vyptal magickou podporu při jednání s městskou radou. Čaroděj mu prodal další lektvar charismatu a šel zpět na kutě.
+
+Igor se šel pak vyspat do svého pokoje v hostinci, ale hostinský ho varoval, že pro něho přišli tajní. Igor se otočil jako na obrtlíku a šel se dospat k Paulovi.
+
+Ráno navštívil Igor sestru Mirelu, zástupkyni kultu Rovnováhy sil v městské radě. Požádal ji o podporu, ale měla strach z konfrontace a puče, takže stáhla ocas mezi nohy a řekla, že se hodí marod. Zkusil to u Mgr. Alvíny, která má v městské radě odpovědnost za knihovny a spisy. Tu se mu podařilo přesvědčit a slíbila mu, že ho na nouzové jednání po Badyánově smrti vezme.
+
+Pak Igor ještě zašel za armádním generálem a také se mu podařilo získat jeho podporu, byť k tomu bylo potřeba ho porazit v duelu.
+
+Odpoledne šel Igor k radnici, kde se potkal s Alvínou. Ta ho uvedla do jednacího sálu. Kníže pán protestoval proti jeho přítomnosti, ale nakonec se rada dohodla, že Igora vyslechne. Ten se hned jal prosadit sebe jako nového knížete. Nastal dlouhá úporná debata, ve které nakonec dokázal Igor získat podopru většiny radních.
+
+pátek 16. září
+
+Nina a Bárt dostávají od nakaženého elfa dopis pro Radomíra. Bárt elfa chirurgicky zachraňuje.
+
+pátek 23. září
+
+Nina a Bárt přijíždějí do Srdce Temnohvozdu. Předali dopis Radomírovi a ten je pověřil, aby byli Agenti v Kamenici a dostali co nejvíc zrcadel. Vyrážejí z Temnohvozdu do Kamenice. Radomír jim dává kontakt na Paula Drosetuxe jako svoji kamenickou spojku.
+
+neděle 25. září
+
+Nina a Bárt dorazili do Kamenice. Nina si s pomocí odborníků z Temnohvozdu staví stromový dům poblíž Kamenice. Bárt kupuje dům poblíž centra a úspěšně se uchází o práci vyššího celníka. Pupík si pronajal byteček ve vrchním patře věže jedné vily a začal nabízet své služby soukromého detektiva.
+
+pondělí 26. září
+
+Bárt v celní službě odhaluje kupce, který chtěl sudy s vínem proclít jako hroznovou šťávu. Dává mu pokutu.
+
+Večer Bárt slaví narozeniny s Ninou a Pupíkem u sebe doma.
+
+úterý 27. září
+
+Bárt na celnici naráží na karavanu z dálného jihu. Dělá hloubkovou kontrolu a naráží v prvním voze na zrcadla, z nicht jedno je magické a odpovídá popisu. Nina rychle přijíždí v černém plášti a se zakrytým obličejem. Bárt vůdci karavany Saláhovi Íbn Chádirovi řekl, že v Kamenici prochází přízrak, který často chce jednu věc. Pokud ji nedostane, může se na to i zemřít.
+
+Jak prošli branou, už tu čekala Nina, seslala kolem karavany přelud mlhy a zakřičela přízračným hlasem: "Dejte sem to magické zrcadlo!" Část posádky ve zděšení uprchlo. Pak výzvu zopakovala a zakouzlila těsně pře karavanu blesk. Další část se rozprchla, až zůstal jen Saláh, jeho syn, osobní strážce a léčitelka Aša.
+
+Nina vstoupila mezi ně a naznačia zakouzlení. Strážce ztratil nervy a také uprchl. Zbytek Nina uspala kouzlem, vstoupila do vozu a nemohouc otevřít truhlici, vzala ji s pomocí lektvaru síly s sebou. Naložila truhlu i sebe na koně a tryskem odjela k sobě domů.
+
+Karavana se konsolidovala, Saláh začal podezřívat Bárta, že v tom má prsty a šli se rozložit na tržiště, aby nabídli část zboží ke koupi. Saláh poptal služby nějakého místního detektiva a dostal tip na Pupíka. Slíbil mu 350 stříbných za vrácení celé truhly, 250 za samotné magické zrcadlo a 50 za vše krom zrcadla; 100 navíc, pokud se objasní příčina a pachatel krádeže.
+
+Pupík zkontaktoval Ninu a Bárta a domluvili se, že zrcadlo s pomocí Paula Drosetuxe zkusí replikovat a vše vrátí. Paulus sehnal elfa, který dokáže seslat kouzlo, které napodobí efekt originálního magického zrcadla, tedy hezčí odraz, jen bez zakleté elfí duše a dočasně. Tento mladý elf jménem Kešík hned s Ninou sjel k ní domů pro zrcadlo, přivezli ho zpět do města ke sklenářovi, ten vyřezal zrcadlo podle předlohy. Pak obojí vzali k řezbářovi. Ten si zaznemanal tvar a vzhled rámu a slíbil ho do druhého dne za příplatek za práci přes noc zkopírovat.
+
+Nina s Kešíkem jeli zpátky k Nině, kde Kešík Ninu naučil kouzlo očarování zrcadla a hned to aplikoval na ono nové. Večer ho Nina na koni odvezla do města, kde se rozloučili.
+
+středa 28. září
+
+Nina vyzvedává hotový rám a nechává doň vložit očarované zrcadlo. Kešík kouzlem dělá patinu. Pupík kontaktuje Saláha a domlouvají si sraz v Liliovém parku u fontány ve 4:30 ráno.
+
+čtvrtek 29. září
+
+Ve 3:50 se Bárt a Pupík potkávají u Niny. Nina jim předává truhlu s podvrženým zrcadlem a Bárt s Pupíkem ji odvážejí na druhý konec liliového parku. Tam truhlu nechávají mezi dvěma stromy, Bárt hlídá opodál.
+
+Pupík jde k fontáně, kde už čeká Saláh se dvěma skrytými strážci. Pupík ho vede k truhle, kterou mu předává. Saláh kontroluje obsah, zrcadlo od originálu nerozpozná, přijímá a vyplácí 350 stříbrných. Vysvětlení Pupík neposkytuje.

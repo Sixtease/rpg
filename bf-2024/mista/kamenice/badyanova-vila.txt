@@ -1,0 +1,243 @@
+Shrnutí (rychle)
+
+Styl: honosná městská vila v centru Kamenice — reprezentativní fasáda do ulice, vnitřní dvůr, zahrada s fontánou, klenuté sály, soukromé apartmá, servisní křídlo, sklep/vault.
+
+Hlavní obrana: kombinace fyzických bariér, lidských ochránců a (volitelně) magických opatření. Pokud chceš bez magie, níže najdeš kompletní ne-magickou variantu; zároveň přidávám „magickou vrstvu“ jako volbu (oznámím, kde bych tím porušil běžné BF základy — necháš-li to projít, použij).
+
+Doporučení pro infiltrační scény: 4–6 entry points (rytmus hlídek, záznamy sluhů, tajné chodby, střecha, kanalizace), plus par nápadů na jak situaci hráčům naservírovat.
+
+Podrobný návrh vily
+Poloha a exteriér
+
+Umístění: centrální parcela v honosné čtvrti (blízko radnice/zámku). Vstup z ulice přes zdobenou bránu a krátký reprezentativní dvůr s fontánou.
+
+Průčelí: velká veranda/sloupoví, balkony pro recepce. Vedlejší vchod pro služebnictvo z úzké uličky (důležitý pro infiltrace i procházky sluhů).
+
+Okolí: vysoký zděný plot se zdvojeným vchodem (hlavní + servisní), malé strážní věžičky v rozích pozemku (2–3 m vysoké, dobrý výhled do ulice). Noční lampy a hlídači u brány.
+
+Půdorys (vrstva po vrstvě)
+
+Přízemí (reprezentace + bezpečnost)
+
+Vstupní hala → velký sál (recepce), pracovny/kladiva moci (kanceláře), jídelna, zimní zahrada.
+
+Klenuté chodby mající řadu zástěn a výklenků (místo, kde hlídky číhají).
+
+Skrytý „pracovní průchod“ pro služebnictvo z boční ulice (může být zneužit).
+
+První patro (soukromá)
+
+Apartmá Mistra Badyána (pracovna, ložnice), salón pro hosty, galerie obrazech a trezory menší hodnoty (šperky).
+
+Balkony a okna zabezpečená mřížemi (u oken do ulice) — možnost vstupu z balkonů při dobře naplánované infiltraci.
+
+Podkroví / střecha
+
+Sít ovládacích komínů a vikýřů — střecha je přístupná z mezistropu; dobré pro tiché vniknutí, ale i pro sniperské hlídky.
+
+Sklepy a vault (nejdůležitější)
+
+Sklepní chodba → komůrky s cennostmi → hlavní trezor/ vault (dvojité dveře, železná vnitřní vrata, mechanický zámek + zábrany).
+
+Samostatná místnost pro archiv (listiny, kompromitující dokumenty) — knihařská skříň s falešným dnem.
+
+Možnost tajného výtahu/šachty (pouze pro věrné sluhy) — použij to jako potenciální „tajnou cestu“ hráčů.
+
+Zabezpečení (konkrétní vrstvy)
+1) Fyzická obrana (mimo magii — doporučené jako základ)
+
+Hlavní brána: dvojité železné vrata, mříže, uzamykatelná z interiéru; dveře zevnitř se zámkem s více závorami.
+
+Okna proti přímému přelezení: ocelové mříže, navíc „špalky“ a lano-háčky pro snadnou instalaci bariér.
+
+Podlahy a schodiště: několik zámků/sekcí (místnost s dokumenty za druhými dveřmi).
+
+Mechanické pasti ve sklepě: jehly v zámku (= důležité pro komplikace při otevření), padací mříže v chodbě ke sklípku (aktivuje je služebník-pastýř; musí být zamlčena, ne nezbytně zabíjející).
+
+Psí hlídky: 2–3 hlídací psi (venkovní + sklepní). Psi jsou dobrý detektor a výrazná překážka pro noční infiltrace.
+
+Hlídkový plán: kapitán a rota hlídek — viz níže.
+
+2) Lidské zabezpečení (doporučené počty a role)
+
+Velmi pravděpodobné (Badyán jako mocný občan):
+
+Kapitán stráže (odpovědný za personál a plány).
+
+6–10 pravidelných městských nebo soukromých stráží na směnu (ráno/odpoledne/noc).
+
+2–4 elitní tělesní strážci (stálá přítomnost u Badyána ve dne v noci). Ti jsou vyzbrojeni a loajální — fungují jako poslední linie obrany (bodyguardi; vhodní pro taktické souboje).
+
+3–4 služebníci/sluha — mají klíče a přístup, často se nechávají použít jako vnitřní okno pro spiknutí.
+
+Noční hlídka + signálnímuž (zvonek / lucerna systém pro svolání obrany).
+
+Taktika: bodyguardi drží přístup k soukromým komnatám, rotace hlídek včetně náhodných kontrol (snižuje opakované rutiny, ale ponechává „okna“ pro chyby).
+
+3) Alarmy a signální systém (nemagické)
+
+Lupičský zvon: lano napojené na skryté zvonky u vchodu a v chodbách (aktivuje se ručně nebo při průchodu přes skrytý prah).
+
+Systém světel: noční lampa u vchodu + lucerny v pravidelných intervalech (oznámení o pohybu).
+
+Servisní signál: služebník má „kvítek“/klepátko, kterým volá stráže — funguje jako „panika tlačítko“.
+
+Záznam: archivy a trezor mají skryté pečetě a podpisy — pokud někdo otevře místnost bez správného klíče, kapitán si toho všimne při ranní kontrole.
+
+4) Volitelná magická vrstva (pokud dovolíš magii)
+
+Opatření (volitelně): anti-invisibility ward, alarm (kouzlo alarm nebo analog v tvém světě), neviditelnost-detekce v trezoru, non-detection na citlivých dokumentech. Tyto kouzla nejsou přítomna v každé domácnosti; jestli je použiješ, zvaž, že si Badyán najal kouzelníka nebo vlastní magický amulet (dává smysl pro vlivného muže).
+
+Poznámka: některá kouzla (teleport/ dimension door) mohou zásadně změnit možnosti infiltrace; doporučuju konzultaci, než je vložíš přímo jako automatiku vily.
+
+POZOR: pokud chceš, aby vila byla „prakticky nedobytná“, použij kombinaci obou vrstev — ale to hru posune směrem k řešení, kde hráči musejí získat klíče, kompromitovat služebnictvo, nebo použít mocnou magii. U takových kroků ti rád navrhnu přesné mechaniky (náklady, zámky, záchranné save/hody podle BF pravidel), pokud potvrdíš, že chceš zahrnout magii.
+
+Vault / dokumenty — kde je to nejcennější a jak ho ochránit
+
+Dvojité dveře (vnější železné + vnitřní dřevěné), vnitřní dveře mají skrytý mechanický zámek (falešný profil, je potřeba 2 klíče nebo klíč + kombinace).
+
+Mechanické pasti: jehla v zámku (poškození + alarm), padací mříž (zabaví útočníky), jedovatá nástraha v falešném dně (spíše jako odstrašující prostředek).
+
+Archiv dokumentů: pečetě města / kompromitující dokumenty uložené v zaplombované truhle; Badyán si nechá kopii u sebe.
+
+Doporučení pro hráče (jak získat dokumenty): sociální infiltrace (pozvat hosta/sluha, podplatit), falšování pečetí, získání správného klíče od sluhy, krádež přes tajný vchod z boční ulice, noční lov s Mlsčinou (!) — možnosti závislé na inventáři postav.
+
+Hlídky a rutiny — praktické pro scény infiltrace
+
+Denní směny: Ráno 06:00–18:00 (4–6 hlídek), Večer 18:00–24:00 (7 hlídek), Noc 24:00–06:00 (5 hlídek + 2 noční specialisté).
+
+Náhodné kontroly: kapitán provádí náhodné „inspekce“ v intervalech (1–3× za noc). To vytvoří hranice pro skriptované akce hráčů.
+
+Hlášení: každý hlídač má přenosný klepátko -> centrálka (stráž u brány) -> kapitán. Pokud hráči způsobí výtržnost, do 2 kol je většina obrany na nohou.
+
+Možné infiltrační cesty (a jejich obtížnost)
+
+Hlavní brána (přímý útok) — vysoká hlídková přítomnost, brána, psi. Vhodné pro velkou bitvu.
+
+Boční servisní vchod — méně hlídek, sluhové mají přístup; ideální pro sociální infiltrace nebo krádež klíče.
+
+Okna balkonu / střecha — dobré pro tiché vniknutí, vyžaduje nářadí (lano, háčky) a znalosti lezení (Pupík, lezecké rukavice). Nina s invisibility/levitací může pomoci. (V příkladech už mají postavy tyto věci)
+
+🏛 Přízemí – reprezentační a provozní část
+
+Vstupní hala – mramorová podlaha, schodiště do patra, dvojice stráží.
+
+Velký sál – recepce, hostiny, večírky; přímý výhled do zahrady.
+
+Pracovna pro úřední jednání – Badyán zde přijímá návštěvy, má zde sejf na běžné listiny.
+
+Jídelna – 12m stůl, přístupná z haly i kuchyně.
+
+Kuchyně – se vstupem pro služebnictvo do boční uličky.
+
+Skladiště potravin a vinný kout – sudy, truhly, dveře do sklepa.
+
+Zimní zahrada – skleněný pavilon s exotickými rostlinami, možný zadní vstup do dvora.
+
+Kancelář hospodyně – eviduje dodávky, seznam klíčů.
+
+Služební chodba – spojuje kuchyni, skladiště a hlavní sál, často využívaná sluhy.
+
+🛏 1. Patro – soukromá část
+
+Apartmá Mistra Badyána – ložnice, osobní knihovna, malý trezor.
+
+Soukromá pracovna – skutečné centrum moci; zde se uchovávají kompromitující dokumenty.
+
+Salón pro hosty – přijímací místnost se sedací soupravou a barem.
+
+Galerie – dlouhá chodba s obrazy a zrcadly; okna s mřížemi a balkonem.
+
+Pokoje služebnictva – 2 malé pokoje (po 2 lůžkách).
+
+Pokoj tělesných strážců – přístupný ze schodiště i z galerie.
+
+Koupelna a šatna – navazuje na apartmá.
+
+Archivní pokoj – zamčený, s pečetěmi a falešným dnem v jedné skříni.
+
+🪶 Podkroví / střecha
+
+Podkrovní komory – sklad, rezervní prádlo, nepotřebné dekorace.
+
+Vikýřové ochozy – přístup na střechu (hlídky, případně infiltrační vstup).
+
+Malý půdní pokojík – obývá ho starý sluha (možný tajný spoj).
+
+⚙️ Sklepy
+
+Sklepní chodba – přístupná z kuchyně i ze dvora.
+
+Sklad vína a zásob – regály, sudy, možná slabá ostraha.
+
+Kovárnička / dílna – údržba výstroje a dveří.
+
+Hlavní trezor / vault – dvojité dveře, pasti, mechanický zámek.
+
+Archivní sklep – staré listiny, některé kompromitující.
+
+Úniková šachta – ústí v zadním dvoře pod studnou (tajné, zná jen Badyán a kapitán stráží).
+
+
+
+
+   ulice
+    │
+   [G]  — brána —  (vstupní portikus) 
+    │
+  +---------------------------+
+  |  Vstupní hala  (1)        |
+  |  [stráže, schodiště >>]   |
+  |                           |
+  |   ┌-------------------┐   |
+  |   |  Velký sál (2)    |   |
+  |   |  (recepce, hostiny)|  |
+  |   └-------------------┘   |
+  |    │            │         |
+  |    │            │         |
+  |   / \          / \        |
+  |  /   \ Garden /   \       |  ← vnitřní dvůr / fontána za sálem
+  |  |Zimní|------|  Dvůr |   |
+  |  |zahrada(7) | |      |   |
+  |                             |
+  |  ┌------+   ┌------------┐  |
+  |  |Jídelna|--|Kuchyně (5) |--[S] boční vchod (pro služebnictvo)
+  |  | (4)  |   └------------┘  |
+  |  └------+   |Sklad (6)  |   |
+  |             └----┬-------┘  |
+  |                  │          |
+  |      Kancelář hospodyně (8) |
+  |      / Služební chodba (9)  |
+  +---------------------------+
+         │
+        << schodiště dolů
+         │
+   (vstup do sklepů / vault)
+
+
+                    ulice (schodiště >> z přízemí)
+                       │
+            +------------------------------------+
+            |  Galerie / chodba (G)              |
+            |  (obrazy, stráž u schodiště)       |
+            |  ┌─────────┬─────────┬─────────┐   |
+            |  | Salon   |  Apartmá|  Soukrom|   |
+            |  | hostů   |  Badyána| pracovna|   |
+            |  |  (3)    |  (1)    |  (2)    |   |
+            |  |         | [B] balk| {K}Archiv|   |
+            |  |         |  (okno) |  (zamk.) |   |
+            |  └─────────┴─────────┴─────────┘   |
+            |           │      │                 |
+            |     Pokoje tělesných strážců (6)   |
+            |     (přímý přístup k apartmánu)    |
+            |                                     |
+            |  ┌────┐   ┌────┐   ┌──────┐         |
+            |  |Pokoj|  |Pokoje|  |Koupelna|      |
+            |  |hosta|  |sluhů |  |+šatna  |      |
+            |  | (4) |  | (5)  |  | (7)    |      |
+            |  └────┘   └────┘   └──────┘         |
+            |                                     |
+            |  Malá chodba / úkryt nad schod. >>  |
+            +------------------------------------+
+                       │
+                      << schodiště dolů (přízemí)

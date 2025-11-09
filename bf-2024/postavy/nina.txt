@@ -1,6 +1,6 @@
 Nina elf kouzelník
 6. level
-65000 / 80000 zk
+73000 / 80000 zk
 narozena 20.12., věk 18 let
 
 síla: 5 -2
@@ -13,7 +13,7 @@ charisma: 16 +2 (+3)
 AC: 14 (17 / 20)
 15 životů (15)
 
-19750 stříbrných
+13187 stříbrných
 šperky v hodnotě 127
 
 batoh nekonečného prostoru
@@ -27,8 +27,8 @@ prsten rozptylu: 1× denně umožní seslat Dispel Magic na kouzlo 2. úrovně.
 náramek ochrany proti duchům (bonus +2 na záchranné hody, útok a AC proti nehmotným bytostem.)
 telefonní naušnice
 amulet detect magic 1x denně
->amulet charisma +1
-amulet imunity vůči kouzlům level 1
+amulet charisma +1
+>amulet imunity vůči kouzlům level 1
 amulet proti horku – snižuje účinek ohnivých útoků o 2 (pasivně, dárek pro bratra).
 amulet chůze po vodě
 amulet dýchání pod vodou
@@ -37,7 +37,7 @@ pero + inkoust
 hamaka
 páčidlo
 3x lektvar neviditelnosti
-2.8x lektvar síly
+1.8x lektvar síly
 3x léčivý lektvar
 4.8x lektvar dýchání pod vodou
 10x kouřová bomba
@@ -55,6 +55,7 @@ Magický prsten "Rétoriky" (+1 k přesvědčování, 1× denně Suggestion)
 kniha 40 prázdných listů papíru pozlacená
 encyklopedie magických suchozemských zvířat
 encyklopedie magických mořských zvířat
+dopis pro Radomíra
 
 hůl blesk 1/den magická zbraň (-1 / 1k6-2)
 dýka +1 (0 / 1k4-1)
@@ -64,10 +65,10 @@ dýka z dračí šupiny +1 (+1 / 1k4+3)
 kouzla:
 L1:
 čtení magie
-uspání
+uspání **
 štít *
 okouzlení
-magická střela ***
+magická střela *
 plovoucí disk
 mluvení z různých směrů
 L2:
@@ -77,18 +78,20 @@ zrcadlový obraz
 pavučina
 nalezení předmětu
 čtení mysli
-přelud
+přelud *
 čarodějný zámek
 trvalé světlo
 trvalá temnota
+ťuk ťuk *
+začarování zrcadla, aby obraz v něm byl hezčí než realita
 L3:
 skupinová neviditelnost
 ohnivá koule
-létání *
+létání
 spěch
 zadržení osoby
 jasnozřivost
-blesk *
+blesk **
 dýchání pod vodou
 
 veverka - Mlska

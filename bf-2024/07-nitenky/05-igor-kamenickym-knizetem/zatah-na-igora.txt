@@ -1,0 +1,85 @@
+🔒 Operace „Tichý hák“ — zatčení Igora v pokoji
+Cíl
+
+Zajmout otce Igora živého a beze zbytečného rozruchu v jeho pokoji (hostinec, domek u radnice apod.) a odvézt ho ke stíhání.
+
+Čas a okolnosti
+
+Proběhne po projevu, ale ne přímo na tržišti — typicky v noci nebo nad ránem, když Igor spí nebo se vrací z večera.
+
+Útok vykonají speciálně vybraní muži, nikoli běžná pořádková rota. Mají rozkaz: zajmout, ne zabíjet, minimalizovat veřejný rozruch.
+
+🧭 Složení zátahu (8–10 mužů)
+
+1 × velitelský seržant (vedení a rozhodování)
+
+2 × ticho-specialisté (stealth/strážní důvody — mohou být propuštěné z městské hlídky nebo městská žoldnéřská dvojice s dovedností v tzv. „skrytých vstupech“)
+
+4 × píkerníci / městští kopiníci (vypomoc pro pevné zajištění a přenesení, možnost použití ne-smrtící síly)
+
+1–2 × „zajistitelé“ (muži s háky, provazy, sítěmi, klíči)
+
+(volitelně) 1 × kušník krycí na střeše/okně pro případ výstřelu/útěku
+
+Většina v civilním oděvu k maskování, ale se skrytou výzbrojí.
+
+Výzbroj / pomůcky
+
+sítě, obušky, háky, provazy, klíče/open-lock sady, blanket (pro tlumení), pytle na ruce, tichošlápkové boty
+
+1–2 vózy / kočáry připravené k rychlému odvozu
+
+trubka / tiché znamení (dva klepnutí = akce, jeden = odchod)
+
+(volitelné) malý „bezvýbušný dým“ — Fenwerův dýmový extrakt v malé dávce pro zakrytí / dezorientaci (pokud máš tuto položku v kampani)
+
+Plán akce — krok za krokem
+Fáze 0 — příprava (30–60 min)
+
+Průzkum: zjistit přesné ubytování Igora (hostinec: patro X, okno na dvůr).
+
+Identifikace vchodů/výstupů: schody, okno, sousední střecha.
+
+Čas: zvolit brzkou noc (po půlnoci) nebo před úsvitem → méně hlídek, občanů.
+
+Rozdělení rolí: 2 tiše vstoupí dovnitř (oknem nebo zadním vchodem), 4 vytvoří blokádu v chodbě, 1 kryt zvenku/na střeše, seržant řídí.
+
+Fáze 1 — tiché vniknutí / krytí (minuty)
+
+Tiše-specialisté se dostanou k oknu pokoje (střecha nebo zadní dvorek). Stealth check DC = 15 (dle hlučnosti nocí).
+
+Píkerníci zůstanou v chodbě a připraví překážkové bloky (studené provazy přes schody, hlášení stráží).
+
+Krycí kušník obsadí krytou pozici (střecha/okno) pro případ varování.
+
+Fáze 2 — vniknutí do pokoje (rychle; 1–2 min)
+
+Varianty vstupu:
+
+Tiše přes okno: Open/Climb Stealth DC 14 → vlezou, zajišťují dveře zevnitř.
+
+Zadním vchodem / klíčem: Lockpick DC 15 (pokud mají klíč), jinak Break-door Strength DC 16 (hluku více).
+
+Po vstupu: okamžitě zajišťují osvětlení (sfouknout svíčky, zatemnit okno), nasadí over-arm chvat na Igora (pokud spí) — Use Grapple/Pin DC 13 pro bezpečné znehybnění.
+
+Fáze 3 — zajištění a odvoz (5–10 min)
+
+Ihned nasazení pout a pytlů na ruce; ticho-specialista oznámí „zajato“ signálem.
+
+Seržant vydá rozkaz odvést Igorovo tělo ven zadním východem k připravenému vozu. Píkerníci drží pozice a kontrolují schody.
+
+Kušník hlídá střechy a okna, zda někdo nevolá na pomoc.
+
+Priorita: zadržet živého a minimalizovat rozruch
+
+Není povolena smrtící síla, pokud není bezprostřední ohrožení života stráží.
+
+Pokud Igor bojuje, cílem je neutralizovat (sítě, obušky, dusící hmaty), nikoli zabít.
+
+Mechanické checky / pravděpodobnosti (doporučení pro DM)
+Akce	DC / hod	Co se stane při selhání
+Tiše vylézt na střechu/okno	Stealth DC 15	Hluk → hostinský se probudí (hod na Perception DC13)
+Otevřít zadní dveře / zámek	Open Lock DC 15	1 kolo ztráty; pokud rozbijí, + alarm (Perception 12)
+Znehybnění spícího Igora	Grapple/Pin DC 13	Selhání → může se probudit a dát varování (shout)
+Znehybnění probouzejícího se Igora	Grapple DC 15 (náročnější)	Selhání → boj; seržant rozhoduje o brutálním zásahu
+Morálka / překonání sousedů (je-li vyrušen)	Crowd Morale Check (1d20+modifier)	Pokud vyšší než stráže → soused pomáhá / varuje dav

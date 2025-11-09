@@ -8,11 +8,11 @@ inteligence: 7 -1
 moudrost: 16 +2
 obratnost: 13 +1 (+2)
 odolnost: 18 +3
-charisma: 4 -2
+charisma: 4 -2 (15 +2)
 armor class: 22
-životů: 45 (24)
+životů: 45 (37)
 
-5568 stříbrných
+5036 stříbrných
 
 ještěří plátová zbroj s 12 wyverními šupinami (lepší pohyb ve vodě)
 štít +1
@@ -28,7 +28,6 @@ měch na vodu
 telefonní náušnice
 2x léčivý lektvar
 2x lektvar světla (30 minut svítíš jako pod kouzlem light)
-lektvar charisma set to 15 na 8 hodin
 Kouzelný kompas (ukazuje k destinaci, pak se 2 dny nabíjí na slunci)
 3 zlaté pruty à 1zl
 gobliní léčivý prášek (-1ž na člověka)
@@ -83,14 +82,16 @@ trpasličí pečetní prsten
 10 cechovních trpasličích zlatých mincí
 
 1:
-cure light wounds 2x
+detect magic
 inflict light wounds 2x
+cure light wounds
 2:
-vytělesnění
-amplify 15' radius
+spiritual hammer
 hold person
+amplify
 3:
-cure disease 2x
+blesk
+continual light
 
 dovednosti:
     Opevněný štít: Bonus +1 k AC při použití štítu.

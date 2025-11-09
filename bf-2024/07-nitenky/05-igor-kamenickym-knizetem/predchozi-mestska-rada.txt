@@ -1,0 +1,11 @@
+🏛 Městská rada Kamenice
+Jméno	Funkce / kompetence	Charakteristika a zájmy
+Mistr Badyán	První radní, faktický vládce města	Elegantní, mazaný a dokonale společensky obratný manipulátor. Ovládá obchod s kamenickým kamenem, stavební zakázky a výběr daní. Nenávidí otevřené konflikty, vše řeší přes intriky a loajalisty. Udržuje si síť informátorů.
+Kníže pán (Václav z Kamenice)	Formální vládce města	Slabý, nerozhodný aristokrat. Miluje lov a dvorské ceremonie. Veškerou politiku nechává na Badyánovi. Udržuje si jen minimum osobní autority skrze tradici.
+Bernard Šafář	Mistr cechu stavitelů a architektů	Starší, vážný muž, technik tělem i duší. Nenávidí korupci, ale nemá odvahu proti ní vystoupit. Badyán ho drží v šachu skrze dluhy a výhodné zakázky.
+Líza Měchová	Cechmistryně obchodníků a zásobování	Silná, rázná žena kolem padesátky. Vede sklady obilí a zásobování města. Praktická, nemá ráda magie ani „umělecké řeči“. Dělá, co je výhodné pro její cech — loajální Badyánovi, dokud to přináší zisk.
+Rudolf Kameník	Velitel městské stráže	Mladší, ctižádostivý, loajální Badyánovi. Vděčí mu za jmenování. Přísný, ale spravedlivý ke svým mužům. Má slabost pro pořádek — bez ohledu na to, čí pořádek to je.
+Otmar Zevlík	Mistr mincovny a výběrčí daní	Nervózní, upjatý úředník, který nenávidí chyby. Má rád kontrolu a čísla. Málo odvahy, ale mimořádně přesný. Drží účetní záznamy i o Badyánových „vedlejších příjmech“ — a Badyán to ví.
+Sestra Mirela	Zástupkyně církve Rovnováhy sil	Klidná, asketická, působí jako Badyánův protiváhový morální hlas. Zásadová, ale odtržená od reality města. Ostatní radní ji berou jako nutnou formalitu kvůli lidu.
+Norbert Gluch	Zástupce řemeslnických cechů (kováři, tkalci, pivovarníci)	Upovídaný, navenek přátelský muž. Intrikán nižší úrovně, který se snaží hrát na všechny strany. Někdy prodává informace stráži, jindy kupcům.
+Magistra Alvína	Městská písařka a správkyně knih	Starší elfka, přesná a zdrženlivá. Pamatuje tři generace knížat. Nezapojená do moci, ale ví o všem. Neutralita z ní dělá užitečný kontakt, pokud ji někdo dokáže přesvědčit.

@@ -1,10 +1,10 @@
-Zde je návrh vedlejšího úkolu od Ellarian Vítrunes, který zahrnuje magii, záhady a zapojení hráčů do prostředí Temnohvozdu:
+Zde je návrh vedlejšího úkolu od Aurelie Vítrunes, který zahrnuje magii, záhady a zapojení hráčů do prostředí Temnohvozdu:
 Vedlejší úkol: "Runy Temného pramene"
 Zadání úkolu:
 
-Ellarian vysvětluje, že magická rovnováha Temnohvozdu byla nedávno narušena v oblasti zvané Temný pramen – malá, odlehlá tůň v hlubinách lesa, kde se sbíhají prastaré magické proudy. Něco způsobilo, že magická energie z tohoto místa uniká a negativně ovlivňuje okolní les.
+Aurelia vysvětluje, že magická rovnováha Temnohvozdu byla nedávno narušena v oblasti zvané Temný pramen – malá, odlehlá tůň v hlubinách lesa, kde se sbíhají prastaré magické proudy. Něco způsobilo, že magická energie z tohoto místa uniká a negativně ovlivňuje okolní les.
 
-Ellarian podezřívá, že někdo poškodil ochranné runy kolem pramene, což narušilo jeho rovnováhu. Hrdiny požádá, aby runy znovu aktivovali, než škody způsobí větší chaos.
+Aurelia podezřívá, že někdo poškodil ochranné runy kolem pramene, což narušilo jeho rovnováhu. Hrdiny požádá, aby runy znovu aktivovali, než škody způsobí větší chaos.
 Cíl úkolu:
 
     Najít Temný pramen – místo je vzdálené asi hodinu cesty od Srdce Temnohvozdu.
@@ -37,7 +37,7 @@ Magická bytost:
 
 Odměna za splnění úkolu:
 
-    Ellarianina vděčnost:
+    Aureliina vděčnost:
         Jedna identifikace předmětu zdarma.
         Svitky kouzel s 25% slevou.
     Magický předmět z pramene:
