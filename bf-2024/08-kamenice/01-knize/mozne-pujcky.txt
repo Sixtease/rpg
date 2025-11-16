@@ -1,0 +1,84 @@
+Perfektní otázka — tady se propojuje politika, ekonomika i Igorova osobní síť kontaktů. Níže máš přehled realistických možností půjčky podle **tří hlavních zdrojů**, které má Igor po ruce, a podle **současné pověsti Kamenice (nízká důvěra, ale změna režimu)**.
+
+---
+
+## 🪙 1️⃣ Možnost: **Branka – trpasličí banka (Benke a spol.)**
+
+### Kontext
+
+* Branka je obchodní metropole, kde **trpasličí bankovní systém** založený na **fyzických a šifrovacích ověřeních** (bez magie) už má své místo.
+* Benke, mladá vynálezkyně, má **osobní vztah k Igorovi** a respektuje ho.
+* Trpaslíci sledují stabilitu peněz a návratnost, ne emoce. Pro ně je důležité, že Igor je klerik (důvěryhodnost).
+
+### Nabídka (reálné parametry)
+
+| Položka                | Hodnota / popis                                                                                                                 |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Max. výše půjčky**   | 25 000 – 30 000 stříbrných                                                                                                      |
+| **Zajištění**          | městská pečeť Kamenice + osobní záruka knížete + depozit trpasličí pečeti Benke (záruka důvěry)                                 |
+| **Úrok**               | 6 % ročně (vynikající podmínky – běžně 10–12 %)                                                                                 |
+| **Splátkový kalendář** | 5 let, splatnost ročně (možno odložit první rok)                                                                                |
+| **Podmínky**           | město musí vést transparentní účetní knihu pod dohledem trpasličího auditora                                                    |
+| **Reputační efekt**    | okamžité zvýšení kreditu – ostatní obchodníci začnou znovu Kamenici půjčovat (asi +10 000 sm sekundárního kapitálu během roku). |
+
+💡 *Komentář:*
+Toto je nejlepší a nejčistší varianta. Igor může použít osobní vazbu s Benke jako záruku, že půjčka půjde „na obnovu obchodu a chleba“.
+Trpaslíci nechtějí město vlastnit – chtějí, aby prosperovalo, aby jejich systém (a tím i reputace Benke) získal prestiž.
+
+---
+
+## 🌲 2️⃣ Možnost: **Temnohvozd – elfí obchodní konsorcium**
+
+### Kontext
+
+* Elfové z Temnohvozdu mají silný zájem na ochraně stezky a rovnováze sil v regionu.
+* Po předchozím incidentu s pokusem o zkrácení stezky jsou **nedůvěřiví**, ale **Nina** je elfka a může být prostředníkem.
+* Elfové obvykle nepočítají úrok v penězích, ale v **koncesích a službách**.
+
+### Nabídka
+
+| Položka              | Hodnota / popis                                                                                                                        |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Max. výše půjčky** | 10 000 – 15 000 stříbrných                                                                                                             |
+| **Zajištění**        | smlouva o ochraně obchodníků v hvozdu, výsadní práva pro elfské karavany                                                               |
+| **Úrok**             | nulový, ale „úrok“ v naturáliích – 5 let výsad na obchod s dřevem, léčivy a magickými surovinami (ztráta pro město cca 2 000 sm ročně) |
+| **Podmínky**         | záruka bezpečí pro elfy cestující přes kamenické území, nesmí se znovu budovat zkracovací cesta bez svolení rady Temnohvozdu           |
+| **Reputační efekt**  | posílení vztahů s elfy, ale možné napětí s trpaslíky (dřevěné zboží konkuruje kovovým produktům).                                      |
+
+💡 *Komentář:*
+Tato půjčka je víc diplomatická než finanční. Výhodná z hlediska úroku, ale politicky svazující.
+Pro Igorovu vládu může být výhodné **spojit obě půjčky – trpasličí na rekonstrukci, elfí na zboží**.
+
+---
+
+## ⚖️ 3️⃣ Možnost: **Kombinovaný model – Branka + Temnohvozd**
+
+Pokud Igor jedná chytře (což jeho povaha dovoluje), může spojit obě sítě:
+
+| Parametr                 | Kombinovaný efekt                                                                                                                                     |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Celkový objem půjčky** | až **40 000 stříbrných** (25k trpaslíci + 15k elfové)                                                                                                 |
+| **Efektivní úrok**       | cca **4 % ročně** (po započtení elfí bezúročné části)                                                                                                 |
+| **Zajištění**            | kombinované – městská pečeť, zástava doménního majetku, obchodní výsady                                                                               |
+| **Splatnost**            | 5–6 let, s odkladem první splátky (1 rok „milost“)                                                                                                    |
+| **Politický efekt**      | Kamenice se stane *uzlem mezi trpasličími bankami a elfským obchodem* → dlouhodobý ekonomický růst, ale Igor musí udržet rovnováhu mezi oběma rasami. |
+
+---
+
+## 🧾 Dopad na aktuální rozpočet
+
+Pokud Igor získá alespoň 25 000 sm od trpaslíků:
+
+* **Hotovostní rezerva** stoupne z 27 000 na ~52 000 sm.
+* Pokryje:
+
+  * žold (6 000),
+  * částečné splacení dluhů cechům (10 000),
+  * obilní fond (8 000),
+  * rezervu na opravy mostů (5 000),
+  * a zůstane mu 20 000 jako provozní kapitál.
+    => město může přežít 6–8 měsíců bez dalších půjček.
+
+---
+
+Chceš, abych ti teď **modelově spočítal**, jak by vypadal **rozpočet města po uzavření této půjčky** – tedy *verze „po záchranném balíčku“*, včetně změny cash flow a reputačního efektu?

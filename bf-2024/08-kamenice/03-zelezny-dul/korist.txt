@@ -1,0 +1,164 @@
+Jasně — tady máš **přehlednou tabulku kořisti a odměn**, rozdělenou podle jednotlivých míst v dungeonu.
+Je to připravené tak, aby to bylo:
+
+* realistické,
+* užitečné pro dobrodružství,
+* tematické (železo, duchové, runy),
+* a zároveň **zábavné pro hráče** — každá postava najde něco pro sebe.
+
+Nepřidávám žádné přehnané magické předměty, jen věci, které v tvém světě dávají smysl a mohou být **dál příběhově užitečné**.
+
+---
+
+# ⭐ KOŘIST PODLE LOKACÍ
+
+---
+
+## 🌲 **0. Milíře a lesní okolí**
+
+### Kořist (drobnosti):
+
+* **3–12 stříbrných** v drobných úsporách dlužníků (pokud je přijmou)
+* **Balík kvalitního dřeva** (ceněné v Kamenici)
+* **Uhlířský hák** (může být improvizovanou zbraní, nebo užitečný v dole)
+
+*(Tohle je spíše atmosférická drobnost, ne hlavní loot.)*
+
+---
+
+## 🏚 **1. Tábor horníků**
+
+### 1A. Sklad nářadí
+
+* **Kvalitní hornický krumpáč** (může mít +1 na odstraňování závalu / kopání, ne bojově)
+* **Železné klíny** (použitelné jako hřeby, háky, improvizované zbraně)
+* **Dřevěná bedna s olejem a dvě lampy**
+* **Zbytky trpasličích nářadí** (možné prodat nebo použít)
+
+### 1B. Ubikace
+
+* **Medailon patrona havířů** (není magický, ale při boji s nemrtvými poskytne jednorázový bonus k Turn Undead – „inspirační efekt“)
+* **Dřevěná truhlička se třemi stříbrnými prsteny** (rodinné dárky horníků)
+* **Staré směnové knihy** (hráči mohou zjistit staré detaily o provozu – flavor)
+
+### 1C. Lampárna
+
+* **Směnová truhlička** (užitečná jako pevná schránka)
+* **Železné žetony** (použitelné jako klíče/artefakty při rituálu – mohou mít symbolickou cenu)
+
+---
+
+## 🔥 **2. Vysoká pec – u golema**
+
+*(hlavní fyzická kořist + boss loot)*
+
+### U pecní plošiny:
+
+* **2–4 kusy předtaveného železa (blooms)** – každý má hodnotu cca 40–60 stříbrných
+* **Zlomené železné nástroje**, které lze roztavit → cca **20 stříbrných v kovu**
+* **Trpasličí žáruvzdorná rukavice** (jediná; dává výhodu na manipulaci s horkými předměty)
+* **Měch s trpasličí konstrukcí** (lze opravit; hodnota u řemeslníka)
+
+### Na těle golema (po zničení / usmíření):
+
+* **Runové jádro** (malý kovový monolit):
+
+  * ne magický, ale **má hodnotu jako trpasličí artefakt** (200+ stříbrných)
+  * může sloužit jako klíč k jinému trpasličímu stroji
+  * nebo může být *zakázaným předmětem*, který chce někdo z Branky
+
+*(Tohle je nejcennější fyzická věc.)*
+
+---
+
+## ⛏ **3. Podzemní důl – běžné komory**
+
+### 3A. Hlavní štola
+
+* **Ztracený měšec** (5–10 sm)
+* **Nástroj se zbytkem rudy** (analýza → naznačí bohatou žílu)
+
+### 3B. Dílna (kde golem vznikl)
+
+* **Zlomená trpasličí runová dláta** (hodnota 50 sm)
+* **Nákres staré konstrukce pece** – může být později užitečný pro rekonstrukci
+* **Drobná trpasličí pečeť** (možné identifikovat u Benke → vede k dalšímu questu)
+
+### 3C. Cisterna
+
+* nic cenného krom vody, ale:
+* **fosforeskující houby** – magická přísada (hodnota 20–30 sm)
+
+### 3D. Těžební komora I
+
+* **zbytek železné žíly** (mohou vysekat 1–2 kusy → každý 30 sm)
+* **Zlomený amulet předáka** (součást rituálu)
+
+### 3E. Těžební komora II (u závalu)
+
+* **Kostry horníků s osobními věcmi** (5–7 drobností: nožík, stříbrné knoflíky, tabatěrka)
+* **Ztracený měch s kladivem** (cenný jako nářadí)
+
+---
+
+## ⚰ **4. Pohřebiště – speciální kořist**
+
+### 4A. Předsíň hrobky
+
+* **Železné fibuly** dávné kultury (50 sm)
+* **Starožitný válečnický bronzový náramek** (40 sm)
+* **Runová varovná tabulka** (lore item)
+
+### 4B. Kostnice
+
+* V hrobech může být:
+
+  * **starý válečný nůž** (rezavý, ale historicky cenný – 25 sm)
+  * **stříbrná spona**, symbol bojovníků Železa
+  * **kost pána rodu Brannů** (jen lore, není kořist pro hráče)
+
+### 4C. Posvátná komora (hlavní odměna)
+
+* **Železný medailon rodu Brannů** (magicky pasivní, ale duchovně významný → může dát jednorázový bonus na usmíření nebo Turn Undead)
+
+* **Válečnický meč předáků rodu Brannů**:
+
+  * starodávný, těžký
+  * ne magický, ale **mistrovsky kovaný**
+  * hodnota: 120–150 sm
+  * může být později „probuzen“ (možnost budoucího upgradu)
+
+* **1 truhlička pohřebních obětin**:
+
+  * 3–5 stříbrných sošek (hodnota 30 sm každá)
+  * železné votivní mince
+  * tkaný pás (ceremoniální, hodnota 20 sm)
+
+### 4D. Tajný výklenek
+
+Něco speciálního, volitelně podle směru kampaně:
+
+Možnosti (vyber si jednu):
+
+* **Stará železná runová tabulka**, kterou chce Benke (quest hook)
+* **Stříbrné jablko** (symbol moudrosti jejich předků – jen estetická cena, 60 sm)
+* **Trpasličí odlitek ze staré slitiny** (100 sm, nebo klíč k něčemu později)
+* **Zlomený hrot kopí Vlčího krále** (přímá vazba na rytinu – může navazovat na budoucí příběh)
+
+---
+
+# ⭐ NEJCENNĚJŠÍ PŘEDMĚTY (souhrn)
+
+* **Runové jádro golema** – 200+ sm
+* **Meč rodu Brannů** – 120–150 sm
+* **Truhlička s pohřebními obětinami** – cca 120–150 sm
+* **2–4 železné blooms** – 160–240 sm celkem
+* **Trpasličí runová tabulka (tajný výklenek)** – 100+ sm
+* **Fibuly a bronzové artefakty** – cca 100 sm dohromady
+* **Železná ruda a šrot** – cca 80–100 sm
+
+Celkově mohou hráči odnést cennosti za cca **600–1000 stříbrných**, což je **silná odměna**, ale ne příliš velká na to, aby narušila ekonomiku kampaně — perfektní pro první společné dobrodružství.
+
+---
+
+Chceš kořist ještě **víc tematizovat podle postav** (např. něco speciálního pro Ninu, Pupíka nebo Bárta), nebo to necháme takto obecné?

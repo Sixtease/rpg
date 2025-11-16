@@ -1,0 +1,193 @@
+Jasně — dáme si **stručný, ale přesný rozbor**, jak *skutečně* fungovaly železné doly v předindustriální době (cca vrcholný/povýšený středověk).
+To ti poskytne skvělý základ pro realistický layout tvého dungeonu.
+
+---
+
+# ⭐ JAK VYPADALY PŘEDINDUSTRIÁLNÍ ŽELEZNÉ DOLY
+
+## 1️⃣ Kde se železo těžilo
+
+Nejčastější zdroje železa:
+
+### **A) Žilná železná ruda (hematit, magnetit, siderit)**
+
+— klasické podzemní doly do skály.
+
+### **B) Bahenní ruda (močálová, lužní)**
+
+— sbírala se v mělkých jámách, často spíš „kopaná“, ne ražená.
+
+Tvůj dungeon bude skoro jistě **typ A: žilný důl**, protože potřebuješ tunely a prostor.
+
+---
+
+## 2️⃣ Jak hluboké byly staré doly?
+
+Před 1500 byly doly zpravidla *mělké*, protože:
+
+* neexistovaly účinné pumpy na vodu,
+* větrání bylo obtížné,
+* těžba byla ruční.
+
+Hloubka většiny šachet: **10–50 metrů**, výjimečně 80–120 m.
+
+Tunely tedy nejsou nekonečné pukliny, ale spíše:
+
+* úzké chodby,
+* krátké šachty,
+* několik propojených komor.
+
+Perfektní pro hratelný dungeon.
+
+---
+
+## 3️⃣ Jak vypadal vchod do dolu
+
+### Typický vstup:
+
+* **šikmá štola** ražená do svahu,
+* nebo **svislá šachta** se žebříky (méně časté, náročnější),
+* lemovaná dřevohoří (výztuhy).
+
+Před vchodem bývalo:
+
+* **dřevěné stavení** pro horníky,
+* **místo pro třídění rudy**,
+* **odkládací plocha** pro hlušinu,
+* **vysoká pec / tavicí pracovna** nedaleko, protože ruda se vozila na kratší vzdálenost.
+
+U tebe: důl + pec na jednom místě = přesně správně.
+
+---
+
+## 4️⃣ Vnitřní uspořádání dolu
+
+### Typická struktura:
+
+1. **Hlavní přístupová štola**
+   – široká tak, aby prošel vozík.
+   – slight downwards: 5–10 % sklon.
+
+2. **Boční příčná chodba**
+   – tam se proniklo na samotnou žílu.
+
+3. **Komory (tzv. „dómy“) vyražené kolem žíly**
+   – rozšířené části, kde se ruda těžila.
+
+4. **Podpůrné výdřevy**
+   – kmeny, trámy, jednoduché stropy, někde zřícené.
+
+5. **Větrací šachty**
+   – občas propojené s povrchem malou vertikální dírou.
+   – skvělé místo pro pasti nebo překvapení.
+
+6. **Jízdní chodba / vozíková trasa**
+   – většinou jen jedna, velmi opotřebovaná, s kamenným či dřevěným žlabem.
+
+Celý komplex připomíná síť **krátkých chodeb s několika většími komorami**.
+
+---
+
+## 5️⃣ Bezpečnostní a provozní části
+
+Každý funkční důl měl:
+
+* **sklad nářadí** (krumpáče, klíny, lopaty),
+* **kůlnu s dřevem na výdřevy**,
+* **lampárnu** (zásoba loučí/olejových lamp),
+* **odpočívárnu**,
+* **doplňovací stanoviště pro vodu**,
+* **malou svatyni/kapličku** (patron horníků – v tvém světě ideální pro twist s pohřebištěm!).
+
+Všechny tyto části můžeš do dungeonu zapracovat.
+
+---
+
+## 6️⃣ Vysoká pec – jak fungovala a kde stála
+
+Staré pece nebyly dnešní „fabriky“ – byly to **velké, kamenné válecové šachty** s vnitřní komorou.
+
+Typicky:
+
+* výška: **3–6 metrů**,
+* šířka: **1,5–2 metry**,
+* prostor pro výheň (dmychadla, měchy),
+* pracovní prostor (platforma) kolem.
+
+Umístění:
+
+* obvykle **na povrchu**, ne přímo v dole,
+* často u proudu vody, kvůli pohonu dmychadel,
+* zásobování uhlím bylo zásadní (u tebe zatím nefunkční → smysluplné).
+
+U tebe bude pec:
+
+* stará, rozbitá, ale se zbytky rozžhaveného jádra,
+* místo, kde byl vytvořen golem,
+* kde došlo k narušení pohřebiště,
+* a kde bude závěrečný encounter.
+
+Perfektní centrální „boss arena“.
+
+---
+
+## 7️⃣ Jak se ruda zpracovávala
+
+* Ruda se drtila v kamenných žlabech.
+* Promývala se, aby se zbavila hlušiny.
+* V peci se tavila s dřevěným uhlím.
+* Vytavený *bloom* (houba kovu) se vytloukal a oddělovala se struska.
+* Polotovary putovaly ke kovářům.
+
+To vše generuje **dungeonovou estetiku:**
+
+* struska,
+* popel,
+* kyselé výpary,
+* zbytky svalenců kovu,
+* prasklé hliněné dmychadlo.
+
+---
+
+## 🎯 Shrnutí pro tvorbu tvého dungeonu
+
+Tvůj dungeon může realisticky obsahovat:
+
+### 🔹 Důl
+
+* hlavní štola (vstupní část),
+* boční chodby,
+* vytěžené komory,
+* závaly,
+* větrací šachty,
+* skladiště,
+* tichá kaple (ideální místo pro vazbu na pohřebiště),
+* hornické ubikace.
+
+### 🔹 Povrch / Pec
+
+* vysoká pec (hlavní boss aréna),
+* dílna (kde vznikl golem),
+* třídírna rudy,
+* struskové haldy,
+* skladiště dřeva,
+* lanový jeřáb nebo rumpál.
+
+### 🔹 Podzemní pohřebiště
+
+* stará hrobka narušená těžbou,
+* kostnice,
+* posvátný kmen / menhir,
+* místo, kde se rodí nemrtví.
+
+To ti dá krásně konzistentní prostor.
+
+---
+
+Pokud chceš, můžeme teď:
+
+🟢 1) **Navrhnout konkrétní layout** (půdorys: 3 úrovně – povrch, důl, pohřebiště),
+🟢 2) **Udělám ti ASCII mapu**,
+🟢 3) nebo ti připravím **seznam oblastí a typických encounterů**.
+
+Co zvolíš jako další krok?

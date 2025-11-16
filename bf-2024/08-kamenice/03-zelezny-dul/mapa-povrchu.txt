@@ -1,0 +1,123 @@
+Jasně — tady máš **ASCII mapu celého povrchového areálu**:
+milíře → lesní zóna → tábor horníků → vysoká pec → vstup do dolu.
+
+Mapu jsem navrhl tak, aby byla:
+
+* přehledná,
+* herně čitelná,
+* dobře použitelná za zástěnou,
+* logická a realistická (umístění pece vůči svahu, tábor v úpatí, milíře dál, aby kouř nekontaminoval rudu).
+
+---
+
+# ⭐ ASCII MAPA — POVRCHOVÝ KOMPLEX ŽELEZNÉHO DOLU
+
+**Legenda:**
+`#` = les / skála
+`t` = stromy
+`o` = milíře
+`M` = milíř (větší)
+`=` = cesta
+`^` = svah / vyvýšení
+`H` = hlavní tábor (ubikace)
+`S` = sklad / kůlna
+`L` = lampárna / kaplička
+`T` = třídírna rudy
+`P` = vysoká pec
+`V` = vchod do dolu
+`*` = objekty / ohniště
+`~` = struskové haldy
+`.` = volný terén
+
+```
+##########################  t t t  ############################
+#######################  t   o o   t  #########################
+#####################    t   M o   t    ########################
+###################       t   o     t       ####################
+###########  t t       o o   o   o   o       t t  #############
+##########    t      o    o      o    o         t  ############
+#########   t      o      o  (MILÍŘE)   o         t ###########
+######### t       o   o      o      o     o        t #########
+########           t       o      o     t            ########## 
+########                                             ##########
+###############################################################
+###################   = lesní cesta =   ########################
+###############################################################
+
+
+                 (Mírný svah dolů k táboru)
+                             ^ ^ ^
+                             ^ ^ ^
+                       ###################
+                       #   T TŘÍDÍRNA    #
+                       #  žlab, struska  #
+                       ###################
+                               |
+                    #######################
+                    #   S SKLAD NÁŘADÍ   #
+                    #######################
+                               |
+      ##################     ###################     ##################
+      #   H UBLIKACE   # --- #   L LAMPÁRNA     # --- #   OHNIŠTĚ *   #
+      ##################     ###################     ##################
+              |                      |                        |
+              |                      |                        |
+              |                      |                        |
+              |                      |                        |
+              |             #####################              |
+              |             #   P VYSOKÁ PEC    #              |
+              |             #   ~~~~~~ struska  #              |
+              |             #####################              |
+              |                       |                        |
+              |                       |                        |
+              |                 ^ ^ ^ | ^ ^ ^                  |
+              |                 ^ ^  V  ^ ^ ^                  |
+              |                 ^   VCHOD   ^                  |
+              |                 ^  DO DOLU  ^                  |
+              |                 ^ ^ ^ ^ ^ ^ ^                  |
+              |                                                 
+
+
+###############################################################
+###################   LES SMĚREM KE KAMENICI  #################
+###############################################################
+```
+
+---
+
+# ⭐ Vysvětlení rozmístění (stručné)
+
+## 🌲 **Milíře (horní část mapy)**
+
+* Umístěné v lese, 150–250 m od hlavního tábora.
+* Dávají atmosféru kouře a opuštěné činnosti.
+* Zde se schovává skupina dlužníků z Kamenice.
+
+## 🏚 **Tábor horníků (střed mapy)**
+
+* **Třídírna T**: žlab, drtička rudy.
+* **Sklad nářadí S**: ideální pro loot i stopy.
+* **Ubikace H**: rozbitá, plná osobních věcí bývalých horníků.
+* **Lampárna L**: obsahuje směnovou truhličku s žetony.
+* **Ohniště**: místo prvních stop, lze tu tábořit.
+
+## 🔥 **Vysoká pec P**
+
+* Dominantní strukturální prvek.
+* Stojí na mírném svahu nad táborem.
+* V okolí struska (~), popel, železné zbytky.
+* Tady se odehrává boss fight se železným golemem.
+
+## ⛏ **Vchod do dolu V**
+
+* Pod svahem od pece.
+* Dřevěný portál, koleje, průvan směrem dovnitř.
+
+---
+
+Pokud chceš, můžu teď udělat:
+
+* **ASCII mapu pohřebiště**,
+* nebo propojit všechny tři vrstvy (povrch + důl + pohřebiště) do jedné velké mapy,
+* nebo připravit **stat-blocky nepřátel**,
+* nebo rozpohybovat layout per encounter krok po kroku.

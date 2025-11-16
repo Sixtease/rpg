@@ -1,0 +1,102 @@
+Jasně. Níže máš „jak to funguje“ pro Kamenici: co je knížecí rozpočet, co je městská pokladna, odkud tečou peníze, jaké jsou běžné i krizové výdaje, a jak se to propojuje. Všechno je laděné na pozdně-středověký feeling a na tvé house rules (ceny ve stříbrných).
+
+# Jsou rozpočty oddělené?
+
+Ano, formálně **dva měšce**:
+
+1. **Knížecí dvůr (doménový rozpočet)** – příjmy a výdaje „pána Kamenice“ (dvořané, lovecká čeleď, reprezentace, doménové statky, soudní regálie atd.).
+2. **Městská pokladna** – samospráva města (ulice, mosty, brány, plat městské stráže, šatlava, chudinské a požární fondy, tržiště).
+
+V praxi se překrývají: v krizích město pomáhá dvoru a naopak (sdílené výdaje na obranu, žold, obilní rezervy). To odpovídá stavu Kamenice „po mobilizaci a zdražení potravin“ (bída, drahé jídlo, naverbovaní muži).
+
+---
+
+# Příjmy knížecího dvoru (z čeho žije kníže)
+
+**Pravidelné (doménové):**
+
+* **Renty z panství** (statky kolem města): naturální dávky přepočítané na stříbrné, tzv. **činže** (obilí, dobytek, ovoce/dřevo – Kamenice je známa dřevem a potravinami).
+* **Soudní a regální příjmy**: poplatky z vyšší spravedlnosti, pokuty, konfiskace (politicky citlivé).
+* **Mostné a mýto mimo městské hradby** (pokud most/trať drží knížecí doména, ne město).
+* **Pachtovní a koncesní poplatky** z knížecích monopolů (např. velký mlýn, loviště, rybniční práva).
+
+**Mimořádné / krizové:**
+
+* **Mimořádná berně** (donativa) na válku/obranu.
+* **Nucené půjčky** od cechů a bohatých měšťanů (s pečetěmi a kvitancemi).
+* **Válečná kořist/konfiskace** (rizikové, může poškodit legitimitu).
+
+---
+
+# Příjmy městské pokladny
+
+**Pravidelné (městské):**
+
+* **Tržní cla a mýta** (vstupní brány, trhy, překladiště).
+* **Poplatky a licence**: výčepní právo, jatka, váhy a míry, cechovní zkoušky, přidělení stánků, městské pečeti.
+* **Dům-daň / okenné / komínné** (jednoduché městské daně dle parcel a ohnišť).
+* **Pokuty z nižších deliktů**, zápisné, notářské a úřední poplatky.
+
+**Mimořádné / krizové:**
+
+* **Válečný příspěvek města na žold a zbroj** (převedený částečně dvoru).
+* **Fond drahoty** (nákup obilí a „levný chléb“ v bídě). Ten dává smysl po nedávné mobilizaci a zdražení jídla.
+
+---
+
+# Kdo o tom rozhoduje (zjednodušený governance)
+
+* **Kníže** podepisuje **doménové** rozkazy (žold dvorských družiníků, výpravy, dary a audienční dary).
+* **Městská rada** drží šňůrky **městské pokladny** (ulice, brány, žold městské stráže, údržba).
+* **Krizové výdaje**: společná dohoda (rada + kníže + velitelé), často rychleji prosazené přes velitele a purkmistra, aby se „neotálelo“.
+
+---
+
+# Výdaje (co to žere)
+
+**Knížecí dvůr:**
+
+* **Žold dvorské družiny a jízdních**; koně, kování, zbroj.
+* **Reprezentace a dvorské dary** (politický maziv).
+* **Správa domény** (úřední písaři, lovčí, šafáři; opravy dvorů a mlýnů).
+* **Výzbroj a polní zásoby** pro expedice mimo městské hradby.
+
+**Městská pokladna:**
+
+* **Městská stráž, brány, hlásky, zbrojnice** (žold, výstroj).
+* **Údržba**: hradby, mosty v městské správě, dlažby, kanalizace, vodárna.
+* **Správa práva a pořádku**: šatlava, biřici, malá soudní agenda.
+* **Veřejné zakázky** (smlouvy s cechy – v Kamenici politicky citlivé).
+* **Chudinské a ohňové fondy**, sanitární zásahy v drahotě.
+
+---
+
+# Mechanika peněz v praxi (jak to „teče“ ve hře)
+
+* **Evidence a kvitance**: platby stvrzované **pečetěmi** knížete / města; účetní knihy (u písařky radnice).
+* **Půjčky a směnky**: papírové listiny s městskou/knížecí pečetí; u větších částek depozitum u trpasličí banky či cechovní pokladny (v tvém světě fungují **nemagické ověřovací metody** – pečetě, „veřejné klíče“ a manuální kontroly razítek, což už známe z trpasličího bankovnictví v kampani).
+* **Krizové převody**: rada může **přesměrovat část městských příjmů** do knížecí kasy na žold; naopak kníže může **uvolnit obilí** ze svých dvorů do městských pekáren (politický kapitál).
+
+---
+
+# Co z toho plyne pro Igora (jako nového knížete)
+
+* **Má „svůj“ rozpočet** (doménu) a **spolu-rozhodování o městském** (přes politickou dohodu s radou).
+* **Stihnout stabilizační kroky:**
+
+  1. **Zrušit mimořádné berně postupně** (a tím získat lid),
+  2. **Zlevnit chléb** přes kontrolu obilí (dvorské sýpky → městské pekárny),
+  3. **Žold včas** (morálka stráží) – jinak hrozí rabování. Tyto priority dávají smysl vzhledem k nedávné bídě a verbování.
+
+---
+
+# Krátká tabulka (rychlá reference pro hru)
+
+| Kapsa                | Hlavní příjmy                                                                      | Hlavní výdaje                                                     | Kdo schvaluje            |
+| -------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------ |
+| **Knížecí dvůr**     | renty z panství, soudní regálie, pacht monopolů, mýta mimo hradby, mimořádná berně | žold dvorské družiny, výpravy, dvorská správa, reprezentace       | kníže (a jeho rada)      |
+| **Městská pokladna** | tržní cla/mýto na branách, licence a poplatky, dům-daň, pokuty                     | městská stráž, brány/hradby, údržba města, chudinské/ohňové fondy | městská rada / purkmistr |
+
+> Pozn.: Kamenice je **svobodné město bez nadřazeného feudála**, takže **finální autorita** je uvnitř města: kníže + městská rada. V krizi vítězí ten, kdo **umí rychle zajistit žold a chléb** – v posledních událostech právě to bylo neuralgické místo (mobilizace, drahota).
+
+Chceš k tomu přidat i **konkrétní procedury** pro „krizový rozpočet“ (kdo, kdy, jak hlasuje; jaké pečetě; jaké postihy při zneužití), nebo rovnou **herní háčky** (jak může opozice zneužít berně/půjčky proti Igorovi)?

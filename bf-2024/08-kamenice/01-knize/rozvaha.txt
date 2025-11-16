@@ -1,0 +1,91 @@
+Skvělé, tady je **aktuální rozpočet Kamenice** v době, kdy Igor přebírá vládu — tedy **status quo** bez přijatých opatření. Čísla jsou odhadnutá v *stříbrných mincích (sm)* podle tvého ekonomického měřítka (zlaté → stříbrné).
+Kamenice má cca **10 000 obyvatel**, z nichž 1 000–1 200 jsou ozbrojení (stráž, milice, posádka).
+Rozpočet odpovídá ročnímu horizontu.
+
+---
+
+## 📊 Souhrn
+
+| Položka                                                  | Hodnota (v sm)     | Poznámka                        |
+| -------------------------------------------------------- | ------------------ | ------------------------------- |
+| **Celková aktiva (v hotovosti, zásobách, pohledávkách)** | **≈ 118 000 sm**   | viz níže                        |
+| **Celková pasiva (dluhy, závazky, dlužné mzdy)**         | **≈ 157 000 sm**   | schodek ≈ –39 000 sm            |
+| **Průměrné měsíční výdaje**                              | 13 000 – 14 000 sm | běžný provoz + vojenské náklady |
+| **Průměrné měsíční příjmy**                              | 9 500 – 10 000 sm  | pokles po ztrátě obchodu        |
+
+---
+
+## 💰 Aktiva (majetek a příjmy)
+
+### 1️⃣ Pevná aktiva
+
+| Zdroj                                    | Odhad           | Poznámka                                 |
+| ---------------------------------------- | --------------- | ---------------------------------------- |
+| Knížecí statky (nájmy a renty)           | 40 000 sm / rok | většina v naturáliích, nízká likvidita   |
+| Městské nemovitosti (mlýny, jatka, váha) | 20 000 sm / rok | část v pronájmu cechům                   |
+| Mostné a mýta                            | 12 000 sm / rok | propad –30 % po ztrátě obchodu s Brankou |
+| Cla a tržní poplatky                     | 15 000 sm / rok | menší objem, stagnující trh              |
+| Pokuty a soudní poplatky                 | 3 000 sm / rok  | relativně stabilní                       |
+| **Celkem (běžné roční příjmy)**          | **≈ 90 000 sm** | v normálním roce bývalo 120–130 tis.     |
+
+### 2️⃣ Likvidní zásoby
+
+| Položka                                                   | Odhad           | Poznámka                          |
+| --------------------------------------------------------- | --------------- | --------------------------------- |
+| Hotovost v městské pokladně                               | 9 000 sm        | zbytek po zbrojení                |
+| Knížecí pokladna                                          | 2 500 sm        | téměř prázdná                     |
+| Sýpky (obilí, mouka, sůl)                                 | ~10 000 sm      | 3 měsíce rezerv                   |
+| Konfiskovaný majetek po Badyánově síti (zatím neprodejný) | ~6 000 sm       | lze zpeněžit po právním vyjasnění |
+| **Celkem okamžitě využitelné**                            | **≈ 27 000 sm** |                                   |
+
+---
+
+## ⚖️ Pasiva (závazky a dluhy)
+
+### 1️⃣ Dluhy a závazky
+
+| Věřitel / oblast                              | Odhad dluhu     | Poznámka                      |
+| --------------------------------------------- | --------------- | ----------------------------- |
+| Cech stavitelů a kovářů (zbrojní zakázky)     | 35 000 sm       | splatnost uplynula, úroky 5 % |
+| Cech obchodníků (půjčky na obilí a dopravu)   | 22 000 sm       | zajištěno městskou pečetí     |
+| Městská stráž – dlužný žold                   | 6 000 sm        | za poslední 2 týdny           |
+| Milice – příslib odměn                        | 4 000 sm        | nespokojeni, čekají platbu    |
+| Dodavatelé obilí a surovin                    | 8 000 sm        | krátkodobé závazky            |
+| Soukromí věřitelé (lichváři, šlechta z okolí) | 12 000 sm       | vysoké úroky (10–15 %)        |
+| Nevyplacené mzdy úředníků                     | 2 000 sm        | 1 měsíc zpoždění              |
+| Soudní náklady (spory o zakázky)              | 3 000 sm        | hrozící pokuty                |
+| **Celkem**                                    | **≈ 92 000 sm** |                               |
+
+### 2️⃣ Dlouhodobé pasivní položky
+
+| Položka                                                   | Odhad           | Poznámka                          |
+| --------------------------------------------------------- | --------------- | --------------------------------- |
+| Válečné rezervy (závazky vůči cechům na doplacení zbroje) | 30 000 sm       | smluvně vázáno                    |
+| Poškození infrastruktury (mosty, brány, zbrojnice)        | 20 000 sm       | nutné opravy během roku           |
+| Úroky z dluhů a půjček                                    | 15 000 sm / rok | při zachování stávajících závazků |
+| **Celkem dlouhodobá pasiva**                              | **≈ 65 000 sm** |                                   |
+
+---
+
+## 🧾 Shrnutí hospodářské bilance
+
+| Kategorie                                 | Částka (sm)          |
+| ----------------------------------------- | -------------------- |
+| **Celková aktiva**                        | 118 000              |
+| **Celková pasiva**                        | 157 000              |
+| **Saldo (schodek)**                       | **–39 000 sm**       |
+| **Likvidní hotovost (pokladna + zásoby)** | ~27 000 sm           |
+| **Měsíční cash flow deficit**             | –3 000  až –4 000 sm |
+
+---
+
+## 🧩 Ekonomická diagnóza
+
+* **Krátkodobě:** město vydrží 2–3 měsíce bez příjmů, pak se zastaví platby a vypuknou nepokoje.
+* **Střednědobě:** dluhy u cechů a obchodníků mohou přejít do exekucí – hrozí zabavení knížecích statků.
+* **Morálka armády a cechů:** kritická – žold a platby jsou hlavní prioritou.
+* **Reputačně:** Kamenice má špatný kredit; nikdo ji teď nevěří půjčit bez záruky (jedině trpasličí banka by byla ochotná díky novému systému ověřování podpisů).
+
+---
+
+Pokud chceš, mohu ti teď vytvořit **rozpis měsíčního toku** (rozpad po položkách, kdy komu co „odtéká“ a co přitéká – vhodné pro simulaci ekonomické fáze vlády Igora). Chceš to v měsíčním nebo čtvrtletním rytmu?

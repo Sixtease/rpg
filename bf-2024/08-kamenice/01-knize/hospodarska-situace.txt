@@ -1,0 +1,84 @@
+Výborně — máš pravdu, že po sérii událostí (zkracování stezky skrz Temnohvozd, pletichy v Brance a přípravách na válku proti Adamovu) se Kamenice ocitla ve **finanční krizi**. Igor tedy nastupuje do úřadu ve chvíli, kdy je třeba **zajistit krátkodobou stabilitu a zároveň položit základ pro dlouhodobou prosperitu**.
+
+Níže máš rozbor rozdělený na čtyři vrstvy: **(1) výchozí stav rozpočtu, (2) krátkodobé krizové tlaky, (3) akutní opatření, (4) dlouhodobé strategie**. Všechno je zasazené do tvého reáliového rámce (Kamenice ~10 000 obyvatel, zbrojení, krize, samostatné město bez nadřazeného feudála).
+
+---
+
+## 1️⃣ Výchozí hospodářský stav
+
+### Rozpočtová rovnováha:
+
+* **Výdaje převyšují příjmy o 15–25 %** – kvůli zbrojení, zásobám a ztrátám z obchodu po zablokování cesty skrz Temnohvozd.
+* **Městská pokladna je zadlužená** – část prostředků šla na vojenské zakázky (zbroje, obilí, mzdy).
+* **Knížecí pokladna je prázdná**, Badyánova klika před pádem vyváděla peníze do falešných zakázek a úplatků.
+
+### Obyvatelstvo:
+
+* **Lidé jsou unavení a nedůvěřiví**. Po zbrojení zdražily potraviny (obilí +40 %, maso +60 %), drobní řemeslníci jsou bez zakázek.
+* **Cechy jsou nervózní** – chtějí, aby město zaplatilo dlužné zakázky.
+* **Stráž je nespokojená** – žold zpožděn o 2 týdny.
+
+---
+
+## 2️⃣ Krátkodobé tlaky (akutní krize)
+
+| Oblast        | Problém                                       | Riziko                         |
+| ------------- | --------------------------------------------- | ------------------------------ |
+| **Žold**      | chybí hotovost, část dlužná i milici          | rabování, neloajalita          |
+| **Potraviny** | špatná úroda, blokovaný dovoz z Adamova       | hlad, nepokoje                 |
+| **Obchod**    | Temnohvozd uzavřen, most přes Urgamu poškozen | propad trhů                    |
+| **Dluhy**     | město dluží cechům a bohatým obchodníkům      | soudní žaloby, ztráta kreditu  |
+| **Rezervy**   | knížecí sýpky a kasy prázdné                  | nelze reagovat na mimořádnosti |
+
+---
+
+## 3️⃣ Akutní opatření, která může Igor provést (herně zvládnutelná)
+
+Cílem je **3–6 měsíců stabilizace** bez vyvolání vzpoury.
+
+### 🔸 A. Rychlé příjmy
+
+1. **Zastavení vyplácení falešných zakázek** (Badyánův systém) – audit; okamžitý efekt: ušetří 10–15 % městského výdaje.
+2. **Dočasné zmrazení mezd úředníků rady** – symbolický krok, politicky účinný.
+3. **Rekvirace nelegálních skladů a přebytků obilí** – „záchranné opatření“. Dá chleba, ale nepopudí, pokud se vyplácí kompenzace.
+4. **Prodej části knížecího majetku** (šperky, zbytné koně, staré zbroje).
+5. **Půjčka od trpasličí banky** (z Benčina systému) – výhodnější než lichvářské půjčky, můžeš využít i dřívější kontakty Benke.
+6. **Mimořádné clo** na luxusní zboží – nepostihne chudé, ale přinese příjem.
+
+### 🔸 B. Rychlé úspory
+
+1. **Zastavení vojenských nákupů** – armáda přechází do udržovacího režimu.
+2. **Zlevnění chleba z knížecího obilí** – populistické, ale efektivní pro klid.
+3. **Dočasné omezení nočního hlídkování** – snížení žoldu o 5–10 %.
+4. **Sloučení úřadů** – zrušení zbytečných Badyánových „komisí“.
+
+### 🔸 C. Politicko-ekonomické tahy
+
+1. **Veřejný dekret o obnově pořádku a důvěry** – lidé musí věřit, že Igor situaci řídí.
+2. **Vyrovnání s cechy** – zaplatit jen 30 % pohledávek teď, zbytek ve směnkách potvrzených trpasličí bankou.
+3. **Podpora malých trhů** – zrušit poplatky za městské tržiště po dobu jednoho čtvrtletí → podpoří drobný obchod.
+4. **Otevření „chlebového fondu“** – kupuje obilí od rolníků za pevnou cenu; zajišťuje hladové městské vrstvy.
+
+---
+
+## 4️⃣ Dlouhodobé strategie (rok a více)
+
+1. **Obnova obchodní stezky** – přímé vyjednávání s Adamovem a obnova mostu přes Urgamu.
+2. **Stabilizace měny a důvěry** – využít trpasličí podpisový systém pro směnky, jak jsi popsal v rámci bankovní reformy.
+3. **Podpora exportu kamenických výrobků, dřeva a kovů** – vývoz, i když s menším ziskem, obnoví toky stříbra.
+4. **Veřejné práce** – rekonstrukce mostu, městské hradby, skladů – dá práci lidem a udržuje pořádek.
+5. **Obchodní dohody s trpaslíky a elfskými karavanami** – nové partnerství mimo Temnohvozd.
+6. **Zřízení městské záložny (na principu trpasličí banky)** – centralizace půjček a důvěry.
+
+---
+
+## 5️⃣ Dopad a herní možnosti
+
+* Igor může veřejně **svolat radu** a prezentovat „Pět bodů obnovy“ – ideální scéna k politické debatě nebo intrikám.
+* Každý krok může mít **okamžitý politický efekt** (např. Měchová – pro trhy, Zevlík – proti půjčkám, Šafář – pro investice, Mirela – pro morální podporu).
+* Můžeš vytvořit i **krizový rozpočet** – jednoduchou tabulku, kde herně přerozděluješ „body“ (např. 100 jednotek stříbra → kolik na vojsko, chléb, obnovu, diplomacii).
+
+---
+
+Chceš, abych teď z toho připravil **stručný krizový rozpočet v číslech** (např. městské příjmy/výdaje po týdnech nebo měsících – kolik může Igor utratit, co přinese daň, co půjčka)?
+Takový přehled by byl ideální pro hraní „vládnoucí fáze“.

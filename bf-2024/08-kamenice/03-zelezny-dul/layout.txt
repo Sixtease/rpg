@@ -1,0 +1,217 @@
+Níže máš **high-level rozmístění celého komplexu** – realistické pro předindustriální železný důl, herně přehledné a zároveň dostatečně modulární pro dungeon crawl.
+Popisuju:
+
+* **krajinu**,
+* **vstupní část**,
+* **budovy v povrchovém táboře**,
+* **kde leží tavicí pec**,
+* **kde jsou milíře** (a proč tam / proč ne),
+* **vztah k podzemnímu pohřebišti**.
+
+Tohle je *schéma*, ne mapa – přehled, na kterém postavíme detail.
+
+---
+
+# ⭐ HIGH-LEVEL LAYOUT – „Kamenický železný důl“
+
+## 🌄 0. Krajinný kontext
+
+* Důl se nachází **2–4 hodiny chůze** od Kamenice.
+* Je vyražený do **svahu nízkého kopce**, okraje **Temnohvozdu** nebo stepi.
+* Celý komplex má **přírodní roklinu** nebo menší údolí, které poskytuje větrné proudění → ideální pro pec.
+
+Také sem můžeš zasadit **staré pohřebiště** skryté pod lesní půdou za kopcem.
+
+---
+
+# 🏚 1. Povrchový hornický tábor (před dolem)
+
+Toto je první věc, kterou družina uvidí.
+
+### A) **Vchod do hlavní štoly**
+
+* U paty svahu, v dřevem vyztužené portálové konstrukci.
+* Dveře jsou rozbité nebo vyvrácené.
+* Koleje nebo kluzná dráha pro vozíky vedou ven.
+
+### B) **Drcírna / třídírna rudy**
+
+* Dřevěná přístavba u vchodu.
+* Žlab, ve kterém se ruda třídila.
+* Zkorodované nářadí, struska, haldy hlušiny.
+
+### C) **Sklad nářadí (malá kůlna)**
+
+* Krumpáče, klíny, lopaty → teď rozházené, některé *oživené* (možný mikro-encounter).
+
+### D) **Dřevěná barabizna – ubikace horníků**
+
+* Rozpadlá, vyhořelá nebo narušená.
+* Dobré místo pro první stopy po nemrtvých.
+
+### E) **Lampárna / malá kaplička**
+
+* Polorozbitá dřevostavba, uvnitř místo pro olejové lampy.
+* Kaplička patrona horníků (u tebe může být klíčová pro příběh pohřebiště).
+* Mohou zde být emoční stopy – listiny, modlitby, výstrahy.
+
+—
+
+Všechny budovy jsou **v jedné linii** podél úpatí kopce.
+
+---
+
+# 🔥 2. Tavicí pec (hlavní dominanta povrchu)
+
+Umístěná **na vyvýšenině** nebo **vedle prudkého svahu** na okraji tábora.
+
+### Vzhled:
+
+* Kamenná kuželovitá šachta 4–6 m vysoká.
+* Zrezivělý železný lem u ohniště.
+* Třmeny, plošinka pro přikládání, měchy (rozbité).
+* V blízkosti struskové haldy a kovová jeřábová konstrukce.
+
+### Funkčně:
+
+* Sem se soustředí finální výzva.
+* Uvnitř nebo poblíž se zrodil **golem** → má k místu „citový“ vztah.
+* Zbytky železa → okamžitá odměna.
+
+### Vztah k dungeonu:
+
+* **Horní část podzemí** vede z dolu přímo pod pec → ideální pro vertikální propojení.
+* Pec stojí nad místem, kde těžba narušila pohřebiště.
+
+---
+
+# 🌲 3. Milíře na dřevěné uhlí – mají tu být, nebo ne?
+
+## Varianta A – **Milíře poblíž dolu (doporučeno)**
+
+V reálu bývaly **poblíž místa těžby** nebo v lese nad dolem.
+→ *Pokud chceš přidat lokální „život“ a další encounters, dej je sem.*
+
+### Umístění:
+
+* O 150–300 m dál v lese.
+* Menší mýtina s 3–6 milíři.
+
+### Proč je to dobré:
+
+* dávají úvodní „hororové“ stopy (spálené dřevo, stopy, ohniště → zlověstné ticho),
+* vysvětlují, proč důl fungoval – uhlí bylo po ruce,
+* může zde být první střet s nemrtvými horníky (kteří se tudy snažili utéct),
+* milíře mohou být „rozhozené“ golema při jeho prvním záchvatu.
+
+## Varianta B – **Milíře jinde (méně práce, méně lokací)**
+
+Pokud chceš udržet dungeon kompaktnější, můžeš říct, že uhlí se dováželo z Adamova.
+
+### Co to dělá:
+
+* pec má v okolí méně dřevěné infrastruktury,
+* povrch je přehlednější,
+* oheň není ústředním motivem.
+
+** → Pro tvůj příběh o golema-pracantovi je varianta A silnější a atmosféričtější.**
+
+---
+
+# ⚰️ 4. Kde je staré podzemní pohřebiště
+
+Musí to být:
+
+* **logické** (k těžbě došlo blízko nebo skrz něj),
+* **mysticko-dramatické**,
+* a nesmí být příliš daleko od dolu.
+
+### Nejlepší umístění:
+
+* **Pod druhou úrovní dolu**, v hloubce, kam horníci prorazili poslední šachtou.
+* Nebo **za tavicí pecí**, kde je přirozená skála a dutina (vertikální průchod → boss prostor spojuje obě části).
+
+### High-level obraz:
+
+* Hráči jdou do dolu →
+* Probijí se nemrtvými →
+* Narazí na zával →
+* Ten vede do staré klenuté hrobky →
+* Tam je zdroj kletby →
+* Po návratu ven se utkají s golemem u pece.
+
+Ale není to lineární – můžeš to dát do větve loňku, aby hráči mohli „objevovat“.
+
+---
+
+# 🗺 5. Celkové high-level rozložení (textové schéma)
+
+```
+      [LES – MILÍŘE]
+             |
+        (mýtina)
+             |
+   ---------------------
+   |   STRUSKOVÉ PLOCHY   |
+   |     u pece           |
+   ---------------------
+             |
+      [TAVICÍ PEC]
+             |
+       (plošina)
+             |
+   ---------------------
+   |  TÁBOR HORNÍKŮ   |
+   | A – sklady       |
+   | B – ubikace      |
+   | C – třídírna     |
+   | D – kaplička     |
+   ---------------------
+             |
+        [VCHOD DO DOLU]
+             |
+      ↓ hlavní štola ↓
+             |
+   ---------------------
+   | DŮLNÍ KOMORY A   |
+   | BOČNÍ CHODBY     |
+   ---------------------
+             |
+      [ZÁVAL / PRŮRAZ]
+             |
+       [POHŘEBIŠTĚ]
+         (hrobka,
+        kostnice,
+        oltář)
+```
+
+---
+
+# 🎯 Shrnutí
+
+Tvůj dungeon bude mít tři hlavní zóny:
+
+## 1) Povrchový komplex
+
+→ milíře, tábor, sklad, kaplička, pec
+*Atmosféra: opuštěné, tiché, vyhořelé*
+
+## 2) Podzemní důl
+
+→ hlavní štola, boční komory, větrací šachty, zvuky kovu
+*Atmosféra: stísněné, klaustrofobní, kovové ozvěny*
+
+## 3) Staré pohřebiště
+
+→ klenutá hrobka, posvátné artefakty, duchový tlak
+*Atmosféra: mystická, tísnivá, nadpozemská*
+
+---
+
+Pokud chceš, další krok může být:
+
+* **ASCII mapa povrchu**,
+* nebo **návrh struktury podzemí (uzly + průchody)**,
+* nebo nejdříve **seznam typických encounterů v každé zóně**.
+
+Co bys chtěl jako další krok?

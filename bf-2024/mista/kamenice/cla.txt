@@ -1,0 +1,59 @@
+Skvělá otázka — a klíčová pro fungování kamenické ekonomiky.
+V Kamenici (a obecně ve městech s podobným statutem svobodného knížectví bez vyšší autority) se systém celnic a mýt historicky ustálil takto:
+
+---
+
+## ⚖️ Jak to funguje v Kamenici
+
+### 1️⃣ **Clo se vybírá při vjezdu do města**
+
+To je hlavní forma městského cla (tzv. **vjezdné clo** nebo *městské mýto*).
+
+* Vybírá se na **bránách** (nejčastěji 3 hlavní a 1 postranní brána).
+* Platí **každý vůz, který veze zboží za účelem obchodu** — tedy kupec, řemeslník, karavana.
+* Clo se počítá **podle druhu a hodnoty zboží**, případně hrubě podle váhy či počtu nákladních kusů.
+* Zboží pro osobní potřebu se běžně neproclívá (přivézt pytel mouky nebo sud piva pro sebe je bez poplatku).
+
+👉 Tohle clo tvoří **hlavní příjem městské pokladny z obchodu** — tedy i těch cca 15 000 sm ročně, které jsme uváděli dřív.
+
+---
+
+### 2️⃣ **Vnitroměstské clo – tržní poplatek**
+
+Pokud obchodník prodává **na tržišti nebo v cechovní hale**, platí městu navíc:
+
+* **Stánkové poplatky / stůlné** – drobný denní poplatek za prodejní místo.
+* **Vážné a měřné clo** – platí se při použití městských vah, mír a měr (za přesné zvážení nebo měření zboží).
+* **Skladné / přístavné** – za uložení zboží v městských skladech nebo překladištích (např. u řeky Urgamy).
+
+💡 To jsou **doplňkové zdroje příjmu** — především pro radnici, ne pro knížete.
+
+---
+
+### 3️⃣ **Výjezdní clo se nevybírá**
+
+* **Vývozní cla** by bránila obchodu, a proto se v Kamenici *nepoužívají*.
+* Pouze **některé zboží podléhá kontrole vývozu** (zbraně, strategické zásoby, obilí v době krize).
+* V těchto případech se neplatí clo, ale je třeba **získat vývozní povolení** (za správní poplatek 1–3 sm).
+
+---
+
+## 🏰 Shrnutí systému
+
+| Typ poplatku                                | Kde se vybírá            | Kdo platí                   | Příjemce                 |
+| ------------------------------------------- | ------------------------ | --------------------------- | ------------------------ |
+| **Vjezdní clo**                             | městské brány            | obchodníci, karavany        | městská pokladna         |
+| **Tržní poplatky (stůlné, vážné, skladné)** | tržiště, vážnice, sklady | obchodníci                  | městská pokladna / cechy |
+| **Vývozní povolení (jen výjimečně)**        | městská kancelář         | vývozci strategického zboží | knížecí pokladna         |
+
+---
+
+## 🎯 Důsledek pro hru
+
+* Každý karavanový příjezd = malý ekonomický impuls a event („brána se otevře – clo, kontrola, informace“).
+* Kníže může clo **zvýšit nebo snížit**, čímž ovlivní obchod (a náladu kupců).
+* Prostor pro intriky: **zvýhodnění spojenců**, **pašování**, **padělání pečetí**.
+
+---
+
+Chceš, abych ti připravil i **konkrétní sazebník kamenického cla** (např. kolik stojí vůz s vínem, sud piva, balík látky, pytel železa, kůže, obilí atd.) — takový, jaký by mohl mít celník u brány?

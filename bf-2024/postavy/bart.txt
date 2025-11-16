@@ -1,6 +1,6 @@
 Bárt aka Ronaldo elf bojovník
 level 7
-67211 / 128000 zk
+72211 / 128000 zk
 narozen 26.9., věk 16 let
 
 síla: 18 +3
@@ -10,9 +10,9 @@ obratnost: 16 +2
 odolnost: 10
 charisma: 9
 AC 20
-52 životů (52)
+52 životů (39)
 
-2791 stříbrných
+3991 stříbrných
 
 batoh
 měch na vodu
@@ -26,7 +26,6 @@ náramek léčení 1k4 jednou denně
 2x lektvar dýchání pod vodou
 0x lektvar neviditelnosti
 telefonní naušnice
-bambitka ozdobená zlatem a rubínem, 96 střel to hit 0 dmg 1k12+1
 Vílí houbový prášek (40 stříbrných, 5 použití)
     Když se rozsype do vzduchu, vyzařuje slabé světlo, které odhalí neviditelné tvory nebo magické aury v okolí 5 metrů po dobu 1 minuty.
     Má ale výraznou vůni a přitahuje lesní tvory.
@@ -42,6 +41,7 @@ plátová zbroj
 
 dlouhý luk (+4)
 50 šípů (1k6+3)
+bambitka ozdobená zlatem a rubínem, 96 střel to hit 0 dmg 1k12+1
 vystřelovací dýka (+5 / 1k4+4)
 pěst (+6 / 1k3+5)
 kop (+4 / 1k4+5)

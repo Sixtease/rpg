@@ -1,0 +1,161 @@
+Tohle je **výborný základ**, perfektně strukturovaný a zároveň herně pestrý.
+Tvůj návrh drží logiku místa, tempo dungeonu, a krásně kombinuje:
+
+* sociální interakce
+* horor
+* boj
+* mystiku
+* roleplay pro Igora
+
+Přesně taková pestrost dělá první společné dobrodružství zapamatovatelným.
+
+Níže ti popíšu **refinovanou verzi**, která zachovává všechno, co jsi vymyslel, ale doplní motivace, atmosféru a návaznosti, aby se to hrálo hladce.
+
+---
+
+# ⭐ FINÁLNÍ ROZVRŽENÍ NEPŘÁTEL, PŘEKÁŽEK A SCÉN
+
+# 1️⃣ MÍLÍŘE – banda bezdomovců / banditů
+
+**Typ střetu:** sociální, možná bojový.
+**Cíl:** umožnit družině začít dobrodružství *ne hned bojem*, ale vyjednáváním.
+
+### Kdo tu je:
+
+viz bezdomovci.txt
+
+---
+
+# 2️⃣ PEC – GOLEM (boss fight)
+
+**Typ střetu:** hlavní souboj celé sekce (epic).
+**Cíl:** největší hrozba místa, symbolický „strážce“ komplexu.
+
+### Chování:
+
+* neútočí ihned, pokud hráči nenaruší „pracovní prostor“,
+* reaguje na hluk, oheň a kov (zvuk zbraní vyvolá agresi),
+* posedlý rutinou: opakovat „směnové úkony“ (doplňování pece, kontrolování teploty, strážení).
+
+### Atmosféra:
+
+* pod nohama struska,
+* kovová pára,
+* zbytky konstrukcí.
+
+### Volba pro hráče:
+
+* boj,
+
+* zkusit odvolat ducha (Igorův cleric moment),
+
+* rozbít runové jádro,
+
+* odlákat ho,
+
+* zničit dřevěné obvody a podpěry (environment).
+
+* Golem může mít **dialogové útržky** (duch v něm):
+
+  * „Práce… nikdy nekončí…“
+  * „Zpátky k peci! Pozor na plyn!“
+  * „Směna nekončí! Neopouštějte pracoviště!“
+
+---
+
+# 3️⃣ TÁBOR – NEMRTVÍ HORNÍCI (sociální hororový střet)
+
+**Typ:** roleplay / puzzle.
+**Cíl:** jeden z vrcholů atmosféry – ukázat, že místní nemrtví *nejsou zlí v jádru*.
+
+### Co dělají:
+
+* potulují se a vykonávají *zautomatizované pracovní rutiny*,
+* mumlají směnové příkazy,
+* shání „předáka“ nebo „protistranu k převzetí směny“.
+
+### Jak je "porazit":
+
+Hrdinové mohou:
+
+* **vyplnit směnový protokol** (jeho torzo v lampárně nebo kanceláři),
+* **vyslechnout je a usmířit** (Igor!),
+* **odehrát scénu převzetí směny** („přebírám odpovědnost za pracoviště a propouštím vás z služby“),
+* nebo samozřejmě bojovat.
+
+### Odměna:
+
+* bezpečný průchod do dolu,
+* klíč / dokument, který vede k pohřebišti,
+* a silná emoční scéna → hráči si to zapamatují.
+
+---
+
+# 4️⃣ ŠACHTA – KOSTLIVCI, ZÁVAL, PASTI
+
+**Typ:** dungeon fight / hazard.
+**Cíl:** klasická část dungeonu.
+
+### Co tu je:
+
+* úzké chodby,
+* výdřeva,
+* praskající trámy,
+* kostlivci + oživené nářadí,
+* výpary,
+* větrací šachty.
+
+### Mechaniky:
+
+* kostlivci se zvedají po hluku,
+* některé jsou „zaražené“ klínem ve stěně (dá se obejít),
+* dřevěná výdřeva může spadnout (hazard, ne past).
+* je tu **pravděpodobně klíčová stopa**, která ukazuje na cestu k pohřebišti.
+
+---
+
+# 5️⃣ POHŘEBIŠTĚ – závěr příběhu
+
+**Typ:** rituální scéna / volitelný boss / roleplay.
+**Cíl:** vyřešit příčinu kletby → usmířit duše.
+
+### Možnosti pro hráče:
+
+* **Remove Curse** nebo vyšší cleric ritual od Igora,
+* **boj s mocným nemrtvým** (stín, revenant předáka, padlý šaman),
+* **vyjednávání**:
+
+  * duše chce „spravedlnost“,
+  * vrácení uloupeného artefaktu,
+  * přenos kostí na jiné místo.
+
+### Atmosféra:
+
+* zbytky pohřebních kůr,
+* menhir,
+* starý oltář,
+* studený vzduch,
+* bílé fosforeskující houby.
+
+---
+
+# ⭐ CELKOVÁ DYNAMIKA DOBRODRUŽSTVÍ
+
+* **Začátek:** sociální drama u milířů → hrdinové získají první informace.
+* **Povrch:** pohroma + hlavní boss (golem) – volitelné, jestli pec vyřeší hned nebo později.
+* **Tábor:** temné roleplayové scény s nemrtvými horníky.
+* **Důl:** bojová sekce.
+* **Pohřebiště:** rituální finále.
+
+Krásná, vyvážená kampaň pro 3–6 hodin hry (nebo 2 sezení), se silnou identitou.
+
+---
+
+## Chceš teď další krok?
+
+Můžu:
+
+1. **Rozpracovat každou scénu** (encountery, dialogové háčky, DC, pastičky),
+2. udělat **ASCII mapy** povrchu i dolu,
+3. napsat **plně použitelné BF staty** pro nemrtvé horníky, golema, duchy,
+4. nebo vytvořit **timeline historie dolu** (co se tam stalo krok za krokem).

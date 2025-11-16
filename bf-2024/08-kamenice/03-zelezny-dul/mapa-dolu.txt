@@ -1,0 +1,124 @@
+Jasně — tady máš **ASCII mapu samotného podzemního důlního komplexu**.
+Je to **kompaktní, přehledná, hratelná** mapa navržená přímo pro tvůj dungeon:
+
+* vstupní štola
+* boční komory
+* dílna s golemovými runami
+* cisterna
+* dvě těžební komory
+* větrací šachta
+* sklad
+* zával vedoucí k pohřebišti
+
+Mapa je dělaná tak, aby dávala **hornickou logiku**, ale zároveň měla **dobré tempo a volby**.
+
+---
+
+# ⭐ ASCII MAPA – DŮLNÍ KOMPLEX (PODZEMÍ)
+
+**Legenda:**
+`#` = skála
+`.` = průchozí chodba
+`=` = výdřeva
+`+` = dveře / portál
+`~` = voda
+`%` = suť / zával
+`O` = studna / větrací šachta
+`*` = zajímavý objekt (runa, oltář, mechanismus)
+
+```
+                             (K peci nahoru)
+                                   |
+                                   |
+                         #####################
+                         # 3B: DÍLNA / RUNY  #
+                         #   * kovadlina     #
+                         #   * run.krug      #
+                         #####################
+                                   |
+                                   |
+############################+############################
+# 2A: HLAVNÍ ŠTOLA           .  3A HLAVNÍ ŠTOLA         #
+#   široká chodba, koleje    .  (vstup z povrchu →)     #
+#============================.===========================#
+                             .
+                             .
+                 #############################
+                 # 3C: CISTERNA / voda  ~~~~ #
+                 #  kapky, ostré výdřevy     #
+                 #############################
+                             .
+                             .
+         ############################    ############################
+         # 3D: KOMORA I (žíla)      #    # 3G: STARÝ SKLAD         #
+         #  struska, ruda, kostliví #    #  lampy, dřevo, olej     #
+         ############################    ############################
+                             .                     |
+                             .                     |
+                             .                     O
+                             .                3F: VĚTRACÍ ŠACHTA
+                             .
+                     #############################
+                     # 3E: KOMORA II (ZÁVAL)     #
+                     #    %%%%%%%%       %%%%    #
+                     #    %  zával do pohřebiště #
+                     #############################
+```
+
+---
+
+# ⭐ POPIS MÍSTNOSTÍ (stručný, navázaný na mapu)
+
+### **2A. Hlavní štola**
+
+* dlouhá, široká, koleje
+* první slabí kostlivci
+* ozvěna kovu
+
+### **3B. Dílna s runami (golem byl sestaven tady)**
+
+* runový kruh
+* kovadlina
+* stopy po žáru
+* JEDEN důležitý předmět: znak směnové tabulky nebo předákův zápis
+
+### **3C. Cisterna**
+
+* kapající strop
+* trám, který může spadnout
+* odraz runy ve vodě
+
+### **3D. Těžební komora I**
+
+* odkrytá ruda
+* kostliví horníci
+* zezadu napojení na hlavní štolu
+
+### **3E. Těžební komora II – ZÁVAL**
+
+* sesuv kamení
+* pod sutí je vstup do pohřebiště
+* předákova kostra (chybějící žeton?)
+
+### **3F. Větrací šachta**
+
+* vertikální
+* ozvěny, průvan
+* duch padlého havíře jako předzvěst pohřebiště
+
+### **3G. Starý sklad**
+
+* olej, dřevo, rozlámané vozíky, lana
+* užitečné vybavení pro hráče
+
+---
+
+# ⭐ Pokud chceš…
+
+Můžu ti k tomu udělat:
+
+* **ASCII mapu pohřebiště**,
+* **ASCII mapu povrchu s pecí a táborem**,
+* nebo kompletní mapu všech tří vrstev v jednom bloku.
+
+Stačí říct.
