@@ -1,0 +1,142 @@
+Skvělé — tohle svět ještě víc stabilizuje a zpřesňuje. Podle těchto dvou důležitých upřesnění teď přepíšu a doplním **konečné charakteristiky měst**, aby celek působil:
+
+* logicky,
+* vnitřně konzistentně,
+* dobře hratelně,
+* s organickými konflikty, které sedí do tvého světa.
+
+---
+
+# 🟦 UPRAVENÉ PROFILY MĚST (verze respektující tvoje doplnění)
+
+Níže najdeš jen **upravené / znovunastavené** části. Města, která jsi odsouhlasil, nechám v té podobě, ve které fungují.
+
+---
+
+# 🟩 **ADAMOVICE – intelektuální, svobodomyslné, ale asertivní město s uhlím**
+
+Tahle změna je výborná: město, které je kulturní a intelektuální, ale zároveň má v rukou **strategickou surovinu – uhlí**, má přirozeně větší sebevědomí a politické ambice, aniž by sklouzlo k surové tyranii.
+
+### ✔ Nový, přesnější profil:
+
+**Charakter:**
+
+* město univerzit, filosofů, matematiků a kartografů
+* silná městská rada, která vystupuje civilizovaně a racionálně
+* zároveň ale **velmi sebevědomé** a přesvědčené, že by mělo hrát klíčovou roli v regionu
+
+**Ekonomika:**
+
+* **doly na hnědé uhlí** (v blízkých kopcích)
+* dílny na zpracování kovu a uhlí
+* vývoz uhlí do všech měst v okolí
+* peníze → knihy → školy → vzdělaná elita
+
+**Politika:**
+
+* ne agresivní, ale **expanzivně asertivní**
+* jejich případné ambice nejsou „dobýt region“, ale:
+  → sjednotit města do **„městského svazu s centrem v Adamovicích“**
+  → zavádět standardizované zákony (pod jejich vedením)
+  → kontrolovat tok uhlí jako prostředek vlivu
+
+Adamovice není zlá – je to **arogantní centrum vzdělanců**, které je přesvědčené, že „oni ví nejlépe, jak má region fungovat“.
+
+### ✔ Dopad na svět:
+
+* konflikt s Kamenicí bude **ideologický i mocenský**, ne jen surový
+* Bohůnky + Vikářov budou ve vleku Adamovic
+* Hrachov se bude cítit ohrožen ekonomicky, ne vojensky
+
+---
+
+# 🟩 **ELÉVTERY – horské svobodné město, bez konfliktu s elfy**
+
+Tahle úprava dává perfektní smysl. V kombinaci s geografií vzniká město podobné „alpským republikám“ nebo izolovaným goralským komunitám.
+
+### ✔ Nový, přesnější profil:
+
+**Charakter:**
+
+* drsné, chladné město na vysoké terase
+* obyvatelé jsou horalé, soběstační, rezervovaní
+* směsice slovansko-horského + lehce elfského vlivu
+* nízký počet obyvatel, ale vysoká odolnost a zručnost
+
+**Vztah k elfům:**
+
+* za hřebenem **málo elfů**, žádné velké komunity
+* minimální kontakt → minimální tření
+* Elévtery ví, že Temnohvozd je *posvátný prostor*, ale není to bližší soused
+
+**Ekonomika:**
+
+* horská pastva
+* lov
+* malé doly (měď, železo nízké kvality)
+* dřevo ze severního porostu
+
+**Politika:**
+
+* uzavření, ale ne nepřátelští
+* drží si odstup od velké politiky
+* vojensky nejsou hrozbou pro nikoho, ale jsou dobrými spojenci při obraně průsmyků
+
+**Dopad na region:**
+
+* Elévtery nejsou hybatelem velké politiky, ale konflikt může vzniknout:
+  → s Hrachovem o horskou stezku,
+  → s pašeráky, kteří se schovávají v horách,
+  → nebo kvůli tomu, že hřeben je ideální pro bandity.
+
+---
+
+# 🟩 **HRACHOV – potvrzený profil (stabilní)**
+
+Tady je vše v pořádku, jen přidám drobný detail pro snadnější herní využití:
+
+**Doplňující nuance:**
+
+* Hrachov je nejbohatší ze „západní trojice“ (Hraníčky–Elévtery–Hrachov)
+* historicky byl **hlavním uzlem**, ale ztratil tuto roli **po dokončení přeložky karavanní trasy přes Kamenici**, což v něm vyvolalo trvalý pocit křivdy
+* je to typické „první město, které o sobě věří, že by mělo vést“, ale nemá dost síly to skutečně prosadit
+
+To udržuje jeho roli v příběhu přirozenou.
+
+---
+
+# 🟩 **Další města – bez změny, ale nyní lépe zapadnou**
+
+* **Hraničky** – slabé, mírumilovné, potřebují pomoc.
+* **Donajník** – pohraniční město proti Galle.
+* **Vikářov** – duchovní/vzdělané centrum (dobré balancování Adamovic).
+* **Rousínov** – „neohrožuje ostatní“, hlídá ruský vliv.
+* **Zachodky** – skutečná hrozba z Rusi (to zůstává).
+* **Bohůnky** – vazalské, lehce manipulovatelné.
+* **Ústí** – přístav, kosmopolitní, pašerácké.
+* **Varna** – okno do Rusi, uzamčené a přísně regulované.
+
+---
+
+# 🟦 CO TEĎ?
+
+Teď, když máme:
+
+* stabilizované profily měst,
+* geopolitickou logiku,
+* charakter regionu,
+* i „svalové konflikty“ (Adamovice, Zachodky),
+
+můžeme udělat další krok podle toho, co chceš rozpracovat:
+
+### 1) **Diplomatickou mapu vztahů (kdo je s kým a proč)**
+
+### 2) **Startovní politickou rovnováhu (napětí, spojenectví, krize)**
+
+### 3) **Herní zápletky pro každé město (5–10 nápadů)**
+
+### 4) **Hlavní obchodní komodity mezi městy**
+
+### 5) **Regionální „quest huby“ a NPC z každého města**
+
+Stačí říct, kterým krokem chceš pokračovat.

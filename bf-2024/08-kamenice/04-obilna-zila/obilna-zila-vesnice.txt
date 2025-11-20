@@ -1,0 +1,207 @@
+Skvělé — můžeme tedy vytvořit **kompletní sadu konkrétních vesnic, statků a lokalit**, které dohromady tvoří *„Kamenickou obilnou žílu“* — oblast, kterou Kamenice ztratila ve prospěch Hrachova.
+
+Navrhnu to **geograficky, ekonomicky i herně** tak, aby:
+
+* to zapadalo do tvé mapy,
+* bylo to uvěřitelné,
+* rozdělilo to problematiku na několik nezávislých uzlů (každý s vlastním příběhem),
+* a Igor měl možnost postupného „znovudobývání“ statků — ne silou, ale správou a dobrou vůlí.
+
+---
+
+# 🌾 **Záplavová oblast mezi Kamenicí a Hrachovem**
+
+Podle tvé mapy je mezi Kamenicí a Hrachovem několik vodních toků a nížiny — ideální pro:
+
+* obilí (pšenice, žito),
+* len a konopí,
+* pastviny,
+* mlýny.
+
+Vymyslím zde **6 hlavních vesnic/statků** + **2 lokality**, kudy půjdou dobrodružné linie.
+
+Rozmístění respektuje:
+
+* blízkost k řece,
+* blízkost k mostům,
+* realističnost vodního hospodářství,
+* dopravní logiku.
+
+---
+
+# 🟫 **1) Dolní Brod**
+
+*— klíčová vesnice u brodu přes hlavní kamenickou řeku*
+
+**Typ produkce:** žito, len
+**Proč přešla pod Hrachov:**
+
+* Kamenická armáda seděla ve městě,
+* brod byl napaden bandity, Kamenice nereagovala,
+* hrachovští přišli první a zachránili statky.
+
+**Herní potenciál:**
+
+* brod je strategický → výborný prostor pro bitvy, sabotage, ochranu karavan
+* klíčový bod: kdo drží brod, drží polovinu obilné žíly
+* místní stařešina *pamatuje knížete, který slíbil most a nikdy ho nepostavil*
+
+---
+
+# 🟦 **2) Vrbany**
+
+*— vesnice na říční terase, ideální pro len a pastviny*
+
+**Typ produkce:** len, skopové
+**Proč přešla pod Hrachov:**
+
+* bývalý správce Kamenice násilně vybíral daně,
+* jedna rodina přišla o dům → přesídlila do Hrachova,
+* vznikla řetězová loajalita.
+
+**Herní potenciál:**
+
+* Vrbany jsou kulturně „na plotě“ – mohly by přejít zpět, pokud Igor nabídne lepší podmínky
+* hodně emocionální quest (spravedlnost pro neprávem zničenou rodinu)
+
+---
+
+# 🟫 **3) Lichorady**
+
+*— největší vesnice v oblasti, starý mlýn, panská kovárna*
+
+**Typ produkce:** obilí, mouka (dříve), nářadí
+**Proč přešla pod Hrachov:**
+
+* mlýn se po povodni zřítil → Kamenice neposkytla prostředky na opravu
+* Hrachov okamžitě poslal tesaře
+* mlýn dnes provozuje hrachovská rodina
+
+**Herní potenciál:**
+
+* možnost velkého příběhového questline: **„Postavit nový mlýn s Igorovou pečetí“**
+* mlýn je symbol loajality – kdo vlastní mlýn, vlastní vesnici
+* starý mlýn skrývá ruinu nebo dungeon po povodni
+
+---
+
+# 🟦 **4) Stříbrná Lada**
+
+*— nejvzdálenější vesnice směrem k Hrachovu*
+
+**Typ produkce:** ječmen, chmel, konopí
+**Proč přešla pod Hrachov:**
+
+* jediná vesnice, která formálně podepsala „ochrannou smlouvu“ s Hrachovem
+* pozemková kniha byla ukradena → žádná dokumentace, že je kamenická
+
+**Herní potenciál:**
+
+* právní quest: **získat zpět svědky, dokumenty, pečetě**
+* konfrontace s hrachovským úředníkem
+* místní sedláci jsou vystrašení, ale ne loajální
+
+---
+
+# 🟫 **5) Jezerná (dnes skoro opuštěná)**
+
+*— záplavová vesnice, kterou zasáhla velká voda*
+
+**Typ produkce:** dříve obilí a len
+**Proč přešla pod Hrachov:**
+
+* po povodni úplně vyklizena
+* hrachovští zde mají **sklady a sýpky**, protože prostor je rovný a vhodný
+* fakticky logistická základna Hrachova → přísná ochrana
+
+**Herní potenciál:**
+
+* obnovit vesnici (Igor jako obnovitel zničeného území)
+* hledání pozůstatků po povodni
+* hrachovští stráží sklady s agresivitou → prostor pro zátah, tajná jednání, sabotáže
+
+---
+
+# 🟦 **6) Malé Lhoty (tři drobné usedlosti)**
+
+*— roztahané statky na kraji lesa mezi Kamenicí a Hrachovem*
+
+**Typ produkce:** smíšené (obilí, kozy, len)
+**Proč přešly pod Hrachov:**
+
+* prostě zlomily přísahu, protože se bály banditů z bažin
+* hrachovská milice se tam objevila dřív než kamenická
+
+**Herní potenciál:**
+
+* malé, ale citlivé místo – snadno se znovu získá
+* ideální pro první Igorovu akci:
+  → sjednat ochranu,
+  → vyjednat daně,
+  → najít nové starosty vesnic
+
+---
+
+# ⭐ Dvě specifické lokality (ne vesnice):
+
+---
+
+## 🟧 **A) „Starý přívoz“**
+
+Původně kamenický převoz přes řeku, nyní hlídaný hrachovskou posádkou.
+
+* kdysi se přes něj vozilo obilí do Kamenice
+* dnes tam vybírá Hrachov clo
+* sedláci ho nesnášejí, protože je drahý
+
+**Herní potenciál:**
+
+* tichá sabotáž
+* tajná jednání
+* možnost obnovit převoz pod Kamenicí
+
+---
+
+## 🟧 **B) „Kamenický díl“ – ztracený lesní pozemek**
+
+Malý, ale symbolický pozemek:
+
+* původně patřil kamenické rodině (zapis v ukradené pozemkové knize)
+* Hrachov si ho přisvojil
+* slouží jako „pojistka“ k držení statků
+
+**Herně:**
+
+* klíč k obnovení hranice,
+* důkaz, že Hrachov manipuloval s dokumenty
+* osobní záležitost – může být spojena s rodem Igora
+
+---
+
+# 🌟 Celková struktura území (shrnutí)
+
+**Získané Hrachovem:**
+
+* Dolní Brod — strategický brod
+* Vrbany — sedláci chyceni mezi daněmi a bezpečím
+* Lichorady — mlýn + kovárna
+* Stříbrná Lada — právní ztráta
+* Jezerná — sklady, výnosný logistický prostor
+* Malé Lhoty — hraniční pás
+
+**+ 2 klíčové lokality:**
+
+* Starý přívoz
+* Kamenický díl
+
+To je dohromady **realistický počet** pro obilnou oblast: cca 5–7 vesnic + 2 strategické body.
+
+---
+
+# Pokud chceš, můžeme dál:
+
+* navrhnout **osady na mapě**,
+* dát každé vesnici **jedno razantní drama**,
+* vytvořit **konkrétní NPC** (starostové, rodiny, hrachovští úředníci, sedláci),
+* rozdělit to do fází **„získání zpět“ – právní – vojenské – sociální**,
+* nebo z toho vyrobit **dlouhodobou Igorovu kampaň**.

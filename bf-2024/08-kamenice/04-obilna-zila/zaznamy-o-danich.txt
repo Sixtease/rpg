@@ -1,0 +1,372 @@
+Výborná otázka — a zásadní, protože **chaotické daně** jsou jeden z hlavních důkazů o nekompetenci předchozí vlády, a pokud mají hrát roli v příběhu, musí existovat *někde, nějak, u někoho*.
+
+Níže ti dám **kompletní, logickou a historicky věrohodnou strukturu**, která přesně odpovídá tvé situaci:
+
+* zmatečná správa,
+* neschopný správce,
+* chybějící systém,
+* prostor pro manipulaci,
+* ale zároveň **existují důkazy**, které lze najít.
+
+---
+
+# 🟦 **JAK V KAMENICI FUNGUJÍ (A SELHALY) DANĚ**
+
+Ve středověkém/raně renesančním typu městské správy existovaly tři pilíře:
+
+1. **Ústní příkazy pána nebo jeho správce**
+2. **Písemné záznamy městských písařů**
+3. **Zápisy jednotlivých výběrčích / poddaných**
+
+Při chaosu předešlé vlády se tyto tři proudy **roztříštily**, takže:
+
+* někteří vybírali podle ústních nařízení,
+* jiní podle starých knih,
+* jiní si to tvořili za pochodu.
+
+To je přesně to, co chceš.
+
+Níže máš, kde všude jsou záznamy a jak se liší.
+
+---
+
+# 🟩 **1) „Velká účetní kniha daní“ (v Kamenici)**
+
+### 📍 *Kde je:*
+
+V radnici Kamenice, v malé kanceláři starého písaře Izydora („Staropéra“).
+
+### 📜 *Co obsahuje:*
+
+* staré sazby daní za 5–10 let (ještě relativně čisté),
+* zápisy o tom, kdo *měl* platit,
+* **NE však to, co lidé skutečně odevzdali** → to byla práce výběrčích.
+
+### 💡 *Problém:*
+
+Poslední dva roky jsou chaotické, neúplné, psané více rukama,
+velká část je **nečitelná nebo přepisovaná**.
+
+---
+
+# 🟩 **2) „Listiny o přechodných daních“ – *černé listy správce***
+
+### 📍 *Kde jsou:*
+
+v osobní truhle bývalého správce daní (ten neschopný, který to celé zpackal).
+Jeho dům je ve špatném stavu, ale truhla stále stojí.
+
+### 📜 *Co obsahují:*
+
+* jednostránkové příkazy „pro tento měsíc“ typu:
+  *„Lhota zaplatí dvojnásobek, dle příkazu knížete“*
+* poznámky o tom, komu dal výjimku,
+* chaotické změny sazeb,
+* dluhy, které nikdy nebyly vymáhány,
+* **některé listiny jsou podepsané padělanou pečetí**.
+
+### 💡 *Problém:*
+
+* jsou to spíš náčrty, ne oficiální dokumenty,
+* část je zcela neplatná, protože byly vydané jen „ústně“ a pak zpětně načmárané na papír.
+
+---
+
+# 🟩 **3) Ústní nařízení a „vzpomínky“ sedláků**
+
+Toto je extrémně důležité.
+
+Daně byly měněny tak často a neformálně, že mnoho sedláků vlastně:
+
+* **neví**, co mělo platit,
+* pamatuje si *jen nespravedlnost*,
+* a mají pocit, že Kamenice je „zdírala“.
+
+### 📜 *Kde se to uchovává:*
+
+V hlavách starostů a starších statkářů.
+
+### 💡 *Problém:*
+
+Ústní tradice je nepřesná → sedláci jsou naštvaní, ale neexistuje „důkaz“.
+
+---
+
+# 🟩 **4) „Knihy výběrčích“ – *terénní záznamy***
+
+Toto je zlato.
+
+Každá ztracená vesnice měla vlastního **výběrčího daní** (místního člověka — ne úředníka Kamenice).
+
+### 📍 *Kde jsou knihy:*
+
+V každé vesnici po jednom kuse (nebo u rodin bývalých výběrčích):
+
+* **Dolní Brod:** knihu má *Bohdan Brodský* (zamčenou v truhle).
+* **Vrbany:** knihu má *Irenej Šafář* (správce polí, který ví vše).
+* **Lichorady:** knihu ukradl *Mistr Mlejnek* (aby zakryl své machinace).
+* **Stříbrná Lada:** knihu spálil Panslav Juro — ale dcera Lenka má **pár stránek**.
+* **Jezerná:** kniha byla zničena povodní → ale Ešmera má **útržek**.
+* **Malé Lhoty:** neexistuje úplná kniha, jen **kusé zápisky sousedky Blanky**.
+
+### 📜 *Co obsahují:*
+
+* reálné dávky,
+* kdo kolik odevzdal,
+* kdo platil dvakrát,
+* jak se měnily sazby,
+* kolik obilí zmizelo po „záchraně“ hrachovskými.
+
+### 💡 *Problém:*
+
+Každá kniha je jiná → dohromady chaos.
+Ale když Igor získá VŠECHNY → dostane obraz finanční katastrofy.
+
+---
+
+# 🟩 **5) „Kazovy padělky“ – dokumenty vytvořené pro Hrachov**
+
+Kaz (mozek Hlubinářů) vytvořil:
+
+* falešné daňové potvrzenky,
+* falešné smlouvy o pachtu,
+* falešné prohlášení vesnic,
+* upravené hranice.
+
+### 📍 *Kde jsou:*
+
+* některé v rukou Hlubinářů,
+* několik u radních Hrachova,
+* část ukrytá ve **Šachtě u Tří Strun** vedle pozemkové knihy.
+
+### 💡 *Problém:*
+
+Na padělcích jsou **drobné chyby**:
+
+* špatné datum svátku,
+* nesprávná pečeť,
+* nesmyslný popis mezníků.
+
+To umožní Igorovi odhalit podvod.
+
+---
+
+# 🟦 **6) „Srovnávací kniha obilí“ – klíčový dokument s největším dopadem**
+
+Je to *městská účetní kniha* vedená cechem obilníků.
+
+### 📍 *Kde je:*
+
+V cechovním domě obilníků v Kamenici.
+(Naštěstí nebyla ukradena, protože byla považována za nepodstatnou.)
+
+### 📜 *Co obsahuje:*
+
+* seznam obchodních dodávek obilí z každé vesnice,
+* množství v sudech, korcích, ap.
+* **přesně zaznamenané, kdo jednal s Kamenicí a kdo přestal po převzetí Hrachovem**.
+
+Toto je pro Igorův případ BOMBA.
+
+Ukazuje totéž, co tvrdí sedláci:
+
+* „Když jsme byli kamenickí, makali jsme víc a měli méně drancování.“
+
+---
+
+# ❤️‍🔥 **HERNÍ ZÁVĚR**
+
+Až Igor všechny tyto záznamy spojí:
+
+* získá **právní důkaz** (velká kniha + útržky + padělky),
+* získá **morální důkaz** (svědectví sedláků),
+* odhalí **lež Hublinářů**,
+* a může předložit regionální radě měst **nezvratný obraz**:
+
+> „Statky nebyly ztraceny, byly ukradeny.“
+
+To je pro něj absolutní triumf.
+
+---
+
+# 🟦 CHCEŠ TEĎ:
+
+* vytvořit *„mapu pátrání po daňových knihách“* (kde co leží)?
+* udělat *detektivní dobrodružství* pro získání každé knihy?
+* vytvořit postavu starého správce, který vše zpackal?
+* nebo vykreslit *reakci Hrachova*, když Igor začne tahat věci na světlo?
+
+
+Skvělá otázka — a ano, je důležité to ujasnit realisticky.
+A dobrou zprávou je, že **ve středověku skutečně neexistoval jednotný systém evidencí v každé vesnici**.
+Ale zároveň **skoro všude existoval někdo**, kdo měl *nějakou* knihu nebo zápis.
+
+Níže ti dám **přesný, historicky věrný model**, který se dokonale hodí do tvého světa i do příběhu.
+
+---
+
+# 🟦 **JAK TO REÁLNĚ FUNGUJE: NE JSOU „ÚŘADY“ — JSOU „OSOBNÍ KNIHY“**
+
+Vesnice NEMĚLA úřad.
+Vesnice měla **jednotlivce**, který vedl evidenci:
+
+* starostu (rychtáře),
+* šafáře,
+* mlynáře,
+* nebo výběrce daní (lokální figura).
+
+A každý z nich měl **svoji vlastní osobní knihu, sešit, váček s listy**.
+
+To znamená:
+
+### ✔ neexistuje „archiv vesnice“,
+
+### ✔ existují „zápisy jednotlivých lidí“.
+
+To je pro hru skvělé, protože:
+
+* záznamy jsou roztříštěné,
+* některé jsou schované,
+* jiné spálené,
+* některé kradené,
+* některé ztracené při povodni.
+
+**To dějově krásně pasuje.**
+
+---
+
+# 🟩 **KDO VE VESNICI VEDE EVIDENCI DANÍ? (historická realita)**
+
+V zásadě existují 3 typičtí držitelé záznamů:
+
+---
+
+## 1️⃣ **RYCHTÁŘ / STAROSTA**
+
+(politický vůdce vesnice)
+
+Vede:
+
+* seznam poplatníků,
+* záznam o povinnostech (roboty, dávky),
+* zápisky o požadavcích pánů.
+
+Toto bývá **nejdůležitější lokální kniha**.
+
+---
+
+## 2️⃣ **ŠAFAŘ / SPRÁVCE POLÍ**
+
+(odpovědný za orby, osevy, sklizeň)
+
+Vede:
+
+* výnosy polí,
+* odhady sklizně,
+* kdo kolik dluží komu (mezi sedláky).
+
+V tvém světě typicky ten, kdo ví “skoro všechno”.
+
+---
+
+## 3️⃣ **VÝBĚRČÍ DANÍ**
+
+(ne městský úředník, ale místní pověřený člověk)
+
+Vede:
+
+* kolik kdo odevzdal,
+* kde je nedoplatek,
+* kdo platil dvakrát,
+* termíny výběru.
+
+Tyhle knihy jsou často:
+
+* **nejchaotičtější**,
+* nejporušenější,
+* nejvíc ohrožené krádeží.
+
+---
+
+# 🟩 **A KDO MÁ KNIHY VE TVÝCH KONKRÉTNÍCH VESNICÍCH?**
+
+Abychom to spojili s tvým světem:
+
+---
+
+# 🟫 **Dolní Brod**
+
+* **Stařešina Bohdan Brodský** má *rychtářskou knihu* v truhle.
+
+---
+
+# 🟦 **Vrbany**
+
+* **Irenej Šafář** má *šafařskou knihu* (výnosy, dávky).
+* Výběrčí zemřel → nikde není kompletní záznam.
+
+---
+
+# 🟫 **Lichorady**
+
+* *Výběrčí kniha* existuje → **ukradl ji Mistr Mlejnek** a schoval (aby zakryl podvody).
+* *Rychtářská kniha* shořela při povodni (náhoda / ne náhoda).
+
+---
+
+# 🟦 **Stříbrná Lada**
+
+* **Panslav Juro** spálil *rychtářskou knihu*,
+* ale **Lenka Jurová** má ukryté *útržky* (zapisovala si pod stolem).
+
+---
+
+# 🟫 **Jezerná**
+
+* všechna dokumentace zničena povodní,
+* jediný zbytek je *pomačkaný list*, který zachovala **Ešmera**.
+
+---
+
+# 🟦 **Malé Lhoty**
+
+* nikdy neměly oficiální knihu,
+* existují **zápisky sousedky Blanky** — směs receptů, poznámek a skutečných daňových údajů.
+
+---
+
+# 🟥 **Shrnutí:**
+
+### ✔ **Každá vesnice má „nějaké záznamy“, ale ne ve formě úřadu.**
+
+### ✔ **Záznamy jsou roztříštěné, osobní a různě poškozené.**
+
+### ✔ **Igor musí sesbírat tyto fragmenty z různých rukou.**
+
+To je ideální stav pro dobrodružství:
+
+* diplomacie,
+* vyšetřování,
+* hrozby,
+* záchrana knih,
+* přesvědčování lidí,
+* zajímavá NPC drama.
+
+A zároveň je to historicky přesně tak, jak to fungovalo.
+
+---
+
+# 🟦 Další krok?
+
+Nabízím tři možnosti:
+
+### 👉 1) Udělat **velký quest „Rekonstrukce daní“** (5–8 sezení)
+
+### 👉 2) Detailně popsat **každou knihu a co v ní Igor najde**
+
+### 👉 3) Popsat **jak bude Hrachov reagovat**, když Igor začne sbírat důkazy
+
+### 👉 4) Vytvořit **"mapu záznamů" — seznam, co Igor musí získat odkud**
+
+Stačí říct, jak chceš pokračovat.
+

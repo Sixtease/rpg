@@ -1,0 +1,195 @@
+# ⭐ SEZNAM NPC PODLE SCÉN
+
+---
+
+# ⭐ **1) Ráchel Jarmarová (iniciátorka pátrání)**
+
+*(Scéna: přichází za Igorem s podnětem o Brance.)*
+
+* **Role:** úřednice kanceláře radních; faktická pracantka Lízy Měchové
+* **Osobnost:** chytrá, pracovitá, užitečná; víc mozek než politik
+* **Motivace:** ukázat, že Kamenice dokáže plnit závazky a zachránit obchod
+* **Co ví:**
+
+  * Branka vydala ultimátum ohledně zásilky fléten
+  * Mistr houslař je pryč
+  * Odběr se zruší, pokud flétny nebudou dodány včas
+* **Proč je důležitá:** dá Igorovi celý quest → tři podúkoly
+
+---
+
+# ⭐ **3) Učedník: Oskar „Osík“ Drvota**
+
+*(Scéna: Igor navštíví opuštěnou dílnu.)*
+
+* **Role:** jediný učedník, který zůstal po převratu v dílně
+* **Osobnost:** ambiciózní, snaživý, ale slabý, přetížený, nezkušený
+* **Motivace:** udržet dílnu při životě, získat Igorovu přízeň
+* **Co ví:**
+
+  * flétny zabavila armáda
+  * může si vzpomenout na tvar insignií (kaprál) a popsat tvář, aby se dohledal Rojka
+  * mistr odešel po hádce s cechem
+  * pět pomocníků — nikdy jich nebylo víc
+* **Proč je důležitý:**
+
+  * 1. stopa k flétnám
+  * 2. stopa k chybějící děvečce
+  * emocionální tlak: „pane kníže, já to nezvládnu sám“
+
+---
+
+# ⭐ **4) Kaprál Bohuslav Rojka (dává hlášení o konfiskaci)**
+
+*(Scéna: Igor vyšetřuje, kdo zabavil flétny.)*
+
+* **Role:** poctivý, obyčejný nižší důstojník, který podepsal papíry
+* **Osobnost:** slušný, nervózní, nerad odporuje nadřízeným
+* **Motivace:** nenechat se stáhnout do korupce
+* **Co ví:**
+
+  * dostal rozkaz označit flétny jako „dřevo k pálení“
+  * přemístěno do skladu u kasáren
+* **Proč je důležitý:**
+
+  * Odhalí platnost škodlivého rozkazu
+  * Odkáže Igora přímo ke skladu
+
+---
+
+# ⭐ **5) Svobodník Háva Skřivan (hlavní padouch skladiště)**
+
+*(Scéna: omyl → Igor považován za zákazníka černého trhu; nabídka opiátu; flétny na spálení.)*
+
+* **Role:** pracovník palivového skladu; organizátor pašování
+* **Osobnost:** dominantní, sebejistý, chladně profesionální
+* **Motivace:**
+
+  * profit z pašování opiátu z armádních zásob
+  * udržet zbytky Badyánovy kliky při životě
+* **Co ví:**
+
+  * kde jsou flétny (u kotle jako další fůra)
+  * jak funguje opiátová síť
+  * kdo z vojáků je zapojen
+* **Proč je důležitý:**
+
+  * přímý antagonistický kontakt s Igorem
+  * může flétny hodit do ohně přímo před hráči v dramatické scéně
+
+---
+
+# ⭐ **6) Jaromír Zoul (pasák, prostředník černého trhu)**
+
+*(Scéna: Igor je považován za odběratele; nabídka opiátu, zbraní atd.)*
+
+* **Role:** civilní prostředník, který do skladu chodí „vyzvedávat zboží“
+* **Osobnost:** uhlazený, slizký, samolibý
+* **Motivace:** peníze; žádná loajalita; rychle změní strany
+* **Co ví:**
+
+  * komu Skřivan prodává opiát
+  * kdy se dělají předávky
+  * že „ti hudební krámy“ mají jít do ohně
+* **Proč je důležitý:**
+
+  * atmosféra černého trhu,
+  * může být mistrně vyslechnut Pupíkem
+  * stopa ke konkurenci
+
+---
+
+# ⭐ **7) Branský obchodník: Zikmund Hustrý**
+
+*(Scéna: Igor předává flétny karavaně, dozvídá se o konkurenci.)*
+
+* **Role:** odběratel; profesionál; žádné emoce
+* **Osobnost:** precizní, náročný, neústupný
+* **Motivace:** kvalita → stabilita → spolehlivost
+* **Co ví:**
+
+  * že starý mistr Sovák už vyrábí pro jiné město
+* **Proč je důležitý:**
+
+  * dá Igorovi nový problém: *konkurence je už ve hře*
+
+---
+
+# ⭐ **8) Vilém Sovák (bývalý mistr houslař)**
+
+*(Scéna: Igor přichází s materiály o chlazení skla.)*
+
+* **Role:** bývalý genius, teď unavený a zahořklý
+* **Osobnost:** melancholický, neurotický, přemýšlivý
+* **Motivace:**
+
+  * tvořit sklo místo houslí
+  * uniknout z řemeslného světa, kde selhal
+
+* **Proč je důležitý:**
+
+  * pokud Igor pomůže jeho snu, Sovák přestane být konkurencí
+  * může dokonce doporučit děvečku → morální i profesní uzávěr
+
+---
+
+# ⭐ **9) Terka Podhradská (šestý pomocník, děvečka)**
+
+*(Scéna: Igor ji vypátrá podle deníku mistra.)*
+
+* **Role:** skrytý talent; srdce příběhu
+* **Osobnost:** jemná, nejistá, cit pro dřevo a tón
+* **Motivace:**
+
+  * uniknout z farmy
+  * tvořit
+  * být užitečná
+* **Co ví:**
+
+  * vzpomíná, jak mistr jednou řekl „tahle má dar“
+* **Proč je důležitá:**
+
+  * jediná reálná nástupkyně houslaře
+  * dá Kamenici novou éru řemesla
+
+---
+
+# ⭐ **10) Bohdan Podhradský (otčím)**
+
+*(Scéna: Igor se dožaduje propuštění dívky.)*
+
+* **Role:** hrubián, ale ne padouch
+* **Osobnost:** cholerický, tvrdohlavý, penězoljub
+* **Motivace:** nechce přijít o pracovní sílu
+* **Proč je důležitý:**
+
+  * překážka, kterou Igor řeší autoritou, taktem, penězi nebo vyjednáváním
+
+---
+
+# ⭐ **11) Doplňkoví vojáci (pro atmosféru a honičku)**
+
+*(Scéna: honička při záchraně fléten.)*
+
+* **Brko a Krkavec**
+
+  * špinavá dvojka zkorumpovaných vojáků
+  * tahají fůry k ohništi
+  * snaží se zabránit Igorovi, aby flétny „odepisované jako dřevo“ zachránil
+
+---
+
+# ⭐ Totální minimum NPC, ale vše pokryto
+
+Pokud chceš minimalistickou verzi japonského stylu, pak scéna vyžaduje pouze:
+
+* Jarmarovou
+* Osíka
+* Kaprála Rojku
+* Skřivana
+* Zoula
+* Hustrého
+* Sováka
+* Terku + otčíma
+
+Tuto verzi ti můžu připravit extra přehledně.
