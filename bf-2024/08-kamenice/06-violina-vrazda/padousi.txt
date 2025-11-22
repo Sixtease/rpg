@@ -1,0 +1,159 @@
+Skvěle — pojďme vytvořit **první linii Badyánovy kliky**, tedy tu úzkou skupinu lidí, která byla:
+
+* přímo zapojená do jeho intrik,
+* měla skutečnou moc i přístup k rozhodování,
+* věděla o zajetí Vojena,
+* a kvůli ní musela být **Viola umlčena**.
+
+Tahle skupina by měla být **malá, soudržná, dobře provázaná**, protože:
+
+* Kamenice není metropole (odhad velikosti: cca 3–5 tisíc obyvatel),
+* vedení města není složité,
+* příliš velká klika by byla neudržitelná,
+* a pro příběh je silnější malé jádro než chaotický seznam.
+
+### 🔥 Ideální velikost kliky (první linie)
+
+**4–6 osob** včetně Badyána.
+To je počet, který:
+
+* umožní strukturu,
+* každá postava může mít jasnou roli,
+* Badyán mohl těm lidem důvěřovat,
+* Viola mohla všechny znát.
+
+Badyán je mrtvý, takže nám zbývá **3–5 dalších**.
+
+Tyto osoby budou:
+
+1. užitečné pro budoucí příběhy,
+2. mají své role ve městě,
+3. zaplňují různé mocenské vrstvy (rada – stráž – finance – zločin – cechy – špína).
+
+---
+
+# 🕯️ **SEZNAM HLAVNÍCH KOMPÁNŮ MISTRA BADYÁNA**
+
+### **1) Norbert Gluch**
+
+* **Role:** člen městské rady, zástupce řemeslnických cechů
+* **Charakter:** prodejný intrikán, hrozně rád se „tváří důležitě“
+* **Význam v klice:** politické krytí Badyána
+* **Proč je nebezpečný:** umí ovlivňovat veřejné mínění i menší úředníky
+* **Co o něm Viola věděla:** že používal cechy k zastrašování odpůrců
+* **Možný motiv na vraždu:** hrozilo, že Viola prozradí, jak se Gluch podílel na zajetí Vojena
+
+---
+
+### **2) Arnošt Tlučhuba**
+
+* **Role:** velitel jedné z městských hlídek (ne hlavní velitel, ale důležitý důstojník)
+* **Charakter:** brutální, oddaný Badyánovi, ale zbabělý před autoritami
+* **Význam v klice:** fyzická moc – stráže, zatykače, zastrašování
+* **Co o něm Viola věděla:** že zajišťoval transport Vojena do sklepení a podílel se na jeho výsleších
+* **Motiv:** jediná osoba, která znala pravdu, byla Viola
+* **Pozn.:** může být skutečný vrah, nebo „vykonavatel“
+
+---
+
+### **3) Eliška Zavadská**
+
+* **Role:** městská písařka + účetní kanceláře
+* **Charakter:** nenápadná, inteligentní, výborná s papíry – „kancelářský génius“
+* **Význam v klice:** falšovala dokumenty, zajišťovala administrativní krytí
+* **Co o ní Viola věděla:** že Eliška kryla výdaje stráže, tajné platby a falešné zatykače
+* **Motiv:** jakmile by Igor začal kontrolovat staré papíry, Eliška by šla do vězení
+* **Často přehlížena → ideální mastermind skrytý za zástěnou**
+
+---
+
+### **4) Silván Řezačka**
+
+* **Role:** bohatý řezník a obchodník s masem (zásoboval stráž i radnici)
+* **Charakter:** autoritativní, tvrdý, tichý – známý jako „člověk, co zná lidi“
+* **Význam v klice:** financoval některé Badyánovy operace a figurky
+* **Koho uplácel:** strážné, posly, hlídače
+* **Co o něm Viola věděla:** o jeho účasti na úplatcích a potravinových machinacích kolem věznice
+* **Motiv:** ví, že by ho Badyánova dcera mohla propojit s protiprávními činy
+* **Navíc:** skvělý NPC pro budoucí použití (síť lidí, vydírání, zásobování)
+
+---
+
+### **5) Žofie Kloudová**
+
+* **Role:** šéfová ženského cechu pradlen, praná horská voda – „královna pomluv“
+* **Charakter:** drbna, mistryně sociálních sítí, ale veřejně „nevinná“
+* **Význam v klice:** sbírala informace, šmírovala, vedla síť žen, které vidí a slyší všechno
+* **Co o ní Viola věděla:** organizovaný systém špehování pro Badyána + zrada několika lidí
+* **Motiv:** Viola věděla o třech konkrétních „tajných známostech“ a úplatcích
+* **Pozn.:** ideální postava, o které si všichni myslí, že je neškodná
+
+---
+
+# ⚙️ **Shrnutí struktury kliky**
+
+### 🟦 Politická ruka
+
+**Norbert Gluch** — reprezentoval cechy, vytvářel politické krytí
+
+### 🟥 Síla a zastrašování
+
+**Arnošt Tlučhuba** — stráže, výslechy, násilí
+
+### 🟩 Administrativa a falšování
+
+**Eliška Zavadská** — papíry, účty, zatykače, falzifikace
+
+### 🟫 Finance a logistika
+
+**Silván Řezačka** — peníze, úplatky, zásoby
+
+### 🟧 Sociální síť a špionáž
+
+**Žofie Kloudová** — sběr informací, pozorování, kontrola obyvatel
+
+### 🟪 (Mrtvý) Šéf
+
+**Mistr Badyán**
+
+### 🟨 (Oběť)
+
+**Viola Badyánová** — znala všechna jména + mohla vypovědět o zajetí Vojena
+
+---
+
+# 💡 Pro hru to znamená
+
+Hrdinové budou muset:
+
+* **identifikovat všechny podezřelé**,
+* zjistit, kdo měl v době vraždy motiv (všichni),
+* kdo měl příležitost (většina),
+* kdo měl schopnosti (možná 2–3),
+* a kdo měl *největší strach z Violy*.
+
+To vytvoří krásný detektivní labyrint:
+
+* Gluch bude lhát důstojně,
+* Zavadská bude ledově klidná,
+* Tlučhuba bude agresivní,
+* Řezačka bude chladný a uzavřený,
+* Kloudová bude teatrálně rozhořčená.
+
+A jeden z nich je vrah — ale který?
+
+---
+
+Pokud chceš, můžu teď:
+
+### ✔ Vytvořit **časovou osu Vojena + Violy**,
+
+### ✔ Dát přesný **profil Violy** (jak vypadala, jak mluvila, její povaha),
+
+### ✔ Vytvořit přesnou **rekonstrukci vraždy**,
+
+### ✔ Rozepsat **falešné stopy a skutečné stopy**,
+
+### ✔ A určit, KTERÝ z těch pěti je skutečný vrah a proč.
+
+Stačí říct, kam chceš pokračovat.
