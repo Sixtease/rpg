@@ -1,0 +1,263 @@
+Tohle je přesně ta úroveň detailu, která z nájezdů udělá **skutečně hratelnou zápletku**, ne jen kulisu.
+Pojďme to vzít **metodicky**, aby sis z toho mohl rovnou dělat poznámky ke hře.
+
+---
+
+# 🟥 0) ZÁKLADNÍ VÝCHODISKA (aby vše drželo logiku)
+
+### ✔ Nájezdníci nejsou oficiální donajnická jednotka.
+
+→ Jsou to **chlapi z příhraničních vesnic**, rekrutovaní jedním donajnickým rodem (frakcí).
+
+### ✔ Stejná rasa, podobná kultura.
+
+→ Proto můžou maskovat útoky jako „Svetlinské hněvy“.
+
+### ✔ Vesnice podél hranice jsou malé (20–60 lidí).
+
+→ Což určuje logistiku i dopad.
+
+### ✔ Nájezdy musí být dost malé, aby nebyly válečným činem,
+
+ale dost tvrdé, aby ohrožovaly ekonomiku Kamenice.
+
+---
+
+# 🟥 1) KOLIK VESNIC JE V DOMÉNĚ JEDNOHO MĚSTA (PRAKTICKÉ ČÍSLO)
+
+Pro středně velké město jako Kamenice obklopené menšími městy:
+
+### → **cca 10–18 vesnic** v širším okolí
+
+(v okruhu 4–10 km od sebe)
+
+V tvé mapě to vychází konkrétně takto:
+
+* Na jih a jihovýchod (směr Donajník): **5–7 vesnic**
+* Ve středu kolem Kamenice: **5–6 vesnic**
+* Na sever směrem k Rousínovu: **3–4 vesnice**
+* Celkem: **cca 14–17 vesnic v doméně Kamenice**
+
+Donajnícké výpady se budou soustředit na **hraniční jihovýchodní klastr**:
+
+* **Boláky**
+* **Krásníkov**
+* **Údolí Tří vrb**
+* **Březinka**
+* **Dolní Mejto**
+* a **okraj Adamovic**, ale jen výjimečně
+
+To ti dává dost vesnic, aby se nájezdy neopakovaly, ale byly logické.
+
+---
+
+# 🟥 2) KDO KONKRÉTNĚ NÁJEZDY PROVÁDÍ?
+
+Ne celé město Donajník — to by byla válka.
+Je to **frakce uvnitř Donajníku**, tvořená třemi částmi:
+
+---
+
+## 🟦 (A) **Jádro nájezdníků – „Desítka Pavla Rogana“**
+
+12–15 mužů, profesionální žoldáci v civilu.
+
+### Velitel:
+
+**Pavel Rogan** – veterán z pohraničních šarvátek, 38 let, charismatický, krutý, chytrý.
+Dřív vyhnán z Kamenice za pytláctví → osobní zášť.
+
+---
+
+## 🟦 (B) **Příhraniční rolníci – „Příruční“**
+
+10–15 mužů z donajnických vesnic **Roganice**, **Dolní Jablonka**, **Mezilesná**.
+
+* místní chlapi, kteří znají lesy
+* nejsou profesionální bojovníci
+* dělají to pro lup nebo z nenávisti k Kamenici
+
+---
+
+## 🟦 (C) **Mastiči a maskéři – „Svetlináži“**
+
+3–4 osoby, které pomáhají:
+
+* vyrábět **roucha Svetlinků**,
+* nosit symboly pramene,
+* upravovat stopy po útocích,
+* kreslit rituální značky.
+
+Dělají z nájezdu **nábožensky vypadající akt**.
+
+---
+
+# 🟥 3) CELKEM V JEDNOM NÁJEZDU
+
+### ➤ **10–16 mužů** je standardní velikost nájezdu.
+
+To je:
+
+* dost na efektivní útok,
+* málo na to, aby to hned byla invaze.
+
+### Složení jednoho útoku:
+
+* 6–9 žoldáků Roganova jádra
+* 3–5 místních rolníků
+* 1–2 „Svetlináži“
+
+Celkem: **10–16**.
+
+Při větších akcích až 20, ale to jen výjimečně.
+
+---
+
+# 🟥 4) MODUS OPERANDI NÁJEZDNÍKŮ
+
+### 1) **Vycházejí z Donajníku, ale NE hl. cestou**
+
+Používají **lesní cestu**, která:
+
+* vede kolem hájků,
+* obchází přímé spojnici,
+* má pár míst pro skrýš (polomy, mezery, staré dřevěné mostky).
+
+### 2) **Blíží se Oklikou**
+
+Útoky probíhají většinou:
+
+* z **lesní strany**,
+* NE po hlavní cestě (logické, protože vesnice čekají pohyb na hlavní cestě).
+
+### 3) **Doba útoku: brzké ráno nebo před úsvitem**
+
+Zvlášť na jaře a na podzim.
+
+### 4) **Taktika**
+
+* obklíčení stodoly nebo sýpky
+* rychlé vniknutí
+* minimální zabíjení (to by přilákalo pozornost)
+* spíš bití, svazování, poplašné křiky
+* zapálení NE celé vesnice, ale vybraného objektu
+* ukradení obilí, dobytku, bronzového nářadí, koní
+* zanechání **Svetlinských symbolů**
+
+### 5) **Ústup stejnou cestou — ale NE CELÝM STOPEM**
+
+* vždy mění první kilometr ústupu
+* aby vypadalo, že přišli z Vikářova, ne z Donajníku
+* stopy jsou často zality vodou, přesypány zeminou nebo zničené
+
+"Tým maskéřů" to dělá fakt dobře.
+
+---
+
+# 🟥 5) JAK DLOUHO VESNICI DRANCUJÍ?
+
+### ➤ **5 až 15 minut**
+
+→ to je realita. Blitz-raid.
+Čím delší nájezd, tím větší riziko.
+
+---
+
+# 🟥 6) JAK ČASTO BUDOU ÚTOČIT?
+
+Podle toho, jak chceš měnit tempo kampaně.
+
+### Standardní tempo:
+
+* **1× za 10–14 dní** jiná vesnice
+* nikdy ne dvakrát po sobě ta samá
+* pauzy, když je počasí extrémní (sníh, dlouhý déšť)
+
+### Agresivní tempo (když chtějí vyvolat paniku):
+
+* **každý týden**
+
+### Tiché období (když chtějí zamést stopy):
+
+* **měsíc klidu**
+
+---
+
+# 🟥 7) JAKÉ JSOU NÁSLEDKY V NAPADENÉ VESNICI?
+
+Konkrétně a herně použitelné:
+
+### ✔ Fyzické škody
+
+* 1 vyhořelá stodola
+* 1 vypálený chlév
+* rozbitá vrata
+* zničené nářadí
+
+### ✔ Ekonomické škody
+
+* odcizeno obilí (5–20 pytlů)
+* 1–2 krávy nebo 4–7 ovcí
+* 1–3 koně
+* ztráta zásob na 2–4 týdny
+* výkupné v naturáliích („za ochranu“)
+
+### ✔ Psychologické škody
+
+* vesničané se bojí
+* podezřívají Vikářov
+* někteří chtějí požádat o ochranu jiného města
+* panika, klepy
+
+### ✔ Politické následky
+
+* výčitky vůči Kamenici („kde byla stráž?“)
+* příchod špehů z Donajníku „pomoci s vyšetřováním“
+* žádosti o přísahu Donajníku
+* zmatek kolem rituálů k prameni
+
+Tohle umožňuje krásné roleplay.
+
+---
+
+# 🟥 8) JEDEN NÁJEZD — KOMPLETNÍ SCÉNA
+
+Může vypadat takhle:
+
+1. Pes začne štěkat → vesničané vyběhnou
+2. První stodola vzplane
+3. Banda v bílých rouchách a věncích z vrbového proutí vtrhne do dvora
+4. Křičí na vesničany „Očistec Svetly!“
+5. Tři muži hrabou pytle obilí
+6. Jeden chlap drží starého sedláka u země
+7. Žena křičí, dítě brečí
+8. Vůdce udělá škrábanec nožem na dveřích (symbol pramene)
+9. Všechno trvá minutu
+10. Nájezdníci vezmou 2 pytle, kozu a koně
+11. Zmizí v lese
+12. Vesnice je v šoku, stráž nestihne přijet
+13. Ráno se objeví svědek: „Přišli od Vikářova! Viděl jsem světlo na jejich pláštích!“
+
+---
+
+# 🟩 SHRNUTÍ PRO PRAKTICKÉ VEDENÍ HRY
+
+* **Počet vesnic Kamenice**: cca 14–17
+* **Zasažený klastr Donajníkem**: 5–7 vesnic
+* **Velikost nájezdu**: 10–16 mužů
+* **Složení**: 60 % žoldáci, 30 % rolníci, 10 % maskéři
+* **Doba útoku**: 5–15 min
+* **Čas**: před úsvitem nebo za deště
+* **Průběh**: zapálit → vzít zásoby → zanechat symbol → pryč
+* **Směr útoku**: z jihu/jihozápadu, ústup přes les
+* **Opakování**: každých 7–14 dní
+* **Následky**: požár, krádež, strach, manipulace, politický tlak
+
+---
+
+# 👉 Chceš teď vytvořit:
+
+* **konkrétní seznam těch 5–7 ohrožených vesnic**?
+* **profil Pavla Rogana a jeho lidí**?
+* **první útok jako herní scénu k odehrání**?
+* **stopu, která povede Igora na správnou cestu**?
