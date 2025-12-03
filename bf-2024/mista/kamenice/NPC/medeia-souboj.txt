@@ -1,0 +1,218 @@
+Níže máš **plnohodnotný bojový a příběhový profil čertice**, tak aby:
+
+* nebyla buď komicky slabá, nebo nezabitelné „božstvo“,
+* dobře zapadla do Basic Fantasy i tvých house rules,
+* byla smrtelná, ale *extrémně nebezpečná*,
+* fungovala i v sociální konfrontaci, nejen v boji,
+* mohla být dlouhodobou hrozbou, ne jen bossem na jedno sezení.
+
+Všechno je navrženo tak, aby Bárt (**level 7**, AC 20, tvrdá palebná síla), Nina (**level 6**, velmi silná magie) i Igor (**level 7**, AC 22, božské utility kouzla)** měli šanci zvítězit**, ale jen pokud **pochopí, jak na ni**.
+
+---
+
+# 😈 **MEDEIA — ČERTICE INTRIK A ZRCADLENÍ**
+
+**Démonická svůdkyně, krmící se intrikami a zkaženými city.**
+
+### **Stat blok (BF kompatibilní + tvoje houserules)**
+
+**HD:** 7 (středně silná démonická bytost)
+**HP:** 45 (tuhá, ale ne boss fight)
+**AC:** 19 (magická elegance + nehmotné uhýbání)
+**THAC0:** jako Fighter 6. úrovně
+**Útoky:**
+
+* *Dotek falešného světla* +4, dmg 1k6 + **psychické 1k4**
+* *Niti osudu* (viz schopnosti níže)
+* *Stínový skok* (teleport)
+
+**Odolnosti:**
+
+* imunní na: okouzlení (Ninino okouzlení nefunguje), strach, jed
+* odolná 50%: chlad, oheň, nekrotické
+* slabá na: **radiant (svaté) poškození** (!!)
+
+**Hody na záchranu:**
+
+* kouzla: 14
+* smrt/jed: 10
+* dech/ohně: 12
+
+---
+
+# 🩸 **Boje schopnosti (realisticky nebezpečné, ale ne OP)**
+
+## 1) **Niti osudu (hlavní útok, 1× za 3 kola)**
+
+Medeia natáhne z dlaně černou „nit“.
+Zasáhne jednoho cíle do 9 m.
+
+* útok +4
+* dmg: 1k8 + **dlouhodobý efekt**
+* cíl hází **save vs. spell –2** (protože je to psychický útok a Nina má inteligenci +3 → dle tvého houserule je to –3 další penalty! Takže Nina má výhodu ho odolat, Bárt ne.)
+
+**Úspěch:** žádný problém.
+**Neúspěch:** hráč má **nevýhodu na příští útok** *a* musí říct jednu negativní myšlenku své postavy (RP efekt).
+
+*(Vypadá dramaticky, ale mechanicky je to „soft crowd control“.)*
+
+---
+
+## 2) **Stínový skok (teleport 6 m)**
+
+Použije kdykoli jako bonusovou akci.
+Nelze naplánovat flankování.
+Perfektní pro dramatické ústupy.
+
+---
+
+## 3) **Odčerpání jistoty (pasivní aura 3 m)**
+
+Každý nepřítel v dosahu má –1 k hodům na útok.
+**Igorova Aura světla** bonus +1 k save to **ruší** (nádherné herní kombo!) 
+
+---
+
+## 4) **Zrcadlící se tvář (1× denně)**
+
+Kouzlo podobné *Mirror Image*.
+3–4 iluzorní kopie → AC +4 první 2 kola.
+Ideální na úvod konfrontace.
+
+---
+
+## 5) **Hlas, který štěpí**
+
+Každý, kdo ji zasáhne poprvé, musí hodit **save vs. spell** nebo utrpí **–2 na všechny sociální akce** na zbytek scény (Má pocit, že udělal hroznou chybu.)
+
+---
+
+## 6) **Nehmotnost (limitovaná)**
+
+1× denně na 2 kola → poloviční zranění ze zbraní.
+
+Je to její „úniková pojistka“.
+
+---
+
+# 💥 **ÚTOKY HRDINŮ NA NI — CO FUNGUJE, CO NE**
+
+## ✔ Igor je pro ni smrtelný
+
+* jeho **radiant aury** a kouzla na ni působí plně
+* **spiritual hammer** má skvělé hody
+* jeho AC 22 je pro ni skoro nedosažitelný
+* když spustí *Aurou odplaty*, Medeia každým útokem dostane 1k4 radiant dmg 
+
+→ **Igor = její hlavní nemesis**
+
+---
+
+## ✔ Nina je částečná hrozba
+
+* má slabiny na její psychické schopnosti (nízká odolnost), ale:
+* její *Magické střely* (1k6+4 díky Int 18) ji pálí stabilně
+* kouzla typu *Hold Person* nefungují
+* *Pavučina*, *zrcadlový obraz*, *ohnivá koule* → ANO
+
+Nina je její přímý kontrapunkt: čistá magie vs. nečistý chaos.
+
+---
+
+## ✔ Bárt je mechanicky DOKONALE připravený na takovou potvoru
+
+* vysoké AC 20
+* obrovské poškození (1k10+7 obouručním mečem)
+* 52 životů → vydrží
+* výhoda proti lidem (+2 k útoku), ale Medeia není člověk → pro ni výhoda není 
+* jeho rychlost a síla jsou ideální k jejímu pronásledování
+
+A jeho vlk Rychlík → vidí, co je nehmotné.
+
+---
+
+# 🔥 **JAK TĚŽKÝ JE TO SOUBOJ?**
+
+### **Konfrontace 1: těžká, ale schůdná**
+
+Medeia utíká, teleportuje, manipuluje.
+Nechce zemřít.
+Vzdá se první polovině HP → zmizí do stínů.
+
+### **Konfrontace 2: plná síla**
+
+Pokud ji pronásledují, použije všechny triky.
+Tady je to zhruba boss fight přiměřený družince levelů 6–7.
+
+### **Konfrontace 3: závěrečná (pokud ji chtějí dorazit)**
+
+Ve ztížených podmínkách, v přítomnosti zrcadel nebo duší → extrémní psychické efekty.
+Doporučuji dát **nějakou zranitelnost** (např. světlo, svaté symboly, vyjmenované jméno).
+
+---
+
+# 😈 **JAK SE CHOVÁ V BOJI? (RP + taktika)**
+
+### 1. Nikdy nezaútočí první
+
+Ona **mluví**, **provokuje**, **svádí**, **mate**.
+
+### 2. Útočí jen v sebeobraně
+
+Chce přežít. Chaos způsobí jinde, ne v přímé řeži.
+
+### 3. Zaměřuje se na psychiku
+
+* Nině podsune pochybnosti
+* Pupíka svede k chamtivosti
+* Bártovi ukáže iluze poraněného Rychlíka
+* Igorovi říká: „Bůh mlčí… protože já jsem pravda.“
+
+### 4. Jakmile se dostane pod 20 HP, zmizí
+
+Zanechá iluzi hořící krajky…
+
+---
+
+# 🔥 **NÁVRH SCÉNY KONFRONTACE**
+
+Medeia stojí v místnosti plné zrcadel (nebo jednoho velkého).
+Její obraz v nich:
+
+* je krásnější,
+* světlejší,
+* ale oči mají temnotu.
+
+Řekne:
+
+> „Nechcete mě zabít.
+> Jen chcete vědět, proč.
+> A já vám odpovím…
+> až se naučíte poslouchat.“
+
+A nechá první úder padnout na hráče — ne fyzicky, ale psychicky.
+
+---
+
+# 🔥 **DO BUDOUCNA**
+
+Může se vrátit jako:
+
+* záporák,
+* tragická postava,
+* někdo, koho lze přemoci jen rozbitím jejích nití,
+* nebo jako klíč k pochopení větší démonické sítě.
+
+---
+
+Pokud chceš, připravím ti:
+
+### ✔ **přesný statblock v BF stylu** (řádek po řádku)
+
+### ✔ **konkrétní scénář její první konfrontace**
+
+### ✔ **tabulku jejích reakcí na konkrétní čísla hodů hráčů**
+
+### ✔ **její slabiny, které lze odhalit detektivním pátráním**
+
+Stačí říct, co z toho chceš dál.
