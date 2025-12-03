@@ -65,9 +65,9 @@ dýka z dračí šupiny +1 (+1 / 1k4+3)
 kouzla:
 L1:
 čtení magie
-uspání **
+uspání *
 štít *
-okouzlení
+okouzlení *
 magická střela *
 plovoucí disk
 mluvení z různých směrů
@@ -76,22 +76,22 @@ levitace
 neviditelnost *
 zrcadlový obraz
 pavučina
-nalezení předmětu
-čtení mysli
-přelud *
+nalezení předmětu *
+čtení mysli *
+přelud
 čarodějný zámek
 trvalé světlo
 trvalá temnota
-ťuk ťuk *
+ťuk ťuk
 začarování zrcadla, aby obraz v něm byl hezčí než realita
 L3:
 skupinová neviditelnost
 ohnivá koule
 létání
 spěch
-zadržení osoby
+zadržení osoby *
 jasnozřivost
-blesk *
+blesk
 dýchání pod vodou
 
 veverka - Mlska
