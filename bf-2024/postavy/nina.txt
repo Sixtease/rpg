@@ -1,6 +1,6 @@
 Nina elf kouzelník
-6. level
-78300 / 80000 zk
+7. level
+81300 / 160000 zk
 narozena 20.12., věk 18 let
 
 síla: 5 -2
@@ -11,9 +11,9 @@ odolnost: 9
 charisma: 16 +2 (+3)
 
 AC: 14 (17 / 20)
-15 životů (15)
+16 životů (16)
 
-14367 stříbrných
+14867 stříbrných
 šperky v hodnotě 127
 
 batoh nekonečného prostoru
@@ -38,7 +38,7 @@ hamaka
 páčidlo
 3x lektvar neviditelnosti
 1.8x lektvar síly
-3x léčivý lektvar
+2x léčivý lektvar
 4.8x lektvar dýchání pod vodou
 10x kouřová bomba
 prut magické střely (2x denně)
@@ -55,7 +55,8 @@ Magický prsten "Rétoriky" (+1 k přesvědčování, 1× denně Suggestion)
 kniha 40 prázdných listů papíru pozlacená
 encyklopedie magických suchozemských zvířat
 encyklopedie magických mořských zvířat
-dopis pro Radomíra
+9 wyverních šupin
+5x kapsle elfího léčení: po 1k6 kol se vyléčí pokaždé 1k8 životů
 
 hůl blesk 1/den magická zbraň (-1 / 1k6-2)
 dýka +1 (0 / 1k4-1)
@@ -65,10 +66,10 @@ dýka z dračí šupiny +1 (+1 / 1k4+3)
 kouzla:
 L1:
 čtení magie
-uspání *
+uspání **
 štít *
 okouzlení *
-magická střela *
+magická střela
 plovoucí disk
 mluvení z různých směrů
 L2:
@@ -77,7 +78,7 @@ neviditelnost *
 zrcadlový obraz
 pavučina
 nalezení předmětu *
-čtení mysli *
+čtení mysli
 přelud
 čarodějný zámek
 trvalé světlo
@@ -90,7 +91,7 @@ ohnivá koule
 létání
 spěch
 zadržení osoby *
-jasnozřivost
+jasnozřivost *
 blesk
 dýchání pod vodou
 

@@ -1,7 +1,7 @@
 Bárt aka Ronaldo elf bojovník
 level 7
-72211 / 128000 zk
-narozen 26.9., věk 16 let
+75211 / 128000 zk
+narozen 26.9., věk 16 let, 210cm
 
 síla: 18 +3
 inteligence: 12
@@ -10,9 +10,9 @@ obratnost: 16 +2
 odolnost: 10
 charisma: 9
 AC 20
-52 životů (39)
+52 životů (52)
 
-3991 stříbrných
+4421 stříbrných
 
 batoh
 měch na vodu
@@ -45,7 +45,7 @@ bambitka ozdobená zlatem a rubínem, 96 střel to hit 0 dmg 1k12+1
 vystřelovací dýka (+5 / 1k4+4)
 pěst (+6 / 1k3+5)
 kop (+4 / 1k4+5)
-obouruční meč +3 (+7 / 1k10+7)
+obouruční meč +3 (+7 (+9) / 1k10+7)
 
 dárek pro maminku pozlacený náhdrelník s malým diamantovým srdíčkem (hodnota 326) -
 
