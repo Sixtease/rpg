@@ -1,56 +1,201 @@
-Bárt aka Ronaldo elf bojovník
-level 7
-75211 / 128000 zk
-narozen 26.9., věk 16 let, 210cm
+Perfektní — poslední úprava sedí výborně:
 
-síla: 18 +3
-inteligence: 12
-moudrost: 5 -2
-obratnost: 16 +2
-odolnost: 10
-charisma: 9
-AC 20
-52 životů (52)
+* **zahodíme Spear**,
+* **dáme Brawling +1**, protože Bárt opravdu často bojuje holýma rukama (BF 15 % bojů),
+* mechanicky to posílí jeho *pěstní útoky* i *parry* v boji beze zbraně.
 
-4421 stříbrných
+Tohle přesně odráží jeho styl: když nemá meč, mlátí rukama.
 
-batoh
-měch na vodu
+A teď už přichází slíbený výstup:
 
-vlněný plášť
-zásoby na 7 dní i pro vlka
-stan pro 10 lidí
-náramek léčení 1k4 jednou denně
-3x lektvar rychlosti
-0x léčivý lektvar
-2x lektvar dýchání pod vodou
-0x lektvar neviditelnosti
-telefonní naušnice
-Vílí houbový prášek (40 stříbrných, 5 použití)
-    Když se rozsype do vzduchu, vyzařuje slabé světlo, které odhalí neviditelné tvory nebo magické aury v okolí 5 metrů po dobu 1 minuty.
-    Má ale výraznou vůni a přitahuje lesní tvory.
-maso
-rybářský prut
-14 kouřových bomb
-// prokleté rukavice odvrácení kritické chyby
-zlaté boty
-harpuna
-kniha rytířských příběhů
+---
 
-plátová zbroj
+# 🧝‍♂️ **BÁRT – GURPS CHARACTER SHEET (174 CP)**
 
-dlouhý luk (+4)
-50 šípů (1k6+3)
-bambitka ozdobená zlatem a rubínem, 96 střel to hit 0 dmg 1k12+1
-vystřelovací dýka (+5 / 1k4+4)
-pěst (+6 / 1k3+5)
-kop (+4 / 1k4+5)
-obouruční meč +3 (+7 (+9) / 1k10+7)
+**Povolání:** Bojovník řádu Rovnováhy sil
+**Rasa:** Elf
+**Role:** Frontline DPS, agresivní melee, bojový berserk-without-berserk
+**Společník:** Rychlík (Ally – vlk)
 
-dárek pro maminku pozlacený náhdrelník s malým diamantovým srdíčkem (hodnota 326) -
+---
 
-specializace na boj beze zbraně
-+1 na poškození všemi zbraněmi
-výhoda proti lidem (+2 k útoku)
+# 1) **ATTRIBUTES**
 
-vlk Rychlík
+| Stat   | Value | Notes                | CP |
+| ------ | ----- | -------------------- | -- |
+| **ST** | 15    | extrémně silný       | 50 |
+| **DX** | 13    | elitní bojovník      | 60 |
+| **IQ** | 10    | normální inteligence | 0  |
+| **HT** | 11    | solidní odolnost     | 10 |
+
+**Total attributes:** **120 CP**
+
+---
+
+# 2) **SECONDARY CHARACTERISTICS**
+
+* **HP:** 15
+* **FP:** 11
+* **Will:** 10
+* **Per:** 10
+* **Basic Speed:** 6.00
+* **Basic Move:** 6
+* **Dodge:** 9
+* **Parry (2H Sword):** 12
+* **Block:** 0 (bez štítu)
+* **Parry (Brawling):** 10
+
+---
+
+# 3) **ADVANTAGES**
+
+| Výhoda                             | CP |
+| ---------------------------------- | -- |
+| **Combat Reflexes**                | 15 |
+| **High Pain Threshold**            | 10 |
+| **Fit**                            | 5  |
+| **Ally (Rychlík – vlk, 12-)**      | 6  |
+| **Signature Gear (Obouruční meč)** | 1  |
+
+**Total advantages:** **37 CP**
+
+---
+
+# 4) **DISADVANTAGES**
+
+| Nevýhoda                    | CP  |
+| --------------------------- | --- |
+| **Sense of Duty (Rychlík)** | –2  |
+| **Easy to Read**            | –10 |
+
+**Total disadvantages:** **–12 CP**
+
+*(Žádné RP-náročné nevýhody — mladý hráč bude mít snadné hraní.)*
+
+---
+
+# 5) **COMBAT SKILLS**
+
+### **Primary Weapon**
+
+* **Two-Handed Sword – 17** …… 16 CP
+  Bártova hlavní a ikonická dovednost.
+  Útok: **15** (All-Out Attack +1 = 16),
+  Parry: **12**
+
+### **Unarmed**
+
+* **Wrestling – 13** …… 1 CP
+* **Brawling – 14** …… 2 CP
+  Brawling 14 = skvělé rány pěstí → útok 14, parry 10.
+
+### **Secondary Weapons (1 CP each — DX-1 = 12)**
+
+* **Bow – 12** …… 1 CP
+* **Guns (Pistol) – 8** …… 1 CP *(TL mismatch –4 aplikován)*
+* **Axe/Mace – 12** …… 1 CP
+* **Broadsword – 12** …… 1 CP
+* **Knife – 12** …… 1 CP
+
+*(Spear odstraněn.)*
+
+**Combat skills total:** **22 CP**
+
+---
+
+# 6) **NON-COMBAT SKILLS**
+
+* **Tracking – 11** …… 2 CP
+* **Survival (Forest) – 10** …… 1 CP
+* **Climbing – 12** …… 1 CP
+* **Jumping – 13** …… 1 CP
+* **Swimming – 11** …… 1 CP
+
+**Non-combat total:** **6 CP**
+
+---
+
+# 7) **ALLY: RYCHLÍK (Vlk)** — 6 CP
+
+### **Basic Stats**
+
+* ST 11, DX 13, IQ 3, HT 12
+* HP 11, Will 10, Per 13
+* Basic Speed 6.25, Move 8
+* Dodge 10
+
+### **Traits**
+
+* Quadruped
+* Night Vision 3
+* Discriminatory Smell
+* Acute Hearing 2
+* Combat Reflexes (animal)
+* Sharp Teeth
+
+### **Attacks**
+
+* **Bite:** 1d+1 cutting
+* **Slam:** ST vs target ST/HT rules
+
+*Pravidelně spolupracuje s Bártem → GM volí manévry podpory (flanking, tracking).*
+
+---
+
+# 8) **EQUIPMENT**
+
+### **Obouruční meč**
+
+* Damage: **sw+3 (→ 2d+3 cutting)**
+* Reach: 1,2
+* Parry: 0U
+
+### **Zbroj**
+
+*(doporučená podle BF stylu, bez CP ceny)*
+
+* Hardened Leather DR 2 (torso, arms, legs)
+* Helmet DR 2
+* Optional: DR 3 torso brigandine if you prefer heavy load
+
+### **Misc**
+
+* Bambitka (TL mismatch): użytek 5 %, skill 8
+* Luk (lovecký): skill 12
+* Lovecký nůž
+* Kožené cestovní vybavení
+
+---
+
+# 9) **CP SUMMARY**
+
+| Kategorie      | Body       |
+| -------------- | ---------- |
+| Atributy       | 120        |
+| Výhody         | 37         |
+| Nevýhody       | –12        |
+| Bojové skilly  | 22         |
+| Ostatní skilly | 6          |
+| **CELKEM**     | **174 CP** |
+
+**→ Tohle je přesně cílová hodnota (~175 CP)**
+→ Bárt je optimálně silný, ale ne přepálený.
+→ Balanc vůči Nině a Igorovi je perfektní.
+
+---
+
+# 🎉 **BÁRT JE HOTOVÝ A PŘIPRAVENÝ PRO GURPS.**
+
+Silný, jednoduchý, jasně čitelný — perfektní pro mladého hráče.
+
+---
+
+# 👉 Pokud chceš, můžeme teď:
+
+### ✔ převést Pupíka,
+
+### ✔ přenastavit vlčí schopnosti,
+
+### ✔ nebo projít a vyladit vybavení a ceny v rámci realistické ekonomiky.
+
+Stačí říct, kam vyrážíme dál!

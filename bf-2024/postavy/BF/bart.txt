@@ -1,0 +1,56 @@
+Bárt aka Ronaldo elf bojovník
+level 7
+75211 / 128000 zk
+narozen 26.9., věk 16 let, 210cm
+
+síla: 18 +3
+inteligence: 12
+moudrost: 5 -2
+obratnost: 16 +2
+odolnost: 10
+charisma: 9
+AC 20
+52 životů (52)
+
+4421 stříbrných
+
+batoh
+měch na vodu
+
+vlněný plášť
+zásoby na 7 dní i pro vlka
+stan pro 10 lidí
+náramek léčení 1k4 jednou denně
+3x lektvar rychlosti
+0x léčivý lektvar
+2x lektvar dýchání pod vodou
+0x lektvar neviditelnosti
+telefonní naušnice
+Vílí houbový prášek (40 stříbrných, 5 použití)
+    Když se rozsype do vzduchu, vyzařuje slabé světlo, které odhalí neviditelné tvory nebo magické aury v okolí 5 metrů po dobu 1 minuty.
+    Má ale výraznou vůni a přitahuje lesní tvory.
+maso
+rybářský prut
+14 kouřových bomb
+// prokleté rukavice odvrácení kritické chyby
+zlaté boty
+harpuna
+kniha rytířských příběhů
+
+plátová zbroj
+
+dlouhý luk (+4)
+50 šípů (1k6+3)
+bambitka ozdobená zlatem a rubínem, 96 střel to hit 0 dmg 1k12+1
+vystřelovací dýka (+5 / 1k4+4)
+pěst (+6 / 1k3+5)
+kop (+4 / 1k4+5)
+obouruční meč +3 (+7 (+9) / 1k10+7)
+
+dárek pro maminku pozlacený náhdrelník s malým diamantovým srdíčkem (hodnota 326) -
+
+specializace na boj beze zbraně
++1 na poškození všemi zbraněmi
+výhoda proti lidem (+2 k útoku)
+
+vlk Rychlík

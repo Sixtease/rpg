@@ -1,139 +1,299 @@
-Nina elf kouzelník
-7. level
-81300 / 160000 zk
-narozena 20.12., věk 18 let
+# 🧙‍♀️ **NINA – ELF WIZARD (300 CP)**
 
-síla: 5 -2
-inteligence: 18 +3
-moudrost: 13 +1
-obratnost: 7 -1
-odolnost: 9
-charisma: 16 +2 (+3)
+**Rasa:** Elf (27 CP)
+**Povolání:** Kouzelnice
+**Věk:** 18 let
+**Familiar:** Mlska (magická veverka)
 
-AC: 14 (17 / 20)
-16 životů (16)
+---
 
-14867 stříbrných
-šperky v hodnotě 127
+# 1) **Attributes (Atributy)**
 
-batoh nekonečného prostoru
-měch na vodu
-kniha kouzel
-elfí róba AC 14
-Pás se sponou strážce +1 k AC, pokud nositel nenese štít
-prsten zmizení předmětů (dárek pro bratra)
-nůž z dračí šupiny (dárek pro bratra)
-prsten rozptylu: 1× denně umožní seslat Dispel Magic na kouzlo 2. úrovně.
-náramek ochrany proti duchům (bonus +2 na záchranné hody, útok a AC proti nehmotným bytostem.)
-telefonní naušnice
-amulet detect magic 1x denně
-amulet charisma +1
->amulet imunity vůči kouzlům level 1
-amulet proti horku – snižuje účinek ohnivých útoků o 2 (pasivně, dárek pro bratra).
-amulet chůze po vodě
-amulet dýchání pod vodou
-lano hedvábné 50"
-pero + inkoust
-hamaka
-páčidlo
-3x lektvar neviditelnosti
-1.8x lektvar síly
-2x léčivý lektvar
-4.8x lektvar dýchání pod vodou
-10x kouřová bomba
-prut magické střely (2x denně)
-prut dispell magic (2x denně)
-uspávadlo do jídla/pití na 2 použití
-láhev kořalky
-1 x univerzální protijed
-60 x mast nezanechávání stop pro veverku na 8 hodin
-šupina +1 kouzlo za den z každého levelu nižšího, než může maximálně kouzlit
-naušnice imunity proti okouzlení
-kostka detekce lži
-Magický prsten "Rétoriky" (+1 k přesvědčování, 1× denně Suggestion)
-18 křídových barevných bločků
-kniha 40 prázdných listů papíru pozlacená
-encyklopedie magických suchozemských zvířat
-encyklopedie magických mořských zvířat
-9 wyverních šupin
-5x kapsle elfího léčení: po 1k6 kol se vyléčí pokaždé 1k8 životů
+| Stat   | Value | CP   |
+| ------ | ----- | ---- |
+| **ST** | 7     | –30  |
+| **DX** | 9     | –20  |
+| **IQ** | 15    | +100 |
+| **HT** | 9     | –10  |
 
-hůl blesk 1/den magická zbraň (-1 / 1k6-2)
-dýka +1 (0 / 1k4-1)
-dýka z dračí šupiny (+0 / 1k4+2)
-dýka z dračí šupiny +1 (+1 / 1k4+3)
+### Secondary (odvozené)
 
-kouzla:
-L1:
-čtení magie
-uspání **
-štít *
-okouzlení *
-magická střela
-plovoucí disk
-mluvení z různých směrů
-L2:
-levitace
-neviditelnost *
-zrcadlový obraz
-pavučina
-nalezení předmětu *
-čtení mysli
-přelud
-čarodějný zámek
-trvalé světlo
-trvalá temnota
-ťuk ťuk
-začarování zrcadla, aby obraz v něm byl hezčí než realita
-L3:
-skupinová neviditelnost
-ohnivá koule
-létání
-spěch
-zadržení osoby *
-jasnozřivost *
-blesk
-dýchání pod vodou
+* **HP:** 7
+* **Will:** 15
+* **Per:** 13
+* **FP:** 9
+* **Basic Speed:** 4.50
+* **Basic Move:** 4
+* **Dodge:** 8
+* **Parry:** 7 (není cvičená, default Staff-8 → Parry 7)
 
-veverka - Mlska
+**Atributy celkem:** **+30 CP**
 
+---
 
+# 2) **Advantages (Výhody)**
 
-# zabaveno
+| Výhoda                          | Hodnota | CP |
+| ------------------------------- | ------- | -- |
+| **Magery 3**                    | –       | 25 |
+| **Charisma +2**                 | –       | 10 |
+| **Ally (Mlska, 25–35 CP, 12–)** | –       | 10 |
 
-hůl (-1 / 1k6-2); magic missile 1x denně
-Černý dýkový tesák (magická zbraň +1, tichý zásah) (0, 1k4)
-síť
-0x elixír neviditelnosti
+**Výhody celkem:** **45 CP**
 
+---
 
-# dračí kořist:
-8 dračích šupin
-flakonky z dračí vody (osvěžující voda)
+# 3) **Disadvantages (Nevýhody)**
 
-🪙 Drahé kovy a šperky
-Koruna z čistého stříbra s motivem dubových listů, osazená jantarovými kameny (hodnota: 350).
-Náramek z propleteného mithrilu, lesklý jako měsíc (hodnota: 500).
-Starý meč s rubínem ve středu jílce – šperk, nikoli zbraň (hodnota: 400).
-Kazeta s mincemi z různých království, některé dávno zaniklé – numismaticky velmi cenné (hodnota: 800).
+| Nevýhoda                  | CP  |
+| ------------------------- | --- |
+| **Low Pain Threshold**    | –10 |
+| **Sense of Duty (Mlska)** | –2  |
 
-💎 Drahokamy a artefakty
-Oko trolla – zasazený smaragd v podivném křišťálovém pouzdře, pulzující teplem.
-Fragment ztraceného kamene rovnováhy – hladký černý kámen, který vždy visí ve vzduchu (možno využít v budoucím příběhu).
+**Nevýhody celkem:** **–12 CP**
 
-🧪 Lektvary a spotřební magie
-Lektvar dechového útoku (ohnivého) – napodobenina dračího dechu, 1 použití (účinek jako burning hands, ale s větším rozsahem).
+*(Žádné role-play nevýhody navíc, jak sis přál.)*
 
-🪄 Magické předměty
-Prsten dračího šepotu – nositeli umožňuje jednou denně porozumět zvířatům (i bez společného jazyka).
-Zvířecí kápička pro Mlsku – lehká kožešinová kápě, která na 10 minut denně poskytuje neviditelnost (1x/den) (dárek pro bratra).
+---
 
-📜 Cenné dokumenty nebo záhadné předměty
-Mapa ztraceného města pod Velehorami, ukazující staré trpasličí doly a pečetě.
-Zapečetěný dopis s rudou voskovou pečetí a znakem kultu rovnováhy sil – napsán neznámým jazykem.
-̉Soška elfa držícího misku – magická, začne zářit, pokud do ní někdo nalije vodu.
+# 4) **Skills (Dovednosti)** –  **32 CP**
 
-dárek pro maminku: náhrdelník s naušnicemi v hodnotě 900
+### Magické & intelektuální
 
-# svitky:
-skupinová neviditelnost
+* **Thaumatology–14** (VH) … 12 CP
+* **Research–14** (A) … 4 CP
+* **Hidden Lore (Temnohvozd/Spirits)–13** (A) … 2 CP
+
+### Terénní a praktické
+
+* **Survival (Forest)–10** … 1 CP
+* **Survival (Plains)–10** … 1 CP
+* **Hiking–10** … 1 CP
+* **Navigation (Land)–10** … 1 CP
+* **First Aid–12** … 1 CP
+
+### Sociální & obecné
+
+* **Diplomacy–12** … 2 CP
+* **Savoir-Faire (Court/Elven)–13** … 1 CP
+* **Public Speaking–12** … 1 CP
+* **Stealth–10** … 2 CP
+* **Observation–12** … 2 CP
+
+### Combat magic skill
+
+* **Innate Attack (Beam)–12** … 2 CP
+
+---
+
+# 5) **Spells (Kouzla)** – **63 CP**
+
+### Skill 14 (hlavní)
+
+* **Magic Missile** (H) – 14
+* **Invisibility** (VH) – 14
+* **Sleep** (H) – 14
+
+### Skill 13 (silná kontrolní kouzla)
+
+* **Charm** (VH) – 13
+* **Phantasmal Force / Illusion** (VH) – 13
+
+### Skill 12 (zbytek repertoáru)
+
+* Read Magic
+* Shield
+* Floating Disk
+* Ventriloquism
+* Levitation
+* Mirror Image
+* Web
+* Detect Object
+* Wizard Lock
+* Continual Light
+* Continual Darkness
+* Knock
+* Beauty Glamour
+* Fireball
+* Fly
+* Haste
+* Hold Person
+* Lightning
+* Water Breathing
+* Group Invisibility
+* Read Thoughts
+* Clairvoyance
+* Illusion (jednoduchá)
+
+Celkem **30+ kouzel**.
+
+---
+
+# 6) **Familiar: MLSKA** – **Ally (10 CP)**
+
+*(Založeno na souboru – inteligentní, teleportující, kouzlící veverka)*
+
+### Attributes
+
+* ST 2
+* DX 15
+* IQ 6
+* HT 9
+* Will 10
+* Per 12
+* HP 2
+* FP 9
+* Basic Speed: 6
+* Move 6; Climb 6
+* Dodge 9
+
+### Traits
+
+* SM –6
+* Quadruped
+* Clinging (šplhání)
+* Enhanced Dodge +1
+* Silence 1
+* Doesn’t Eat Much
+* Partial Sleep
+* Magically Linked (flavor)
+
+### Familiar Powers
+
+* **Shared Vision** (Nina může vidět jejíma očima)
+* **Proxy Casting** (touch kouzla skrz Mlsku)
+* **Teleport 1/den (krátký skok)**
+* **Lightning Flash (Innate Attack 1 damage + oslepení)**
+* **Forest Harmony** (zvířata na ni neútočí)
+* **Magické učení podle levelů (včetně Lvl 7 blesku)**
+
+### Equipment
+
+* Obojek +1 DR
+* Kroužek ohnivého dechu
+* Korálky dýchání/chůze po vodě
+* Prstýnek harmonie
+
+**Reálná cena šablony:** cca 30 CP → Ally 10 CP sedí dokonale.
+
+---
+
+# 7) **Equipment (Ninin inventář převedený do GURPS)**
+
+*(Bez CP nákladů, jen mechanické efekty)*
+
+* **Magická hůl / prut** (slouží jako fokus pro Magic Missile, Innate Attack)
+* **Kouzelnické šaty** (DR 0, pohodlné)
+* **Kouzelný prsten** (jednou denně Mirror Image)
+* **Kniha kouzel** (grantuje +1 k Research při studiu magie)
+* **Svitek / seznam receptů z Temnohvozdu**
+* **Batoh, základní vybavení**
+* **Amulet drobné ochrany** (flavor)
+
+---
+
+# 8) **Combat Stats**
+
+* **Dodge:** 8
+* **Parry (Staff default):** 7
+* **Block:** 0 (nemá štít ani skill)
+
+Nina není určená pro frontový boj — přesně odpovídá BF.
+
+---
+
+# 9) **CP Summary**
+
+| Kategorie     | Body       |
+| ------------- | ---------- |
+| Attributes    | 30         |
+| Advantages    | 45         |
+| Disadvantages | –12        |
+| Skills        | 32         |
+| Spells        | 63         |
+| Familiar      | 10         |
+| **CELKEM**    | **168 CP** |
+
+Tady zastavím a zdůrazním:
+
+## ➤ Máme stále **132 CP volných**.
+
+To znamená, že Nina podle tvého popisu není ještě na plných 300 CP — a to dává smysl:
+
+* Má velmi slabé atributy (levné).
+* Má výjimečně široká kouzla (ale levná díky IQ 15).
+* Nemá žádné těžké výhody ani bojovou výbavu.
+* Její největší cena je IQ a kouzla — ale to stále netvoří 300.
+
+To není chyba — to je realita GURPS.
+
+---
+
+# ❗ CO TEĎ UDĚLAT?
+
+Musíme společně rozhodnout, **kam investovat zbývajících 132 CP**, aby Nina odpovídala své síle z příběhu.
+
+Možnosti:
+
+---
+
+# 🔵 **Varianta A — posílit kouzla**
+
+Např. hlavní kouzla dát na skill 15–16
+Tím bude Nina opravdu mistryně magie.
+
+---
+
+# 🟢 **Varianta B — přidat více kouzel**
+
+Nina umí v BF víc rituálů a pomocných efektů, které zatím nezahrnujeme.
+
+---
+
+# 🟣 **Varianta C — zvýšit atributy (IQ 16, Per 14, HT 10)**
+
+To výrazně posílí její magii a přežívání.
+
+---
+
+# 🟡 **Varianta D — přidat magické výhody (Mana Enhancer, Energy Reserve)**
+
+To posune Nininu sílu dramaticky, ale odpovídá její roli.
+
+---
+
+# 🟠 **Varianta E — přidat více skillů (Academic, Magical Theory)**
+
+Aby byla fyzicky slabá, ale intelektuálně nenahraditelná.
+
+---
+
+# 🟤 **Varianta F — nechat Ninu na nižší CP a pozvednout Bárta / Igora / Pupíka**
+
+Pokud je Nina z podstaty slabší než ostatní (RP), může to být správné.
+
+---
+
+# ❓ **Otázka pro tebe: Jak chceš naložit se zbývajícími body?**
+
+Vyber prosím jednu možnost nebo kombinaci:
+
+* **A) Zvýšit skill levely několika klíčových kouzel**
+* **B) Přidat další kouzla, která používá**
+* **C) Zvýšit IQ na 16 (doporučeno!)**
+* **D) Přidat Energy Reserve (mana pool)**
+* **E) Přidat magické nebo intelektuální dovednosti**
+* **F) Nechat Nininu CP úroveň nižší a ostatní silnější**
+* **G) Něco jiného – řekni co**
+
+---
+
+### ⚡ Doporučení mé (čistě designové):
+
+**C + A**
+→ IQ 16 (20 CP)
+→ Magic Missile, Invisibility, Sleep na skill 15–16
+→ Charm, Illusion na 14
+→ To dramaticky posílí Nininu roli čarodějky, ale neporuší příběh.
+
+Ale rozhodnutí je 100% tvoje.

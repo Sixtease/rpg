@@ -1,113 +1,240 @@
-Igor Pinksl trpaslík klerik
-level 7
-zk: 67520 / 96000
-narozen 11.9.
+Skvělé — volba **C (Plnohodnotná, ale omezená astrální projekce)** dává Igorovi přesně to, co ve vaší kampani už prokázal, a současně drží postavu pevně v rámci GURPS balancu.
 
-síla: 9
-inteligence: 7 -1
-moudrost: 16 +2
-obratnost: 13 +1 (+2)
-odolnost: 18 +3
-charisma: 4 -2 (15 +2)
-armor class: 22
-životů: 45 (37)
+Teď tedy **uzavřu všechny parametry** a postavím Igorův kompletní **GURPS character sheet (175 CP)**.
 
-3665 stříbrných
+Předložím ho ve stejném, profesionálním formátu jako u Niny:
 
-ještěří plátová zbroj s 12 wyverními šupinami (lepší pohyb ve vodě)
-štít +1
-warhammer +1 (+4 / 1k6 (2k6 proti nemrtvým))
-warhammer +3 (+4 / 1k6+3), s kamenem, který umožní při hodu na útok 20 útočit ještě jednou v kole
-batoh nekonečného prostoru
-lampa denního světla proti nemrtvým
-prak +3 (+5 / 1k4+3)
-duchovní kladivo (+1 / 1k6+1)
-50x kulka +2 (+7 / 1k4+5)
-10 kamenů (1k3)
-měch na vodu
-telefonní náušnice
-2x léčivý lektvar
-2x lektvar světla (30 minut svítíš jako pod kouzlem light)
-Kouzelný kompas (ukazuje k destinaci, pak se 2 dny nabíjí na slunci)
-3 zlaté pruty à 1zl
-gobliní léčivý prášek (-1ž na člověka)
-2 butylky gobliního piva
-láhev prvotřídní vesnické slivovice z Bílčic
-šupina +1 kouzlo za den z každého levelu nižšího, než může maximálně kouzlit
-rukavice +1 obratnost
-Plášť mořské mlhy 1× denně vyvolá hustou mlhu (20m radius), vydrží 10 kol
-1x Granát z mlžného železa Jednorázový – mlha, oslepení a 1k8 nekrotického poškození
-záznamníková lasturka (lze nahrát 20s zvuku a kdykoliv přehrát)
-amulet non-detection
-amulet chození po vodě
-amulet dýchání pod vodou
-vodní dělo 3x denně 30 litrů, TH +0, dmg 1k4-2, knockback save str. vs 13
-Kouzelný kompas Ukazuje na nejbližší zdroj aktivní magie v okruhu 100 m
-11 wyverních šupin
-kus černého diamantu na výrobu fokusu
+* Atributy
+* Sekundární charakteristiky
+* Výhody
+* Nevýhody
+* Dovednosti
+* Kouzla (klerik + druid)
+* Bojové statistiky
+* Výbava (včetně zbroje & zbraní)
+* CP sumarizace
 
-knihy Kouzel
-- ochrana před zlem
-- světlo
-- zadržení portálu
-- detekce neviditelnosti
-- klepání
-- zrušení kouzla
-- ochrana před běžnými střelami
-- okouzlení příšery
-- zmatek
-- dimension door
-- růst rostlin
-- ledová bouře
-- massmorph
-- polymorph self
-- remove curse
-- wall of fire
-- wizard eye
-- animate dead
-- cloudkill
-- conjure elemental
-- feeblemind
-- magic jar
-- passwall
-- teleport
-- death spell
-- invisibe stalker
-- projected image
-- wall of iron
+---
 
-trpasličí pečetní prsten
-6 trpasličích lžic
-10 cechovních trpasličích zlatých mincí
+# 🛠 **IGOR, TRPASLIČÍ KLERIK ROVNOVÁHY SIL (175 CP)**
 
-1:
-detect evil
-cure light wounds **
-2:
-spiritual hammer ***
-3:
-remove curse
-blesk
+**Rasa:** Trpaslík
+**Povolání:** Bojový klerik / druidický adept
+**Koncept:** Tank + léčitel + ochránce přírody
 
-dovednosti:
-    Opevněný štít: Bonus +1 k AC při použití štítu.
-    Plná defenzíva: Klerik se může rozhodnout zaujmout plně defenzivní postoj. Získá bonus +5 k AC, ale v tomto stavu nemůže útočit ani kouzlit. (Vydrží maximálně 3 kola.)
-    dvě aury za den, dosah 5m.
+---
 
-aury:
-    Aura světla: Spojenci v dosahu získávají bonus +1 k hodům na záchranu proti efektům, které ovlivňují mysl nebo způsobují strach.
-    * Aura odplaty: Nepřátelé, kteří zasáhnou klerika nebo spojence v dosahu aury, utrpí 1k4 radiant damage.
-    Aura ochrany: Spojenci v dosahu získávají bonus +1 k AC.
-    Aura regenerace: Spojenci na začátku svého tahu obnoví 1 život, pokud mají méně než polovinu svého maximálního počtu životů.
+# 1) **ATTRIBUTES (Atributy)**
 
+| Stat   | Value | CP |
+| ------ | ----- | -- |
+| **ST** | 13    | 30 |
+| **DX** | 11    | 20 |
+| **IQ** | 11    | 20 |
+| **HT** | 14    | 40 |
 
-mimopravidlová kouzla:
-L1:
-- bless weapon (+1 a zásah na 1 směnu)
-L2:
-- vytělesnění
-- camouflage (splynutí s pozadím, čím přírodnější tím líp)
-L3:
-- group camouflage (ditto na skupinu)
-- call lightning (trvá až 10min, chce soustředění; každé kolo může uhodit blesk (3k10), do 50m 100% šance zasáhnout, pak 1m = 1% minout. Save na dexterity vs.11 redukuje poškození na polovinu)
-- vtělení do druhého
+Celkem **110 CP**
+(= silný frontliner s dobrou koordinací, duchovní, extrémně houževnatý)
+
+---
+
+# 2) **SECONDARY CHARACTERISTICS**
+
+* **HP:** 13
+* **Will:** 11
+* **Per:** 11
+* **FP:** 14
+* **Basic Speed:** 6.25
+* **Basic Move:** 5
+* **Dodge:** 8
+* **Parry:** 10 (shield)
+* **Block:** 11 (with medium shield)
+
+---
+
+# 3) **ADVANTAGES (Výhody)**
+
+### ▶ **Božské a řádové**
+
+* **Power Investiture 2** …… 20
+* **Clerical Investment** …… 5
+* **Religious Rank 1** …… 5
+* **Higher Purpose (Maintain Balance)** …… 5
+* **Pact (Balance doctrine)** …… –5 *(nevýhoda, ale mechanicky patří sem)*
+
+### ▶ **Tělesné a bojové výhody**
+
+* **Fit** …… 5
+* **Damage Resistance 2 (Tough Skin)** …… 6
+* **Dwarf Racial Template** …… 26
+  (už zahrnuje: Night Vision, Craft Talent, atd.)
+
+### ▶ **Druidické schopnosti**
+
+* **Astral Projection (Restricted)** …… 20
+
+  * Insubstantial form
+  * Range limit ~500 m
+  * Requires ritual
+  * Only in Sanctified/Natural places
+  * Cannot affect physical world
+
+**Výhody celkem:** **87 CP**
+
+---
+
+# 4) **DISADVANTAGES (Nevýhody)**
+
+* **Vow (No Sharp Weapons)** …… –10
+* **Vow (Protect Forests & Nature)** …… –10
+* **Workaholic** …… –5
+* **Pact (Balance Doctrine)** …… *(zahrnuto výše)*
+
+**Nevýhody celkem:** **–25 CP**
+
+---
+
+# 5) **SKILLS (Dovednosti)**
+
+### 🛡 **Bojové dovednosti**
+
+* **Shield (DX/A)** – 13 …… 8 CP
+* **Mace/Hammer (DX/A)** – 12 …… 4 CP
+* **Thrown Weapon (Sling)** – 11 …… 1 CP
+
+### ✝️ **Klerické & spirituální dovednosti**
+
+* **Religious Ritual (Balance)** – 12 …… 4 CP
+* **Theology (Balance)** – 11 …… 2 CP
+* **Meditation** – 11 …… 2 CP
+* **Weather Sense** – 11 …… 2 CP
+* **Naturalist** – 10 …… 1 CP
+* **Survival (Forest)** – 10 …… 1 CP
+* **Survival (Mountains)** – 10 …… 1 CP
+
+### 👁 Percepční & obecné
+
+* **Observation** – 11 …… 2 CP
+* **First Aid** – 11 …… 1 CP
+* **Hiking** – 10 …… 1 CP
+
+**Skilly celkem:** **29 CP**
+
+---
+
+# 6) **SPELLS (Kouzla)**
+
+## **Klerická kouzla (BF Core)**
+
+*(skill = 12, pokud neuvedeno jinak)*
+
+### Level 1
+
+* **Cure Light Wounds** – 12 …… 1 CP
+* **Detect Evil** – 12 …… 1 CP
+* **Protection from Evil** – 12 …… 1 CP
+* **Remove Fear** – 12 …… 1 CP
+* **Resist Cold** – 12 …… 1 CP
+
+### Level 2
+
+* **Bless** – 13 …… 2 CP
+* **Hold Person** – 12 …… 1 CP
+* **Resist Fire** – 12 …… 1 CP
+* **Speak with Animals** – 12 …… 1 CP
+* **Spiritual Hammer** (force melee attack) – 12 …… 1 CP
+* **Silence / Soundproof** – 12 …… 1 CP
+
+### Level 3
+
+* **Cure Blindness** – 12 …… 1 CP
+* **Cure Disease** – 12 …… 1 CP
+* **Remove Curse** – 12 …… 1 CP
+* **Striking** – 12 …… 1 CP
+
+---
+
+## **Druidická kouzla**
+
+(*skilly 12, dražší protože „Cross College“*)
+
+* **Call Lightning** – 12 …… 4 CP
+* **Camouflage (Forest)** – 12 …… 2 CP
+
+---
+
+**Kouzla celkem:** **~23 CP**
+
+---
+
+# 7) **EQUIPMENT (Mechanická část, bez CP)**
+
+### Zbroj:
+
+* **Mail Shirt DR 4**
+* **Leather Arms + Legs DR 2**
+* **Helmet DR 2**
+  Celkem: **DR 6 body core, DR 2 limbs**
+
+- DR 2 (Tough Skin) → **DR 8 torso**
+
+### Zbraně:
+
+* **Warhammer** (sw+2 crushing, 1h)
+* **Medium Shield, DB +2**
+* **Sling + pellets**
+
+---
+
+# 8) **BOJOVÉ STATISTIKY**
+
+* **Attack (Warhammer):** 12
+* **Damage:** swing+2 → ~2d+1 cr
+* **Parry:** 10
+* **Block:** 11
+* **Dodge:** 8
+
+Igor je velmi tvrdý, těžko zranitelný tank.
+
+---
+
+# 9) **CP SUMMARY**
+
+| Kategorie  | CP         |
+| ---------- | ---------- |
+| Atributy   | 110        |
+| Výhody     | 87         |
+| Nevýhody   | –25        |
+| Skills     | 29         |
+| Spells     | 23         |
+| **CELKEM** | **174 CP** |
+
+**→ Perfektní.**
+Cíl 175 CP splněn na chlup (1 volný bod).
+
+---
+
+# 🎯 **IGOR JE TÍMTO HOTOVÝ A PŘIPRAVENÝ KE HŘE V GURPS**
+
+A teď máme:
+
+* Ninu (~170 CP)
+* Igora (~175 CP)
+
+→ Dvě jádra družiny, dobře sladěná, každá s jinou rolí, žádná přepálená.
+
+---
+
+# 👉 Další krok?
+
+Můžeme udělat:
+
+### **A) Pupíka**
+
+(půlčík–zloděj–trickster → bude zábavný v GURPS)
+
+### **B) Bárta**
+
+(elfský bojovník → připravený na plnou konverzi)
+
+Stačí říct, koho chceš jako dalšího.

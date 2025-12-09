@@ -1,51 +1,183 @@
-Pupík Tichošlap půlčík zloděj
-level 7
-60500 / 80000 zk
-narozen 22. července, věk 31 rok
+Rozumím — **Easy to Read** pryč.
+To je dobré rozhodnutí: Pupík má být **mazaný malý darebák**, ne otevřená kniha.
 
-síla: 9
-inteligence: 6 -1
-moudrost: 15 +2
-obratnost: 18 +3
-odolnost: 15 +2
-charisma: 6 -1
+Tím pádem:
 
-AC: 16 (18)
-48 životů (48)
+* +10 CP zpět
+* Pupík je teď **175 CP přesně**, protože jsme měli 165 CP před odebráním a teď přičteme 10 CP.
 
-8980 stříbrných
-šperky v hodnotě 666
-trpasličí šek v hodnotě 5000
+Třetí nevýhoda navíc není nutná — Pupík funguje skvěle i s lehkým nevýhodovým profilem.
 
-dýka +1 jedová (th +4 dmg 1k4+4)
-krátký luk TH +5
-50 šípů dmg 1k6
-18 injekčních šípů
-batoh
-kotva
-50" hedvábné lano
-uspávací látka na 50 použití
-kouzelná lucerna od Niny
-zlodějské náčiní
-křesadlo
-náušnice
-plášť +2 skrývání
-0x lektvar neviditelnosti
-3x lektvar dýchání pod vodou
-1x lektvar dalekozrakosti
-1x léčivý lektvar 2d8+2
-šplhací rukavice
-zásoby na 7 dní
-měch na vodu
-totem větru 1x/den
-elfí šperky v hodnotě 500ag
-telefonní naušnice
-prsten kouzla zrcadlový obraz L5 1x/den
-tatranka břichomluvectví
-Tinktura nočního zraku – umožňuje vidění ve tmě na 6 hodin.
-Prsten s rubínem na pravém malíčku – Ring of Warmth (odolnost proti chladu)
+---
 
-dovednosti:
-    Dýkou k poškození bonus za obratnost místo síly.
-    Skrytá kapsa: Zloděj může bezpečně ukrýt malý předmět (např. dýku, minci, klíč) i při tělesné prohlídce.
-    Znalec lidí: Zloděj získává bonus +2 k hodům na vnímání záměrů postav v sociálních situacích.
+# ✅ **PUPÍK TICHOŠLAP — GURPS CHARACTER SHEET (175 CP)**
+
+**Rasa:** Půlčík (halfling)
+**Povolání:** Zloděj, průzkumník, lukostřelec
+**Styl hry:** Mrštný, chytrý, hodný, rád přemýšlí a řeší věci bez boje
+**Hráčka:** Azi
+
+---
+
+# 1) **ATTRIBUTES**
+
+| Stat      | Value | CP |
+| --------- | ----- | -- |
+| **ST 8**  | –20   |    |
+| **DX 14** | 80    |    |
+| **IQ 11** | 20    |    |
+| **HT 12** | 20    |    |
+
+**Total: 100 CP**
+
+Pupík: malý, křehký, chytrý, extrémně obratný.
+
+---
+
+# 2) **SECONDARY CHARACTERISTICS**
+
+* HP 8
+* FP 12
+* Will 11
+* Per 11
+* Basic Speed 6.5
+* Basic Move 5
+* Dodge 9
+
+---
+
+# 3) **RACE: HALFLING (+12 CP)**
+
+* Size Modifier –1
+* Silence 1
+* Night Vision 1
+* Acute Taste/Smell +1
+* Resistant to Fear +2
+* Basic Move –1
+
+---
+
+# 4) **ADVANTAGES (37 CP)**
+
+| Výhoda                                       | CP |
+| -------------------------------------------- | -- |
+| **Charisma +1**                              | 5  |
+| **Sensitive (Empathy – lite)**               | 5  |
+| **Catfall**                                  | 10 |
+| **Perfect Balance**                          | 15 |
+| **Perk: Hidden Pocket**                      | 1  |
+| **Perk: Dagger Finesse (use DX for damage)** | 1  |
+
+*Pupík je mrštný, roztomilý, intuitivní, vnímavý a velmi dobře „ztrácí věci do kapes“.*
+
+---
+
+# 5) **DISADVANTAGES (–16 CP)**
+
+| Nevýhoda                     | CP  |
+| ---------------------------- | --- |
+| **Increased Consumption 1**  | –10 |
+| **Sense of Duty (Party)**    | –5  |
+| **Quirk: Sentimental (Mom)** | –1  |
+
+**Easy to Read odstraněno.**
+
+---
+
+# 6) **SKILLS (42 CP)**
+
+### 🎯 **Combat**
+
+* **Short Bow – 17** …… 8 CP
+* **Knife – 14** …… 1 CP
+* **Brawling – 13** …… 1 CP
+* **Fast-Draw (Arrow) – 14** …… 1 CP
+
+### 🕵️‍♂️ **Thief / scout**
+
+* **Stealth – 16** …… 4 CP
+* **Lockpicking – 14** …… 4 CP
+* **Pickpocket – 14** …… 4 CP
+* **Traps – 12** …… 2 CP
+* **Escape – 13** …… 2 CP
+* **Climbing – 14** …… 2 CP
+* **Acrobatics – 13** …… 4 CP
+
+### 👁 **Perception-based**
+
+* **Detect Lies – 12** …… 2 CP
+* **Observation – 12** …… 2 CP
+
+### 🗣 **Social**
+
+* **Fast-Talk – 11** …… 1 CP
+* **Diplomacy – 11** …… 1 CP
+
+### 🌲 **Survival**
+
+* **Survival (Forest) – 11** …… 1 CP
+* **Hiking (DX-4) – 10** …… 1 CP
+
+**Total Skills: 42 CP**
+
+---
+
+# 7) **EQUIPMENT (běžná thief výbava)**
+
+* Short Bow (thr+2 imp)
+* 20 arrows (some blunted, some sharp)
+* Light knife (fine)
+* Rope 15 m
+* Thieves’ Tools
+* Tatranky (3× denní dávka)
+* Pytlík s drobnostmi
+* Soft boots (Stealth +1 situational)
+
+---
+
+# 8) **COMBAT STATS**
+
+* **Bow Attack:** 17 (18 if AoA Determined)
+* **Knife Attack:** 14
+* **Brawling Attack:** 13
+* **Parry (Knife):** 10
+* **Parry (Brawling):** 10
+* **Dodge:** 9
+* **Basic Move:** 5
+
+Pupík je **rychlý, přesný, nebezpečný na dálku a téměř nevysledovatelný zloděj.**
+
+---
+
+# 9) **CP SUMMARY**
+
+| Kategorie     | CP         |
+| ------------- | ---------- |
+| Attributes    | 100        |
+| Racial        | 12         |
+| Advantages    | 37         |
+| Disadvantages | –16        |
+| Skills        | 42         |
+| **TOTAL**     | **175 CP** |
+
+**⟶ Perfektně zarovnáno se zbytkem družiny.**
+
+Pupík je nyní:
+
+* nejlehkonohější postava
+* nejlepší zloděj / průzkumník
+* nejlepší střelec
+* unikátní osobnostně
+* přesně odpovídající tomu, jak ho hráčka hraje
+
+---
+
+# 🎉 Pupík je kompletní.
+
+Chceš nyní:
+
+### ✔ konverzi nějakého NPC do GURPS?
+
+### ✔ přepočítat ceny zbraní a výbavy podle tvé realistické ekonomiky?
+
+### ✔ nebo začít integrovat tyto GURPS postavy do tvého světa (např. bojové setkání, obtížnosti pastí)?

@@ -1,0 +1,113 @@
+Igor Pinksl trpaslík klerik
+level 7
+zk: 67520 / 96000
+narozen 11.9.
+
+síla: 9
+inteligence: 7 -1
+moudrost: 16 +2
+obratnost: 13 +1 (+2)
+odolnost: 18 +3
+charisma: 4 -2 (15 +2)
+armor class: 22
+životů: 45 (37)
+
+3665 stříbrných
+
+ještěří plátová zbroj s 12 wyverními šupinami (lepší pohyb ve vodě)
+štít +1
+warhammer +1 (+4 / 1k6 (2k6 proti nemrtvým))
+warhammer +3 (+4 / 1k6+3), s kamenem, který umožní při hodu na útok 20 útočit ještě jednou v kole
+batoh nekonečného prostoru
+lampa denního světla proti nemrtvým
+prak +3 (+5 / 1k4+3)
+duchovní kladivo (+1 / 1k6+1)
+50x kulka +2 (+7 / 1k4+5)
+10 kamenů (1k3)
+měch na vodu
+telefonní náušnice
+2x léčivý lektvar
+2x lektvar světla (30 minut svítíš jako pod kouzlem light)
+Kouzelný kompas (ukazuje k destinaci, pak se 2 dny nabíjí na slunci)
+3 zlaté pruty à 1zl
+gobliní léčivý prášek (-1ž na člověka)
+2 butylky gobliního piva
+láhev prvotřídní vesnické slivovice z Bílčic
+šupina +1 kouzlo za den z každého levelu nižšího, než může maximálně kouzlit
+rukavice +1 obratnost
+Plášť mořské mlhy 1× denně vyvolá hustou mlhu (20m radius), vydrží 10 kol
+1x Granát z mlžného železa Jednorázový – mlha, oslepení a 1k8 nekrotického poškození
+záznamníková lasturka (lze nahrát 20s zvuku a kdykoliv přehrát)
+amulet non-detection
+amulet chození po vodě
+amulet dýchání pod vodou
+vodní dělo 3x denně 30 litrů, TH +0, dmg 1k4-2, knockback save str. vs 13
+Kouzelný kompas Ukazuje na nejbližší zdroj aktivní magie v okruhu 100 m
+11 wyverních šupin
+kus černého diamantu na výrobu fokusu
+
+knihy Kouzel
+- ochrana před zlem
+- světlo
+- zadržení portálu
+- detekce neviditelnosti
+- klepání
+- zrušení kouzla
+- ochrana před běžnými střelami
+- okouzlení příšery
+- zmatek
+- dimension door
+- růst rostlin
+- ledová bouře
+- massmorph
+- polymorph self
+- remove curse
+- wall of fire
+- wizard eye
+- animate dead
+- cloudkill
+- conjure elemental
+- feeblemind
+- magic jar
+- passwall
+- teleport
+- death spell
+- invisibe stalker
+- projected image
+- wall of iron
+
+trpasličí pečetní prsten
+6 trpasličích lžic
+10 cechovních trpasličích zlatých mincí
+
+1:
+detect evil
+cure light wounds **
+2:
+spiritual hammer ***
+3:
+remove curse
+blesk
+
+dovednosti:
+    Opevněný štít: Bonus +1 k AC při použití štítu.
+    Plná defenzíva: Klerik se může rozhodnout zaujmout plně defenzivní postoj. Získá bonus +5 k AC, ale v tomto stavu nemůže útočit ani kouzlit. (Vydrží maximálně 3 kola.)
+    dvě aury za den, dosah 5m.
+
+aury:
+    Aura světla: Spojenci v dosahu získávají bonus +1 k hodům na záchranu proti efektům, které ovlivňují mysl nebo způsobují strach.
+    * Aura odplaty: Nepřátelé, kteří zasáhnou klerika nebo spojence v dosahu aury, utrpí 1k4 radiant damage.
+    Aura ochrany: Spojenci v dosahu získávají bonus +1 k AC.
+    Aura regenerace: Spojenci na začátku svého tahu obnoví 1 život, pokud mají méně než polovinu svého maximálního počtu životů.
+
+
+mimopravidlová kouzla:
+L1:
+- bless weapon (+1 a zásah na 1 směnu)
+L2:
+- vytělesnění
+- camouflage (splynutí s pozadím, čím přírodnější tím líp)
+L3:
+- group camouflage (ditto na skupinu)
+- call lightning (trvá až 10min, chce soustředění; každé kolo může uhodit blesk (3k10), do 50m 100% šance zasáhnout, pak 1m = 1% minout. Save na dexterity vs.11 redukuje poškození na polovinu)
+- vtělení do druhého
