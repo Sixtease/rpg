@@ -1,0 +1,29 @@
+# 🛠 **TRPASLÍK – Final Template**
+
+*Robustní stavba těla, řemeslníci, technicky zaměření. Nízký vztah k magii.*
+
+**Celková cena: 26 bodů**
+
+### **Atributy**
+
+* **HT +1** [10]
+* **DX –1** [-20]
+* **Per +1** [5]
+
+### **Výhody**
+
+* **Damage Resistance 1 (Tough Skin)** [3]
+* **Night Vision 2** [2]
+* **Temperature Tolerance 1** [1]
+* **Craft Talent 1** [5]
+
+### **Nevýhody**
+
+* **Stubbornness** [-5]
+* **Code of Honor (Guild/Craft)** [-5]
+* **Social Stigma (Minority)** [-5]
+
+### **Rysy**
+
+* **Short + SM –1** [0]
+* **Low-Mana Culture (Flavor Feature)** [0]

@@ -1,0 +1,198 @@
+# 📘 **GURPS WORLD PROFILE – verze 1.0 (definitivní)**
+
+*Oficiální referenční dokument pro konverzi kampaně do GURPS*
+
+---
+
+# 1. **Fyzikální parametry světa**
+
+### **Realita a fyzika**
+
+* Svět používá **realistickou GURPS fyziku**.
+* Gravitace, materiály a zranění se řídí standardními GURPS pravidly beze změn.
+* Neexistuje žádná „hrdinská fyzika“ — GURPS HP, FP a zranění platí bez úprav.
+* Magie neporušuje fyziku, pouze ji obchází pomocí standardních kouzel.
+
+---
+
+# 2. **Magické prostředí**
+
+### **Mana Level**
+
+* **Standard Mana (většina lidských zemí)**
+  – Kouzla se sesílají normálně.
+  – Magie je dostupná, ale vzácná.
+
+* **High Mana (Temnohvozd a některé prastaré lokace)**
+  – Kouzla se sesílají snadněji.
+  – Magická stvoření zde mají přirozenou výhodu.
+  – Magické experimenty a výuka mohou být zdejší specialitou.
+
+* **Low Mana (trpasličí subkontinent a vybraná průmyslová místa)**
+  – Kouzla mohou mít penalizaci nebo zvýšené energetické náklady.
+  – Trpaslíci sami žádné kouzelnické tradice skoro nemají — kulturně to odpovídá.
+
+### **Magický systém**
+
+* **Spells as Skills** (GURPS Magic)
+* Každé kouzlo je samostatná dovednost s vlastním požadavkem.
+* Vyžadují Magery jako talent.
+* Vysoká kouzla (3. úroveň a výše) jsou extrémně vzácná ve světě lidí.
+* Výuka probíhá u mistrů, mágů, druidů nebo přes grimoáry.
+
+### **Dostupnost magie**
+
+* Odhad: **1 kouzelník na 1500–2000 obyvatel**.
+* V Brance existuje **5 kouzelníků schopných kouzlit na 3. úrovni** – odpovídá settingu.
+* V Kamenici 1–2 schopní mágové, ale slabší úrovně.
+* Temnohvozd má největší koncentraci mágů.
+
+### **Společenské postavení magie**
+
+* Magie je **legální**, **respektovaná**, ale **vzácná**.
+* Kouzelníci fungují jako učenci, poradci, specialisté.
+* Zneužití magie je trestné.
+* Neexistuje lov čarodějnic, ale existují obavy z neznámého.
+
+---
+
+# 3. **Technologická úroveň (TL)**
+
+### **Lidé – TL 3 (vrcholný středověk)**
+
+* řemeslné cechy
+* přilby, zbroje, meče, luky a kuše
+* jednoduché mechanické stroje
+* žádný střelný prach v běžném použití
+* ekonomika odpovídá 13.–14. století
+
+### **Trpaslíci – TL 3 + specializace**
+
+* excelentní kovovýroba, hutnictví, strojnické znalosti
+* precizní uzamykací mechanismy
+* šifrování, pokročilé obchodní praktiky
+* žádná parní síla nebo experimentální technika
+* magie je u nich vzácná, někdy mírně podezřelá
+
+### **Elfové Temnohvozdu – TL 3 (magicky obohacený)**
+
+* technologie nepostupuje skrze stroje, ale skrze přírodu a magii
+* znalosti léčiv, rituálů, symbolů, astrálních fenoménů
+* materiály jako mithril-like kovy nebo magické dřevo jsou vzácné, ale funkční
+
+---
+
+# 4. **Ekonomika**
+
+### **Měna**
+
+* **Stříbrný (sp)** – hlavní oběživo
+* **Zlatý (zl)** – používá se pro dědictví, velké obchody, bankovnictví u trpaslíků
+
+### **Konverze na GURPS měnu**
+
+* **1 stříbrný = 100 GURPS $**
+* **1 zlatý = 2000 GURPS $**
+* **1 měděný = 10 GURPS $**
+
+Toto odpovídá zhruba středověké kupní síle a činí ekonomiku dobře kalibrovatelnou.
+
+### **Očekávané historické ceny (použitelné v GURPS)**
+
+*(orientační, přesné tabulky dodám až budeme implementovat inventáře postav)*
+
+* jednoduché jídlo na den: 5–10 $ (0.5–1 stříbrného)
+* nocleh v hostinci: 20–50 $ (2–5 stříbrných)
+* kůň (jezdecký): ca. **8000 $** (80 stříbrných)
+* kůň (válečný): **20 000+ $**
+* zbroj: drahá luxusní položka
+* meč: několik stříbrných dle kvality
+
+Tahle stupnice odpovídá historické realitě.
+
+---
+
+# 5. **Kultura a společnosti**
+
+### **Lidé**
+
+* hlavní mocenská rasa
+* politicky roztříštěná – města, knížectví, správci, cechy
+* náboženství existuje, ale magie jej přímo nedeterminuje
+* občas strach z lesních a divokých oblastí (Temnohvozd)
+
+### **Trpaslíci**
+
+* uzavřená, hierarchická společnost
+* důraz na tradici, řemesla, čest a práci
+* nyní zavádí modernizovaný bankovní systém (Benke!)
+* racionální, ale rezervovaní v otázkách magie
+
+### **Elfové Temnohvozdu**
+
+* hluboká kulturní magie, důraz na rovnováhu a přírodu
+* vysoká manu podporuje jejich tradiční praktiky
+* Radomírův dvůr = centrum magického poznání a duchovní autority
+* nedůvěra k lidským státům, zejména k expanzivní Kamenici
+
+---
+
+# 6. **Rasy – základní výchozí charakteristiky (templates budou následovat)**
+
+### **Lidé**
+
+* bez zvláštních úprav
+* kulturní výhody/nevýhody podle původu (např. branská, kamenická kultura)
+
+### **Trpaslíci**
+
+* fyzicky odolní, nízké těžiště, výborní řemeslníci
+* slabší v magii
+* silné sociální struktury a tradice
+
+### **Elfové**
+
+* vyšší citlivost na manu
+* lepší magická disciplína
+* slabší fyzická odolnost
+* silnější vnímání přírody, magie a symbolů
+
+---
+
+# 7. **Magická pravidla světa – rozšíření**
+
+### **Výuka magie**
+
+* probíhá individuálně (mistr → žák)
+* trvá týdny až měsíce na novou školu
+* Temnohvozd je jediný region s uceleným magickým systémem
+
+### **Grimoáry**
+
+* rodinné dědictví, velmi vzácné
+* obsahují specializované kouzla
+* mohou učit i bez živého mistra, ale pomaleji
+
+### **Magické předměty**
+
+* vzácné (Low Fantasy dojem ve Standard Fantasy světě)
+* většina pochází z Temnohvozdu nebo starých ruin
+* trpaslíci málo chápou magii, ale respektují její hodnotu
+* Kamenice chce magii zneužít politicky a vojensky
+
+---
+
+# 8. **Nebezpečí světa**
+
+### **Divoké kraje**
+
+* Temnohvozd: duchové, magická fauna, ruiny
+* Hory: draci, yeti, koboldi, wyrmové
+* Kamenické pohraničí: bandité, političtí agenti, hladové šelmy
+
+### **Hrozby**
+
+* kulturní konflikty: Kamenice vs. Temnohvozd
+* hrozba trpasličí finanční dominance
+* nestabilní magické obvody pod horami
+* kult rovnováhy sil (zatím tajemství v pozadí)

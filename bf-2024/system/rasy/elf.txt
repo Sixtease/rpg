@@ -1,0 +1,26 @@
+# 🟩 **ELF – Final Template**
+
+*Magicky senzitivní, subtilní, dlouhověcí.*
+
+**Celková cena: 27 bodů**
+
+### **Atributy**
+
+* **DX +1** [20]
+* **HT –1** [-10]
+
+### **Výhody**
+
+* **Magery 0** [5]
+* **Night Vision 3** [3]
+* **Longevity** [2]
+
+### **Nevýhody**
+
+*(Jak sis přál, pouze jedna základní hodnotová nevýhoda.)*
+
+* **Sense of Duty (Nature/Forest)** [-10]
+
+### **Rysy**
+
+* **Slim Build (Feature)** [0]

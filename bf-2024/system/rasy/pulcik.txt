@@ -1,0 +1,27 @@
+# 🟨 **PŮLČÍK – Final Template**
+
+*Malí, mrštní, odolní a zvídaví.*
+
+**Celková cena: 30 bodů**
+
+### **Atributy**
+
+* **DX +1** [20]
+* **ST –2** [-20]
+* **HT +1** [10]
+
+### **Výhody**
+
+* **Acute Hearing 1** [2]
+* **Silence 1** [5]
+* **Flexibility** [5]
+
+### **Nevýhody**
+
+* **Reduced Move –1** [-5]
+* **Curious (12-)** [-5]
+
+### **Rysy**
+
+* **SM –1** [0]
+* **Comfortable in Tight Spaces** [0]
