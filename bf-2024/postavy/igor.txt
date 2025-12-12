@@ -1,26 +1,10 @@
-Skvělé — volba **C (Plnohodnotná, ale omezená astrální projekce)** dává Igorovi přesně to, co ve vaší kampani už prokázal, a současně drží postavu pevně v rámci GURPS balancu.
-
-Teď tedy **uzavřu všechny parametry** a postavím Igorův kompletní **GURPS character sheet (175 CP)**.
-
-Předložím ho ve stejném, profesionálním formátu jako u Niny:
-
-* Atributy
-* Sekundární charakteristiky
-* Výhody
-* Nevýhody
-* Dovednosti
-* Kouzla (klerik + druid)
-* Bojové statistiky
-* Výbava (včetně zbroje & zbraní)
-* CP sumarizace
-
----
-
 # 🛠 **IGOR, TRPASLIČÍ KLERIK ROVNOVÁHY SIL (175 CP)**
 
 **Rasa:** Trpaslík
 **Povolání:** Bojový klerik / druidický adept
 **Koncept:** Tank + léčitel + ochránce přírody
+
+FREE CP: 1
 
 ---
 
@@ -40,10 +24,10 @@ Celkem **110 CP**
 
 # 2) **SECONDARY CHARACTERISTICS**
 
-* **HP:** 13
+* **HP:** 13 (8)
 * **Will:** 11
 * **Per:** 11
-* **FP:** 14
+* **FP:** 14 (13)
 * **Basic Speed:** 6.25
 * **Basic Move:** 5
 * **Dodge:** 8
@@ -171,10 +155,7 @@ Celkem **110 CP**
 
 ### Zbroj:
 
-* **Mail Shirt DR 4**
-* **Leather Arms + Legs DR 2**
-* **Helmet DR 2**
-  Celkem: **DR 6 body core, DR 2 limbs**
+* ** breast plate DR 6 **
 
 - DR 2 (Tough Skin) → **DR 8 torso**
 

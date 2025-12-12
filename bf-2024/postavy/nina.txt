@@ -5,6 +5,8 @@
 **Věk:** 18 let
 **Familiar:** Mlska (magická veverka)
 
+FREE CP 8
+
 ---
 
 # 1) **Attributes (Atributy)**
@@ -21,11 +23,11 @@
 * **HP:** 7
 * **Will:** 15
 * **Per:** 13
-* **FP:** 9
+* **FP:** 9 (5)
 * **Basic Speed:** 4.50
 * **Basic Move:** 4
-* **Dodge:** 8
-* **Parry:** 7 (není cvičená, default Staff-8 → Parry 7)
+* **Dodge:** 8 (10)
+* **Parry:** 7 (není cvičená, default Staff-8 → Parry 7) (9)
 
 **Atributy celkem:** **+30 CP**
 
@@ -190,6 +192,8 @@ Celkem **30+ kouzel**.
 * **Batoh, základní vybavení**
 * **Amulet drobné ochrany** (flavor)
 
+Magická róba DR 2
+
 ---
 
 # 8) **Combat Stats**
@@ -214,86 +218,3 @@ Nina není určená pro frontový boj — přesně odpovídá BF.
 | Familiar      | 10         |
 | **CELKEM**    | **168 CP** |
 
-Tady zastavím a zdůrazním:
-
-## ➤ Máme stále **132 CP volných**.
-
-To znamená, že Nina podle tvého popisu není ještě na plných 300 CP — a to dává smysl:
-
-* Má velmi slabé atributy (levné).
-* Má výjimečně široká kouzla (ale levná díky IQ 15).
-* Nemá žádné těžké výhody ani bojovou výbavu.
-* Její největší cena je IQ a kouzla — ale to stále netvoří 300.
-
-To není chyba — to je realita GURPS.
-
----
-
-# ❗ CO TEĎ UDĚLAT?
-
-Musíme společně rozhodnout, **kam investovat zbývajících 132 CP**, aby Nina odpovídala své síle z příběhu.
-
-Možnosti:
-
----
-
-# 🔵 **Varianta A — posílit kouzla**
-
-Např. hlavní kouzla dát na skill 15–16
-Tím bude Nina opravdu mistryně magie.
-
----
-
-# 🟢 **Varianta B — přidat více kouzel**
-
-Nina umí v BF víc rituálů a pomocných efektů, které zatím nezahrnujeme.
-
----
-
-# 🟣 **Varianta C — zvýšit atributy (IQ 16, Per 14, HT 10)**
-
-To výrazně posílí její magii a přežívání.
-
----
-
-# 🟡 **Varianta D — přidat magické výhody (Mana Enhancer, Energy Reserve)**
-
-To posune Nininu sílu dramaticky, ale odpovídá její roli.
-
----
-
-# 🟠 **Varianta E — přidat více skillů (Academic, Magical Theory)**
-
-Aby byla fyzicky slabá, ale intelektuálně nenahraditelná.
-
----
-
-# 🟤 **Varianta F — nechat Ninu na nižší CP a pozvednout Bárta / Igora / Pupíka**
-
-Pokud je Nina z podstaty slabší než ostatní (RP), může to být správné.
-
----
-
-# ❓ **Otázka pro tebe: Jak chceš naložit se zbývajícími body?**
-
-Vyber prosím jednu možnost nebo kombinaci:
-
-* **A) Zvýšit skill levely několika klíčových kouzel**
-* **B) Přidat další kouzla, která používá**
-* **C) Zvýšit IQ na 16 (doporučeno!)**
-* **D) Přidat Energy Reserve (mana pool)**
-* **E) Přidat magické nebo intelektuální dovednosti**
-* **F) Nechat Nininu CP úroveň nižší a ostatní silnější**
-* **G) Něco jiného – řekni co**
-
----
-
-### ⚡ Doporučení mé (čistě designové):
-
-**C + A**
-→ IQ 16 (20 CP)
-→ Magic Missile, Invisibility, Sleep na skill 15–16
-→ Charm, Illusion na 14
-→ To dramaticky posílí Nininu roli čarodějky, ale neporuší příběh.
-
-Ale rozhodnutí je 100% tvoje.

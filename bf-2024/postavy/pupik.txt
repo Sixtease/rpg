@@ -1,21 +1,11 @@
-Rozumím — **Easy to Read** pryč.
-To je dobré rozhodnutí: Pupík má být **mazaný malý darebák**, ne otevřená kniha.
-
-Tím pádem:
-
-* +10 CP zpět
-* Pupík je teď **175 CP přesně**, protože jsme měli 165 CP před odebráním a teď přičteme 10 CP.
-
-Třetí nevýhoda navíc není nutná — Pupík funguje skvěle i s lehkým nevýhodovým profilem.
-
----
-
 # ✅ **PUPÍK TICHOŠLAP — GURPS CHARACTER SHEET (175 CP)**
 
 **Rasa:** Půlčík (halfling)
 **Povolání:** Zloděj, průzkumník, lukostřelec
 **Styl hry:** Mrštný, chytrý, hodný, rád přemýšlí a řeší věci bez boje
 **Hráčka:** Azi
+
+Free CP: 0
 
 ---
 
@@ -79,8 +69,6 @@ Pupík: malý, křehký, chytrý, extrémně obratný.
 | **Increased Consumption 1**  | –10 |
 | **Sense of Duty (Party)**    | –5  |
 | **Quirk: Sentimental (Mom)** | –1  |
-
-**Easy to Read odstraněno.**
 
 ---
 

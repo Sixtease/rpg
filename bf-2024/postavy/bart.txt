@@ -1,21 +1,13 @@
-Perfektní — poslední úprava sedí výborně:
-
-* **zahodíme Spear**,
-* **dáme Brawling +1**, protože Bárt opravdu často bojuje holýma rukama (BF 15 % bojů),
-* mechanicky to posílí jeho *pěstní útoky* i *parry* v boji beze zbraně.
-
-Tohle přesně odráží jeho styl: když nemá meč, mlátí rukama.
-
-A teď už přichází slíbený výstup:
-
 ---
 
 # 🧝‍♂️ **BÁRT – GURPS CHARACTER SHEET (174 CP)**
 
-**Povolání:** Bojovník řádu Rovnováhy sil
+**Povolání:** Bojovník
 **Rasa:** Elf
 **Role:** Frontline DPS, agresivní melee, bojový berserk-without-berserk
 **Společník:** Rychlík (Ally – vlk)
+
+FREE CP: 1
 
 ---
 
@@ -70,8 +62,6 @@ A teď už přichází slíbený výstup:
 
 **Total disadvantages:** **–12 CP**
 
-*(Žádné RP-náročné nevýhody — mladý hráč bude mít snadné hraní.)*
-
 ---
 
 # 5) **COMBAT SKILLS**
@@ -96,8 +86,6 @@ A teď už přichází slíbený výstup:
 * **Axe/Mace – 12** …… 1 CP
 * **Broadsword – 12** …… 1 CP
 * **Knife – 12** …… 1 CP
-
-*(Spear odstraněn.)*
 
 **Combat skills total:** **22 CP**
 
@@ -145,18 +133,19 @@ A teď už přichází slíbený výstup:
 # 8) **EQUIPMENT**
 
 ### **Obouruční meč**
-
-* Damage: **sw+3 (→ 2d+3 cutting)**
+sekání:
+* Damage: **sw+3 (→ 2d+4 cutting=1.5x)**
 * Reach: 1,2
-* Parry: 0U
+
+bodání:
+* Damage: **thr+3 (→ 2d+4 impaling=2x)**
+* Reach: 2
+
+* Parry: 0 = 12
 
 ### **Zbroj**
 
-*(doporučená podle BF stylu, bez CP ceny)*
-
-* Hardened Leather DR 2 (torso, arms, legs)
-* Helmet DR 2
-* Optional: DR 3 torso brigandine if you prefer heavy load
+* Breast Plate DR 6
 
 ### **Misc**
 
@@ -177,25 +166,3 @@ A teď už přichází slíbený výstup:
 | Bojové skilly  | 22         |
 | Ostatní skilly | 6          |
 | **CELKEM**     | **174 CP** |
-
-**→ Tohle je přesně cílová hodnota (~175 CP)**
-→ Bárt je optimálně silný, ale ne přepálený.
-→ Balanc vůči Nině a Igorovi je perfektní.
-
----
-
-# 🎉 **BÁRT JE HOTOVÝ A PŘIPRAVENÝ PRO GURPS.**
-
-Silný, jednoduchý, jasně čitelný — perfektní pro mladého hráče.
-
----
-
-# 👉 Pokud chceš, můžeme teď:
-
-### ✔ převést Pupíka,
-
-### ✔ přenastavit vlčí schopnosti,
-
-### ✔ nebo projít a vyladit vybavení a ceny v rámci realistické ekonomiky.
-
-Stačí říct, kam vyrážíme dál!
