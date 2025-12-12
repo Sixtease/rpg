@@ -1,0 +1,64 @@
+ 
+  Hrachov Na První Pohled
+
+  - Nejbohatší ze západní trojice (Hraničky–Elévtery–Hrachov), ale s mindrákem z toho, že po nové karavanní přeložce proudí většina obchodní moci přes Kamenici (mista/okoli-kamenice/mesta.txt:94).
+  - Jeho rada si stále nárokuje roli „staršího bratra“, proto hraje na diplomacii, právo a drobné sabotáže namísto otevřené války (mista/okoli-kamenice/mesta.txt:94).
+  - Statky u hranice získal tím, že nabídl sedlákům ochranu, zfalšoval knihy a zasáhl rychleji než Kamenice; lidé mu za to dodnes dluží vděk (08-kamenice/05-obilna-zila/jak-kamenice-prisla-o-statky.txt:13).
+  - Vnitřně má město pověst pořádkumilovného a schopného, ale navenek je přebujelé sebevědomím a chronicky uražené, což zvyšuje napětí při každém kamenickém požadavku (08-kamenice/05-obilna-zila/jak-kamenice-prisla-o-statky.txt:68).
+
+  Čtvrti a Lokace
+
+  - Horní město: radnice se zasedací síní rady, pevná věž vyhlížející ke Kamenici a archiv, kde se skladují hrachovské kopie pozemkových listin a Kazovy padělky (08-kamenice/05-obilna-zila/zaznamy-o-danich.txt:127).
+  - Žernovské dvory: komplex sýpek, lisů a mýtnic, odkud se vyplácejí sedláci ze ztracených statků; jsou opancéřované strážnicemi a kontrolují i tok informací o sklizni (08-kamenice/05-obilna-zila/jak-kamenice-prisla-o-statky.txt:68).
+  - Písařská ulička: domy notářů, padělatelů a bývalých písařů jako Kaz, kteří obchodují s potvrzeními a znají slabiny daňových knih sedláků (08-kamenice/05-obilna-zila/zaznamy-o-danich.txt:95).
+  - Štolová čtvrť: zapadlý shluk dvorů nad starými doly, kde se Hlubináři ztrácejí v zázemí svých sympatizantů a odkud vede jedna z tajných cest k šachtám za hranicí (08-kamenice/05-obilna-zila/hlubinova-rota.txt:19).
+  - Hrachovský přívoz: brod a most přes hlavní řeku; zde se vybírá clo, město tu demonstruje „ochranu“ Dolního Brodu a zároveň testuje, jak moc je Igor ochoten vyjednávat (08-kamenice/05-obilna-zila/pozemkova-kniha.txt:173).
+  - Zahrada Tří strun: ornamentální park nad ústím starých štol; radniční drby tvrdí, že tam mizí kuriéři, což může postavy dovést k pravému úkrytu pozemkové knihy u Šachty U Tří Strun (08-kamenice/05-obilna-zila/pozemkova-
+    kniha.txt:96).
+
+  Mocenské Proud
+
+  - Obilní rada: cech obilníků vlastní „srovnávací knihu“ s přehledem dodávek a brání ji jako klenot; kdyby se Igor dostal k opisům, může dokázat, kdy vesnice přestaly dodávat Kamenici (08-kamenice/05-obilna-zila/zaznamy-o-
+    danich.txt:154).
+  - Purkmistrovo křídlo: pragmatičtí radní, co nechtějí válku, ale trvají na kompenzacích, protože sedláky reálně zachránili, když Kamenice selhala (08-kamenice/05-obilna-zila/jak-kamenice-prisla-o-statky.txt:68).
+  - Hlubinářská clique: dvojice radních kryje Jurana, aby měli „nepopiratelný důkaz“ o nepořádku v Kamenici; polovojenská rota není oficiální, ale dostává echo o vyjednáváních (08-kamenice/05-obilna-zila/hlubinova-rota.txt:42).
+  - Temnohvozdecký dohled: malá elfská komunita v dolní čtvrti spoléhá na nenápadné agenty jako Bárt a Nina, protože elfové mimo Hvozd jsou v Hrachově zranitelní a potřebují ochranu před městskou politikou (LLM/konverzace/pribehy-pro-
+    ninu-a-barta.txt:1649).
+  - Skrytý archivář: jeden z písařů ví, že originál pozemkové knihy existuje, a potají hledá stopu k šachtě U Tří Strun, protože se bojí Kazova vydírání (08-kamenice/05-obilna-zila/pozemkova-kniha.txt:42).
+  - Polní kaplan Temné kaple: snaží se urovnat spor přes církevní arbitráž, což může Igora legitimovat, pokud přinese svědectví sedláků a fragmenty knih výběrčích (08-kamenice/05-obilna-zila/zaznamy-o-danich.txt:95).
+
+  Klíčové NPC
+
+  - Purkmistr Orel Přeslička: mediátor mezi radnicí a obilníky; rád by uklidnil situaci, ale trvá na tom, že Kamenice musí nejdřív ukázat, že zvládne platit a hlídat své statky (mista/okoli-kamenice/mesta.txt:94).
+  - Darina Pluchová, cechmistryně obilních skladů: drží klíče od srovnávací knihy a chce přímou obchodní smlouvu s Igorem, která by legalizovala současný stav alespoň na přechodné období (08-kamenice/05-obilna-zila/zaznamy-o-
+    danich.txt:154).
+  - Kažimír „Kaz“ Šindler: mozek Hlubinářů, autor padělků a zloděj pozemkové knihy; rád se předvádí, ale skrývá se za fasádou písaře se zhýralou reputací (08-kamenice/05-obilna-zila/pozemkova-kniha.txt:42; 08-kamenice/05-obilna-zila/
+    hlubinova-rota.txt:106).
+  - Stanislava Hradišťská, radní pro „ochranné smlouvy“: jedna z těch, kdo Hlubináře kryjí; veřejně tvrdí, že se jen stará o sedláky, ale v soukromí organizuje falešné „záchranné“ výjezdy (08-kamenice/05-obilna-zila/hlubinova-
+    rota.txt:42).
+  - Jeho Milost Savel Vrane, pobočník chrámu: sleduje morální stránku sporu, rád vyslechne svědectví sedláků a může jim dát ochranu, pokud Igor dokáže, že padělky existují (08-kamenice/05-obilna-zila/jak-kamenice-prisla-o-
+    statky.txt:83).
+  - Taviel Darshi, elfská tkadlena: řeší diskriminaci elfů, zná vývěsky a šeptandu mezi Temnohvozdem a radnicí; pro Ninu je ideální kontakt do komunity, která sleduje pohyb čarodějů a Hlubinářů (LLM/konverzace/pribehy-pro-ninu-a-
+    barta.txt:1649).
+
+  Háčky pro Igora, Ninu a Bárta
+
+  - Igor může nabídnout dvouleté snížení daní a zřízení kamenické hlídky u brodu výměnou za předání kopií pozemkových listin, čímž napodobí ochranu, kterou Hrachov kdysi poskytl sedlákům (08-kamenice/05-obilna-zila/jak-kamenice-prisla-
+    o-statky.txt:68).
+  - Igorovo právní eso spočívá v nalezení originálu knihy u Šachty U Tří Strun; stačí získat stopu od některého písaře nebo Šepota a přinést dokumenty na radu měst (08-kamenice/05-obilna-zila/pozemkova-kniha.txt:96).
+  - Nina může ochránit elfskou čtvrť před zastrašováním tím, že odhalí Hlubinářské informátory a předá Temnohvozdu důkazy o hrozbách proti elfům (LLM/konverzace/pribehy-pro-ninu-a-barta.txt:1649; 08-kamenice/05-obilna-zila/hlubinova-
+    rota.txt:57).
+  - Bárt se může vetřít do Štolové čtvrti jako „dobrovolný průvodce“ a sledovat zásilky obilí, aby zjistil, kteří radní financují Hlubináře a kam se ztrácejí daně (08-kamenice/05-obilna-zila/zaznamy-o-danich.txt:127).
+
+  Scény K Odehrání
+
+  - Jednání na radnici: Igor předkládá svědectví sedláků, radní odpovídají padělky; hráči musí u stolu rozbít argument Kazovým podpisem nebo zmínkou o originálu (08-kamenice/05-obilna-zila/zaznamy-o-danich.txt:127).
+  - Noční návštěva Žernovských dvorů: infiltrujte sýpky, najděte dvojí účetnictví a připravte si cestu k osvobození obilí, které bylo „správně“ kamenické (08-kamenice/05-obilna-zila/zaznamy-o-danich.txt:154).
+  - Pronásledování v Štolové čtvrti: sledování bratrů Žilavých vede k tajnému vchodu, který se napojuje na šachty mířící k originální knize (08-kamenice/05-obilna-zila/pozemkova-kniha.txt:151; 08-kamenice/05-obilna-zila/hlubinova-
+    rota.txt:171).
+  - Elfská vigílie v chrámu: Nina a Bárt získají podporu temnohvozdeckých patronů tím, že zmaří pokus Hlubinářů zastrašit elfí rodiny a předají zprávu do Hvozdu (LLM/konverzace/pribehy-pro-ninu-a-barta.txt:1649).
+  - Zkouška brodu: Igor vysílá jezdeckou jednotku, aby nahradila hrachovskou hlídku; scéna ukáže, jak sedláci reagují, když poprvé za dlouhou dobu uvidí kamenické barvy na místě, kde je Hrachov zachránil (08-kamenice/05-obilna-zila/jak-
+    kamenice-prisla-o-statky.txt:72).
+
+  Takhle máš připravené prostředí se znatelnými body zájmu, frakcemi, NPC a scénami, které navazují na dosavadní děj a umožní ti plynule navázat v Hrachově. Další krok může být detailní mapa radnice nebo tah „jak se dostat k
+  Maliňákovi“, až budeš chtít rozvést konkrétní session.
