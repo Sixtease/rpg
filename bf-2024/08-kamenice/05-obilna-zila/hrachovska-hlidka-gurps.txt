@@ -1,0 +1,46 @@
+# Hrachovská rotující hlídka (GURPS)
+
+Průměrná hlídka, která objíždí sporné vesnice, má 8–10 jezdců. Vede ji seržant (nižší měšťan) a má jednoho písaře na zaznamenání stížností. Hlídka se zdrží ve vesnici 1–2 dny, poté jede dál. Níže jsou GURPS statbloky pro rychlé použití.
+
+---
+
+## Seržant Havel Steh (velitel hlídky)
+- **Attributes:** ST 12 [20]; DX 12 [40]; IQ 11 [20]; HT 12 [20]
+- **Secondary:** Will 12; Per 11; HP 12; FP 12; Basic Speed 6.0; Move 6
+- **Advantages:** Status 1 [5], Combat Reflexes [15], Born Soldier 1 [5], Rank 1 (městská stráž) [5]
+- **Disadvantages:** Sense of Duty (Hrachov & družina) [-10], Code of Honor (Soldier’s) [-10], Bad Temper (12-) [-10]
+- **Skills:** Broadsword-15 [12], Shield-14 [4], Riding (Horse)-14 [4], Leadership-13 [4], Soldier-13 [4], Tactics-12 [4], Diplomacy-11 [2], Intimidation-12 [2], Administration-11 [2], Observation-12 [2], Heraldry-10 [1]
+- **Gear:** šavle (1d+3 cut / 1d+1 imp), jezdecký štít (DB 2), kroužková hauberk + destičky (torso DR 4, končetiny DR 3), otevřená přilba (DR 4), jezdecké boty, krátké kopí pro výjezdy (1d+4 imp), pobočník nese listiny.
+- **Defenses:** Dodge 9; Parry (Broadsword) 11; Block 11.
+- **Poznámky:** Pokusí se nejprve vyjednat, ale při útoku velí beze zmatku. Má pravomoc zatknout a odvézt „rušitele pořádku“ do Hrachova.
+
+---
+
+## Jezdec rotař
+- **Attributes:** ST 11 [10]; DX 11 [20]; IQ 10 [0]; HT 11 [10]
+- **Secondary:** Will 10; Per 10; HP 11; FP 11; Basic Speed 5.5; Move 5 (na koni 7)
+- **Advantages:** Combat Reflexes [15]
+- **Disadvantages:** Duty (městská hlídka, 12-) [-10], Intolerance (kamenická správa) [-5], Code of Honor (Soldier) [-10]
+- **Skills:** Spear-13 [8], Broadsword-12 [4], Shield-12 [4], Riding (Horse)-12 [4], Soldier-11 [2], Observation-11 [2], Intimidation-10 [1], Carousing-10 [1]
+- **Gear:** krátké kopí (1d+3 imp), šavle (1d+2 cut), jezdecký štít (DB 2), kožená zbroj s kroužkovými prvky (DR 3), otevřená přilba (DR 3), 3 zápalné šipky, píšťalka. Každý má koně ST 24, HT 12, Armed (kopyta 1d+2 cr).
+- **Defenses:** Dodge 8; Parry (Broadsword) 10; Block 10.
+- **Poznámky:** Vždy je alespoň jeden jezdec určen jako posel. V boji používají kopí z koňského sedla, poté seskočí a tvoří štítovou linii.
+
+---
+
+## Písař Jan Vrbka (civilní člen hlídky)
+- **Attributes:** ST 9 [-10]; DX 10 [0]; IQ 12 [40]; HT 10 [0]
+- **Secondary:** Will 12; Per 12; HP 9; FP 10; Basic Speed 5.0; Move 5
+- **Advantages:** Eidetic Memory 1 [5], Legal Immunity (pověřenec radnice) [5]
+- **Disadvantages:** Cowardice [-10], Absent-Minded [-15], Pacifism (self-defense only) [-15]
+- **Skills:** Administration-13 [4], Law (Hrachov)-12 [4], Diplomacy-11 [2], Fast-Talk-11 [2], Writing-13 [2], Accounting-12 [2], Area Knowledge (Hrachovské statky)-13 [2], Observation-11 [2], Knife-10 [2]
+- **Gear:** kožená zbroj (DR 2), krátký meč (zpravidla pouze na oko), písařská brašna, pečetidla, svitky. Je chráněn dvěma jezdci.
+- **Defenses:** Dodge 7; Parry (Knife) 8.
+- **Poznámky:** Je hlavní vyjednávač – zaznamenává stížnosti sedláků a dokáže zastupovat hrachovskou radu. V boji panikaří, ale může se pokusit vyjednat příměří.
+
+---
+
+## Morálka a taktika hlídky
+- Hlídka se vyhne bitvě, pokud proti ní stojí výrazná převaha (GM: Will-3 roll; neúspěch → stáhnou se a přivedou posily). 
+- Pokud je písař ohrožen, seržant vyjednává příměří a nabídne odvod do Hrachova.
+- Demonstrace síly: po příchodu do vesnice vystaví hlídka prapor, přečte listinu „o ochraně Hrachova“ a vybere clo nebo daň. Pokud narazí na odpor, hrozí zatčením a odvezením ke smírčí radě.

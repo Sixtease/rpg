@@ -88,70 +88,49 @@ On ji **potřebuje**, aby měl páku na Hrachovské radní (vydírání), a aby 
 
 # 🟥 4. KDE JE KNIHA TEĎ
 
-Ne v Hrachově.
-Ne ve vesnicích.
+• Úkryt V Hrachově
 
-Tím by to bylo příliš jednoduché.
+  - Kniha je ve „Severní pokladnici“ – skrytém trezoru pod radnicí, založeném před sto lety. Přístup vede ze senátní síně (těžká vrata + dva zámky) a tajným schodištěm z kanceláře archiváře.
+  - Uvnitř je kamenná komora s železnou truhlou (dvě zámky + magická pečeť místního klerika). Kniha leží v mosazném tubusu spolu s dalšími spornými listinami; Kaz tam občas chodí připravovat padělky.
+  - Stráž: nahoře běžná radniční hlídka (4 strážní na směnu). U trezoru sedí dvojice zkušených stráží (GURPS: ST 12, DX 11, Chain Mail DR 4, Broadsword-14, Watch-12) a jeden písař s klíči. Každou noc kontroluje pokladnici purkmistr nebo
+    jím pověřený radní.
 
-Kaz vytvořil **úložiště v opuštěné šachtě starého dolu**, který kdysi dal jméno celé skupině:
+  Cesty Ke Znovuzískání
 
-### **→ Šachta U Tří Strun**
+  1. Vyšetřovací linie
+      - Stopa: svědectví Maliňáka/Rotařů, že Kaz nosil tubus do radnice; účetní záznamy o nočních návštěvách pokladnice.
+      - Scény: vyslechnout sloužící radnice, najít tajné schodiště (Skrytý přechod DC 13 nebo GURPS Per+Search), získat kopiář vstupních záznamů.
+      - Následek: Igor získá důkaz, že kniha není spálená → může žádat inspekci či soud; radní reagují zpřísněním ostrahy.
+  2. Diplomatická linie
+      - Stopa: požádat Vikářov/adamovickou radu o společnou inspekci „sporných listin“, opřít se o výpovědi sedláků a fragmenty knih výběrčích.
+      - Scény: veřejné slyšení v Hrachově, kde Igor předloží důkazy; Nina/Bárt podporují svědky, Hrachov musí otevřít trezor „kvůli nezávislému přezkumu“.
+      - Následek: když Igor uspěje, kniha je vydána legálně. Pokud ne, Hrachov alespoň přizná existenci trezoru → další linie má legitimitu.
+  3. Infiltrační linie
+      - Stopa: zjistit rotaci stráží, získat klíče (podplacení seržanta, okopírování pečetě), případně využít astrální projekci k mapování trasy.
+      - Scény: plížení do radnice během festivalu či bouře; deaktivace magické pečeti (Igorova PI, Remove Curse nebo dosažení radního klerika); otevření truhly a výměna tubusu za falešný.
+      - Následek: úspěch → kniha propašována ven, Igor má právní eso. Neúspěch → poplach, Hrachov obviní Kamenici z krádeže → hrozba války.
+  4. Kompromitování Kaze
+      - Stopa: Kaz má tajné dluhy/písařky; lze ho chytit s padělky (GURPS: Fast-Talk vs Detect Lies).
+      - Scény: odhalení tajné dílny, nabídka imunity výměnou za vrácení knihy nebo klíče; Juran ho může vydat, pokud ho Igor přetáhne na svou stranu.
+      - Následek: Kniha se dostane k Igoru přes politický obchod – Hrachov zachová tvář, ale Kaz padne.
+  5. Hrdinská výměna
+      - Stopa: radní potřebují něco jiného (např. ochranu před bandity nebo obchodní smlouvu).
+      - Scény: Igor přinese řešení – např. rozbije Hlubináře, zajistí novou obchodní cestu – výměnou za vrácení listin; radní mohou argumentovat „vracíme, protože Kamenice konečně prokázala kompetenci“.
+      - Následek: Vesnice se vrací bez krve, zůstává napětí ale možnost budoucí spolupráce.
 
-*(název podle zvuku větru, který se v dole ozývá jako tři tóny)*
+  Kapitola: Bitva O Pozemkovou Knihu
 
-Nachází se:
-
-* **2 km severně od hranice Dolního Brodu**,
-* skrytá pod sesutou stěnou svahu,
-* zná ji jen Juran, Kaz a Tomašek.
-
-**Kniha je uložena:**
-
-* v plechové schránce,
-* v boční štole,
-* za dřevěnou stěnou přikrytou hlínou a trávou,
-* spolu s několika dalšími „kompromitujícími“ věcmi.
-
-**Navíc ji chrání:**
-
-* jednoduchá past z polena a šňůry,
-* několik tunelů jsou nestabilní,
-* občas tam táboří bratři Žilaví.
-
-Dungeonový potenciál: středně těžký, ale ne přehnaný.
-
----
-
-# 🟥 5. JAK SE K NÍ DÁ DOSTAT
-
-Musí být splněno aspoň jedno:
-
-### ✔ A) Získat Maliňáka (Tobiášek)
-
-– řekne, kudy se leze do šachty
-– zná přesně, kam knihu donesl
-– má z traumatu dodnes noční můry
-
-### ✔ B) Získat výpověď od Vítězslava Šepota
-
-– ví o skrýších, ale ne přesně
-– dá zkazku: „Za tři tóny skály najdeš, co hledáš.“
-
-### ✔ C) Oskar Pomezník (pomezník u Kamenického dílu)
-
-– ví, že Hrachovští často mizí „u staré štoly“
-– může mít starou mapku
-
-### ✔ D) Vyšetřit padělky
-
-– Kaz udělal chybu:
-→ na padělaném dokumentu chybí drobná část pečeti z pozemkové knihy
-– to povede k hypotéze: „originál existuje“
-
-### ✔ E) Sledovat bratry Žilavé
-
-– viděni, jak táhnou pytle obilí do „kopců“
-– lze je sledovat k ústí šachty
+  1. Úvod: Hrachov drží knihu v Severní pokladnici radnice; Igor má fragmenty daňových knih, ale bez originálu nemá právní sílu.
+  2. Fáze 1 – Stopy: družina získá indicie (Maliňák, Kaz, radniční služebnictvo).
+  3. Fáze 2 – Volba cesty:
+      - A) Diplomatický nátlak
+      - B) Tajná infiltrace
+      - C) Kompromitovat klíčového hrachovského hráče (Kaz/Juran)
+      - D) Obchodní/válečná výměna
+  4. Fáze 3 – Akce v Hrachově: popsat scénu (rada, radnice, tajný podzemní komplex, stráže).
+  5. Fáze 4 – Úspěch/Následek:
+      - úspěch → Igor má knihu + veřejný důkaz; Hrachov musí jednat o navrácení statků; diplomacie regionu se mění (Adamovice a Vikářov sledují).
+      - selhání → Hrachov utuží ostrahu, obviní Kamenici z agresí; případně knihu přemístí (např. do citadely Donajníku); situace se vyhrotí.
 
 ---
 
