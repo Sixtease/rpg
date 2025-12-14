@@ -7,7 +7,9 @@
 **Role:** Frontline DPS, agresivní melee, bojový berserk-without-berserk
 **Společník:** Rychlík (Ally – vlk)
 
-FREE CP: 1
+FREE CP: 8
+
+6921 stříbrných
 
 ---
 
@@ -26,7 +28,7 @@ FREE CP: 1
 
 # 2) **SECONDARY CHARACTERISTICS**
 
-* **HP:** 15
+* **HP:** 15 (15)
 * **FP:** 11
 * **Will:** 10
 * **Per:** 10

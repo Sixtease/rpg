@@ -5,7 +5,9 @@
 **Věk:** 18 let
 **Familiar:** Mlska (magická veverka)
 
-FREE CP 8
+FREE CP 16
+
+17367 stříbrných
 
 ---
 
@@ -23,7 +25,7 @@ FREE CP 8
 * **HP:** 7
 * **Will:** 15
 * **Per:** 13
-* **FP:** 9 (5)
+* **FP:** 9 (9)
 * **Basic Speed:** 4.50
 * **Basic Move:** 4
 * **Dodge:** 8 (10)
@@ -110,11 +112,11 @@ FREE CP 8
 * Levitation
 * Mirror Image
 * Web
-* Detect Object
+* Seeker
 * Wizard Lock
 * Continual Light
 * Continual Darkness
-* Knock
+* Lockmaster
 * Beauty Glamour
 * Fireball
 * Fly

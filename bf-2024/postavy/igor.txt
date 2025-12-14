@@ -4,7 +4,9 @@
 **Povolání:** Bojový klerik / druidický adept
 **Koncept:** Tank + léčitel + ochránce přírody
 
-FREE CP: 1
+FREE CP: 11
+
+4815 stříbrných
 
 ---
 
@@ -24,10 +26,10 @@ Celkem **110 CP**
 
 # 2) **SECONDARY CHARACTERISTICS**
 
-* **HP:** 13 (8)
+* **HP:** 13 (13)
 * **Will:** 11
 * **Per:** 11
-* **FP:** 14 (13)
+* **FP:** 14 (14)
 * **Basic Speed:** 6.25
 * **Basic Move:** 5
 * **Dodge:** 8
@@ -161,7 +163,7 @@ Celkem **110 CP**
 
 ### Zbraně:
 
-* **Warhammer** (sw+2 crushing, 1h)
+* **Warhammer** (sw+2 = 2d+1 crushing, 1h)
 * **Medium Shield, DB +2**
 * **Sling + pellets**
 

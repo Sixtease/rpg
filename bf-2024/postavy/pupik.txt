@@ -2,10 +2,12 @@
 
 **Rasa:** Půlčík (halfling)
 **Povolání:** Zloděj, průzkumník, lukostřelec
-**Styl hry:** Mrštný, chytrý, hodný, rád přemýšlí a řeší věci bez boje
 **Hráčka:** Azi
 
-Free CP: 0
+Free CP: 3
+
+11480 stříbrných
+šperky v hodnotě 666
 
 ---
 
@@ -112,7 +114,7 @@ Pupík: malý, křehký, chytrý, extrémně obratný.
 
 # 7) **EQUIPMENT (běžná thief výbava)**
 
-* Short Bow (thr+2 imp)
+* Short Bow (thr+2 = 1d-1 imp)
 * 20 arrows (some blunted, some sharp)
 * Light knife (fine)
 * Rope 15 m

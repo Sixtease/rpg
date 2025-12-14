@@ -36,7 +36,7 @@ lano hedvábné 50"
 pero + inkoust
 hamaka
 páčidlo
-3x lektvar neviditelnosti
+1x lektvar neviditelnosti
 1.8x lektvar síly
 2x léčivý lektvar
 4.8x lektvar dýchání pod vodou
