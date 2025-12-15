@@ -5,7 +5,7 @@
 **Věk:** 18 let
 **Familiar:** Mlska (magická veverka)
 
-FREE CP 16
+FREE CP 6
 
 17367 stříbrných
 
@@ -18,15 +18,15 @@ FREE CP 16
 | **ST** | 7     | –30  |
 | **DX** | 9     | –20  |
 | **IQ** | 15    | +100 |
-| **HT** | 9     | –10  |
+| **HT** | 10    |   0  |
 
 ### Secondary (odvozené)
 
 * **HP:** 7
 * **Will:** 15
 * **Per:** 13
-* **FP:** 9 (9)
-* **Basic Speed:** 4.50
+* **FP:** 10 (10)
+* **Basic Speed:** 4.75
 * **Basic Move:** 4
 * **Dodge:** 8 (10)
 * **Parry:** 7 (není cvičená, default Staff-8 → Parry 7) (9)

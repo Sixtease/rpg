@@ -4,7 +4,7 @@
 **Povolání:** Bojový klerik / druidický adept
 **Koncept:** Tank + léčitel + ochránce přírody
 
-FREE CP: 11
+FREE CP: 0
 
 4815 stříbrných
 
@@ -114,15 +114,11 @@ Celkem **110 CP**
 
 *(skill = 12, pokud neuvedeno jinak)*
 
-### Level 1
-
 * **Cure Light Wounds** – 12 …… 1 CP
 * **Detect Evil** – 12 …… 1 CP
 * **Protection from Evil** – 12 …… 1 CP
 * **Remove Fear** – 12 …… 1 CP
 * **Resist Cold** – 12 …… 1 CP
-
-### Level 2
 
 * **Bless** – 13 …… 2 CP
 * **Hold Person** – 12 …… 1 CP
@@ -131,12 +127,21 @@ Celkem **110 CP**
 * **Spiritual Hammer** (force melee attack) – 12 …… 1 CP
 * **Silence / Soundproof** – 12 …… 1 CP
 
-### Level 3
-
 * **Cure Blindness** – 12 …… 1 CP
 * **Cure Disease** – 12 …… 1 CP
 * **Remove Curse** – 12 …… 1 CP
 * **Striking** – 12 …… 1 CP
+
+* **Itch** - 12 …… 1 CP
+* **Spasm** - 12 …… 1 CP
+* **Pain** - 12 …… 1 CP
+* **Clumsy** - 12 …… 1 CP
+* **Hinder** - 12 …… 1 CP
+* **Paralyze Limb** - 12 …… 1 CP
+* **Wither Limb** - 12 …… 1 CP
+* **Death Touch** - 13 …… 3 CP
+
+* **Seek Earth** - 12 …… 1 CP
 
 ---
 
