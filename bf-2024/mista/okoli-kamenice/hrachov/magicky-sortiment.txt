@@ -1,0 +1,7 @@
+Jarmilův krám - zastavárna / vetešnictví s několika magickými předměty
+
+  1. Šepotavý prsten – stříbrný prsten, který jednou denně umožní zašeptat větu a přenést ji adresátovi do ucha (dosah cca 300 m, musí být známý). Cena: 400 stříbrných.
+  2. Lampička věčného žáru – malá lucerna, která se rozsvítí na magické slovo a sama sežené olej nepotřebuje (svítí jako torch). Cena: 250 stříbrných.
+  3. Záplata obratnosti – pruh látky s runou, po přilepení na zbroj dává +1 k Dexterity-based skillu po dobu 1 hodiny (jednorázové). Cena: 120 stříbrných.
+  4. Flakónek s „mlžným krokem“ – jednorázový lektvar, po vypití umožní nositeli projít skrz dveře či mříž (efekt Passwall na jeden průchod). Cena: 600 stříbrných.
+  5. Ostří ohnivého polibku – obyčejný dýkový kotouč s uloženým Fireball do náhozu (Improvised grenado: 2d fire, aktivuje se hodem). Cena: 350 stříbrných.
