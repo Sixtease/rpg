@@ -7,9 +7,9 @@
 **Role:** Frontline DPS, agresivní melee, bojový berserk-without-berserk
 **Společník:** Rychlík (Ally – vlk)
 
-FREE CP: 8
+FREE CP: 2
 
-6921 stříbrných
+7921 stříbrných
 
 ---
 
@@ -50,6 +50,8 @@ FREE CP: 8
 | **Fit**                            | 5  |
 | **Ally (Rychlík – vlk, 12-)**      | 6  |
 | **Signature Gear (Obouruční meč)** | 1  |
+| **Legal Enforcements Power**       | 5  |
+| **Police Rank 2                    | 10 |
 
 **Total advantages:** **37 CP**
 
@@ -61,6 +63,7 @@ FREE CP: 8
 | --------------------------- | --- |
 | **Sense of Duty (Rychlík)** | –2  |
 | **Easy to Read**            | –10 |
+| **Duty**                    | -6  |
 
 **Total disadvantages:** **–12 CP**
 

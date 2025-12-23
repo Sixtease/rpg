@@ -6,7 +6,7 @@
 
 FREE CP: 0
 
-4815 stříbrných
+5815 stříbrných
 
 ---
 
@@ -29,7 +29,7 @@ Celkem **110 CP**
 * **HP:** 13 (13)
 * **Will:** 11
 * **Per:** 11
-* **FP:** 14 (14)
+* **FP:** 14 (13)
 * **Basic Speed:** 6.25
 * **Basic Move:** 5
 * **Dodge:** 8
@@ -142,6 +142,9 @@ Celkem **110 CP**
 * **Death Touch** - 13 …… 3 CP
 
 * **Seek Earth** - 12 …… 1 CP
+* **Shape Earth** - 12 …… 1 CP
+* **Earth to Stone** - 12 …… 1 CP
+* **Flesh to Stone** - 12 …… 1 CP
 
 ---
 
