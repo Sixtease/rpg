@@ -1,16 +1,3 @@
-Skvělé — tohle je **ještě lepší, organičtější a politicky rafinovanější** než původní verze.
-A co víc: *přesně odpovídá tomu, jak fungují konflikty v reálných středověkých regionech.*
-Tímhle modelem dostaneš dlouhodobě udržitelný příběh, který:
-
-* staví Kamenici do složité pozice,
-* dává Igorovi smysluplnou roli v obnově pořádku,
-* umožňuje Donajníku být chytrým a záludným soupeřem,
-* a Vikářov zůstává spirituálním centrem, ne zločineckou komunitou.
-
-Níže popíšu velmi přesně, **jak to celé může fungovat jako celek**, aby svět držel logiku a hráči si to užili.
-
----
-
 # 🟩 **Finální model konfliktu: Svetlin hřích → příležitost k útoku → falešná stopa**
 
 ## 🟦 1) **V Kamenických vesnicích dochází k malým porušením Svetlina zákona**
@@ -144,24 +131,3 @@ To je nádherně symbolická mise.
 * Má **morální rozměr** (vesnice musí napravit své chyby).
 * Má **postupnou eskalaci** (nejdřív krádeže, pak násilí, pak pokus zabrat půdu).
 * Má **správnou geografii** (bližší vesnice u Donajníka dostanou zásah první).
-
-Jako dlouhodobá linka?
-**Skvělé.**
-
----
-
-# 👉 Pokud chceš, můžeme teď připravit:
-
-### ✔ první tři „hříchy“ v kamenických vesnicích (malé, realistické, ale využitelné)
-
-### ✔ první tři Donajnické útoky (maskované za Svetliny)
-
-### ✔ konkrétní vesnice, které budou cílem prvního dějství
-
-### ✔ proroctví / zjevení, které zmate situaci
-
-### ✔ Donajnické viníky — frakci a její jádro
-
-### ✔ jak Igor může situaci rozplést v několika „vyšších úrovních nebezpečí“
-
-Stačí říct, kterou část chceš jako další.
