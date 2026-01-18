@@ -12,7 +12,7 @@ charisma: 9
 AC 20
 52 životů (52)
 
-4421 stříbrných
+4371 stříbrných
 
 batoh
 měch na vodu

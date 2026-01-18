@@ -3,10 +3,11 @@
 **Rasa:** Trpaslík
 **Povolání:** Bojový klerik / druidický adept
 **Koncept:** Tank + léčitel + ochránce přírody
+narozen 11.9. věk 99 let
 
 FREE CP: 0
 
-5815 stříbrných
+5765 stříbrných
 
 ---
 
@@ -30,9 +31,9 @@ Celkem **110 CP**
 * **Will:** 11
 * **Per:** 11
 * **FP:** 14 (13)
-* **Basic Speed:** 6.25
-* **Basic Move:** 5
-* **Dodge:** 8
+* **Basic Speed:** 6.25 (6.5 magické rukavice)
+* **Basic Move:** 6 (5 náklad)
+* **Dodge:** 8 (9 magické rukavice)
 * **Parry:** 10 (shield)
 * **Block:** 11 (with medium shield)
 
@@ -84,9 +85,9 @@ Celkem **110 CP**
 
 ### 🛡 **Bojové dovednosti**
 
-* **Shield (DX/A)** – 13 …… 8 CP
-* **Mace/Hammer (DX/A)** – 12 …… 4 CP
-* **Thrown Weapon (Sling)** – 11 …… 1 CP
+* **Shield (DX/A)** – 13 (14 magické rukavice)
+* **Mace/Hammer (DX/A)** – 12 (13 magické rukavice)
+* **Thrown Weapon (Sling)** – 11 (12 magické rukavice)
 
 ### ✝️ **Klerické & spirituální dovednosti**
 
@@ -103,8 +104,6 @@ Celkem **110 CP**
 * **Observation** – 11 …… 2 CP
 * **First Aid** – 11 …… 1 CP
 * **Hiking** – 10 …… 1 CP
-
-**Skilly celkem:** **29 CP**
 
 ---
 
@@ -166,6 +165,7 @@ Celkem **110 CP**
 ### Zbroj:
 
 * ** breast plate DR 6 **
+ještěří plátová zbroj s 12 wyverními šupinami (lepší pohyb ve vodě)
 
 - DR 2 (Tough Skin) → **DR 8 torso**
 
@@ -175,57 +175,49 @@ Celkem **110 CP**
 * **Medium Shield, DB +2**
 * **Sling + pellets**
 
+### různé:
+
+štít +1
+warhammer +1 (+4 / 1k6 (2k6 proti nemrtvým))
+warhammer +3 (+4 / 1k6+3), s kamenem, který umožní při hodu na útok 4- útočit ještě jednou v kole
+batoh nekonečného prostoru
+lampa denního světla proti nemrtvým
+prak +3 (+5 / 1k4+3)
+50x kulka +2 (+7 / 1k4+5)
+měch na vodu
+telefonní náušnice
+2x léčivý lektvar
+2x lektvar světla (30 minut svítíš jako pod kouzlem light)
+Kouzelný kompas (ukazuje k destinaci, pak se 2 dny nabíjí na slunci)
+3 zlaté pruty à 1zl
+gobliní léčivý prášek (-1ž na člověka)
+láhev prvotřídní vesnické slivovice z Bílčic
+šupina +1 kouzlo za den z každého levelu nižšího, než může maximálně kouzlit
+rukavice +1 obratnost
+Plášť mořské mlhy 1× denně vyvolá hustou mlhu (20m radius), vydrží 10 kol
+1x Granát z mlžného železa Jednorázový – mlha, oslepení a 1k8 nekrotického poškození
+záznamníková lasturka (lze nahrát 20s zvuku a kdykoliv přehrát)
+amulet non-detection
+amulet chození po vodě
+amulet dýchání pod vodou
+vodní dělo 3x denně 30 litrů, TH +0, dmg 1k4-2, knockback save str. vs 13
+Kouzelný kompas Ukazuje na nejbližší zdroj aktivní magie v okruhu 100 m
+11 wyverních šupin
+kus černého diamantu na výrobu fokusu
+
+trpasličí pečetní prsten
+6 trpasličích lžic
+10 cechovních trpasličích zlatých mincí
+
 ---
 
 # 8) **BOJOVÉ STATISTIKY**
 
-* **Attack (Warhammer):** 12
-* **Damage:** swing+2 → ~2d+1 cr
-* **Parry:** 10
-* **Block:** 11
-* **Dodge:** 8
+* **Attack (Warhammer):** 12 (14 magické kladivo, rukavice)
+* **Attack (Brawling):** 7 (8 magické rukavice)
+* **Damage:** swing+2 → ~2d+1 cr (+1 magické kladivo)
+* **Parry:** 10 (11 magické rukavice)
+* **Parry (unarmed):** 6 (7 magické rukavice)
+* **Block:** 11 (13 magický štít, rukavice)
+* **Dodge:** 8 (9 magické rukavice)
 
-Igor je velmi tvrdý, těžko zranitelný tank.
-
----
-
-# 9) **CP SUMMARY**
-
-| Kategorie  | CP         |
-| ---------- | ---------- |
-| Atributy   | 110        |
-| Výhody     | 87         |
-| Nevýhody   | –25        |
-| Skills     | 29         |
-| Spells     | 23         |
-| **CELKEM** | **174 CP** |
-
-**→ Perfektní.**
-Cíl 175 CP splněn na chlup (1 volný bod).
-
----
-
-# 🎯 **IGOR JE TÍMTO HOTOVÝ A PŘIPRAVENÝ KE HŘE V GURPS**
-
-A teď máme:
-
-* Ninu (~170 CP)
-* Igora (~175 CP)
-
-→ Dvě jádra družiny, dobře sladěná, každá s jinou rolí, žádná přepálená.
-
----
-
-# 👉 Další krok?
-
-Můžeme udělat:
-
-### **A) Pupíka**
-
-(půlčík–zloděj–trickster → bude zábavný v GURPS)
-
-### **B) Bárta**
-
-(elfský bojovník → připravený na plnou konverzi)
-
-Stačí říct, koho chceš jako dalšího.

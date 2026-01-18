@@ -4,8 +4,9 @@
 **Povolání:** Kouzelnice
 **Věk:** 18 let
 **Familiar:** Mlska (magická veverka)
+narozena 20.12., věk 18 let
 
-FREE CP 9
+FREE CP 1
 
 18367 stříbrných
 
@@ -29,7 +30,7 @@ FREE CP 9
 * **Basic Speed:** 4.75
 * **Basic Move:** 4
 * **Dodge:** 8 (10)
-* **Parry:** 7 (není cvičená, default Staff-8 → Parry 7) (9)
+* **Parry:** (9) (Staff-12 → Parry 9) (11)
 
 **Atributy celkem:** **+30 CP**
 
@@ -184,25 +185,65 @@ Celkem **30+ kouzel**.
 
 # 7) **Equipment (Ninin inventář převedený do GURPS)**
 
-*(Bez CP nákladů, jen mechanické efekty)*
+14867 stříbrných
+šperky v hodnotě 127
 
-* **Magická hůl / prut** (slouží jako fokus pro Magic Missile, Innate Attack)
-* **Kouzelnické šaty** (DR 0, pohodlné)
-* **Kouzelný prsten** (jednou denně Mirror Image)
-* **Kniha kouzel** (grantuje +1 k Research při studiu magie)
-* **Svitek / seznam receptů z Temnohvozdu**
-* **Batoh, základní vybavení**
-* **Amulet drobné ochrany** (flavor)
+batoh nekonečného prostoru
+měch na vodu
+kniha kouzel
+elfí róba DR 2
+Pás se sponou strážce +1 k AC, pokud nositel nenese štít
+prsten zmizení předmětů (dárek pro bratra)
+nůž z dračí šupiny (dárek pro bratra)
+prsten rozptylu: 1× denně umožní seslat Dispel Magic na kouzlo 2. úrovně.
+náramek ochrany proti duchům (bonus +2 na záchranné hody, útok a AC proti nehmotným bytostem.)
+telefonní naušnice
+amulet detect magic 1x denně
+amulet charisma +1
+>amulet imunity vůči kouzlům level 1
+amulet proti horku – snižuje účinek ohnivých útoků o 2 (pasivně, dárek pro bratra).
+amulet chůze po vodě
+amulet dýchání pod vodou
+lano hedvábné 50"
+pero + inkoust
+hamaka
+páčidlo
+3x lektvar neviditelnosti
+1.8x lektvar síly
+2x léčivý lektvar
+4.8x lektvar dýchání pod vodou
+10x kouřová bomba
+prut magické střely (2x denně)
+prut dispell magic (2x denně)
+uspávadlo do jídla/pití na 2 použití
+láhev kořalky
+1 x univerzální protijed
+60 x mast nezanechávání stop pro veverku na 8 hodin
+šupina +1 kouzlo za den z každého levelu nižšího, než může maximálně kouzlit
+naušnice imunity proti okouzlení
+kostka detekce lži
+Magický prsten "Rétoriky" (+1 k přesvědčování, 1× denně Suggestion)
+18 křídových barevných bločků
+kniha 40 prázdných listů papíru pozlacená
+encyklopedie magických suchozemských zvířat
+encyklopedie magických mořských zvířat
+9 wyverních šupin
+5x kapsle elfího léčení: po 1k6 kol se vyléčí pokaždé 1k8 životů
 
-Magická róba DR 2
+hůl blesk 1/den magická zbraň (-1 / 1k6-2)
+dýka +1 (0 / 1k4-1)
+dýka z dračí šupiny (+0 / 1k4+2)
+dýka z dračí šupiny +1 (+1 / 1k4+3)
+
 
 ---
 
 # 8) **Combat Stats**
 
 * **Dodge:** 8
-* **Parry (Staff default):** 7
+* **Parry (Staff):** 11
 * **Block:** 0 (nemá štít ani skill)
+* **Quarter staff:** 12
 
 Nina není určená pro frontový boj — přesně odpovídá BF.
 
@@ -219,4 +260,3 @@ Nina není určená pro frontový boj — přesně odpovídá BF.
 | Spells        | 63         |
 | Familiar      | 10         |
 | **CELKEM**    | **168 CP** |
-

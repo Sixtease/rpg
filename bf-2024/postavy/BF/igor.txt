@@ -12,7 +12,7 @@ charisma: 4 -2 (15 +2)
 armor class: 22
 životů: 45 (37)
 
-3665 stříbrných
+3615 stříbrných
 
 ještěří plátová zbroj s 12 wyverními šupinami (lepší pohyb ve vodě)
 štít +1
