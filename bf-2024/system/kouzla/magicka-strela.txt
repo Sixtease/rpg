@@ -1,0 +1,29 @@
+### 📜 **MAGIC MISSILE (World Spell)**
+
+* **Typ:** Missile spell
+* **Skill:** *Magic Missile (IQ/Hard)*
+* **Základ:** IQ + Magery
+* **Ninina úroveň:** 14 (jak jste určili)
+
+### 🔋 Cena
+
+* **1 FP za každou střelu**
+* Nina může vystřelit **1–3 střely** najednou
+  (každá stojí 1 FP)
+
+### 💥 Poškození
+
+* **Každá střela:** **1d–1 crushing**
+* Ignoruje běžnou zbroj do **DR 2**
+  (simuluje BF „magická síla“)
+
+### 🎯 Zásah
+
+* **Vyžaduje hod na útok** (není auto-hit)
+* Použij **Innate Attack (Projectile)** jako cílový mechanismus:
+
+  * hodíš proti *Magic Missile skillu*
+* Cíl se může:
+
+  * **uhnout (Dodge)**
+  * **blokovat štítem**

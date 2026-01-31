@@ -1,0 +1,159 @@
+# 🫥 **NEVIDITELNOST (Invisibility)**
+
+*(World Spell – Illusion/Light)*
+
+### Základ
+
+* **Typ:** udržované kouzlo
+* **Skill:** *Invisibility (IQ/Hard)*
+* **Základ:** IQ + Magery
+* **Ninina úroveň:** 14
+
+---
+
+## 🔋 Cena
+
+* **Seslání:** **3 FP**
+* **Udržování:** **1 FP / minuta**
+
+---
+
+## ⏱ Trvání
+
+* Dokud je udržována
+* Dobrovolné ukončení kdykoliv
+* Automaticky končí při 0 FP
+
+---
+
+## 🎯 Účinek
+
+* Cíl je **opticky neviditelný**
+* Funguje na:
+
+  * humanoidy
+  * zvířata
+  * vybavení, které **nese nebo má na sobě**
+* **Stopy, zvuky, pachy zůstávají**
+* Nechrání před:
+
+  * plošnými útoky
+  * intuicí, magickým viděním
+  * fyzickým kontaktem
+
+---
+
+## ⚔️ Boj (Combat Lite)
+
+* Útočníci proti neviditelnému:
+
+  * **–6 k útoku**
+* Neviditelný útočník:
+
+  * **+4 k útoku z překvapení** (první útok)
+* Aktivní boj:
+
+  * pokud cíl útočí opakovaně, GM může snížit bonusy
+
+---
+
+## ⚠️ Omezení
+
+* Seslání trvá **1 kolo**
+* **Jakýkoli útočný čin**:
+
+  * neukončí kouzlo
+  * ale **zruší bonusy z překvapení**
+* Kouzlo **není iluze mysli**, ale manipulace světla
+  → iluzorní průhledné bariéry ho neblokují
+
+---
+
+## 🧠 Poznámka k balancu
+
+Tohle odpovídá:
+
+* BF Invisibility
+* GURPS spell *Invisibility* (pocitově)
+* Combat Lite tempu
+
+---
+
+---
+
+# 👥 **SKUPINOVÁ NEVIDITELNOST (Group Invisibility)**
+
+*(World Spell – Greater Illusion)*
+
+Tohle je **výrazně silnější magie**.
+
+---
+
+## 🔋 Cena
+
+* **Seslání:** **6 FP**
+* **Udržování:** **2 FP / minuta**
+
+---
+
+## 🎯 Rozsah
+
+* **1 cíl + 1 další za každé 2 FP navíc při seslání**
+* Typicky:
+
+  * Nina (6 FP) → 2 osoby
+  * 8 FP → 3 osoby
+  * 10 FP → 4 osoby
+
+---
+
+## ⏱ Trvání
+
+* Dokud je udržována
+* Udržování platí **za celé kouzlo**, ne za osobu
+
+---
+
+## ⚔️ Bojové efekty
+
+* Každý cíl:
+
+  * –6 k útoku proti němu
+* Skupina má výhodu:
+
+  * koordinovaný stealth
+  * snazší obcházení hlídek
+
+---
+
+## ⚠️ Omezení (důležité)
+
+* **Pokud jeden člen skupiny:**
+
+  * spustí hlasitý boj
+  * začne křičet
+  * rozbije předmět
+    → **GM může kouzlo zrušit celé**
+
+To je důležité, aby:
+
+* kouzlo nebylo „free win“
+* podporovalo plánování
+
+---
+
+# 📌 **Rychlá referenční tabulka**
+
+| Kouzlo                      | Seslání | Udržování  | Poznámka      |
+| --------------------------- | ------- | ---------- | ------------- |
+| **Neviditelnost**           | 3 FP    | 1 FP / min | 1 cíl         |
+| **Skupinová neviditelnost** | 6 FP    | 2 FP / min | + osoby za FP |
+
+---
+
+# 🧾 Jak to zapsat Nině do sheetu
+
+Do seznamu kouzel:
+
+* Invisibility – 14
+* Group Invisibility – 12 *(doporučuji o 1–2 nižší než základní)*

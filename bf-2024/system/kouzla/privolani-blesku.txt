@@ -1,0 +1,142 @@
+# ⚡ IGOR – DRUIDSKÉ KOUZLO **CALL LIGHTNING** (Combat Lite)
+
+## Základní charakter
+
+* **Typ:** útočné kouzlo (directed effect)
+* **Cíl:** jeden viditelný objekt / tvor
+* **Forma:** blesk udeří shora
+* **Styl:** silné, pomalé, dramatické kouzlo – *ne spam*
+
+---
+
+## 🔋 **Cena ve FP**
+
+### **Seslání:** **5 FP**
+
+* odpovídá BF kouzlu 3. úrovně
+* je to znatelný zásah do Igorovy výdrže
+* nemůže ho používat pořád dokola
+
+### **Udržování:** žádné
+
+* každé seslání = jeden úder
+* pokud chce další blesk → znovu zaplatí FP
+
+👉 **Jednoduché pravidlo:**
+
+> *Každý blesk stojí 5 FP.*
+
+---
+
+## 💥 **Poškození**
+
+### **Damage:** **6d burning (electric)**
+
+To je finální hodnota.
+
+### Proč právě **6d**:
+
+* v GURPS je blesk **extrémně destruktivní**
+* 6d je:
+
+  * průměr **21 zranění**
+  * dost na:
+
+    * těžké zranění člověka
+    * smrt slabších bytostí
+    * vážné ohrožení i obrněných cílů
+* zároveň:
+
+  * **neprobíjí automaticky plátovku**
+  * proti DR 6–7 pořád něco projde, ale ne všechno
+
+---
+
+## 🛡 **Interakce se zbrojí (Combat Lite)**
+
+* **Poškození se snižuje o DR normálně**
+* žádné půlení DR (to by bylo OP)
+* kovová zbroj:
+
+  * **nepřidává bonus k zásahu**
+  * **nepřidává zranění**
+  * jen fikčně „to bolí víc“
+
+To drží balanc.
+
+---
+
+## 🎯 **Hod na zásah**
+
+Použij:
+
+### **Skill: Call Lightning (PI-based)**
+
+* cíl musí být:
+
+  * venku **nebo**
+  * v místě, kam může „dosáhnout nebe / bouře“
+* žádný attack roll vs Dodge:
+
+  * **je to seslané kouzlo**
+  * cíl se **neuhýbá**, jen se brání DR
+
+Pokud chceš jednoduchý prvek obrany:
+
+* dovol **Dodge –2** pouze cílům v otevřeném terénu
+  (nepovinné, jen pokud chceš víc dynamiky)
+
+---
+
+## 🌩 **Omezení (důležité!)**
+
+Aby kouzlo nezničilo hru:
+
+### ❌ Nelze seslat:
+
+* v interiéru bez otevřeného stropu
+* v hlubokých jeskyních
+* v podzemí
+* v magicky odstíněných oblastech
+
+### ⚠ Podmínky:
+
+* ideálně:
+
+  * bouře
+  * silná oblačnost
+* bez bouře:
+
+  * kouzlo je možné
+  * ale GM může:
+
+    * zvýšit cenu na **6 FP**
+    * nebo snížit damage na **5d**
+
+To je elegantní brzda.
+
+---
+
+## ⏱ **Čas seslání**
+
+* **2 kola** (rituální povaha)
+* Igor musí:
+
+  * stát
+  * soustředit se
+  * být viditelně zranitelný
+
+➡ kouzlo je **silné, ale riskantní**.
+
+---
+
+## 📌 **Shrnutí – oficiální podoba pro tvou kampaň**
+
+> **Call Lightning (Igor)**
+>
+> * Cena: **5 FP**
+> * Poškození: **6d burning (electric)**
+> * Zásah: automatický na zvolený cíl
+> * Obrana: jen DR
+> * Čas: 2 kola
+> * Omezení: venkovní prostředí / obloha
