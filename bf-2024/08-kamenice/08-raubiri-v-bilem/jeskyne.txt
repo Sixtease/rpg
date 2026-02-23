@@ -1,0 +1,75 @@
+  Legenda:  ^↑/↓ sestup/stoupání   ≈ voda   # sutiny   = kůlová lávka   X oltář
+             * strážní pozice/dozorčí výklenek   % vosk/olejové lampy   @ zásoby
+
+  Level 1 – Servisní šachty (vstup z Poutního pramene)
+  ┌──────────────────────────────────────────┐
+  │ Vstupní štola →   ┌───────┐              │
+  │                   │@ skl. │              │
+  │                   └─┬───┬─┘              │
+  │                     │   │                │
+  │        ≈≈≈         ┌┘   │      # # #     │
+  │  bazén odtoku  ┌───┘    │      # Věž   ┌─┴─┐
+  │                │  ^↓    │      # spad  │* │
+  │     # # #      │ k B1   ├──────────────┘  │
+  │  zaval. chodba │        │                │
+  │                │    ┌───┴──┐             │
+  │                │    │ Roh  │             │
+  │                │    │ kaple│             │
+  │                │    └───┬──┘             │
+  │                └───/=====\───────────────┘
+  │                     lávka k odkalovací jámě
+  └──────────────────────────────────────────┘
+
+  Level B1 – Katakomby skladu vody
+  ┌──────────────────────────────────────────────┐
+  │    ≈≈≈ hluboký rezervoár                      │
+  │ ┌───────────┐        ┌─────┐      # # #       │
+  │ │ Meditační │        │@ zás│      # propadlo  │
+  │ │ výklenky* │        └─┬─┬─┘      #→B2        │
+  │ └─┬─────┬───┘          │ │                     │
+  │   │     │      ┌───────┘ └─────┐               │
+  │   │     └──────┤Kružidlo s ^↓↓  │               │
+  │   │            │k B2 (dvojité) │               │
+  │   │            └───┬───────────┘               │
+  │   │                │                           │
+  │   │        ≈≈≈≈≈   │         ┌──────────────┐  │
+  │   └────────/===\───┴─────────┤Tichá komora *│  │
+  │            lávka přes       │(audionika)   │  │
+  │            bahnitý sifon    └─────┬────────┘  │
+  │                                   │             │
+  │                 ┌─────────────────┴─────┐      │
+  │                 │ ^↑ k L1 (příklad)    │      │
+  │                 │ Šachta nosičů        │      │
+  └─────────────────┴──────────────────────┴──────┘
+
+  Level B2 – Obřadní okruh (cílová síň)
+  ┌─────────────────────────────────────────────────────┐
+  │    # # # zřícená galerie                            │
+  │    #→ slepá nika                                    │
+  │                                                     │
+  │   ┌───────────┐       ≈≈≈≈ laguna       ┌────────┐  │
+  │   │Past na   *│───────/===\─────────────│Most str│  │
+  │   │vetřelce   │     mokrá lávka         │ážíků   │  │
+  │   └──────┬────┘                         └──┬─────┘  │
+  │          │                                 │        │
+  │  ┌───────┴─────────────┐                   │        │
+  │  │Labyrint sudů s vosk%│                   │        │
+  │  │(hořlavina)          │                   │        │
+  │  └──┬───────────┬──────┘                   │        │
+  │     │           │                          │        │
+  │  ┌──┴───┐   ┌───┴───┐          ┌───────────┴─────┐  │
+  │  │^↑ B1 │   │Slepé  │          │OBŘADNÍ SÍŇ      │  │
+  │  │šachta│   │jeskyně│          │kupole Svetly    │  │
+  │  └──┬───┘   │(ozvěna│          │                 │  │
+  │     │       │odhost)│          │  X oltář světla │  │
+  │     │       └──┬────┘          │  % lampové kruhy│  │
+  │     │          │               │  * tribun Bdělých│ │
+  │     │   ≈≈≈≈≈  │               │  @ rituální sudy│ │
+  │     └───/===\──┴───────┐       │  zadní odtok ≈≈ │ │
+  │        bahno+rybník    │       │  tajná štěrbina │ │
+  │                        │       └──────────────────┘ │
+  └─────────────────────────────────────────────────────┘
+
+  - Level 1: vstup od pramene, hlídané skladiště, úzké servisní šachty; hráči řeší vodní nádrž, lávky a zavaliskové # úseky.
+  - Level B1: katakomby s rezervoáry, dvojitá kružidlová šachta (přednost Bdělých), akustická Tichá komora pro spojení se Svetlou; sifon s provizorní lávkou.
+  - Level B2: finální kruhová část, série slepých výklenků, pastí a hořlavých voskových sudů; obřadní síň s oltářem X, tribunou a zadním odtokem k útěku.

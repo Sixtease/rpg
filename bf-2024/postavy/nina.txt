@@ -8,7 +8,7 @@ narozena 20.12., věk 18 let
 
 FREE CP 1
 
-18367 stříbrných
+19517 stříbrných
 
 ---
 
@@ -23,10 +23,10 @@ FREE CP 1
 
 ### Secondary (odvozené)
 
-* **HP:** 7
+* **HP:** 7 (6)
 * **Will:** 15
 * **Per:** 13
-* **FP:** 10 (10)
+* **FP:** 10 (6)
 * **Basic Speed:** 4.75
 * **Basic Move:** 4
 * **Dodge:** 8 (10)
@@ -208,10 +208,11 @@ lano hedvábné 50"
 pero + inkoust
 hamaka
 páčidlo
-3x lektvar neviditelnosti
-1.8x lektvar síly
+1x lektvar neviditelnosti
+1.6x lektvar síly
 2x léčivý lektvar
 4.8x lektvar dýchání pod vodou
+Lektvar bdělosti: ignoruje únavu 6 h
 10x kouřová bomba
 prut magické střely (2x denně)
 prut dispell magic (2x denně)
@@ -219,7 +220,7 @@ uspávadlo do jídla/pití na 2 použití
 láhev kořalky
 1 x univerzální protijed
 60 x mast nezanechávání stop pro veverku na 8 hodin
-šupina +1 kouzlo za den z každého levelu nižšího, než může maximálně kouzlit
+šupina -1 FP pokud stojí víc než 1 FP
 naušnice imunity proti okouzlení
 kostka detekce lži
 Magický prsten "Rétoriky" (+1 k přesvědčování, 1× denně Suggestion)

@@ -7,7 +7,7 @@ narozen 11.9. věk 99 let
 
 FREE CP: 0
 
-5765 stříbrných
+6530 stříbrných
 
 ---
 
@@ -27,7 +27,7 @@ Celkem **110 CP**
 
 # 2) **SECONDARY CHARACTERISTICS**
 
-* **HP:** 13 (13)
+* **HP:** 13 (12)
 * **Will:** 11
 * **Per:** 11
 * **FP:** 14 (13)
@@ -171,15 +171,16 @@ ještěří plátová zbroj s 12 wyverními šupinami (lepší pohyb ve vodě)
 
 ### Zbraně:
 
-* **Warhammer** (sw+2 = 2d+1 crushing, 1h)
+* **Warhammer +3** (sw+4 = 2d+3 crushing, 1h)
+* **Warhammer proti nemrtvým** (sw+3 = 2d+2 crushing, 3d+2, 1h)
 * **Medium Shield, DB +2**
 * **Sling + pellets**
 
 ### různé:
 
 štít +1
-warhammer +1 (+4 / 1k6 (2k6 proti nemrtvým))
-warhammer +3 (+4 / 1k6+3), s kamenem, který umožní při hodu na útok 4- útočit ještě jednou v kole
+warhammer +1 hit ((+1k6 dmg proti nemrtvým))
+warhammer +3 (+2 hit / +1 dmg), s kamenem, který umožní při hodu na útok 4- útočit ještě jednou v kole
 batoh nekonečného prostoru
 lampa denního světla proti nemrtvým
 prak +3 (+5 / 1k4+3)
@@ -192,7 +193,7 @@ Kouzelný kompas (ukazuje k destinaci, pak se 2 dny nabíjí na slunci)
 3 zlaté pruty à 1zl
 gobliní léčivý prášek (-1ž na člověka)
 láhev prvotřídní vesnické slivovice z Bílčic
-šupina +1 kouzlo za den z každého levelu nižšího, než může maximálně kouzlit
+šupina -1 FP pokud stojí víc než 1 FP
 rukavice +1 obratnost
 Plášť mořské mlhy 1× denně vyvolá hustou mlhu (20m radius), vydrží 10 kol
 1x Granát z mlžného železa Jednorázový – mlha, oslepení a 1k8 nekrotického poškození
@@ -205,9 +206,11 @@ Kouzelný kompas Ukazuje na nejbližší zdroj aktivní magie v okruhu 100 m
 11 wyverních šupin
 kus černého diamantu na výrobu fokusu
 
+Amulet proti chladu/vedru: −2 dmg z environmentálních vlivů
 trpasličí pečetní prsten
 6 trpasličích lžic
 10 cechovních trpasličích zlatých mincí
+4 posvěcené svíce (+1 k náboženským rituálům jednorázově)
 
 ---
 
