@@ -1,0 +1,208 @@
+# Ysildřina pomsta - GURPS překážky a cílové hody
+
+Použití: rychlý GM tahák pro očekávatelné překážky ve scéně u slepého ramene Kamenky.
+Vše na 3d6 pod skill/atribut. Kde je uvedeno "Soutěž", jde o Quick Contest.
+
+---
+
+## 0) Prostředí a obecné modifikátory
+
+- Zima kolem Vánoc (cca 45. rovnoběžka): mráz, sníh, vítr, namrzlé břehy.
+- Šero/noc: Vision -2; sněžení + vítr může dát další -1 až -2.
+- Ušlapaný sníh + led: Move -1, při sprintu nebo po zásahu hod na DX (fail = pád/prone).
+- Rákosí se sněhem: Stealth +1 jen při pomalém pohybu; při rychlém pohybu Stealth -1 (křupání sněhu).
+- Střelba přes vítr: na delší vzdálenost typicky -1 na zásah (GM dle síly větru).
+- Ledová voda: po pádu do vody okamžitý HT roll; při fail stun/zalapání po dechu, další kola riziko podchlazení.
+
+---
+
+## 1) Zjištění situace (před prvním útokem)
+
+### 1.1 Najít střelce dřív, než zahájí palbu
+- Aktivní hledání: Per-based Observation nebo Perception
+- Obtížnost: -3 (kryt + šero), celkem typicky Per-3
+- Protiakce: střelec může hodit Stealth-11 (Soutěž)
+- Úspěch: hráči ví přesnou pozici 1 střelce
+- Kritický úspěch: vidí oba střelce + sektor palby
+- Neúspěch: první salvu mají střelci s překvapením
+
+### 1.2 Odhalit špeha na břehu (Vott)
+- Observation vs Vott Stealth-15 (Soutěž)
+- Bonus +1, pokud hráči cílí na "zadní jištění" a ne na loď
+- Úspěch: ztrácí moment překvapení při obchvatu
+
+### 1.3 Odhadnout klíčový mechanismus klece
+- Mechanic (Clockwork) / Traps / Engineer (Civil) / IQ-4
+- Obtížnost: -2 (improvizovaný naviják)
+- Úspěch: hráči ví, že nejrychlejší je převzít naviják, ne lámat klec
+- Kritický úspěch: vědí i nouzovou pojistku (spuštění klece do vody)
+
+---
+
+## 2) Dostat se na loď
+
+### 2.1 Přeskok z mola na bok lodi
+- Jumping nebo DX
+- Mod.: -3 (námraza + houpání)
+- Fail o 1-2: visí na hraně (potřebuje další manévr)
+- Fail o 3+: pád do vody
+
+### 2.2 Přelez bok lodi
+- Climbing-3 (zmrzlé lano/namrzlý bok)
+- S krycím lanem bez postihu
+- Kritický fail: hluk, okamžitá reakce nejbližšího bijce
+
+### 2.3 Přiblížení člunem pod palbou
+- Boating (Unpowered) Soutěž proti Grimlen Boating-14
+- Každé kolo pod palbou: další -1 kumulativně, pokud není kouř/kryt
+- Při kontaktu s plovoucím ledem: okamžitý Seamanship nebo DX roll, fail = ztráta tempa 1 kolo
+- 2+ margin vítězství hráčů: nalepí se k boku lodi bez ztráty tempa
+- 2+ margin pro Grimlena: loď si drží odstup (zdržení 1d kol)
+
+### 2.4 Udržet se na nohou při nárazu/odrazu
+- DX nebo Seamanship
+- Mod.: -3 při prudkém odrazu na namrzlém povrchu
+- Fail: prone; krit fail: drop držený předmět/zbraň
+
+---
+
+## 3) Zásah a narušení lodi
+
+## 3.1 Cílení na vybavení lodi (naviják, kormidlo, lano)
+- Útok na malé cíle: -4 (kormidlo), -5 (navijáková západka), -3 (hlavní lano)
+- Pokud cíl neviditelný/částečně krytý: další -2
+
+### 3.2 Objektové statistiky (rychlé house staty)
+- Hlavní kotevní lano: DR 1, HP 6
+- Navijákový hřídel: DR 3, HP 12
+- Západka navijáku: DR 2, HP 5 (zásah >2 injury ji může vyřadit)
+- Dřevěné zábradlí: DR 2, HP 10 (sekce)
+- Bok říční lodi (sekce): DR 3, HP 35
+- Kormidlo: DR 2, HP 15
+
+### 3.3 Zapálení lodi
+- Fire-starting útok (olej/pochodeň): hod na zásah + 1s příprava
+- Po zásahu: 1x HT 10 pro loď-sekci; v zimě má první pokus o zapálení obvykle -1 k efektu (vlhkost/chlad), fail = hoří (1d-2 burning/10 s v sekci)
+- Posádka může hasit: Seamanship nebo Smothering fire (DX/IQ based)
+
+---
+
+## 4) Pupík v kleci - záchrana
+
+### 4.1 Odemčení klece
+- Lockpicking-4 (stres + pohyb lodě)
+- Pokud je klec pod vodní hladinou: další -4 a nutnost Hold Breath (ledová voda)
+- Kritický úspěch: otevřeno do 1 kola
+- Fail o 5+: zlom paklíče / zaseknutí (další pokus -2)
+
+### 4.2 Přerušit řetěz/lano klece
+- Lano: cutting attack vs DR 1 HP 6
+- Řetěz: DR 6 HP 18 (prakticky nutné silné nástroje)
+- Traps/Mechanic roll může snížit DR o 1-2 (najití slabého místa)
+
+### 4.3 Stabilizace klece, aby nespadla
+- Seamanship, Knot-Tying nebo ST contest (podle metody)
+- Cílový hod: skill-2
+- Fail: klec klesne o 1 stupeň (zóna suchá -> ledová hrana -> pod ledovou vodu)
+- Krit fail: okamžitý pád do vody
+
+### 4.4 Vysvobození svázaného Pupíka
+- Escape (na Pupíka, pokud při vědomí) nebo Knot-Tying/Knife na zachránce
+- Čas: 2d sekund běžně; krit úspěch 1d sekund
+- Nešetrné řezání: na fail hod na zranění rukojmího (1d-3 cut)
+
+### 4.5 Oživení Pupíka po uspávadle
+- First Aid nebo Physician
+- Mod.: -2 (sedativum), další -1 při podchlazení; +1 pokud má Salla/její brašnu protijed
+- Úspěch: Pupík se probere za 1d minut místo 3d
+- Krit úspěch: probere se za 1d x 10 sekund
+
+---
+
+## 5) Obrana proti střelcům a kouzlům
+
+### 5.1 Vyhnout se salvě střelců
+- Standard Dodge
+- Pokud cíl ve sprintu po zledovatělé hrázi: Dodge -2
+- Pokud má plný kryt (molo/bedny): střelec -2 až -4 na zásah
+
+### 5.2 Potlačit střelce
+- Suppressive fire (kuše): 2 střelci pokrývají 2 sektory
+- Aby střelec ztratil sektor: 
+  - zásah/stun, nebo
+  - Intimidation/feint + úspěšný manévr obchvatu (GM call)
+
+### 5.3 Odolat Sleep/Charm/Web
+- Sleep/Charm: standard resist dle použité magie ve vaší kampani
+- Web: DX/escape test pro vyproštění (obvykle ST nebo Escape)
+- Dispel: Counterspell/Dispel Magic contest (pokud hráči mají)
+
+---
+
+## 6) Vyjednávání pod tlakem
+
+### 6.1 Udržet Ysildru v dialogu (získat čas)
+- Diplomacy/Fast-Talk/Intimidation vs Ysildra Will 12 (Soutěž)
+- Úspěch: +1 "taktické okno" (1-2 kola přípravy)
+- Krit úspěch: navíc trhlina v morálce 1 NPC (Will roll)
+
+### 6.2 Prokouknout blaf o "okamžité popravě"
+- Psychology nebo Detect Lies vs Ysildra Fast-Talk-12 / Intimidation-14
+- Úspěch: hráči zjistí, že Ysildra preferuje loupež a ústup
+
+### 6.3 Obrátit část posádky proti Ysildře
+- Leadership/Diplomacy/Intimidation proti průměrnému Will 10-11
+- Mod.: +2 když je Valyra vyřazená; +2 když je ztracená úniková trasa
+- Úspěch: 1-2 univerzálové přestanou plnit riskantní rozkazy
+
+---
+
+## 7) Útok přímo na Ysildru (boss handling)
+
+### 7.1 Rychlé odstranění "boss immunity"
+- Nejprve zrušit její výhody bojiště:
+  1) kryt střelců,
+  2) Valyřina kontrola,
+  3) odjezdový tým u kormidla.
+
+### 7.2 Doporučený boss pacing
+- Kolo 1-2: verbální tlak + připravená reakce
+- Kolo 3-5: tvrdá fáze (control + suppress)
+- Kolo 6+: rozhodnutí (útěk / pád / zajetí)
+
+### 7.3 Morálka při pádu klíčových NPC
+- Ysildra padne: všichni Will-3
+- Valyra padne: kouzla končí, střelci Will-2
+- Brann padne: bijci ztrácí koordinaci (Defense -1 na 1 kolo)
+
+---
+
+## 8) Fail-forward výsledky (mechanicky)
+
+### A) Hráči zachrání Pupíka, Ysildra unikne
+- Zisk: rukojmí živý, část peněz zachráněna
+- Stopa: poškozené kormidlo/znak lodi/svědek směru úniku
+
+### B) Hráči vyhrají tvrdě
+- Zisk: zajatá Ysildra nebo Valyra, kompletní kořist
+- Důsledek: zbytek posádky se rozprchne do 2-3 menších buněk
+
+### C) Hráči prohrají takticky
+- Ztráta: část/většina peněz
+- Kompenzace: Pupík přežije a je odložen s jasnou stopou
+- Další linka: zimní hon po řece, přístavní síť v Ústí
+
+---
+
+## 9) Krátké DC ekvivalenty (když nechceš počítat contesty)
+
+- "Snadné": skill bez postihu
+- "Střední": skill-2
+- "Těžké": skill-4
+- "Velmi těžké": skill-6
+
+Doporučení pro tuto scénu:
+- Postřehnout skryté střelce: těžké
+- Dostat se nepozorovaně k navijáku: těžké
+- Odemknout klec v boji: velmi těžké
+- Udržet vyjednávání 2+ kola: střední až těžké podle tónu

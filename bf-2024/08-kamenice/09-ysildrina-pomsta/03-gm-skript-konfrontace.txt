@@ -1,0 +1,132 @@
+GM skript: Ysildřina konfrontace (Pupík jako rukojmí)
+
+Účel scény:
+- Silná, epická konfrontace s více řešeními.
+- Netápání: hráči vždy mají čitelný další krok.
+- Fail-forward: i při dílčím neúspěchu děj pokračuje.
+
+Vstupní stav (před scénou):
+- Nina, Bárt, Igor dorazili podle stop ke slepému rameni Kamenky.
+- Ví, že Pupík žije a je na lodi.
+- Nesou významnou část hotovosti (návnada z vzkazu zafungovala).
+
+Lokace (3 zóny):
+1) Zřícenina u mola (kontakt + vyjednávání)
+2) Úzká zasněžená hráz/namrzlé břehy (manévrovací chokepoint)
+3) Loď ve slepém rameni s ledovými okraji (rukojmí + hlavní síla)
+
+Nepřátelské postavení:
+- Ysildra: velitelský kryt na horní palubě, vidí molo.
+- Valyra: krytý výhled na přístupy, připravené control kouzlo.
+- 2 střelci: zaměřené sektory na hráz a molo.
+- 2 bojovníci: v podpalubí u Pupíka.
+- 1 špeh: na břehu jako pozorovatel/rušič.
+- 2 lidé: připraveni loď okamžitě odrazit do proudu.
+
+Pupík:
+- Živý, svázaný, viditelný (na chvíli ukázaný), pod dohledem.
+- Má možnost dát krátký signál (gesto/klepání), že je pod lodí a že klíč je naviják/lano.
+
+---
+SCÉNA 1: První kontakt u mola
+
+Spouštěč:
+- Hráči vstoupí do zóny 1 nebo zavolají na loď.
+
+Co GM řekne (Ysildra):
+- "Konec hrdinství. Dneska se platí dluhy. Pupík žije. Zatím."
+- "Dva z vás na molo. Třetí zůstane vzadu. Zbraně dolů. Truhla doprostřed."
+
+Cíl Ysildry:
+- Přinutit je vstoupit do předem kontrolované zóny.
+- Otestovat ochotu poslouchat.
+- Koupit si čas.
+
+Jasná vodítka pro hráče:
+- Pupíkův hlas/znamení potvrzuje, že je naživu.
+- Viditelný pohyb střelců ukazuje hrozbu na přímý útok.
+- Viditelný naviják/lano naznačí mechanický prvek záchrany.
+- Kluzký led, ušlapaný sníh a vítr jasně naznačí, že přímý sprint je risk.
+
+---
+SCÉNA 2: Vyjednávání a tlak
+
+Spouštěč:
+- Hráči přijmou kontakt, nebo se pokusí o trik bez otevřeného boje.
+
+Co GM řekne (Ysildra):
+- "Nevyjednávám o krvi. Vyjednávám o ceně."
+- "Vy jste mi vzali život, já vám vezmu jistotu."
+- "Peníze na molo. Pupík za odchod."
+
+Mechanika tlaku:
+- Každé delší otálení = +1 krok k Ysildřinu ústupu (viz Scéna 4).
+- Každý zjevný pokus o obchvat bez krytí = Valyra připravuje zásah.
+- Každý chytrý sociální tah může vyvolat trhlinu v posádce (nejistí žoldáci).
+
+Volby hráčů (vše validní):
+- Sociální: hrát o čas, rozdělit Ysildřiny lidi, nabídnout bezpečný odchod.
+- Stealth: tichý přístup k navijáku/lanu.
+- Trik: podvržená truhla, rozptýlení, falešná kapitulace.
+- Síla: rychlý úder na Valyru + kormidelní segment.
+- Prostředí: využít vítr/sníh pro krytí, nebo naopak led rozbít a odříznout únikovou osu.
+
+---
+SCÉNA 3: Zlom (akce)
+
+Spouštěče zlomu (kterýkoliv):
+- Hráči odmítnou podmínky.
+- Hráči udělají otevřený útok.
+- Ysildra vyhodnotí, že už získala dost času.
+
+Co GM řekne (krátce, čitelně):
+- "Hotovo. Teď už po vašem nebude nic."
+
+Ysildřiny kroky při zlomu:
+1) Valyra: control kouzlo na nejsilnější nástupní osu.
+2) Střelci: suppressive fire do přístupu k lodi.
+3) Posádka: odráží loď a chystá výjezd do hlavního toku.
+4) Bojovníci: drží Pupíka jako pojistku, nepopravují ho.
+
+Designový princip:
+- Hráči současně řeší 3 problémy: Pupík, kontrola prostoru, odjezd lodi.
+- Žádný jediný "správný" krok, ale zjevné priority.
+
+---
+SCÉNA 4: Finále a výsledek
+
+Varianta A - hrdinové uspějí výrazně:
+- Zastaví odjezd lodi nebo vyřadí klíčové prvky.
+- Pupík osvobozen.
+- Ysildra zajata nebo zraněná na ústup bez kořisti.
+
+Varianta B - smíšený výsledek:
+- Pupík osvobozen, ale Ysildra unikne s částí peněz.
+- Zůstane stopa na navazující pronásledování.
+
+Varianta C - hrdinové selžou takticky:
+- Ysildra unikne s větší kořistí.
+- Pupíka po čase odloží živého (je to lekce, ne poprava).
+- Děj pokračuje honem a odvetou, ne dead-endem.
+
+Fail-forward (povinné):
+- Nikdy neskončit „nic se nedá dělat“.
+- Vždy nechat konkrétní stopu, svědka nebo ztracený předmět.
+
+---
+YSILDRA: Repliky do zásoby
+
+- "Měli jste vyhráno. A stejně jste mě dorazili."
+- "Nebudu vám brát život. Jen klid."
+- "Tohle není bitva. Tohle je účet."
+- "Složte zbraně a možná odejdete jen chudí."
+- "Jeden špatný krok a loď je pryč."
+- "Na tom ledu umřete rychleji než od meče."
+
+---
+GM opěrné body (aby to neztvrdlo do railroadu):
+- Hráčský nápad, který dává smysl v terénu, vždycky nějak odměnit.
+- Ysildra je chytrá, ne vševědoucí: může udělat chybu pod tlakem.
+- Posádka není fanatická: při špatném průběhu se část stáhne.
+- Priorita scény je drama + volby + následky, ne totální wipe.
+- Zimní podmínky jsou hrozba pro obě strany, ne \"trest\" jen pro hráče.

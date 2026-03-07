@@ -1,0 +1,217 @@
+# Ysildřina posádka - GURPS staty pro hru (TL3)
+
+Určeno pro linku "Ysildřina pomsta". Staty jsou dělané proti trojici Nina/Bárt/Igor + rukojmí Pupík.
+Cíl: tvrdá, ale ne sebevražedná opozice. Posádka preferuje kontrolu prostoru, únik a zisk.
+
+---
+
+## Zimní provoz (globálně pro všechny statbloky)
+
+- Období: kolem Vánoc, mráz a vítr; břehy a mělčiny jsou namrzlé.
+- Všichni členové posádky mají zimní plášť/vrstvy (běžná ochrana před chladem, žádný bonus DR).
+- Bez aktivního pohybu nebo bez přístupu k teplu déle než cca 1 hodinu v mokrém oděvu: pravidelně HT roll proti podchlazení (dle tvého modulu survival/chlad).
+- Pohyb po ledu: bez maček/lana typicky DX-2 na udržení rovnováhy při prudkých manévrech.
+
+---
+
+## 0) Rychlé nasazení (doporučená sestava)
+
+- Ysildra (kapitánka)
+- Valyra (kouzelnice)
+- Brann (1. důstojník/kvartýrmajstr)
+- Grimlen (kormidelník-navigátor)
+- Vott (špeh-infiltrátor)
+- Salla (felčar-alchymista)
+- 2x Palubní bijec (šablona)
+- 2x Střelec (šablona)
+- 2x Univerzál námořník+žoldák (šablona)
+
+Celkem 12 NPC.
+Volitelně +1 písař/padělatel (na sociální/intrikářské scény).
+
+---
+
+## 1) Ysildra Křivobřehá (kapitánka)
+
+- **Attributes:** ST 11 [10]; DX 11 [20]; IQ 13 [60]; HT 12 [20]
+- **Secondary:** Will 13; Per 13; HP 11; FP 12; Basic Speed 5.75; Move 5
+- **Advantages:** Combat Reflexes [15], High Pain Threshold [10], Fearlessness 1 [2], Reputation +1 (přístavní podsvětí) [2], Rank 1 (vlastní posádka) [5]
+- **Disadvantages:** Sense of Duty (vlastní posádka) [-10], Bad Temper (12-) [-10], Overconfidence (12-) [-5], Odious Personal Habit (krutě připomíná dluhy) [-5]
+- **Skills:** Shortsword-13 [8], Knife-12 [2], Pistol (handgonne)-12 [2], Brawling-12 [2], Leadership-15 [8], Tactics-14 [8], Seamanship-15 [8], Boating (Unpowered)-12 [1], Navigation (Sea)-14 [8], Observation-14 [4], Intimidation-14 [4], Fast-Talk-14 [8], Merchant-13 [2], Diplomacy-13 [4], Strategy (Naval)-12 [4]
+- **Gear:** kvalitní tesák (1d+3 cut / 1d imp), dýka (1d-1 imp), lehká ručnice TL3 (2d+1 pi+, Acc 2, 1 střela), brigantina DR 4 torso/DR 3 limbs, přilba DR 4, píšťala pro signály
+- **Pozn.:** nosí zimní kapitánský plášť, protiskluzové návleky na boty.
+- **Defenses:** Dodge 8; Parry (Shortsword) 9; Parry (Knife) 8
+- **Interakce:** Intimidation-14, Fast-Talk-14, Leadership-15, Diplomacy-13. Většinou jedná tvrdě, ale nabídne "rozumný odchod".
+
+---
+
+## 2) Valyra z Trnu (kouzelnice posádky)
+
+- **Attributes:** ST 9 [-10]; DX 11 [20]; IQ 14 [80]; HT 10 [0]
+- **Secondary:** Will 14; Per 14; HP 9; FP 11; Basic Speed 5.25; Move 5
+- **Advantages:** Magery 2 [25], Combat Reflexes [15], Reputation +1 (kouzelnice žoldáků) [2], Language Talent [10]
+- **Disadvantages:** Code of Honor (Mercenary) [-5], Overconfidence (12-) [-5], Greed (12-) [-15], Enemy (městští inkvizitoři, 9-) [-10]
+- **Core Skills:** Thaumatology-14 [4], Staff-12 [2], Knife-11 [1], Observation-13 [2], Hidden Lore (Arcane)-13 [4], Diplomacy-12 [4], Detect Lies-12 [4]
+- **Spells (nejdůležitější):**
+  - Sleep-15
+  - Charm-14
+  - Levitation-14
+  - Web-14
+  - Dispel Magic-14
+  - Invisibility-14
+  - Shield-14
+  - Blur-14
+  - Counterspell-14
+- **Gear:** prsten ochrany (+1 k aktivní obraně), hůl, svitek Hold Person (jednorázový efekt jako Paralyze Limb-15), lektvar neviditelnosti, měkká kožená zbroj DR 2
+- **Pozn.:** drží se blízko zdroje tepla; v zimě častěji používá kontrolní kouzla na prostor místo dlouhých duelů.
+- **Defenses:** Dodge 8 (9 s prstenem); Parry (Staff) 9
+- **Interakce:** Dipl.-12, Detect Lies-12; čte blafy a drží vyjednávání "pod magickou hrozbou".
+
+---
+
+## 3) Brann "Hák" (1. důstojník/kvartýrmajstr)
+
+- **Attributes:** ST 13 [30]; DX 12 [40]; IQ 10 [0]; HT 12 [20]
+- **Secondary:** Will 10; Per 11; HP 13; FP 12; Basic Speed 6.0; Move 6
+- **Advantages:** Combat Reflexes [15], Fit [5], Rank 1 (Ysildřina posádka) [5]
+- **Disadvantages:** Code of Honor (Crew) [-5], Bully [-10], Greed (12-) [-15]
+- **Skills:** Spear-15 [12], Net-14 [8], Shortsword-13 [4], Shield-13 [4], Seamanship-12 [4], Leadership-11 [2], Intimidation-12 [2], Wrestling-12 [4]
+- **Gear:** harpuna (thr+3 imp), síť, krátký meč, střední štít DB 2, kožený pancíř s kroužky DR 3
+- **Pozn.:** zimní háky a lana pro zajištění pohybu po ledovém břehu.
+- **Defenses:** Dodge 9; Parry (Spear) 10; Block 10
+- **Interakce:** Intimidation-12; drží disciplínu a fyzicky zajišťuje rukojmí.
+
+---
+
+## 4) Grimlen (kormidelník-navigátor)
+
+- **Attributes:** ST 11 [10]; DX 12 [40]; IQ 12 [40]; HT 11 [10]
+- **Secondary:** Will 12; Per 13; HP 11; FP 11; Basic Speed 5.75; Move 5
+- **Advantages:** Absolute Direction [5], Seamanship Talent 1 [5], Combat Reflexes [15]
+- **Disadvantages:** Cowardice (12-) [-10], Sense of Duty (loď) [-5], Odious Personal Habit (pije ve službě) [-5]
+- **Skills:** Navigation (Sea)-15 [12], Navigation (River)-15 [12], Seamanship-14 [8], Boating (Unpowered)-14 [8], Weather Sense-13 [4], Observation-13 [2], Knife-12 [2], Fast-Talk-11 [2]
+- **Gear:** nůž, hák, signální lampa, mapník, lehká zbroj DR 2
+- **Pozn.:** má nejlepší odhad, kde je led nosný a kde ne.
+- **Defenses:** Dodge 8; Parry (Knife) 9
+- **Interakce:** Fast-Talk-11; dobrý svědek/stopař na vodní trasu.
+
+---
+
+## 5) Vott (špeh-infiltrátor)
+
+- **Attributes:** ST 10 [0]; DX 13 [60]; IQ 12 [40]; HT 11 [10]
+- **Secondary:** Will 12; Per 13; HP 10; FP 11; Basic Speed 6.0; Move 6
+- **Advantages:** Combat Reflexes [15], Night Vision 2 [2], Flexibility [5], Reputation +1 (přístavní šedá zóna) [2]
+- **Disadvantages:** Callous [-5], Greed (12-) [-15], Secret (podvodník v Ústí) [-10]
+- **Skills:** Stealth-15 [8], Shadowing-14 [8], Lockpicking-14 [8], Pickpocket-14 [8], Traps-13 [4], Knife-14 [4], Crossbow-13 [4], Acting-13 [4], Disguise-12 [2], Fast-Talk-13 [4], Observation-14 [4], Escape-13 [4]
+- **Gear:** tichá kuše (1d+2 imp), 10 šipek (2 uspávací HT-3), dýka, zlodějské náčiní, lehká kožená zbroj DR 2, masky a převleky
+- **Pozn.:** pro stopování ve sněhu používá návleky na boty (zhoršuje identifikaci stop).
+- **Defenses:** Dodge 9; Parry (Knife) 10
+- **Interakce:** Acting-13, Disguise-12, Fast-Talk-13. Primární muž pro vylákání Pupíka.
+
+---
+
+## 6) Salla "Šlachta" (felčar-alchymista)
+
+- **Attributes:** ST 9 [-10]; DX 11 [20]; IQ 13 [60]; HT 11 [10]
+- **Secondary:** Will 13; Per 13; HP 9; FP 11; Basic Speed 5.5; Move 5
+- **Advantages:** Resistant to Poison +3 [5], Empathy (Sensitive) [5], Single-Minded [5]
+- **Disadvantages:** Pacifism (Reluctant Killer) [-5], Curious [-5], Duty (Ysildřina posádka, 12-) [-10]
+- **Skills:** First Aid-15 [8], Physician-13 [4], Pharmacy (Herbal)-14 [8], Poisons-14 [8], Alchemy-13 [4], Diagnosis-13 [4], Surgery-11 [4], Knife-11 [1], Fast-Talk-12 [4], Diplomacy-12 [4]
+- **Gear:** 3 dávky uspávacího prášku (HT-4, onset 1 s), 2 dávky slzného prášku (Vision-3/10 s), 2 léčivé masti (1d HP po 10 min), obvazy, skalpel, lehká zbroj DR 1
+- **Pozn.:** nese i zahřívací směs/prostředky proti podchlazení pro vlastní lidi.
+- **Defenses:** Dodge 8; Parry (Knife) 8
+- **Interakce:** Dipl.-12, Fast-Talk-12; v jednání působí jako "rozumný hlas".
+
+---
+
+## 7) Šablona: Palubní bijec (2 kusy)
+
+- **Attributes:** ST 12 [20]; DX 11 [20]; IQ 10 [0]; HT 11 [10]
+- **Secondary:** Will 10; Per 10; HP 12; FP 11; Basic Speed 5.5; Move 5
+- **Advantages:** Combat Reflexes [15], Fit [5]
+- **Disadvantages:** Bad Temper (12-) [-10], Code of Honor (Crew) [-5]
+- **Skills:** Shortsword-13 [8], Axe/Mace-13 [8], Shield-12 [4], Brawling-12 [4], Seamanship-11 [2], Intimidation-11 [2]
+- **Gear:** tesák nebo palice, štít DB 1, kožený pancíř DR 3, přilba DR 3
+- **Defenses:** Dodge 8; Parry (Shortsword) 9; Block 9
+- **Role:** drží choke point, kryjí naviják a podpalubí.
+
+---
+
+## 8) Šablona: Střelec posádky (2 kusy)
+
+- **Attributes:** ST 10 [0]; DX 12 [40]; IQ 10 [0]; HT 11 [10]
+- **Secondary:** Will 10; Per 11; HP 10; FP 11; Basic Speed 5.75; Move 5
+- **Advantages:** Combat Reflexes [15], Acute Vision 1 [2]
+- **Disadvantages:** Sense of Duty (Crew) [-5], Greed (12-) [-15]
+- **Skills:** Crossbow-14 [12], Fast-Draw (Bolt)-12 [2], Knife-12 [2], Observation-12 [4], Stealth-11 [2], Seamanship-11 [2]
+- **Gear:** kuše (1d+4 imp, Acc 4), 12 šipek (4 průbojné (2), 2 uspávací HT-2), dýka, kožená zbroj DR 2
+- **Defenses:** Dodge 8; Parry (Knife) 9
+- **Role:** suppressive fire na hráz/molo, krytí odjezdu lodi.
+
+---
+
+## 9) Šablona: Univerzál námořník+žoldák (2 kusy)
+
+- **Attributes:** ST 11 [10]; DX 11 [20]; IQ 10 [0]; HT 11 [10]
+- **Secondary:** Will 10; Per 10; HP 11; FP 11; Basic Speed 5.5; Move 5
+- **Advantages:** Fit [5]
+- **Disadvantages:** Duty (Crew, 12-) [-10], Overconfidence (12-) [-5]
+- **Skills:** Seamanship-12 [4], Boating (Unpowered)-12 [4], Knot-Tying-12 [2], Shortsword-12 [4], Polearm-12 [4], Brawling-11 [2], Swimming-12 [2], Observation-11 [2]
+- **Gear:** veslo/hák (1d+2 cr), krátký meč, lano, kožená zbroj DR 2
+- **Defenses:** Dodge 8; Parry (Shortsword) 9
+- **Role:** odraz lodi, manipulace s lanem/navijákem, sekundární boj.
+
+---
+
+## 10) Volitelně: Písař-padělatel
+
+- **Attributes:** ST 9 [-10]; DX 10 [0]; IQ 13 [60]; HT 10 [0]
+- **Secondary:** Will 13; Per 12; HP 9; FP 10; Basic Speed 5.0; Move 5
+- **Advantages:** Eidetic Memory 1 [5], Smooth Operator 1 [15]
+- **Disadvantages:** Cowardice [-10], Secret (padělky pečetí) [-10], Greed [-15]
+- **Skills:** Forgery-15 [8], Writing-14 [2], Accounting-13 [2], Administration-13 [4], Fast-Talk-13 [4], Diplomacy-12 [4], Law (Trade)-12 [4], Observation-12 [2], Knife-10 [1]
+- **Defenses:** Dodge 8; Parry (Knife) 8
+- **Role:** krycí listiny, falešná předvolání, úplatkové účty.
+
+---
+
+## 11) Skupinová taktika, morálka, sociální rámec
+
+### Prioritní plán v boji
+1. Zastavit prudký nástup (Web/Sleep + střelci).
+2. Udržet kontrolu nad Pupíkem a navijákem.
+3. Vynutit předání peněz nebo aspoň část kořisti.
+4. Odrazit loď a stáhnout se do hlavního toku.
+
+### Morálka (doporučené hody)
+- Při vyřazení Ysildry: všichni Will-3; při neúspěchu ústup.
+- Při vyřazení Valyry: střelci a univerzálové Will-2 (klesá disciplína).
+- Při 40 % ztrát posádky: automatický pokus o únik.
+
+### Interakční hody proti hráčům
+- Vylákání Pupíka: Vott Acting-13 nebo Fast-Talk-13 vs. Pupík Detect Lies.
+- Držení vyjednávání: Ysildra Intimidation-14 vs. Igor Will/Diplomacy.
+- "Měkké" uklidnění: Salla Diplomacy-12 (sníží riziko okamžitého útoku).
+- Čtení blafů: Valyra Detect Lies-12.
+
+### Co Ysildra nechce dělat
+- Dlouhý opotřebovací boj.
+- Boj do posledního muže.
+- Popravu rukojmího (jen extrémní nouze).
+
+---
+
+## 12) Krátký combat reference (GM tahák)
+
+- **Ysildra:** Dodge 9, Parry 11, Intimidation 14
+- **Ysildra:** Dodge 8, Parry 9, Leadership 15, Tactics 14, Intimidation 14
+- **Valyra:** Dodge 9 (s prstenem), klíčová control kouzla 14-15
+- **Brann:** Block 10, Spear 15, Net 14
+- **Vott:** Dodge 9, Stealth 15, Fast-Talk 13
+- **Salla:** Poisons 14, uspávací prášek HT-4
+- **Bijec (x2):** Dodge 8, Block 9
+- **Střelec (x2):** Crossbow 14
+- **Univerzál (x2):** Seamanship 12, Boating 12
+
+Tyto staty jsou navržené tak, aby setkání mělo víc funkčních řešení (social/stealth/trik/síla), ale nešlo rozbít jedním triviálním tahem.
