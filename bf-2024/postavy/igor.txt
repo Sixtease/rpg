@@ -30,7 +30,7 @@ Celkem **110 CP**
 * **HP:** 13 (12)
 * **Will:** 11
 * **Per:** 11
-* **FP:** 14 (13)
+* **FP:** 14 (5)
 * **Basic Speed:** 6.25 (6.5 magické rukavice)
 * **Basic Move:** 6 (5 náklad)
 * **Dodge:** 8 (9 magické rukavice)

@@ -29,7 +29,7 @@ FREE CP: 2
 
 # 2) **SECONDARY CHARACTERISTICS**
 
-* **HP:** 15 (15)
+* **HP:** 15 (3)
 * **FP:** 11
 * **Will:** 10
 * **Per:** 10
@@ -155,7 +155,7 @@ bodání:
 
 ### **Misc**
 
-* Bambitka (TL mismatch): użytek 5 %, skill 8
+* Bambitka (TL mismatch): użytek 5 %, skill 8, damage 2d-1 pi+
 * Luk (lovecký): skill 12
 * Lovecký nůž
 * Kožené cestovní vybavení

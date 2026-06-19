@@ -23,10 +23,10 @@ FREE CP 1
 
 ### Secondary (odvozené)
 
-* **HP:** 7 (6)
+* **HP:** 7 (2)
 * **Will:** 15
 * **Per:** 13
-* **FP:** 10 (6)
+* **FP:** 10 (0)
 * **Basic Speed:** 4.75
 * **Basic Move:** 4
 * **Dodge:** 8 (10)
@@ -210,7 +210,7 @@ hamaka
 páčidlo
 1x lektvar neviditelnosti
 1.6x lektvar síly
-2x léčivý lektvar
+0x léčivý lektvar
 4.8x lektvar dýchání pod vodou
 Lektvar bdělosti: ignoruje únavu 6 h
 10x kouřová bomba
@@ -229,7 +229,7 @@ kniha 40 prázdných listů papíru pozlacená
 encyklopedie magických suchozemských zvířat
 encyklopedie magických mořských zvířat
 9 wyverních šupin
-5x kapsle elfího léčení: po 1k6 kol se vyléčí pokaždé 1k8 životů
+4x kapsle elfího léčení: po 1k6 kol se vyléčí pokaždé 1k8 životů
 
 hůl blesk 1/den magická zbraň (-1 / 1k6-2)
 dýka +1 (0 / 1k4-1)
