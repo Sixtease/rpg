@@ -1,0 +1,21 @@
+bf-2024/postavy/nina.txt
+  s_2284da39489bc3::t_0fecf7782e40e1 213,232
+bf-2024/postavy/bart.txt
+  s_2284da39489bc3::t_0fecf7782e40e1 158
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "e7c96b952078b851633eebf06185b3bffba8d10b",
+  "prompts": {},
+  "sessions": {
+    "s_2284da39489bc3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ee0bc-88a2-7520-b08d-3e4bfbac60d8",
+        "model": "gpt-5.4-mini"
+      },
+      "human_author": "Jan Oldřich Krůza <jan@sixtease.net>"
+    }
+  }
+}
