@@ -1,0 +1,21 @@
+bf-2024/08-kamenice/10-transport-pokladny/02-takticka-mapa.txt
+  s_5cec70adbfb10b::t_79501293bfa851 1-192
+bf-2024/08-kamenice/10-transport-pokladny/01-staty-gurps.txt
+  s_5cec70adbfb10b::t_79501293bfa851 1-205
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "bfe419ab0bf1f810f76066f67fdddcd3c0898b6a",
+  "prompts": {},
+  "sessions": {
+    "s_5cec70adbfb10b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ee09b-3f4c-7450-848d-4289ef793efb",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Jan Oldřich Krůza <jan@sixtease.net>"
+    }
+  }
+}
