@@ -6,9 +6,9 @@
 **Familiar:** Mlska (magická veverka)
 narozena 20.12., věk 18 let
 
-FREE CP 1
+FREE CP 3
 
-19517 stříbrných
+18417 stříbrných
 
 ---
 
@@ -26,7 +26,7 @@ FREE CP 1
 * **HP:** 7 (2)
 * **Will:** 15
 * **Per:** 13
-* **FP:** 10 (0)
+* **FP:** 10 (10)
 * **Basic Speed:** 4.75
 * **Basic Move:** 4
 * **Dodge:** 8 (10)
@@ -130,6 +130,10 @@ FREE CP 1
 * Clairvoyance
 * Illusion (jednoduchá)
 
+### Skill 11
+
+* Alchemy
+
 Celkem **30+ kouzel**.
 
 ---
@@ -185,9 +189,6 @@ Celkem **30+ kouzel**.
 
 # 7) **Equipment (Ninin inventář převedený do GURPS)**
 
-14867 stříbrných
-šperky v hodnotě 127
-
 batoh nekonečného prostoru
 měch na vodu
 kniha kouzel
@@ -208,9 +209,9 @@ lano hedvábné 50"
 pero + inkoust
 hamaka
 páčidlo
-1x lektvar neviditelnosti
-1.6x lektvar síly
-0x léčivý lektvar
+4x lektvar neviditelnosti
+3.6x lektvar síly
+6x léčivý lektvar
 4.8x lektvar dýchání pod vodou
 Lektvar bdělosti: ignoruje únavu 6 h
 10x kouřová bomba
@@ -230,6 +231,18 @@ encyklopedie magických suchozemských zvířat
 encyklopedie magických mořských zvířat
 9 wyverních šupin
 4x kapsle elfího léčení: po 1k6 kol se vyléčí pokaždé 1k8 životů
+Šupina dračí důvěry
+
+Malá šupina od živého velkého draka, darovaná dobrovolně Nině.
+  Pasivní účinek:
+  Když Nina jedná s draky, dračími bytostmi, ještěřími tvory nebo tvory vázanými na starou magii rovnováhy, šupina se slabě zahřeje a dává jí +2 k hodům na reakci / přesvědčování, pokud mluví pravdu nebo jedná v duchu dohody.
+  -
+  1× denně:
+  Nina může šupinu sevřít a na 1 směnu získá jednu z těchto možností:
+  -
+  Dračí hlas – její hlas se stane klidným, hlubším a autoritativním. Dostane +2 k přesvědčování, zastrašování nebo vyjednávání, ale jen pokud nelže přímo.
+  Dračí dech v krvi – při prvním ohnivém, bleskovém nebo jiném elementálním zásahu se šupina rozzáří a sníží poškození o 1k6 + Ninin bonus za inteligenci, tedy u Niny o 1k6+3, což dobře sedí na tvoje house rule pro bonusy kouzelníka .
+  Paměť dračího daru – Nina může položit šupinu na magický předmět, runu, starý nápis nebo zvláštní místo a dostane krátký dojem: „tohle bylo stvořeno k ochraně“, „tady byla zrada“, „tahle magie je starší než elfové“ apod. Mechanicky: jedna otázka GM, ale odpověď je obrazná, ne přesná detekce všeho.
 
 hůl blesk 1/den magická zbraň (-1 / 1k6-2)
 dýka +1 (0 / 1k4-1)

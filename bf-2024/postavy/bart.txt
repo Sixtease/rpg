@@ -8,9 +8,9 @@
 **Společník:** Rychlík (Ally – vlk)
 narozen 26.9. věk 16 let
 
-FREE CP: 2
+FREE CP: 1
 
-7871 stříbrných
+180 stříbrných
 
 ---
 
@@ -29,8 +29,8 @@ FREE CP: 2
 
 # 2) **SECONDARY CHARACTERISTICS**
 
-* **HP:** 15 (3)
-* **FP:** 11
+* **HP:** 15 (15)
+* **FP:** 11 (11)
 * **Will:** 10
 * **Per:** 10
 * **Basic Speed:** 6.00
@@ -156,6 +156,11 @@ bodání:
 ### **Misc**
 
 * Bambitka (TL mismatch): użytek 5 %, skill 8, damage 2d-1 pi+
+  Bárt hází na zásah bambitkou základně 8 nebo méně na 3k6, protože v postavy/bart.txt:91 má Guns (Pistol) – 8 už se započteným TL mismatch –4; podle pravidel se pak k tomu přičítá Acc jen
+  při Aim a odečítá se vzdálenost a další postihy (gurps/export/gurps4-rules.txt:61891, gurps/export/gurps4-rules.txt:61920, gurps/export/gurps4-rules.txt:24737). Pokud použijeme vaši dřív
+  zapsanou bambitku s Acc 1, tak je to typicky: bez míření 8, po 1 s Aim 9, pokud míří obouruč a tedy je pistol „braced“, tak 10, po 2 s míření 11, po 3+ s 12; potom ještě minus vzdálenost,
+  např. do 2 yd beze změny, na 3 yd -1, na 5 yd -2, na 10 yd -4.
+  - 96 střel
 * Luk (lovecký): skill 12
 * Lovecký nůž
 * Kožené cestovní vybavení

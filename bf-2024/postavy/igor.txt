@@ -30,7 +30,7 @@ Celkem **110 CP**
 * **HP:** 13 (12)
 * **Will:** 11
 * **Per:** 11
-* **FP:** 14 (5)
+* **FP:** 14 (14)
 * **Basic Speed:** 6.25 (6.5 magické rukavice)
 * **Basic Move:** 6 (5 náklad)
 * **Dodge:** 8 (9 magické rukavice)
@@ -144,6 +144,10 @@ Celkem **110 CP**
 * **Shape Earth** - 12 …… 1 CP
 * **Earth to Stone** - 12 …… 1 CP
 * **Flesh to Stone** - 12 …… 1 CP
+* **Entombment** - 12 …… 1 CP
+
+* **Purify air** - 12 …… 1 CP
+* **Create air** - 12 …… 1 CP
 
 ---
 
