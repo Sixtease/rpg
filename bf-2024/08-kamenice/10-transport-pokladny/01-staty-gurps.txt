@@ -1,0 +1,205 @@
+# Transport pokladny - GURPS staty pro hru (TL3)
+
+Určeno pro scénu obrany kamenické pokladny po Ysildřině přepadu.
+Cíl: inteligentní, tvrdá, ale stále hratelná opozice proti družině + zbylým věrným strážím.
+
+---
+
+## 0) Doporučené nasazení
+
+### Obránci
+- Ondřej Šedivák, velitel Igorových věrných
+- 2x bojeschopný věrný strážný
+- 1x těžce raněný věrný strážný
+- 1x mrtvý nebo dožívající věrný strážný
+
+### Útočníci
+- Havel Křepel, velitel přepadu
+- 2x kušník
+- 4x štítonoš / těžký rváč
+- 4x lehký obíhač
+- volitelně +2 další bandité pro tvrdší večer
+
+Celkem typicky:
+- lehčí varianta: 10 útočníků
+- střední varianta: 11 útočníků
+- tvrdší varianta: 13 útočníků
+
+---
+
+## 1) Zimní podmínky
+
+- Tvrdý sníh, večerní šero, vítr.
+- Mimo cestu obvykle Move -1.
+- Prudký sprint, charge nebo obrana na uježděném ledu: DX-2 na udržení nohou po zásahu nebo prudké změně směru.
+- Nízká zídka, převrácený vůz a hromady dřeva dávají kryt.
+- Kdo leží v příkopu nebo sněhu déle a je promočený/krvácí, tomu po boji hrozí podchlazení.
+
+---
+
+## 2) Ondřej Šedivák (velitel věrných stráží)
+
+- **Attributes:** ST 12 [20]; DX 11 [20]; IQ 11 [20]; HT 12 [20]
+- **Secondary:** Will 12; Per 11; HP 12; FP 12; Basic Speed 5.75; Move 5
+- **Advantages:** Combat Reflexes [15], Fit [5], Rank 1 (městská stráž) [5], High Pain Threshold [10]
+- **Disadvantages:** Sense of Duty (Kamenice a Igorovi muži) [-10], Honesty (12-) [-10], Stubbornness [-5]
+- **Skills:** Broadsword-14 [12], Shield-13 [4], Leadership-12 [4], Tactics-11 [4], Soldier-12 [4], Spear-12 [2], Brawling-12 [2], Intimidation-11 [2], Observation-11 [2]
+- **Gear:** krátký městský meč (1d+3 cut / 1d+1 imp), střední štít DB 2, kroužková košile DR 4, přilba DR 4, zimní plášť, píšťala
+- **Defenses:** Dodge 8; Parry (Broadsword) 10; Block 10
+- **Pozn.:** Nehoní lupiče. Pokud drží půlku obranného kruhu, považuje to za úspěch.
+
+---
+
+## 3) Věrný strážný (2 kusy bojeschopné)
+
+- **Attributes:** ST 11 [10]; DX 11 [20]; IQ 10 [0]; HT 11 [10]
+- **Secondary:** Will 10; Per 10; HP 11; FP 11; Basic Speed 5.5; Move 5
+- **Advantages:** Combat Reflexes [15], Fit [5]
+- **Disadvantages:** Duty (město, 12-) [-10], Sense of Duty (družstvo) [-5]
+- **Skills:** Spear-13 [8], Shield-12 [4], Broadsword-12 [4], Soldier-11 [2], Observation-10 [1], Brawling-11 [2]
+- **Gear:** kopí nebo krátký meč, střední štít DB 2, kožený kabátec se zesílením DR 3, přilba DR 3
+- **Defenses:** Dodge 8; Parry (Spear) 9; Block 9
+- **Role:** drží mezeru u vozu, kryjí truhly, poslouchají velení Ondřeje nebo Igora.
+
+---
+
+## 4) Těžce raněný věrný strážný
+
+- Použij staty věrného strážného, ale:
+  - HP jen 4
+  - Move 3
+  - Dodge -1
+  - útoky a aktivní obrany po prvním kole boje sebezapřením nebo při ohrožení truhel
+- Pokud ho někdo ošetří:
+  - First Aid-2 nebo Physician
+  - úspěch = zůstane při vědomí a může dál podávat kuši, kopí nebo nabíjet
+  - kritický úspěch = zvládne i omezeně bojovat bez dalších postihů kromě Move 3
+
+---
+
+## 5) Havel Křepel (velitel přepadu)
+
+- **Attributes:** ST 12 [20]; DX 12 [40]; IQ 11 [20]; HT 12 [20]
+- **Secondary:** Will 11; Per 11; HP 12; FP 12; Basic Speed 6.0; Move 6
+- **Advantages:** Combat Reflexes [15], Fit [5], Fearlessness 1 [2], Reputation +1 (drsný žoldnéř mezi špinavou soldateskou) [2]
+- **Disadvantages:** Greed (12-) [-15], Bad Temper (12-) [-10], Overconfidence (12-) [-5], Code of Honor (Soldier's) [-10]
+- **Skills:** Axe/Mace-15 [12], Shield-14 [8], Leadership-12 [4], Tactics-11 [4], Soldier-12 [4], Intimidation-12 [4], Brawling-13 [4], Throwing-11 [1], Knife-12 [2]
+- **Gear:** těžká sekera nebo palice (2d+2 cut / 2d+3 cr), velký štít DB 3, brigantina DR 4 torso/DR 3 limbs, přilba DR 4, dýka, signální píšťalka
+- **Defenses:** Dodge 9; Parry (Axe/Mace) 10; Block 11
+- **Pozn.:** Netouží umřít, ale když cítí blízkost kořisti, tlačí i přes ztráty.
+
+---
+
+## 6) Kušník přepadové bandy (2 kusy)
+
+- **Attributes:** ST 10 [0]; DX 12 [40]; IQ 10 [0]; HT 11 [10]
+- **Secondary:** Will 10; Per 11; HP 10; FP 11; Basic Speed 5.75; Move 5
+- **Advantages:** Combat Reflexes [15], Acute Vision 1 [2]
+- **Disadvantages:** Greed (12-) [-15], Cowardice (12-) [-10]
+- **Skills:** Crossbow-14 [12], Fast-Draw (Bolt)-12 [2], Stealth-11 [2], Observation-12 [4], Knife-11 [1], Soldier-10 [1]
+- **Gear:** kuše (1d+4 imp, Acc 4), 10 šipek, dýka, koženice DR 2
+- **Defenses:** Dodge 8; Parry (Knife) 8
+- **Role:** kryjí barikádu z náspu/ruiny, přepínají palbu na kouzelníka nebo velitele.
+
+---
+
+## 7) Štítonoš / těžký rváč (4 kusy)
+
+- **Attributes:** ST 12 [20]; DX 11 [20]; IQ 10 [0]; HT 11 [10]
+- **Secondary:** Will 10; Per 10; HP 12; FP 11; Basic Speed 5.5; Move 5
+- **Advantages:** Combat Reflexes [15], Fit [5]
+- **Disadvantages:** Bad Temper (12-) [-10], Greed (12-) [-15]
+- **Skills:** Shortsword-13 [8], Shield-13 [8], Axe/Mace-12 [4], Brawling-12 [2], Intimidation-11 [2], Soldier-10 [1]
+- **Gear:** tesák nebo palice, střední štít DB 2, kožený pancíř DR 3, přilba DR 3
+- **Defenses:** Dodge 8; Parry (Shortsword) 9; Block 9
+- **Role:** tlačí na barikádu, kryjí pálící nebo páčící chlapy, zkoušejí otevřít mezeru.
+
+---
+
+## 8) Lehký obíhač (4 kusy)
+
+- **Attributes:** ST 10 [0]; DX 12 [40]; IQ 10 [0]; HT 11 [10]
+- **Secondary:** Will 10; Per 11; HP 10; FP 11; Basic Speed 5.75; Move 5
+- **Advantages:** Combat Reflexes [15], Flexibility [5]
+- **Disadvantages:** Greed (12-) [-15], Impulsiveness (12-) [-10]
+- **Skills:** Knife-14 [8], Shortsword-13 [4], Stealth-12 [4], Running-11 [2], Climbing-11 [2], Brawling-12 [2], Holdout-11 [2]
+- **Gear:** tesák nebo dlouhý nůž, lehká sekyrka nebo hák, lano, pochodně, lehká koženice DR 2
+- **Defenses:** Dodge 8; Parry (Knife) 10; Parry (Shortsword) 9
+- **Role:** obíhají příkopem, tahají menší kazety, zapalují kryt, hledají otvor.
+
+---
+
+## 9) Palič / páčidlo (volitelně 1-2 kusy)
+
+- Vezmi lehkého obíhače a uprav:
+  - ST 11
+  - Axe/Mace-12
+  - místo lana nese páčidlo nebo tesařské kladivo
+  - navíc Flask of Oil / smolná pochodeň
+- Role:
+  - zkusí zapálit vůz
+  - nebo rozbít zámek menší kazety, když se dostane k truhlám
+
+---
+
+## 10) Rychlé objektové staty
+
+- **Velká truhla pokladny:** DR 3, HP 18, váha vysoká; 2 lidi ji vlečou pomalu
+- **Menší kazeta / pytel mincí:** DR 2, HP 8; jeden chlap ji unese a zdrhá
+- **Převrácený vůz:** DR 3, HP 35; poskytuje solidní kryt
+- **Nízká kamenná zídka:** DR 4, HP 25 na sekci
+- **Dřevěná hromada / ohrada:** DR 2, HP 12; snadno chytá
+- **Kůň / tažné zvíře:** podle tvých běžných statů; když se splaší, může převrátit menší náklad nebo rozbít formaci
+
+---
+
+## 11) Morálka
+
+### Stráže
+- Dokud stojí Ondřej nebo Igor osobně velí:
+  - drží skoro za každou cenu
+- Ondřej padne:
+  - ostatní stráže Will-2
+- Pokud je jasné, že aspoň většina peněz unikne:
+  - bojují do krytého ústupu, ne do posledního muže
+
+### Bandité
+- Havel padne:
+  - všichni Will-3
+- Oba kušníci padnou:
+  - lehcí obíhači Will-2, štítonošům klesne ochota tlačit na barikádu
+- Při 40 % ztrát nebo při příjezdu posil z města:
+  - automatický pokus vzít, co unesou, a zmizet
+
+---
+
+## 12) Taktika
+
+### Stráže
+1. Držet tvar kolem truhel.
+2. Neotevřít dvě mezery najednou.
+3. Zabít nebo srazit toho, kdo sahá na truhly.
+4. Jakmile tlak poleví, stáhnout poklad k městu.
+
+### Bandité
+1. Fixovat obranu štíty.
+2. Kušemi potlačit mága nebo velitele.
+3. Lehkými chlapy oběhnout k menší kazetě.
+4. Když vše selže, odnést alespoň část kořisti.
+
+---
+
+## 13) Krátký combat reference
+
+- **Ondřej:** Dodge 8, Parry 10, Block 10, Leadership 12
+- **Věrný strážný:** Dodge 8, Block 9, Spear 13
+- **Havel:** Dodge 9, Block 11, Axe/Mace 15, Leadership 12
+- **Kušník:** Crossbow 14
+- **Štítonoš:** Dodge 8, Block 9, Shortsword 13
+- **Lehký obíhač:** Dodge 8, Knife 14, Stealth 12
+
+Tyto staty jsou záměrně rychlé. Když budeš chtít scénu ztvrdit, nepřidávej hlavně čísla, ale další tlak:
+- druhý směr útoku,
+- hořící kryt,
+- odtažení jedné menší truhly,
+- čas do příjezdu městské pomoci.

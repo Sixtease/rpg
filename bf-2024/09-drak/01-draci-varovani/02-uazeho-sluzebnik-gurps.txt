@@ -1,0 +1,78 @@
+# Uazeho stínový služebník (Uaze's Shadow Thrall) – GURPS Staty (TL3)
+
+Řadový služebník zlého draka Uazeho. Jde o stínovou, chladem prostoupenou polo-humanoidní bytost, která se plíží temnotou. Jsou vysíláni v malých smečkách (2–4 tvorové), aby vyhledávali magické kotvy a tise likvidovali překážky.
+
+---
+
+## 📊 STATISTIKY (Attributes & Secondary Characteristics)
+
+* **ST:** 11 [10] *(svaly ztuhlé chladem)*
+* **DX:** 13 [60] *(extrémně mrštný a tichý)*
+* **IQ:** 9 [-20] *(zvířecí mazanost, plní příkazy pána)*
+* **HT:** 11 [10] *(odolná stínová podstata)*
+
+* **Will:** 10 [5]
+* **Per:** 12 [15]
+* **HP:** 11 [0]
+* **FP:** 11 [0]
+* **Basic Speed:** 6.0 [0]
+* **Basic Move:** 7 [5] *(velmi rychlý při zemi)*
+
+---
+
+## 🛡️ OBRANY A ODOLNOSTI (Defenses & DR)
+
+* **DR (Damage Resistance):** **2 (Stínová kůže)** – obchází ji oheň a čisté světlo.
+* **Dodge:** **10** *(Basic Speed 6 + 3 + 1 za Combat Reflexes)*
+* **Parry (Claws):** **11** *(Brawling 14 / 2 + 3 + 1 za Combat Reflexes)*
+* **Block:** **0** *(bez štítu)*
+
+---
+
+## ✨ VÝHODY (Advantages)
+
+* **Combat Reflexes** [+15] *(+1 k aktivním obranám, +2 k fázování)*
+* **Dark Vision** [+25] *(vidí v naprosté tmě bez postihů ke DX/útoku)*
+* **Resistant to Cold +5** [+5] *(imunní vůči běžnému mrazu a chladu severních hor)*
+* **Sharp Claws** [+5] *(ostré černé drápy)*
+* **Striking ST +2 (Only for Claws/Bite -20%)** [+8]
+* **Shadow Form (Temporary Disadvantage: Weakness to Sunlight -10%, Cost FP 1/min -10%)** [+40] *(dokáže se změnit v 2D stín a proplížit se štěrbinami, v této formě ale nemůže fyzicky útočit ani brát předměty)*
+
+---
+
+## ⚠️ NEVÝHODY (Disadvantages)
+
+* **Weakness to Sunlight / Bright Light** [-15] *(na přímém slunci nebo v oblasti kouzla *Světlo* ztrácí stínové krytí, má postih -3 ke všem hodům a dostává 1 HP poškození za každou minutu)*
+* **Vulnerability to Fire (x2 damage)** [-30] *(oheň trhá stínovou a chladovou esenci; Nina s Ohnivou koulí nebo zapálené pochodně jim působí dvojnásobné zranění)*
+* **Social Stigma (Monster)** [-15]
+* **Duty (Uaze) (15-)** [-15]
+
+---
+
+## 🎯 DOVEDNOSTI (Skills)
+
+* **Brawling – 14** [2] *(útoky drápy a kousáním)*
+* **Stealth – 16** [12] *(tiché plížení; v šeru/temnotě má navíc +4 k hodu za splynutí se stíny)*
+* **Wrestling – 13** [2] *(zápasení, chytání obětí za hrdlo)*
+* **Observation – 11** [2] *(vyhledávání cílů)*
+
+---
+
+## ⚔️ BOJOVÉ ÚTOKY (Weapons & Attacks)
+
+* **Ostré drápy (Sharp Claws) – skill 14:**
+  * Damage: **1d+1 cutting** (sekavé poškození)
+  * Reach: C, 1
+* **Mrazivé kousnutí (Chilling Bite) – skill 14:**
+  * Damage: **1d-1 crushing** (fyzické zousnutí) **+ 1d toxic (chladový šok)**
+  * *Pozn.: Toxic (chladové) poškození obchází běžnou zbroj, pokud není magická nebo speciálně zateplená.*
+  * Reach: C
+
+---
+
+## 🌌 SPECIÁLNÍ SCHOPNOSTI (GM Mechanics)
+
+* **Stínový skok (Shadow Step):**
+  Pokud se nachází v šeru či temnotě, může spotřebovat 1 FP a provést rychlý skok ze stínu do stínu na vzdálenost až 5 metrů. Tento pohyb se nepočítá do běžného Move a nevyvolává příležitostné útoky (opportunity attacks).
+* **Aura chladu:**
+  V okruhu 2 metrů kolem tvora citelně klesne teplota a zhasínají malé plamínky (svíčky, slabé louče). Postavy s vysokým Perception (nebo skillu Observation/Survival) mohou s bonusem +2 uspět v hodu na to, že ucítí blížící se nepřirozený chlad ještě předtím, než stín zaútočí.

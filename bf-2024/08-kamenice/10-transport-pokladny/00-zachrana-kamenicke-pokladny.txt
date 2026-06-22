@@ -1,0 +1,193 @@
+Záchrana kamenické pokladny
+
+Bezprostřední návaznost:
+- Navazuje přímo na konec v `zapis.txt`: Igor stihl poslat 5 nejvěrnějších strážných s celou hotovostí městské pokladny zpět do Kamenice, zatímco sám zůstal u Ysildřiny lodi.
+- Ve městské pokladně bylo dříve cca 9 000 sm; po nových zabavených truhlách a krizovém hospodaření můžeš hrát částku cca 12 000 až 18 000 sm podle potřeby. Pro dojem "superkořisti" klidně použij 15 000 sm.
+- Smysl scény: Kdyby pokladna padla, Igor utrpí nejen finanční, ale i politický kolaps. Nebudou žoldy, chléb ani důvěra.
+
+Jádro scény:
+- Stráže ustupují s těžkou kořistí k městu.
+- Přepadne je polovojenská banda, kterou někdo předem připravil na útok proti ozbrojenému doprovodu, ne jen na obyčejnou loupež.
+- Stráže se nezhroutí: zabarikádují vozy/truhlice a drží obranný perimetr.
+- Bez pomoci ale nevydrží dlouho, protože útočníci mají převahu, štíty, střelce a chuť riskovat cokoliv.
+
+Kdo jsou bandité:
+- Ne Ysildřina posádka. Ta právě odplula a nechce vázat síly.
+- Jde o místní nebo najaté tvrdé chlapy z okolí Kamenice a Adamovic, které někdo navedl na mimořádnou kořist a trasu návratu.
+- Jsou disciplinovanější než běžní lupiči: mají velitele, signály, krycí střelbu a snahu odříznout ústup do města.
+- Motivace: tak tlustý úlovek už možná nikdy neuvidí. Počítají se ztrátami.
+
+Možní objednavatelé:
+- Nejjednodušší varianta: zbytky Badyánovy sítě a jeho zkorumpovaných kontaktů.
+- Špinavější varianta: někdo z městské rady zkusil využít chaosu po Ysildře.
+- Varianta pro pozdější hru: bandité sami nevědí, kdo přes prostředníka zakázku zadal.
+
+Místo:
+- Silnice od slepého ramene Kamenky ke Kamenici, asi 30-45 minut od městských bran.
+- Ideálně úsek se zimními remízky, mělkým příkopem a nízkou kamennou zídkou nebo opuštěnou pálenicí/rozpadlým stodolním dvorem u cesty.
+- Tím vznikne bojiště, kde se dá krýt, hořet, obcházet i držet postavení.
+
+Doporučené rozvržení bojiště:
+1) Cesta s jedním vozem nebo smykem s truhlami
+- Těžký náklad zpomaluje pohyb.
+- Převrácený vůz tvoří hlavní barikádu.
+
+2) Levá strana
+- Příkop, keře, tvrdý sníh.
+- Dobré pro plížení a přiblížení Ninou/Pupíkem, nebo obchvat banditů.
+
+3) Pravá strana
+- Nízká zídka, hromady dřeva nebo ruina hospodářské stavby.
+- Odtud vedou hlavní útok bandité.
+
+4) Zadní směr ke Kamenici
+- Ústupová osa stráží.
+- Bandité ji chtějí sevřít druhou skupinou, ale ještě ji úplně neuzavřeli.
+
+5) Vyvýšené místo
+- Pařezový val, rozbořená pec nebo násep.
+- Odtud kryjí střelci.
+
+Vstupní obraz pro GM:
+- Už zdálky je slyšet řev, práskání dřeva a rozkazy.
+- Dva strážní drží štíty v mezeře mezi vozem a zídkou.
+- Jeden zraněný nabíjí kuši nebo podává kopí.
+- Velitel stráží klečí za truhlou a řve rozkazy, aby nikdo neustupoval od peněz.
+- Bandité zkoušejí tři věci najednou:
+  - palbu a tlak zepředu,
+  - obchvat kolem příkopu,
+  - zapálení krytu nebo rozbití zámků truhlic, pokud obránci poleví.
+
+Stav stráží:
+- Původně 5 Igorových nejvěrnějších strážných.
+- Při vstupu družiny:
+  - 1 mrtvý nebo bezprostředně umírající,
+  - 1 těžce raněný, ale při vědomí,
+  - 3 bojeschopní včetně velitele.
+- Všichni jsou vyčerpaní, ale morálně pevní.
+- Peníze už nepustí, i kdyby měli padnout.
+
+Velitel stráží:
+- Jméno dle chuti; doporučení: Ondřej Šedivák.
+- Věrný Igorovi ne z lásky, ale protože vidí, že konečně někdo ve městě dělá pořádek.
+- Rozumný, ne fanatik. Když dorazí družina, okamžitě se podřídí smysluplnému velení.
+- Jeho hlavní cíl: dostat aspoň většinu peněz za brány města.
+
+Síla banditů:
+- 10 až 14 mužů podle tvrdosti večera.
+- Doporučené složení:
+  - 1 velitel přepadu,
+  - 2 střelci/kušníci,
+  - 4 až 6 štítonošů nebo těžších rváčů,
+  - 3 až 5 lehčích obíhačů s tesáky, sekerami, pochodněmi.
+- Dva z nich mají háky, lana nebo kladiva na páčení truhlic.
+
+Velitel přepadu:
+- Bývalý žoldnéř, ne obyčejný lesní lotr.
+- Nechce jednat o milostech; chce peníze.
+- Ví, že když teď uteče s prázdnou, jeho lidi se proti němu obrátí.
+- Bude riskovat skoro vše kromě jisté sebevraždy.
+
+Jeho tón:
+- "Vemte si žold, ne město."
+- "Tamhle neleží jen stříbro. Tamhle leží život na deset let."
+- "Jakmile padne velitel, rozštípejte vůz a berte měšce!"
+
+Průběh scény po fázích:
+
+Fáze 1: Družina dorazí
+- Hned je patrné, že nejde o hotovou věc.
+- Stráže ještě drží.
+- Bandité jsou soustředění na dobývání barikády a družina je může zaskočit.
+
+Co musí hráči rychle pochopit:
+- Priorita není pobít všechny, ale zachovat obranný kruh kolem pokladny.
+- Když obránci ztratí souvislý perimetr, bandité se vrhnou na truhly.
+- Když padne velitel stráží, morálka obránců prudce klesne.
+
+Fáze 2: Zlom
+- Jakmile družina zasáhne, bandité rozdělí síly:
+  - část dál tlačí na barikádu,
+  - část se obrátí proti družině,
+  - velitel zkusí rozhodnout, zda ještě stihne uloupit aspoň jednu truhlu.
+- Tady je prostor pro silný hero moment:
+  - Bárt prorazí tlak u barikády,
+  - Nina odstraní střelce nebo zastaví nápor plošným kouzlem,
+  - Igor sjednotí obranu, vystraší útočníky nebo někoho exemplárně srazí.
+
+Fáze 3: Rozhodnutí
+- Bandité buď:
+  - začnou kolabovat morálně,
+  - nebo se pokusí o zoufalý finální průlom.
+- Pokud vidí, že kořist neudrží, jeden či dva se ještě zkusí utrhnout s menším měšcem či jednou kazetou.
+- To je dobré pro pocit, že nešlo jen o statickou řež.
+
+Co dělají bandité inteligentně:
+- Nestojí na otevřené cestě; kryjí se.
+- Snaží se rozbít soustředění obránců, ne jen bezhlavě nabíhat.
+- Když Nina začne kouzlit, střelci se pokusí přepnout na ni.
+- Když Bárt vtrhne dopředu, dva mu zkusí podseknout bok nebo nohy, zatímco třetí ho váže zepředu.
+- Když Igor velí, velitel přepadu pozná autoritu a zkusí ho prioritně sundat nebo aspoň izolovat.
+
+Co dělají stráže inteligentně:
+- Kryjí truhly vlastními těly a štíty.
+- Udržují úzký sektor, aby nebyly obklíčené.
+- Nepronásledují prchající, dokud peníze nejsou v bezpečí.
+- Jsou ochotné poslechnout družinu, ale ne rozkaz "nechte to tu a utíkejte".
+
+Spouštěče komplikací:
+- Jeden z vozů začne hořet.
+- Kůň nebo tažné zvíře se splaší a hrozí převrátit náklad.
+- Raněný strážný se pokusí vstát a zkolabuje v mezeře obrany.
+- Bandita s hákem zachytí jednu menší truhlu a táhne ji pryč do příkopu.
+- Z města už je slyšet vzdálený poplach, takže útočníci vědí, že jim běží čas.
+
+Jak může družina vyhrát:
+- Udrží obránce pohromadě a rozbije tlak velitele přepadu.
+- Zabije nebo vyřadí střelce a tím vrátí iniciativu strážím.
+- Odpálí morálku banditů silovým nebo magickým šokem.
+- Urychlí průlom ke Kamenici a bojem jen kryje přesun.
+
+Jak může družina uspět jen částečně:
+- Zachrání většinu pokladny, ale menší část se ztratí.
+- Udrží peníze, ale dva Igorovi věrní padnou.
+- Odrazí útok, ale velitel přepadu unikne a později může prásknout, kdo ho najal.
+
+Jak může vypadat fail-forward:
+- Když družina nezvládne ubránit vše, bandité odnesou jen jednu část nákladu, ne všechno.
+- Přežije zajatec nebo raněný útočník, který dovede k zadavateli.
+- Na místě zůstane rozkaz, značka, neobvyklé vybavení nebo svědek, že to nebyla nahodilá loupež.
+- Igor i tak může politicky otočit výsledek, pokud veřejně ukáže, že sám osobně přispěchal město zachránit.
+
+Silné důsledky při plném úspěchu:
+- Igor dramaticky posílí legitimitu: zachránil městský žold a chléb.
+- Věrní strážní k němu přilnou osobně.
+- Měšťané dostanou příběh, že kníže nenechal městské peníze padnout.
+
+Silné důsledky při těžkém neúspěchu:
+- Okamžitá rozpočtová krize.
+- Opoziční hlasy: Igor vytáhl celou pokladnu kvůli bláznivé honbě za zdvojením peněz.
+- Nutnost nouzové půjčky, mimořádné berně nebo zabavení majetku protivníkům.
+
+GM tahák na napětí:
+- Každé 2-3 kola bez zásadního zásahu družiny zhorši situaci o jeden stupeň:
+  1. bandité získají lepší kryt,
+  2. další strážný padne nebo je vyřazen,
+  3. jedna truhla je v ohrožení,
+  4. obrana se láme.
+- Každý výrazný hráčský úspěch naopak situaci o stupeň zlepší.
+
+Jednoduché orientační priority NPC:
+- Stráže:
+  1. ubránit truhly,
+  2. neztratit velitele,
+  3. dostat pokladnu ke Kamenici.
+
+- Bandité:
+  1. získat aspoň část kořisti,
+  2. nerozsypat se morálně,
+  3. ustoupit dřív, než dorazí městská pomoc.
+
+Dvě dobré závěrečné obrazy:
+- Vítězný: zasněžená cesta, krvavé šmouhy, dýmající vůz, tři přeživší stráže stojí kolem truhel a Igorovi přísahají, že by je nevydali ani za cenu života.
+- Hořkosladký: jedna truhla pryč, mrtví na obou stranách, ale většina pokladny zachráněna a družina už ví, že proti nim ve městě stále někdo hraje větší hru.

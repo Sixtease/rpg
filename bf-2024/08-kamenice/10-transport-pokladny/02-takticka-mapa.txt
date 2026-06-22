@@ -1,0 +1,192 @@
+Taktická mapa místa přepadení
+
+Účel:
+- rychlá použitelná mapa pro boj bez kreslení
+- měřítko po 2 yardech / 2 metrech na pole, nebo volně "jedna zóna"
+- zimní podvečer, tvrdý sníh, místy led
+
+Směr:
+- nahoře = sever / od slepého ramene
+- dole = jih / ke Kamenici
+- vlevo = západ / příkop a remízek
+- vpravo = východ / zídka, dřevo, ruina
+
+Legenda:
+- `C` cesta
+- `V` převrácený vůz / hlavní barikáda
+- `T` truhly a kazety
+- `S` věrní strážní
+- `O` Ondřej
+- `R` raněný strážný
+- `X` mrtvý strážný
+- `B` štítonoš / těžký bandita
+- `L` lehký obíhač
+- `K` kušník
+- `H` Havel, velitel přepadu
+- `P` příkop / mělký sníh / keře
+- `Z` zídka nebo ruina
+- `D` hromada dřeva / hořlavý kryt
+- `N` násep / vyvýšenina
+- `U` ústupová osa ke Kamenici
+
+Základní rozestavení:
+
+```text
+                sever / od řeky a zříceniny
+
+P P P P P P P P C C C C C C C Z Z Z N K
+P P P P P P P P C C C C C C C Z Z Z N Z
+P P P P P P P P C C B B H B C Z D D N Z
+P P P P L L P P C B B B B B C Z D K N Z
+P P P P P P P P C C C V V C C Z Z Z Z Z
+P P P P P P P P C C T O S C C Z Z Z Z Z
+P P P P P P P P C C T S R C C Z Z Z Z Z
+P P P P P P P P C C V S X C C Z Z Z Z Z
+P P P P P L P P C C C C C C C Z Z Z Z Z
+P P P P P P P P C C C C C C C Z Z Z Z Z
+                U U U U U U U U U
+
+                jih / směr Kamenice
+```
+
+Čtení mapy:
+- Stráže drží střed kolem vozu a truhel.
+- Hlavní tlak jde z pravé strany od zídky a ruin.
+- Jeden až dva lehcí obíhači lezou příkopem vlevo.
+- Kušníci mají výškovou nebo krytou pozici vpravo nahoře.
+- Ústupová osa na Kamenici ještě není zavřená, ale je ohrožená.
+
+---
+
+## Doporučené vzdálenosti
+
+- Od družiny při příchodu k prvnímu pohledu na scénu: 20-30 yardů
+- Od levého příkopu k vozu: 10-12 yardů
+- Od pravé zídky k vozu: 8-10 yardů
+- Od kušníků k centru barikády: 15-20 yardů
+- Od posledního krytu ke Kamenici: 25-40 yardů
+
+To stačí na:
+- smysluplný nástup kušníků
+- obchvat
+- kolo či dvě, než se družina skutečně zapojí
+
+---
+
+## Zóny bojiště
+
+### 1) Střed - vůz a truhly
+- Nejdůležitější místo celé scény.
+- Kdo ovládá tuto zónu, ovládá výsledek.
+- Kryt:
+  - vůz poskytuje dobrý kryt proti střelbě
+  - truhly poloviční kryt při kleku
+- Nevýhoda:
+  - málo prostoru k úhybu
+  - když dva obránci padnou, formace se láme
+
+### 2) Levý příkop
+- Tichý přístup, ale pomalejší.
+- Dobrý pro:
+  - Pupíka, Ninu, Mlsku, obchvat
+  - lehké bandity
+- Nevýhoda:
+  - horší pohyb
+  - při prudkém výpadu se leze do kopce zpátky na cestu
+
+### 3) Pravá zídka a ruina
+- Hlavní útočný sektor banditů.
+- Dobrý kryt a nástupní prostor pro těžké rváče.
+- Odtud se také nejlépe zapaluje vůz nebo hází pochodně.
+
+### 4) Vyvýšenina / násep
+- Pozice kušníků.
+- Kdo je odtud vyžene, výrazně sníží tlak na stráže.
+- Kdo ji ovládne, vidí skoro celé bojiště.
+
+### 5) Jižní ústupová osa
+- Směr ke Kamenici.
+- Když ji stráže ztratí, zbývá jim jen umrznout na místě nebo ustupovat do příkopů.
+- Když ji družina vyčistí, může pokladna odjet nebo být odtažena.
+
+---
+
+## Varianty podle tvrdosti
+
+### Lehčí varianta
+- Použij jen:
+  - Havel
+  - 2 kušníky
+  - 3 štítonošy
+  - 3 lehké obíhače
+- Jeden kušník je níž, ne na plném krytu.
+
+### Střední varianta
+- Použij:
+  - Havel
+  - 2 kušníky
+  - 4 štítonohy
+  - 4 lehké obíhače
+- Je to doporučený základ.
+
+### Tvrdší varianta
+- Přidej:
+  - 1 další štítonoš
+  - 1 palič s pochodní nebo páčidlem
+- A začni scénu tak, že jedna menší kazeta už leží mimo hlavní kruh.
+
+---
+
+## Dynamické prvky mapy
+
+Použij jeden nebo dva, ne všechny najednou:
+
+### Hořící kryt
+- Bandita hodí pochodeň do dřeva nebo na plachtu vozu.
+- Každé další kolo bez řešení:
+  - horší kryt
+  - více kouře
+  - větší tlak na přesun truhel
+
+### Odtah kazety
+- Lehký obíhač s hákem zachytí menší truhlu a táhne ji do příkopu.
+- Není to konec scény, ale výborná lokální priorita.
+
+### Splašené zvíře
+- Kůň ucítí oheň nebo krev.
+- Může:
+  - rozbít průchod
+  - povalit někoho v centru
+  - nebo naopak uvolnit cestu ke Kamenici
+
+### Pozdní poplach z města
+- Po 6-10 kolech je slyšet zvon nebo vzdálené hlasy.
+- Bandité ví, že čas končí.
+- To často spouští jejich zoufalý pokus vzít aspoň část kořisti.
+
+---
+
+## Rychlé rady pro hraní na mapě
+
+- Nenech boj rozlézt po celé ploše; pořád vracej pozornost k vozům a truhlám.
+- Když hráči udělají průlom v jednom sektoru, nech bandity přeskupit, ne okamžitě zmizet.
+- Jakmile padne Havel nebo oba kušníci, mapa se psychologicky láme ve prospěch hráčů.
+- Když naopak padne Ondřej nebo se utrhne jedna truhla, mapa se láme proti obráncům.
+
+---
+
+## Dvě rychlé alternativy prostředí
+
+### Varianta A - opuštěná pálenice
+- `Z` a `D` představují nízké zdi, pec a dřevo na topení.
+- Výhoda:
+  - silný vizuál
+  - dobré kryty
+  - oheň je přirozená hrozba
+
+### Varianta B - rozpadlý dvůr u cesty
+- `Z` jsou zbytky kamenné ohrady a stodoly.
+- `D` jsou polena, sudy, prkenné hromady.
+- Výhoda:
+  - prostší
+  - snadněji uvěřitelné pro náhodné místo přepadu
