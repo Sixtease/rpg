@@ -66,7 +66,9 @@ Celkem **110 CP**
   * Only in Sanctified/Natural places
   * Cannot affect physical world
 
-**Výhody celkem:** **87 CP**
+### osatní
+
+Ally: sova
 
 ---
 
@@ -145,6 +147,7 @@ Celkem **110 CP**
 * **Earth to Stone** - 12 …… 1 CP
 * **Flesh to Stone** - 12 …… 1 CP
 * **Entombment** - 12 …… 1 CP
+* Earth to Air - 12 1 CP
 
 * **Purify air** - 12 …… 1 CP
 * **Create air** - 12 …… 1 CP

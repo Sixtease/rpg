@@ -1,0 +1,52 @@
+# Uaze – drak mrazu a zlomných pečetí (GURPS)
+
+Uaze je už bez získané pečeti velký drak, ne běžný boss. Pečetě mu nepřidávají jen čísla: postupně mu vracejí schopnost vést válku proti městu. Přímý boj má být reálný až s pomocí Subokaie, obrany Kamenice a útoku na konkrétní slabiny.
+
+## Základní staty – bez získané pečeti
+
+| Vlastnost | Hodnota |
+| --- | ---: |
+| ST / HP | 45 / 50 |
+| DX / IQ / HT | 13 / 16 / 15 |
+| Will / Per | 18 / 16 |
+| FP | 20 |
+| SM | +4 |
+| Dodge | 10 |
+| Move / Air Move | 8 / 18 |
+| DR | 12 tělo a hlava; 6 křídla; 4 oči |
+
+## Útoky
+
+* **Kousnutí 16:** `5d cutting`, dosah C–2.
+* **Dva drápy 15:** `4d+2 cutting`, dosah C–1.
+* **Ocas 15:** `5d crushing`, dosah 3–5; při zásahu musí cíl uspět v Quick Contest ST, nebo je odhozen 3 m a sražen.
+* **Ledový dech 14:** kužel 10 m, `6d burning` s efektem mrazu; HT-2, jinak 1 FP navíc a -2 na DX na příští kolo. Použití jednou za 5 kol.
+
+## Trvalé schopnosti
+
+* Dark Vision, Flight, Combat Reflexes, Fearlessness.
+* **Magická odolnost:** +3 k odporu proti přímé magii; neplatí proti magii pečetí ani proti Subokaiově moci.
+* **Drakonický strach:** kdo Uazeho poprvé uvidí zblízka, hází Will-3; neúspěch znamená -2 na aktivní obrany a útoky proti němu po 1d kol.
+* **Inteligentní kouzelník:** nepouští se do férové rvačky; útočí z letu, rozbíjí kryt, izoluje Ninu a střelce a ustupuje, jakmile hrozí skutečná ztráta.
+
+## Síla podle získaných pečetí
+
+| Pečetě | Změna statů | Vrácená schopnost | Herní význam |
+| ---: | --- | --- | --- |
+| 0 | Základní staty | Jen ledový dech a omezená magie. | Hrozivý, ale opatrný; lze ho odehnat chytrou akcí. |
+| 1 | +10 HP, DR +2, dech `7d` | **Mrazivá aura:** do 5 m -2 na DX, malé plameny zhasínají. | Už může vyhrát souboj s družinou bez pomoci. |
+| 2 | +10 HP, ST 50, Air Move 22, dech `8d` | **Stínové velení:** jednou za scénu přivolá 2–4 stínové služebníky ze stínů či z ledu. | Družina ho nemá porážet čelně. |
+| 3 | +10 HP, DR +2, Will 20, dech `9d` | **Bouře nad bojištěm:** 1× za boj vyvolá na 10 minut vichr, sníh a špatnou viditelnost v okruhu 200 m. | Může ochromit obranu města a bezpečně útočit z výšky. |
+| 4 / všechny | +20 HP, ST 55, DR 18, Air Move 26, dech `10d` | **Srdce zimy:** regeneruje 2 HP za kolo, dokud je v chladu nebo ve stínu; umí rozlomit hradbu či věž jediným soustředěným útokem. | Otevřený útok na Kamenici. Bez Subokaie, pečetního rituálu nebo válečné přípravy je téměř neporazitelný. |
+
+## Slabiny a cíle pro družinu
+
+* **Křídla:** při 10+ HP zranění do jednoho křídla po odečtení DR je Air Move poloviční; při 20+ nemůže bezpečně létat, dokud se nevyléčí.
+* **Oči:** malé cíle, DR 4; útoky na oči mohou Uazeho na kolo oslepit nebo zahnat.
+* **Pečetní síla:** každá získaná pečeť se v jeho těle projeví jako ledově zářící jizva pod šupinami. Nelze ji prostě vyříznout v boji, ale rituál Igora, Subokaiova pomoc nebo druhá neporušená pečeť mohou jednu úroveň síly dočasně potlačit.
+* **Oheň není automatická slabina:** oheň ho zraňuje normálně, ale nepřináší dvojnásobné poškození. Je to velký drak, ne stínový služebník.
+* **Nina má zvláštní roli:** její Šupina dračí důvěry může 1× za den odhalit, která jizva právě nese nejvíc síly, nebo dát obraz Uazeho příštího záměru.
+
+## Vedení konfliktu
+
+Při dvou pečetích Uaze neutíká po prvním zranění, ale ustoupí, jakmile ztratí asi třetinu HP nebo přijde o možnost letu. Je pyšný, ne sebevražedný — a chce hlavně další pečetě.

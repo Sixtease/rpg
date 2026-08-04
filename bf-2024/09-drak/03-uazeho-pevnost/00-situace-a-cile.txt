@@ -1,0 +1,39 @@
+# 03 – Uazeho pevnost: Sněžný zub
+
+## Výchozí situace
+
+Sněžný zub je opuštěný ruský pohraniční hrádek těsně za hranicí Rousínovského panství. Z Kamenice je to asi den tvrdé cesty, z Rousínova půl dne. Uaze tam po získání dostatečné síly vybudoval dočasnou základnu: z ní může sledovat cesty, shromažďovat stínové služebníky a připravovat útok na Kamenici.
+
+Hrádek je formálně ruský, ale sporná hranice a zanedbaná správa z něj udělaly politicky výbušné místo. Rousínov se podle dohod a obyčeje dožaduje přístupu, aby mohl situaci pozorovat, chránit své zájmy a držet obecný pohraniční pořádek. Rus to odmítá: připustil by tím, že má Rousínov právo mluvit do dění na svém území.
+
+Družinu z Kamenice Rus k hrádku vpustí. Nejsou sousední mocnost a jejich přítomnost lze navenek vydávat za pomoc proti mimořádné dračí hrozbě.
+
+## Co Uaze opravdu dělá
+
+* V podzemní cisterně buduje ledovou komoru, v níž posiluje své stínové služebníky a soustřeďuje sílu získanou z porušených pečetí.
+* Z věže sleduje hlavní cesty a hledá slabá místa v obraně Kamenice.
+* Drží několik lidí z Podzubí jako nucené dělníky. Neobětuje je hned; živí zajatci jsou pro něj nástroj, jak držet vesnici poslušnou.
+* Rozšiřuje lidské stoupence slibem ochrany, pomsty nebo postavení.
+
+Uaze nemusí být při první výpravě družiny na hrádku. Jeho nepřítomnost dovolí průzkum a sociální hru; přítomnost signalizuj náhlým mrazem, zhasínáním ohňů a velkým stínem nad zdí, ne nenápadným přepadem bez úniku.
+
+## Stavová stupnice: Uazeho přípravy
+
+Začni na **1 ze 4**. Posuň o jeden stupeň, jen když družina stráví celou noc, ztratí den nepodstatným otálením nebo Uaze získá významnou výhodu. Nikdy neposouvej stupnici jen za neúspěšný hod na nalezení stopy.
+
+| Stav | Důsledek |
+| --- | --- |
+| 1 | Služebníci jsou rozptýlení; podzemí ještě není hotové. |
+| 2 | Část zajatců pracuje v cisterně, hlídky jsou pravidelné. |
+| 3 | Ledová komora funguje; služebníci jsou početnější a Uaze zná pohyb po cestách. |
+| 4 | Uaze může rozjet hlavní útok, jakmile padne další pečeť; pevnost už nelze vyřešit potají. |
+
+## Vítězství v této kapitole
+
+Úspěchem není nutně zabít Uazeho. Stačí splnit dvě z těchto tří věcí:
+
+1. zachránit zajatce nebo získat jejich cestu ven;
+2. zničit či ochromit ledovou komoru;
+3. získat Uazeho plán a spojence pro obranu Kamenice.
+
+To oddálí útok a dá Kamenici i Rousínovu důvod spolupracovat, aniž by družina musela rozpoutat válku mezi Rousínovem a Rusem.

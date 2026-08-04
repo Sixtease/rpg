@@ -1,0 +1,59 @@
+# 02 – Návrat do hrobu mumie
+
+## Účel scény
+
+Družina se po Subokaiově varování vrací do železného dolu. Má bezpečně získat medailonek s polohou zbývajících pečetí a zároveň zjistit, že Uazeho služebníci už jednají. Medailonek nesmí zůstat za neúspěšným hodem: hody určují jen cenu, čas a míru ohrožení.
+
+Navazuje na poslední zápis: družina došla pozdě v noci do Kamenice po záchraně transportu pokladny. Důl leží 2–4 hodiny pěšky od města.
+
+## Co už je jisté
+
+* Sarkofág a mumie byly první, již porušenou součástí pouta, které Uazeho oslabovalo.
+* Další pečetě zůstávají v krajině. Balzamovaný hrdina zanechal jejich polohu na malém medailonku v hrobě.
+* Uazeho stínoví služebníci hledají totéž. Jsou citliví na světlo a oheň; jejich staty jsou v `01-draci-varovani/02-uazeho-sluzebnik-gurps.txt`.
+
+## Nástupní popis
+
+> V dolu je chladněji, než by po zimní noci mělo být. Voda na kolejích je zmrzlá do tenkého, černého skla. Od chodby k pohřebišti vede do prachu stopa, která není ani lidská, ani zvířecí: jako kdyby se po zemi táhl stín.
+
+Před hrobkou jsou vidět dvě věci: víko sarkofágu je posunuté a poslední pochodeň, kterou zde družina kdysi nechala, je zhaslá jinovatkou.
+
+## Medailonek
+
+Je vložený do vnitřní výstelky koruny, kterou družina z hrobu odnesla. Pokud korunu nemají u sebe, zůstal ve skryté mělké prohlubni v její části sarkofágu. Tohle rozhodni podle skutečného lootu družiny; v obou variantách je medailonek k nalezení.
+
+Medailonek je bronzový, velikosti velké mince. Z jedné strany nese znamení kopí v kruhu, z druhé stylizovanou krajinu s několika značkami. Nejde o magický předmět, který by sám chránil či odhaloval lokaci; je to praktická šifra, již mohou přečíst s pomocí místních orientačních bodů.
+
+### Co mapa spolehlivě dá
+
+* počet a vzájemný směr zbývajících pečetí;
+* jeden znak u každé pečeti, podle něhož ji lze poznat v terénu;
+* výstrahu, že u jedné značky už někdo provedl „černý zářez“ – Uazeho služebníci o ní vědí.
+
+Přesné podoby a umístění zbývajících pečetí stanov až ve chvíli, kdy budeš chtít připravit dané dobrodružství. Medailonek má družině dát volbu pořadí, ne vynutit jedinou cestu.
+
+## Testy a následky
+
+| Záměr hráčů | Vhodný test | Úspěch | Neúspěch |
+| --- | --- | --- | --- |
+| Najít medailonek rychle | Search, Observation, případně znalost pohřebních zvyklostí | Je nalezen během několika minut; služebníci jsou ještě v předsíni. | Je nalezen, ale trvá to déle a služebníci stihnou zaujmout výhodnou pozici. |
+| Přečíst mapu | Cartography, Area Knowledge, History či společné skládání stop | Družina určí směr první vhodné pečeti a rozpozná černý zářez. | Rozpozná základní směry; další podrobnost získá až z terénu nebo od Subokaie. |
+| Všimnout si přepadení | Perception, Observation, Survival | Zaslechne nepřirozený chlad či pohyb dřív než boj začne. | Stínoví služebníci mají první výhodu, ale medailonek je už v rukou družiny. |
+| Ustoupit s nálezem | Stealth, taktika, práce se světlem | Služebníci je mohou sledovat, ale nevědí, co družina našla. | Jeden služebník unikne s informací, že medailonek už má družina. |
+
+## Střet v hrobce
+
+Použij 2 služebníky pro rychlou scénu, 3–4 pro plnohodnotný boj. Nejsou tu, aby medailonek získali a dobrodružství zastavili: pokud mají převahu, pokusí se ustoupit, pozorovat nebo donést Uazemu zprávu.
+
+Terénní prvky:
+
+* úzký tunel omezuje počet útočníků vedle sebe;
+* zbytky loučí a olej jsou okamžitá obrana proti stínům;
+* posunuté víko sarkofágu lze převrátit jako kryt;
+* hluk může uvolnit kámen ze starého výkopu, ale nejde o automatickou past.
+
+## Důsledky pro další hru
+
+* **Čistý úspěch:** družina má medailonek a Uaze si ještě není jistý, kdo jej našel.
+* **Únik služebníka:** Uaze začne jednat rychleji a bude hledat družinu i mimo pečetě.
+* **Zajatý služebník:** pod nátlakem neprozradí plán jako člověk, ale může opakovat obraz ledové věže a hraničního hrádku. To je první neurčitá stopa ke Sněžnému zubu.

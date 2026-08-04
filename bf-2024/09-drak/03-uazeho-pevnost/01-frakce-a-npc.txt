@@ -1,0 +1,82 @@
+# Frakce a NPC u Sněžného zubu
+
+## Rousínovská hlídka
+
+Hlídka stojí na vlastní straně hranice. Nehodlá hrádek dobývat, ale podle pohraničních zvyklostí chce mít přístup k mimořádné události, která může ohrozit Rousínov i okolní vesnice. Rus ji odmítá vpustit.
+
+### Kapitánka Milena Vrátná
+
+Velitelka šesti jezdců. Je věcná, disciplinovaná a nechce z dračí krize udělat záminku k válce. Družině otevřeně řekne, že jí jde o pozorování, svědky a bezpečí lidí, ne o zábor hrádku.
+
+* Chce: vědět, co se v pevnosti děje, a mít důkaz pro rousínovskou radu.
+* Nabídne: koně, zásoby, bezpečný návrat na rousínovskou stranu a později šest jezdců pro krytí evakuace.
+* Neudělá: nepřekročí hranici v uniformě bez jasné hrozby nebo pozvání.
+
+### Tereza Křivá, rousínovská pozorovatelka
+
+Tereza je členka hlídky, ale do hrádku půjde v civilu jako kamenická písařka a průvodkyně. Rusové ji neznají. Předstírá, že si ji družina najala, aby vedla záznam o škodách a pomohla číst staré pohraniční listiny.
+
+Je malá, klidná, mluví bez nápadného rousínovského přízvuku a má výbornou paměť na tváře, znaky a výpovědi. Nenosí rousínovské barvy ani vojenský meč; má skrytý tenký nůž, pečetní vosk a svinutý list s drobným rousínovským znakem.
+
+* **Skutečný úkol:** sepsat, kdo vstoupil do hrádku, koho Rus drží, jaké jsou škody na rousínovské straně a zda Uaze používá ruskou pomoc.
+* **Herní užitek:** Observation, Current Affairs (Rousínov), Administration a Diplomacy. Umí rychle odhalit rozpory ve výpovědích a pořizovat použitelné svědectví.
+* **Komplikace:** nechce odejít bez svědectví, i když je to nebezpečné. Pokud ji Rusové odhalí, budou ji považovat za špionku a mohou zadržet i družinu.
+* **Charakter:** věří v řád a ověřitelná fakta, ale není chladná; silně na ni působí zneužití vesničanů a vojáků k politické hře.
+* **Volba pro družinu:** mohou ji krýt, nechat ji pracovat otevřeně po získání důvěry, nebo ji odmítnout. Odmítnutí není sabotáž: Milena jim i tak dá základní pomoc.
+
+## Ruská strana
+
+### Bojar Jaromir Surov
+
+Držitel nedalekého panství a formální správce hrádku. Přijel se čtyřmi ozbrojenci, až když se ukázalo, že problém nelze utajit. Povolení pro družinu vydá ochotněji než pro Rousínov: Kamenice není soused, jehož nároků se obává.
+
+* Chce: obnovit ruskou kontrolu nad hrádkem bez rousínovských svědků.
+* Ví: pevnost byla zanedbaná a její zásoby i posádka podstavové.
+* Nabídne: právo vstupu, nocleh na ruské straně, peníze za důkaz o drakovi.
+* Zatají: že poručík Volkov opakovaně žádal o zásoby a střídání hlídky.
+
+Surov není nutně spojenec Uazeho. Jeho základní chybou je ješitnost a obava, že ztratí panství; může proto tlačit na rychlé a špatné vojenské řešení.
+
+### Poručík Andrej Volkov
+
+Velitel původní posádky hrádku. Uaze mu slíbil, že z něj po pádu Kamenice udělá správce celého pomezí. Volkov se stal vůdcem lidských stoupenců, ale už začíná chápat, že drak mu nedává skutečnou moc.
+
+* Chce: dostat se živý z katastrofy a nezůstat viníkem pádu pevnosti.
+* Ví: rozvrh hlídek, zásobní chodbu, mechanismus cisterny a jména všech vojáků.
+* Lze na něj působit: důkazem, že Uaze drží lidi jen jako pracovní sílu, nabídkou svědectví proti Surovovi, nebo záchranou jeho vojáků.
+
+### Zbytek posádky
+
+Kaprál Boris a tři vojáci se drží v podzemní spižírně. Nevěří Volkovovi, ale nevědí, zda je zrádce, mrtvý nebo jen zajatý. Znají cestu k zadní zdi a mají jeden svazek klíčů od starých dveří. Seržant Fjodor je raněný a ukrytý v Podzubí u Anji.
+
+## Podzubí
+
+Malá ves pod hrádkem. Její obyvatelé jsou mezi ruskou vrchností, drakem a Rousínovem, který sice nabízí pomoc, ale stojí za hranicí. Každou noc jsou lidé nuceni odvádět jednoho až dva schopné obyvatele na práci v podzemí.
+
+### Anja Větrná
+
+Bylinkářka z Podzubí. Ukryla raněného Fjodora a tajně s ním chodí. Ví, že Fjodor má povinnost vrátit se k posádce, ale zároveň se bojí, že ho Volkovovi lidé, Surov nebo samotný Uaze použijí jako viníka.
+
+* Chce: aby Fjodor přežil a vesnice nebyla potrestána za její pomoc.
+* Ví: o kozí stezce ke zřícené zadní zdi, o nucených dělnících i o tom, že Volkov jednou v noci s někým z vesnice mluvil dobrovolně.
+* Dilema: přesvědčí Fjodora, aby zůstal s ní a uprchl, pokud jí družina nenabídne lepší cestu. Fjodorova přísaha i známost podzemí však mohou rozhodnout o záchraně celé posádky.
+
+### Fjodorův závazek
+
+Fjodor není zběh. Po zranění zůstal u Anji, protože se nemohl bezpečně vrátit a protože by ji Volkovovi lidé vyslýchali. Jakmile se zotaví, chce dostát přísaze, zachránit vojáky a svědčit proti Volkovovi. Družina může:
+
+* nechat ho jít s nimi a Anje slíbit ochranu či evakuaci;
+* ukrýt oba a přijít o jeho klíče, znalost podzemí a svědectví;
+* vyjednat s Surovem podmíněnou milost za návrat a svědectví;
+* předat ho ruské straně bez podmínek – rychlé, ale pro Anju i vesnici velmi rizikové řešení.
+
+## Uazeho lidé
+
+Vedle 2–4 stínových služebníků tvoří Uazeho sílu několik rozdělených lidí:
+
+* Volkov a dva vojáci chtějí hodnost a moc.
+* Pašerák Radovan žene zásoby přes hranici za příslib bezpečné cesty.
+* Vesničanka Mara přesvědčuje sousedy, že pravidelné odvody ochrání zbytek Podzubí; její syn je mezi zajatci.
+* Dva lidé slouží jen proto, že jejich příbuzní pracují v cisterně.
+
+Nejsou jednotní. Každý má důvod zradit Uazeho, jestliže družina nabídne bezpečí, záchranu blízkých nebo důkaz, že drak své sliby neplní.

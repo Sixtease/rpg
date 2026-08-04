@@ -6,9 +6,9 @@
 **Familiar:** Mlska (magická veverka)
 narozena 20.12., věk 18 let
 
-FREE CP 3
+FREE CP 5
 
-18417 stříbrných
+18117 stříbrných
 
 ---
 
@@ -209,7 +209,7 @@ lano hedvábné 50"
 pero + inkoust
 hamaka
 páčidlo
-4x lektvar neviditelnosti
+3x lektvar neviditelnosti
 3.6x lektvar síly
 6x léčivý lektvar
 4.8x lektvar dýchání pod vodou
@@ -248,6 +248,10 @@ hůl blesk 1/den magická zbraň (-1 / 1k6-2)
 dýka +1 (0 / 1k4-1)
 dýka z dračí šupiny (+0 / 1k4+2)
 dýka z dračí šupiny +1 (+1 / 1k4+3)
+
+# Experimenty
+- sliz na sbírání prachu (prototyp)
+- mastička na vyhlazení vrásek (30 použití; 1-24 hodin)
 
 
 ---

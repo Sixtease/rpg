@@ -1,0 +1,55 @@
+# Sněžný zub – pohotové testy, překážky a konflikty
+
+## Pravidlo vedení
+
+Neschovávej nutnou stopu za jediný hod. Úspěch dává výhodu, rychlost, důkaz nebo bezpečnější cestu; neúspěch přináší hluk, zdržení, dluh vůči frakci či horší výchozí pozici.
+
+## Hlavní místa
+
+| Místo | Co je na první pohled | Co se zde dá získat | Hrozba |
+| --- | --- | --- | --- |
+| Rousínovský tábor | Jezdci, pozorování hrádku, spor na hranici | Terezu, koně, krytí evakuace | Odhalení Terezy nebo nedůvěra Rusů |
+| Ruská závora | Surovovi vojáci, zápis vstupujících | Oficiální průchod, Surovovo svolení | Podmínky, zákaz rousínovské uniformy, prohlídka vybavení |
+| Podzubí | Vystrašení lidé, studené domy, prázdné stáje | Anju, Fjodora, kozí stezku, seznam zajatců | Panika, udavač, noční odvod |
+| Zadní zeď | Zřícený úsek nad roklí | Nenápadný vstup do nižšího patra | Lezení, padající kámen, stín ve štěrbinách |
+| Nádvoří | Promrzlé stany a lidské stoupence | Rozvrh hlídek, zásoby, možnost převratu | Volkov, poplach, otevřený boj |
+| Podzemní cisterna | Led, zajatci, černě zmrzlá voda | Ledová komora, Uazeho plán, záchrana lidí | Chlad, služebníci, křehký strop |
+
+## Testy podle záměru
+
+| Záměr | Vhodné dovednosti / přístup | Úspěch | Cena při neúspěchu |
+| --- | --- | --- | --- |
+| Dostat Terezu přes závoru | Acting, Fast-Talk, Disguise, krycí příběh družiny | Projde jako kamenická písařka. | Projde, ale jeden ruský voják si zapamatuje její tvář a bude ji sledovat. |
+| Přesvědčit Surova ke spolupráci | Diplomacy, Law, Politics, důkaz o Uazem | Výslovně povolí záchranu lidí či použití jeho zásob. | Vstup ponechá, ale přidá omezení nebo si nárokuje nález. |
+| Získat Podzubí na svou stranu | Reaction roll, Diplomacy, Streetwise, pomoc raněným | Vesnice poskytne úkryt a několik svědků. | Lidé se bojí mluvit veřejně; Anja předá stopu soukromě. |
+| Přesvědčit Fjodora | Leadership, Diplomacy, čestný slib Anje ochrany | Půjde zachránit posádku a otevře cestu. | Půjde také, ale Anja žádá okamžitou záruku; bez ní hrozí, že ho bude následovat. |
+| Prolézt zadní zdí | Climbing, Stealth, Engineering (Mining) | Vstup bez poplachu a s výhodnou pozicí. | Vstup se podaří, ale hluk přivolá služebníka nebo dojde ke zranění. |
+| Rozdělit stoupence | Diplomacy, Intimidation, Psychology, důkaz o zajatcích | Jeden či více lidí odmítne Volkovův rozkaz. | Získáš jejich motivaci, ale Volkov ví, že se něco děje. |
+| Zničit ledovou komoru | Explosives, Engineering, spells, oheň, chytré využití cisterny | Komora se zhroutí, služebníci zeslábnou. | Komora se poškodí, ale část stropu se bortí a je nutná rychlá záchrana zajatců. |
+
+## Tři konflikty, které můžeš rovnou rozehrát
+
+### 1. Tereza proti ruské závoře
+
+Ruský seržant chce znát důvod, proč kamenická družina bere na průzkum písařku. Tereza může být představena jako člověk, který zapíše škody pro pozdější náhradu, nebo jako znalec starých mezních kamenů. Pokud ji prohlédnou, nenajdou uniformu; problém je až její skrytý pečetní list.
+
+**Volba:** zničit list a ochránit krytí, nebo jej zachovat jako důkaz rousínovského pověření s rizikem odhalení.
+
+### 2. Fjodor a Anja
+
+Fjodor chce do pevnosti, Anja jej chce živého. Ve chvíli, kdy družina plánuje odchod, přijde vesničan s informací, že v noci budou zajatci přesunuti do cisterny. Fjodorův návrat může otevřít dveře a zachránit druhy; Anja ale ví, že bez záruky bude po celé věci ruskou vrchností označena za spolupachatelku.
+
+**Volba:** rychlý útok s Fjodorem, nejdřív zajistit Anje a vesnici ochranu, nebo najít jinou cestu a riskovat osud posádky.
+
+### 3. Pozorování, nebo zásah
+
+Milena požádá hlavně o důkazy, Surov hlavně o ticho a vesnice hlavně o lidi. Když družina získá Uazeho plán, může ještě několik hodin nenápadně dokumentovat ruské zanedbání a Volkovu zradu. Každá další hodina však přibližuje noční odvod.
+
+**Volba:** odejít s důkazem pro budoucí spojenectví, nebo zasáhnout hned a nechat politické důkazy shořet v nastalém zmatku.
+
+## Bojové a terénní komplikace
+
+* Stínoví služebníci v tmavých chodbách používají Stínový skok; zapálené pochodně, kouzlo Světlo a oheň je nutí měnit plán.
+* V cisterně je kluzký led. Selhání pohybu nemá nutně znamenat pád do smrti: znamená oddělení od skupiny, ztracenou akci, promrznutí nebo hluk.
+* Lidské stoupence nenech bojovat do posledního muže. Při ztrátě Volkovovy autority mohou utéct, pustit zajatce nebo složit zbraně.
+* Uazeho přílet oznam dvě kola předem: náhlý mráz, zhasnutí plamenů a stín křídel přes sníh. Družina tak dostane skutečnou možnost změnit plán.

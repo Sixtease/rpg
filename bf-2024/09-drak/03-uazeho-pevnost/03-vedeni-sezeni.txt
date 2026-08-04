@@ -1,0 +1,29 @@
+# Rychlé vedení sezení: Sněžný zub
+
+## Doporučený pořad, ne kolej
+
+1. Rousínovský tábor: Milena nabídne Terezu a vysvětlí politické omezení.
+2. Ruská závora: Surov vpustí družinu, ale Rousínov ne.
+3. Podzubí: Anja, Fjodor a konkrétní lidská cena dračího obsazení.
+4. Volba cesty: otevřený vstup, zadní zeď, nebo dohoda s Volkovem/stoupenci.
+5. Hrádek: důkaz Uazeho příprav, zajatci, ledová komora.
+6. Ústup či evakuace: Rousínov může krýt civilisty, Rus může chtít převzít zajatce a Tereza musí rozhodnout, co zveřejní.
+
+## Když hráči udělají něco nečekaného
+
+* **Jdou přímo za Surovem:** dá jim povolení, ale bude chtít, aby nepouštěli Rousínov k důkazům. Tereza může působit jako kamenická písařka.
+* **Odhalí Terezu sami:** Milena je neurazí; požádá jen, aby Rousínov dostal aspoň stručné svědectví. Nech hráčům rozhodnutí.
+* **Vyjednávají s Volkovem:** nabídne jim zajatce výměnou za bezpečný odchod. Není to řešení Uazeho komory, ale je to použitelná dohoda, kterou mohou přijmout, využít nebo zradit.
+* **Volají Rousínov do boje:** Milena přejde hranici jen při jasném útoku draka na civilisty nebo na základě Surovova písemného povolení. Jinak vyšle neuniformované záchranáře, ne vojenský oddíl.
+
+## Informace, které mají být k dispozici
+
+Družina se k nim musí dostat alespoň dvěma cestami:
+
+| Informace | Cesta A | Cesta B |
+| --- | --- | --- |
+| Zadní vstup | Anja / Fjodor | průzkum rokle a zřícené zdi |
+| Zajatci v cisterně | vesničané | rozpis hlídek na nádvoří |
+| Volkov zradil | Fjodor | lidský stoupenec / Volkovův rozkaz |
+| Ledová komora je klíč | Tereza rozpozná zápisy | průzkum podzemí / zajatci |
+| Uazeho plán proti Kamenici | dokumenty ve věži | výslech služebníka nebo Volkova |

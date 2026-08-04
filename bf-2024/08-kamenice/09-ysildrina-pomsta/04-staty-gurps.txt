@@ -127,6 +127,8 @@ Volitelně +1 písař/padělatel (na sociální/intrikářské scény).
 
 ## 7) Šablona: Palubní bijec (2 kusy)
 
+mrtvi
+
 - **Attributes:** ST 12 [20]; DX 11 [20]; IQ 10 [0]; HT 11 [10]
 - **Secondary:** Will 10; Per 10; HP 12; FP 11; Basic Speed 5.5; Move 5
 - **Advantages:** Combat Reflexes [15], Fit [5]

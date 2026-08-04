@@ -1,0 +1,35 @@
+# Sněžný zub – schéma a průvod hrádkem
+
+Viz `snezny-zub-schema.png`. Mapa je řez hrádkem: nahoře povrch, dole podzemí.
+
+## Legenda
+
+| Číslo | Místo | Stav při příchodu družiny | Co se zde hraje |
+| --- | --- | --- | --- |
+| 1 | Hlavní brána a strážnice | Bránu drží 2 lidští stoupenci; zvenčí lze vejít s ruským povolením. | Kontrola, krytí Terezy, první možnost zjistit rozvrh hlídek. |
+| 2 | Zřícená kasárna | Volkovovi lidé, zásoby pašeráka Radovana a málo tepla. | Vyjednávání se stoupenci, krádež rozkazů, vyvolání vnitřního rozkolu. |
+| 3 | Nádvoří | Uaze je zde, má prostor roztáhnout křídla a vzlétnout. | Není to férový boj: družina se mu může vyhnout, odvést pozornost nebo sem později nalákat spojence. |
+| 4 | Věž | Pozorovatelna, Volkovovy mapy cest a Uazeho plán proti Kamenici. | Průzkum, důkazy pro Terezu, riziko, že Uaze z nádvoří uslyší pohyb nahoře. |
+| 5 | Zřícená zadní zeď a kozí stezka | Nehlídaná stále; hlídky spoléhají na roklinu. | Lezení a tichý vstup do dolního patra; Anja a Fjodor o ní vědí. |
+| 6 | Stará zásobní chodba | Zasunuté dveře a strmé schody; Volkov ji považuje za nepoužitelnou. | Skrytý vstup k posádce. Chodba je nejbezpečnější cesta pro evakuaci. |
+| 7 | Podzemní spižírna | Kaprál Boris a tři původní vojáci jsou zabarikádovaní. | Klíče, svědectví proti Volkovovi a spojenci, kteří znají staré podzemí. |
+| 8 | Cisterna a ledová komora | Zajatci z Podzubí lámou led a rozšiřují komoru; jsou tu stínoví služebníci. | Záchrana lidí, zničení ledové komory a boj v kluzkém terénu. |
+| 9 | Svatyně pečeti | Za starou kamennou bránou z cisterny. Pečeť je dosud neporušená na oltáři. | Hlavní cíl: Uaze ji hledá, ale ještě ji nezískal. Družina ji může ubránit, skrýt nebo posílit. |
+
+## Pečeť
+
+Pečeť je velký bronzový kotouč s motivem kopí v kruhu, zasazený do kamenného oltáře. Není přenosná bez následků: její vyjmutí by přerušilo ochranu stejně jako její rozbití. Správná okamžitá volba je proto ubránit ji a případně obnovit její rituální spojení, ne ji odnést.
+
+Do svatyně vedou jen dvě rozumné cesty:
+
+1. od cisterny přes zamrzlou boční chodbu – nejkratší, ale hlídaná služebníky;
+2. zpod spižírny starou odvodňovací štolou, kterou Boris zná jen přibližně – pomalejší, zato vhodná pro plížení.
+
+## Jak družinu provést bez kolejí
+
+* Chce-li jednat s lidmi, vede ji brána, kasárna a Podzubí k Volkovovi, Anje a Fjodorovi.
+* Chce-li zachraňovat, vede zadní zeď a zásobní chodba přímo ke spižírně a cisterně.
+* Chce-li získat hlavně důkazy, věž obsahuje plán a seznam hlídek.
+* Chce-li zabránit Uazemu získat sílu, musí se dostat ke svatyni; záchrana zajatců či rozkol mezi stoupenci jí k tomu jen vytvoří lepší podmínky.
+
+Uaze má být na nádvoří zjevný problém, ne překážka, která hru okamžitě uzavře. Jeho přítomnost oznamuj chladem a stínem křídel; při tiché akci v podzemí se nemusí o družině hned dozvědět.
