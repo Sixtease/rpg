@@ -1,0 +1,32 @@
+bf-2024/09-drak/npc/Uaze.txt
+  s_208d28c0c7c8fc::t_cf596d8df4f859 1-52
+bf-2024/09-drak/03-uazeho-pevnost/00-situace-a-cile.txt
+  s_208d28c0c7c8fc::t_646cdd6bfd74cc 1-39
+bf-2024/09-drak/03-uazeho-pevnost/01-frakce-a-npc.txt
+  s_208d28c0c7c8fc::t_18700de273df6a 1-47,49,51-82
+  s_208d28c0c7c8fc::t_b0f1c784116f66 48,50
+bf-2024/09-drak/02-pecet-v-hrobe-mumie/00-navrat-do-hrobu.txt
+  s_208d28c0c7c8fc::t_646cdd6bfd74cc 1-59
+bf-2024/09-drak/03-uazeho-pevnost/02-testy-prekazky-a-konflikty.txt
+  s_208d28c0c7c8fc::t_b0f1c784116f66 1-55
+bf-2024/09-drak/03-uazeho-pevnost/04-schema-a-pruvod.txt
+  s_208d28c0c7c8fc::t_99413cfd52f526 1-35
+bf-2024/09-drak/03-uazeho-pevnost/03-vedeni-sezeni.txt
+  s_208d28c0c7c8fc::t_b0f1c784116f66 1-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "b88b38a27f50433722eeda42208b6637751c32e0",
+  "prompts": {},
+  "sessions": {
+    "s_208d28c0c7c8fc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fbd4d-9615-7511-bba2-a1000a3d41ab",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Jan Oldřich Krůza <jan@sixtease.net>"
+    }
+  }
+}
