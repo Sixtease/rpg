@@ -6,7 +6,7 @@
 **Familiar:** Mlska (magická veverka)
 narozena 20.12., věk 18 let
 
-FREE CP 5
+FREE CP 9
 
 18117 stříbrných
 
@@ -26,7 +26,7 @@ FREE CP 5
 * **HP:** 7 (2)
 * **Will:** 15
 * **Per:** 13
-* **FP:** 10 (10)
+* **FP:** 10 (1)
 * **Basic Speed:** 4.75
 * **Basic Move:** 4
 * **Dodge:** 8 (10)
@@ -95,7 +95,7 @@ FREE CP 5
 
 ### Skill 14 (hlavní)
 
-* **Magic Missile** (H) – 14
+* **Magic Missile** (H) – 14: 1d6 dmg per FP
 * **Invisibility** (VH) – 14
 * **Sleep** (H) – 14
 
@@ -202,7 +202,6 @@ telefonní naušnice
 amulet detect magic 1x denně
 amulet charisma +1
 >amulet imunity vůči kouzlům level 1
-amulet proti horku – snižuje účinek ohnivých útoků o 2 (pasivně, dárek pro bratra).
 amulet chůze po vodě
 amulet dýchání pod vodou
 lano hedvábné 50"
@@ -250,7 +249,7 @@ dýka z dračí šupiny (+0 / 1k4+2)
 dýka z dračí šupiny +1 (+1 / 1k4+3)
 
 # Experimenty
-- sliz na sbírání prachu (prototyp)
+- sliz na sbírání prachu (prototyp na půdě + méně lepivý 9 ks, různé barvy)
 - mastička na vyhlazení vrásek (30 použití; 1-24 hodin)
 
 
