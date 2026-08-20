@@ -1,0 +1,18 @@
+bf-2024/postavy/igor.txt
+  h_784b0d2c4c6fbe 8,10,120,145
+bf-2024/postavy/nina.txt
+  h_784b0d2c4c6fbe 9,11,26,29
+bf-2024/zapis.txt
+  h_784b0d2c4c6fbe 1324-1346
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "f16faf8aa49247eb0638a6346716b89ec4bee527",
+  "prompts": {},
+  "humans": {
+    "h_784b0d2c4c6fbe": {
+      "author": "Jan Oldřich Krůza <jan@sixtease.net>"
+    }
+  }
+}
