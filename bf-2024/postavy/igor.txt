@@ -5,9 +5,9 @@
 **Koncept:** Tank + léčitel + ochránce přírody
 narozen 11.9. věk 99 let
 
-FREE CP: 4
+FREE CP: 2
 
-6530 stříbrných
+7040 stříbrných
 
 ---
 
@@ -117,7 +117,7 @@ Ally: sova
 
 * **Cure Light Wounds (Minor Healing)** – 12 …… 1 CP
 * Major Healing 11 1 CP: 2-8 HP healed for 1-4 FP, instant
-* Great Healong 11 1 CP: all HP healed for 20 FP, 1 minute
+* Great Healong 12 2 CP: all HP healed for 20 FP, 1 minute
 * **Detect Evil** – 12 …… 1 CP
 * **Protection from Evil** – 12 …… 1 CP
 * **Remove Fear** – 12 …… 1 CP
@@ -142,7 +142,7 @@ Ally: sova
 * **Hinder** - 12 …… 1 CP
 * **Paralyze Limb** - 12 …… 1 CP
 * **Wither Limb** - 12 …… 1 CP
-* **Death Touch** - 13 …… 3 CP
+* **Death Touch** - 13 …… 2 CP
 
 * **Seek Earth** - 12 …… 1 CP
 * **Shape Earth** - 12 …… 1 CP

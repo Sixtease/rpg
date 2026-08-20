@@ -6,9 +6,9 @@
 **Familiar:** Mlska (magická veverka)
 narozena 20.12., věk 18 let
 
-FREE CP 9
+FREE CP 10
 
-18117 stříbrných
+18687 stříbrných
 
 ---
 
@@ -23,10 +23,10 @@ FREE CP 9
 
 ### Secondary (odvozené)
 
-* **HP:** 7 (2)
+* **HP:** 7
 * **Will:** 15
 * **Per:** 13
-* **FP:** 10 (1)
+* **FP:** 10
 * **Basic Speed:** 4.75
 * **Basic Move:** 4
 * **Dodge:** 8 (10)
