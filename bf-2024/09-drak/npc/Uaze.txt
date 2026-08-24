@@ -1,12 +1,14 @@
 # Uaze – drak mrazu a zlomných pečetí (GURPS)
 
+* mrtvý *
+
 Uaze je už bez získané pečeti velký drak, ne běžný boss. Pečetě mu nepřidávají jen čísla: postupně mu vracejí schopnost vést válku proti městu. Přímý boj má být reálný až s pomocí Subokaie, obrany Kamenice a útoku na konkrétní slabiny.
 
 ## Základní staty – bez získané pečeti
 
 | Vlastnost | Hodnota |
 | --- | ---: |
-| ST / HP | 45 / 50 |
+| ST / HP | 45 / 50 (0) |
 | DX / IQ / HT | 13 / 16 / 15 |
 | Will / Per | 18 / 16 |
 | FP | 20 |

@@ -5,9 +5,9 @@
 **Koncept:** Tank + léčitel + ochránce přírody
 narozen 11.9. věk 99 let
 
-FREE CP: 2
+FREE CP: 3
 
-7040 stříbrných
+6470 stříbrných
 
 ---
 
@@ -17,7 +17,7 @@ FREE CP: 2
 | ------ | ----- | -- |
 | **ST** | 13    | 30 |
 | **DX** | 11    | 20 |
-| **IQ** | 11    | 20 |
+| **IQ** | 12    | 20 |
 | **HT** | 14    | 40 |
 
 Celkem **110 CP**
@@ -30,7 +30,7 @@ Celkem **110 CP**
 * **HP:** 13 (12)
 * **Will:** 11
 * **Per:** 11
-* **FP:** 14 (14)
+* **FP:** 14 (13)
 * **Basic Speed:** 6.25 (6.5 magické rukavice)
 * **Basic Move:** 6 (5 náklad)
 * **Dodge:** 8 (9 magické rukavice)
@@ -78,6 +78,8 @@ Ally: sova
 * **Vow (Protect Forests & Nature)** …… –10
 * **Workaholic** …… –5
 * **Pact (Balance Doctrine)** …… *(zahrnuto výše)*
+* greed -15
+* enemies -10
 
 **Nevýhody celkem:** **–25 CP**
 
@@ -113,14 +115,12 @@ Ally: sova
 
 ## **Klerická kouzla (BF Core)**
 
-*(skill = 12, pokud neuvedeno jinak)*
+*(skill = 11, pokud neuvedeno jinak)*
 
-* **Cure Light Wounds (Minor Healing)** – 12 …… 1 CP
-* Major Healing 11 1 CP: 2-8 HP healed for 1-4 FP, instant
-* Great Healong 12 2 CP: all HP healed for 20 FP, 1 minute
 * **Detect Evil** – 12 …… 1 CP
 * **Protection from Evil** – 12 …… 1 CP
 * **Remove Fear** – 12 …… 1 CP
+* **Striking** – 12 …… 1 CP
 * **Resist Cold** – 12 …… 1 CP
 
 * **Bless** – 13 …… 2 CP
@@ -132,8 +132,11 @@ Ally: sova
 
 * **Cure Blindness** – 12 …… 1 CP
 * **Cure Disease** – 12 …… 1 CP
+* **Cure Light Wounds (Minor Healing)** – 12 …… 1 CP
+* Major Healing 11 1 CP: 2-8 HP healed for 1-4 FP, instant
+* Great Healing 12 2 CP: all HP healed for 20 FP, 1 minute
 * **Remove Curse** – 12 …… 1 CP
-* **Striking** – 12 …… 1 CP
+* lend energy 12 (1cp)
 
 * **Itch** - 12 …… 1 CP
 * **Spasm** - 12 …… 1 CP
@@ -151,8 +154,18 @@ Ally: sova
 * **Entombment** - 12 …… 1 CP
 * Earth to Air - 12 1 CP
 
+* ignite fire 12 (1cp)
+* create fire 12 (1cp)
+* shape fire 12 (1cp)
+* fireball 15 (8cp)
+
 * **Purify air** - 12 …… 1 CP
 * **Create air** - 12 …… 1 CP
+
+* Detect Magic - 12 (1CP)
+* Identify Spell - 12 (1CP)
+
+* foolishness 12 (1cp)
 
 ---
 
@@ -160,7 +173,7 @@ Ally: sova
 
 (*skilly 12, dražší protože „Cross College“*)
 
-* **Call Lightning** – 12 …… 4 CP
+* **Call Lightning** – 12 …… 2 CP
 * **Camouflage (Forest)** – 12 …… 2 CP
 
 ---

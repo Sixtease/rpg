@@ -6,9 +6,9 @@
 **Familiar:** Mlska (magická veverka)
 narozena 20.12., věk 18 let
 
-FREE CP 10
+FREE CP 17
 
-18687 stříbrných
+18667 stříbrných
 
 ---
 
@@ -26,7 +26,7 @@ FREE CP 10
 * **HP:** 7
 * **Will:** 15
 * **Per:** 13
-* **FP:** 10
+* **FP:** 10 (4)
 * **Basic Speed:** 4.75
 * **Basic Move:** 4
 * **Dodge:** 8 (10)
@@ -93,18 +93,18 @@ FREE CP 10
 
 # 5) **Spells (Kouzla)** – **63 CP**
 
-### Skill 14 (hlavní)
+### Skill 18 (hlavní)
 
-* **Magic Missile** (H) – 14: 1d6 dmg per FP
-* **Invisibility** (VH) – 14
-* **Sleep** (H) – 14
+* **Magic Missile** (H) – 18: 1d6 dmg per FP
+* **Invisibility** (VH) – 18
+* **Sleep** (H) – 18
 
-### Skill 13 (silná kontrolní kouzla)
+### Skill 17 (silná kontrolní kouzla)
 
-* **Charm** (VH) – 13
-* **Phantasmal Force / Illusion** (VH) – 13
+* **Charm** (VH) – 17
+* **Phantasmal Force / Illusion** (VH) – 17
 
-### Skill 12 (zbytek repertoáru)
+### Skill 16 (zbytek repertoáru)
 
 * Read Magic
 * Shield

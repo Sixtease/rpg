@@ -1,0 +1,37 @@
+# 04 – Havraní šachta
+
+## Jisté věci pro GM
+
+Havraní šachta je malé trpasličí hornické městečko ve Velehorách, na kamenné cestě mezi velehorskými doly a obchodními cestami do údolí Úsy. Živí se těžbou kvalitního černého uhlí; odtud se vozí do hutí, kováren a městských topenišť. Není podřízena žádnému z velkých měst přímo, ale obchodně stojí na zakázkách trpasličích obchodních domů.
+
+Místo nebylo dosud v kampani jmenováno; lze je umístit do hor podle údaje na mapě z roucha hrdiny. Je to přibližně den cesty od poslední větší obchodní stanice a několik hodin od nejbližšího průsmyku.
+
+Hrdinové přicházejí za další pečetí Uazeho síly. Pečeť je starý bronzový kotouč zasazený do oltáře v nejhlubší, dávno uzavřené komoře dolu. Její ochranná funkce není vidět ani běžnou magií: drží sevřenou puklinu, z níž uniká těžký jedovatý plyn. Vyjmutím pečeti ochrana skončí. Plyn se nezačne šířit jako okamžitá exploze, ale během hodin až dnů otráví nejnižší patro, potom staré patro a při nezvládnutí i pracovní část dolu.
+
+Uaze o tomto místě ví z mapy, stejně jako družina. Nezná přesnou cestu ani ochrannou funkci pečeti. Jeho stínoví služebníci mohou dorazit až poté, co místní nebo družina vyvolají nápadné dění: výbuch, paniku, oheň v šachtě nebo několikadenní prodlení. Uaze sám má silnější důvod zdržet se v okolí až tehdy, když zjistí, že pečeť už byla vyňata.
+
+## První dojem
+
+Městečko je usazené na kamenité terase pod černým svahem. Nad střechami z břidlice stojí těžní věž, rumpál a několik komínů; sníh na nich bývá šedý od uhelného prachu. Vzduch voní kouřem, mokrým dřevem a sírou. Ulice jsou krátké, pevně vydlážděné a vedené tak, aby po nich mohl projet vůz s uhlím. Není to pevnost ani metropole: každá stavba však má masivní kamenný sokl, železné dveře a jasně vyznačeného vlastníka.
+
+Igor je jako trpaslík přijat podstatně lépe než lidé cizího původu. Má nárok na slušné jednání, nabídku řemeslnické řeči a možnost přednést věc před cechovní radou. Neznamená to automatický přístup do dolu ani důvěru při obvinění místních.
+
+## Obyvatelé
+
+Trvale zde žije asi 420 lidí: zhruba 340 trpaslíků, 50 lidí (vozkové, obchodníci, rodiny několika horníků) a 30 dalších příchozích či sezónních dělníků. V pracovní den je asi 150 lidí přímo v provozu dolu nebo u uhlí. Městečko se na noc nezavírá hradbou; vstup do dolu, sklady a účetní síň ano.
+
+## Zázemí
+
+* Hlavní šachta s třídírnou, lanovkou, sklady uhlí, kovárnou a dílnou na výdřevu.
+* Síň účtů a vah: cechovní kancelář, smlouvy, mzdy a kupní listiny. Je to skutečné centrum moci.
+* Hostinec **U Černého havrana**: prosté noclehy, horké jídlo, zprávy od vozkové společnosti. Cizinci tam přespávají, protože většina domů je rodinná.
+* Lázně a vývařovna: společné, vytápěné odpadním teplem. Je to nejsnazší místo, kde zaslechnout drby a všimnout si nemocných horníků.
+* Malá škola řemesel, ošetřovna, stáje a dvě výměnné stanice pro vozy. Chrám zde není; v síni cechu stojí výklenek předků a na průčelích dílen jsou rodové značky.
+
+## Současný problém
+
+V nově otevřené hlubší sloji se hromadí jedovatý plyn. Tři havíři během posledních dvou týdnů zemřeli, sedm dalších je nemocných či popálených v plicích. Vedení je označuje za nehodu při neopatrné práci se svítilnami a snaží se věc udržet uvnitř obce, protože za čtyři dny má přijet kupec pro velkou, finančně nutnou dodávku uhlí.
+
+Ve skutečnosti je plyn zatím zadržován pečetí. Horníci netuší, že existuje; znají jen podivně klidnou starou komoru za zazděnou chodbou. Vyjme-li družina pečeť, čeká je okamžitý morální i praktický závazek: uhlí nemohou dál těžit bezpečně, dokud se nevyřeší puklina a větrání.
+
+Podrobnosti o lidech, tajemství pečeti a hráčských cestách jsou v dalších souborech této kapitoly.

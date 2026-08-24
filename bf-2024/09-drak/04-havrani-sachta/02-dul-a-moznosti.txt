@@ -1,0 +1,58 @@
+# Havraní šachta – důl, oltář a možnosti družiny
+
+## Prostor dolu
+
+### Povrch a hlavní šachta
+
+Těžní věž vede svisle do prvního patra. U vstupu jsou lampy, kniha směn a dva vrátní; při běžné návštěvě nikoho nepustí bez Hildina příkazu. Výtažný koš veze čtyři osoby nebo vozík. Rumpál lze ručně zablokovat, ale tím se lidé v dole mohou odříznout.
+
+### První pracovní patro
+
+Nejživější část: čerstvě těžené uhlí, výdřeva, kolejnice pro vozíky a hlučné třídění. Je zde asi čtyřicet horníků ve dvou směnách. Stopy: mnoho lidí kašle, lampy v jihozápadní štole občas modře hoří a důlní kniha neodpovídá skutečnému počtu zraněných.
+
+### Druhé, staré patro
+
+Částečně opuštěné chodby, sklady výdřevy, čerpadlo a uzávěra k hluboké části. Voda tu stojí po kotníky a vzduch je těžký. Brokův klíč nebo několik minut práce s nástroji otevře železnou mříž. Odtud vede i odvodňovací tunel k lázním: úzký, mokrý, ale použitelný pro plížení a evakuaci.
+
+### Třetí patro a Komora ticha
+
+Za starou zdí je chodba s černými, hladkými stěnami. Uhlí se zde už nemění v běžnou sloj, ale v ostré lesklé vrstvy. Vzduch je nezvykle čistý, dokud je pečeť na místě. Komora je starší než důl a vytesaná z jiného kamene: nízký kruhový sál, žlábek v podlaze a kamenný oltář. Na něm leží bronzový kotouč s motivem uzavřeného oka a čtyřmi hřeby.
+
+Za oltářem je puklina. Pečeť ji magicky sevře, ale nezaceluje. Po vyjmutí se nejdříve objeví zápach zkažených vajec, pak zhasínání lamp a tíseň na prsou. Oheň může plyn zapálit; to je zároveň možnost i hrozba.
+
+## Co lze po vyjmutí pečeti dělat
+
+Žádná volba není vynucená. Družina se může rozhodnout pečeť vůbec nevyjmout, vzít ji a problém řešit, nebo nechat místní, aby převzali odpovědnost. Každá z těchto cest má jasný následek.
+
+### A. Nový větrací komín
+
+Orik vytyčí průraz ze starého patra na severní svah. Potřebuje mapu od Sigrun, Brokovu znalost skály, horníky a ochranu družiny před závalem či případnými stínovými služebníky. Je to nejlepší dlouhodobé řešení: plyn získá kontrolovanou cestu ven a důl bude možno po vyčištění znovu otevřít. Zabere nejméně několik dnů a vyžaduje, aby se mezitím zavřela hlubina.
+
+### B. Utěsnit puklinu
+
+Puklinu lze z druhé strany zazdít kamennou zátkou, jílem a roztavenou struskou. Někdo musí pracovat v plynu a komoru je nutné větrat provizorními měchy. Rychlé řešení, které zachrání důl, ale nebezpečnou hloubku na dlouho pohřbí; po několika letech může tlak hledat novou cestu.
+
+### C. Řízené vyhoření
+
+Orik dokáže odvést plyn do vyklizené boční štoly, zavřít mříže a zapálit jej na dálku. Vyčistí část plynu rychle, avšak hrozí tlaková vlna, zával a poškození čerpadla. Družina může rozhodovat o evakuaci, zajištění výdřevy a záchraně případně uvězněných lidí. Selhání nemusí zničit celé město, ale učiní důl na týdny nepoužitelným.
+
+### D. Zavřít hlubinu a změnit provoz
+
+Nejméně riskantní bezprostředně: zazdít cestu, pracovat jen v horních slojích a plyn pomalu odvádět mimo směny. Městečko tím však přijde o nejvýnosnější uhlí, nesplní část smlouvy a bude řešit dluh vůči obchodnímu domu. Dori to podpoří, Hilda bude odporovat a Karr nabídne tvrdé podmínky.
+
+### E. Nechat pečeť na místě
+
+Je to legitimní volba, pokud družina uzná, že nemůže obětovat bezpečí dolu. Uaze zůstane o jednu pečeť slabší, ale dokud ji drží oltář, časem ji bude hledat. Havraní šachta se stane místem, které je třeba chránit, nebo se k němu vrátit s lepšími prostředky.
+
+## Čas a tlak
+
+Po vyjmutí pečeti začni na stupni 1. Posouvej jej za každou několikahodinovou pauzu, hlasitou katastrofu, noc bez opatření nebo zásadní chybu — ne za obyčejný neúspěšný hod.
+
+| Stupeň | Stav |
+| --- | --- |
+| 1 | Plyn plní Komoru ticha; lidé v ní bez ochrany omdlévají. |
+| 2 | Plyn proniká do starého patra; čerpadlo a odvodňovací tunel jsou nebezpečné. |
+| 3 | První pracovní patro je nutno vyklidit; Runa hlásí otravy a obec už ví, že vedení lhali. |
+| 4 | Plyn ohrožuje šachtu a povrchové budovy u třídírny; důl se bez těžkého zásahu na dlouho uzavře. |
+
+Uazeho služebníci nejsou automatickým trestem za odebrání pečeti. Přiveď je teprve tehdy, když zpravodajská stopa dává smysl: Jara či někdo jiný mluví nahlas o podivném bronzovém kotouči, výbuch je vidět zdaleka, nebo družina zůstane několik dnů na místě. Dva až čtyři stínoví služebníci se mohou pokusit pečeť vzít, zhasnout lampy nebo přimět panikařící horníky, aby otevřeli cestu do hlubin.
