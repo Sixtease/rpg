@@ -1,0 +1,37 @@
+bf-2024/09-drak/04-havrani-sachta/03-vedeni-sezeni.txt
+  s_071fb667f016e2::t_a02915fdb4114f 11,19
+  s_071fb667f016e2::t_a4e7aa2337566a 1-10,12-18,20-34
+bf-2024/09-drak/04-havrani-sachta/00-sidlo-a-situace.txt
+  s_071fb667f016e2::t_a4e7aa2337566a 1-37
+bf-2024/09-drak/04-havrani-sachta/01-postavy-a-tajemstvi.txt
+  s_071fb667f016e2::t_a4e7aa2337566a 1-53
+bf-2024/09-drak/04-havrani-sachta/02-dul-a-moznosti.txt
+  s_071fb667f016e2::t_a02915fdb4114f 19
+  s_071fb667f016e2::t_a4e7aa2337566a 1-18,20-58
+bf-2024/09-drak/npc/Uaze.txt
+  s_5ca3c46681c610::t_4584a5ca5fe195 3-4,11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "ee1b9ded78288b6bab8cd3886fb2ffc2625287b3",
+  "prompts": {},
+  "sessions": {
+    "s_071fb667f016e2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02074-5676-7ac3-b41d-c849e0e24898",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Jan Oldřich Krůza <jan@sixtease.net>"
+    },
+    "s_5ca3c46681c610": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a056f476-0ff9-448a-94d7-e37a540890a4",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Jan Oldřich Krůza <jan@sixtease.net>"
+    }
+  }
+}
