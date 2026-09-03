@@ -1,0 +1,14 @@
+bf-2024/zapis.txt
+  h_784b0d2c4c6fbe 1376-1391
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "ea353c5c03a7208b2524d91c82a9b87f53694db9",
+  "prompts": {},
+  "humans": {
+    "h_784b0d2c4c6fbe": {
+      "author": "Jan Oldřich Krůza <jan@sixtease.net>"
+    }
+  }
+}
