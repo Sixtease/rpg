@@ -8,9 +8,9 @@
 **Společník:** Rychlík (Ally – vlk)
 narozen 26.9. věk 16 let
 
-FREE CP: 1
+FREE CP: 2
 
-180 stříbrných
+905 stříbrných
 
 ---
 
@@ -164,6 +164,8 @@ bodání:
 * Luk (lovecký): skill 12
 * Lovecký nůž
 * Kožené cestovní vybavení
+
+Vlastník haly v Kamenici (bývalý chlívek)
 
 ---
 

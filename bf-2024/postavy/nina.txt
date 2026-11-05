@@ -6,9 +6,9 @@
 **Familiar:** Mlska (magická veverka)
 narozena 20.12., věk 18 let
 
-FREE CP 17
+FREE CP 4
 
-18667 stříbrných
+19342 stříbrných
 
 ---
 
@@ -52,7 +52,6 @@ FREE CP 17
 
 | Nevýhoda                  | CP  |
 | ------------------------- | --- |
-| **Low Pain Threshold**    | –10 |
 | **Sense of Duty (Mlska)** | –2  |
 
 **Nevýhody celkem:** **–12 CP**
@@ -65,8 +64,9 @@ FREE CP 17
 
 ### Magické & intelektuální
 
-* **Thaumatology–14** (VH) … 12 CP
-* **Research–14** (A) … 4 CP
+* **Thaumatology–19** (VH) … 12 CP
+* Alchemy 17 (4cp)
+* **Research–16** (A) … 4 CP
 * **Hidden Lore (Temnohvozd/Spirits)–13** (A) … 2 CP
 
 ### Terénní a praktické
